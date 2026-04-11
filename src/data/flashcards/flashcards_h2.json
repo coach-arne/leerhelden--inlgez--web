@@ -1,0 +1,694 @@
+[
+  {
+    "id": "ch2-001",
+    "term": {
+      "nl": "Bijnieren",
+      "en": "Adrenal gland"
+    },
+    "definition": "Klier die hormonen produceert, waaronder adrenaline (epinefrine) en cortisol.",
+    "chapter": 2,
+    "additions": [
+      "Centrale rol in de stressrespons: de bijnieren produceren catecholamines (adrenaline, noradrenaline) en cortisol bij activatie van de HPA-as.",
+      "Activatie verloopt via: Hypothalamus → CRH → Hypofyse → ACTH → Bijnieren → cortisol/catecholamines.",
+      "Chronisch verhoogd cortisol door langdurige stress leidt tot immuunsuppressie, diabetes-risico en slaapproblemen.",
+      "Onderdeel van het endocriene systeem; koppelt het zenuwstelsel aan hormonale stressrespons."
+    ],
+    "importance": 4,
+    "type": "orgaan",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-002",
+    "term": {
+      "nl": "Longblaasjes",
+      "en": "Alveoli"
+    },
+    "definition": "Microscopisch kleine zakjes in de longen waar de uitwisseling van zuurstof en kooldioxide met het bloed plaatsvindt.",
+    "chapter": 2,
+    "additions": [
+      "Gaswisseling (O₂ in, CO₂ uit) gebeurt via membranen in de longblaasjes.",
+      "Aandoeningen zoals emfyseem tasten de alveoli aan, wat gaswisseling bemoeilijkt.",
+      "Onderdeel van het ademhalingssysteem, na de bronchioli in de luchtwegvertakking."
+    ],
+    "importance": 3,
+    "type": "anatomische structuur",
+    "aggregate": "ch2-011"
+  },
+  {
+    "id": "ch2-003",
+    "term": {
+      "nl": "Antilichaam",
+      "en": "Antibody"
+    },
+    "definition": "Beschermingseiwit (immunoglobuline) dat door B-cellen wordt aangemaakt als specifieke reactie op een antigeen.",
+    "chapter": 2,
+    "additions": [
+      "Drie functies: (1) binden aan antigenen om hun beweging te vertragen zodat fagocyten ze makkelijker vernietigen, (2) activeren complement-eiwitten die celmembranen van indringers doorboren, (3) stimuleren geheugen-B-cellen voor snellere toekomstige reactie.",
+      "Er zijn 5 klassen: IgG (meest voorkomend in bloed), IgM (eerste bij nieuwe infectie), IgA (slijmvliezen), IgD (activering B-cellen), IgE (allergische reacties).",
+      "Vaccins werken door het lichaam aan te zetten antilichamen + geheugencel­len te produceren zonder de volledige ziekte te veroorzaken.",
+      "Ook bekend als immunoglobulinen (Ig)."
+    ],
+    "importance": 5,
+    "type": "immuunmechanisme",
+    "aggregate": "ch2-004"
+  },
+  {
+    "id": "ch2-004",
+    "term": {
+      "nl": "Humorale afweer",
+      "en": "Antibody-mediated immunity"
+    },
+    "definition": "Tak van het specifieke immuunsysteem waarbij B-cellen antilichamen aanmaken die antigenen in lichaamsvloeistoffen neutraliseren.",
+    "chapter": 2,
+    "additions": [
+      "Richt zich op bedreigingen die zich nog in lichaamsvloeistoffen bevinden, vóórdat ze lichaamscellen binnendringen (bacteriën, schimmels, protozoa, virussen).",
+      "Verloopt via: antigeen → fagocyt presenteert aan B-cel → B-cel wordt plasmacel → plasmacel maakt antilichamen.",
+      "Tegenover cellulaire afweer (cell-mediated immunity): beide vormen samen de specifieke (adaptieve) immuniteit.",
+      "Geheugen-B-cellen blijven actief na infectie voor snellere toekomstige reactie."
+    ],
+    "importance": 5,
+    "type": "immuunmechanisme",
+    "aggregate": "ch2-028"
+  },
+  {
+    "id": "ch2-005",
+    "term": {
+      "nl": "Antigeen",
+      "en": "Antigen"
+    },
+    "definition": "Lichaamsvreemde stof die het immuunsysteem activeert en de aanmaak van antilichamen uitlokt.",
+    "chapter": 2,
+    "additions": [
+      "Antigenen kunnen bacteriën, virussen, schimmels, protozoa of toxines zijn.",
+      "Eerste verdedigingslinie (huid, slijmvliezen) probeert te voorkomen dat antigenen het lichaam binnendringen.",
+      "Allergenen zijn een speciaal soort antigeen die bij gevoelige personen een allergische reactie uitlokken.",
+      "Het immuunsysteem onderscheidt 'zelf' van 'niet-zelf'; falen hierin leidt tot auto-immuunziekten."
+    ],
+    "importance": 5,
+    "type": "immuunmechanisme",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-006",
+    "term": {
+      "nl": "Atherosclerose",
+      "en": "Atherosclerosis"
+    },
+    "definition": "Voortschrijdend proces waarbij vetachtige plaques (lipiden/cholesterol) zich ophopen in de wanden van slagaders, waardoor die langzaam vernauwen.",
+    "chapter": 2,
+    "additions": [
+      "Leidt tot arteriosclerose (verharding en verlies van elasticiteit van slagaders) en verhoogde bloeddruk.",
+      "Belangrijkste oorzaak van coronaire hartziekte (CHD), beroerte en myocardinfarct.",
+      "Stress versnelt atherosclerose via verhoogde lipiden, ontstekingsstoffen en bloedstolling.",
+      "Risicofactoren: hoog cholesterol, roken, obesitas, weinig beweging, chronische stress, vijandigheid.",
+      "Dieronderzoek: gestreste apen ontwikkelden meer atherosclerose, vooral in onstabiele groepen."
+    ],
+    "importance": 5,
+    "type": "aandoening",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-007",
+    "term": {
+      "nl": "Slagaderen",
+      "en": "Arteries"
+    },
+    "definition": "Bloedvaten die zuurstofrijk bloed vanuit het hart naar de rest van het lichaam vervoeren.",
+    "chapter": 2,
+    "additions": [
+      "Slagaders hebben dikke, elastische wanden om de hoge druk van het hartritme op te vangen.",
+      "Bloeddruk wordt gemeten in slagaders: systolisch (bij samentrekking hart) en diastolisch (bij rust).",
+      "Aderverkalking (atherosclerose) tast de slagaderwanden aan.",
+      "De kransslagaders (coronaire arteries) voorzien het hart zelf van bloed; vernauwing hiervan veroorzaakt CHD."
+    ],
+    "importance": 3,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-008",
+    "term": {
+      "nl": "Arteriosclerose",
+      "en": "Arteriosclerosis"
+    },
+    "definition": "Verharding en verlies van elasticiteit van de slagaderwanden; ook wel slagaderverharding.",
+    "chapter": 2,
+    "additions": [
+      "Arteriosclerose is een gevolg van atherosclerose: de plaques verharden de vaatwanden.",
+      "Verhoogt de bloeddruk omdat de bloedvaten minder kunnen uitzetten.",
+      "Verergert met de leeftijd maar begint al vroeg in het leven.",
+      "Verhoogd risico op hypertensie, beroerte en hartfalen."
+    ],
+    "importance": 4,
+    "type": "aandoening",
+    "aggregate": "ch2-006"
+  },
+  {
+    "id": "ch2-009",
+    "term": {
+      "nl": "Hartboezem",
+      "en": "Atrium"
+    },
+    "definition": "Bovenste kamer van het hart (er zijn twee atria) die bloed ontvangt en doorpompt naar de hartkamers (ventrikels).",
+    "chapter": 2,
+    "additions": [
+      "Rechter atrium ontvangt zuurstofarm bloed vanuit het lichaam en stuurt dit naar de longen.",
+      "Linker atrium ontvangt zuurstofrijk bloed vanuit de longen en stuurt dit naar het linker ventrikel.",
+      "Het hart heeft 4 kamers: 2 atria (boezems, boven) en 2 ventrikels (kamers, onder)."
+    ],
+    "importance": 3,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-010",
+    "term": {
+      "nl": "B-lymfocyt",
+      "en": "B-cell"
+    },
+    "definition": "Witte bloedcel die een centrale rol speelt in de humorale (antilichaam-gemedieerde) afweer door zich te ontwikkelen tot antilichaam-producerende plasmacellen.",
+    "chapter": 2,
+    "additions": [
+      "B-cellen richten zich op bedreigingen in lichaamsvloeistoffen, nog vóór ze lichaamscellen binnendringen.",
+      "Ontwikkeling: B-cel → plasmacel → antilichamen (immunoglobulinen).",
+      "Geheugen-B-cellen blijven in het bloed aanwezig na een infectie voor een snellere reactie bij herinfectie.",
+      "Bij ouderen vermindert de effectiviteit van B-cellen en de antilichaamproductie.",
+      "Tegenhanger: T-cellen zijn verantwoordelijk voor cellulaire afweer."
+    ],
+    "importance": 5,
+    "type": "cel",
+    "aggregate": "ch2-004"
+  },
+  {
+    "id": "ch2-011",
+    "term": {
+      "nl": "Bronchiën",
+      "en": "Bronchial tubes"
+    },
+    "definition": "Vertakkingen van de luchtpijp (trachea) die lucht naar de longen geleiden.",
+    "chapter": 2,
+    "additions": [
+      "De luchtpijp splitst zich in linker- en rechterbronchus, die verder vertakken in bronchioli.",
+      "Slijm en trilhaartjes (cilia) in de bronchiën filteren stofdeeltjes en ziekteverwekkers — de mucociliaire escalator.",
+      "Aandoeningen: astma (vernauwing), chronische bronchitis (ontsteking), COPD."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-012",
+    "term": {
+      "nl": "Bronchioli",
+      "en": "Bronchioles"
+    },
+    "definition": "Kleine vertakkingen van de bronchiën die lucht geleiden naar de longblaasjes (alveoli).",
+    "chapter": 2,
+    "additions": [
+      "Bronchioli zijn smaller dan bronchiën en bevatten geen kraakbeen.",
+      "Bij astma trekken de spieren rondom de bronchioli samen (bronchoconstructie), wat bemoeilijkte ademhaling veroorzaakt.",
+      "Eindigen in de longblaasjes (alveoli) waar de gaswisseling plaatsvindt."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": "ch2-011"
+  },
+  {
+    "id": "ch2-013",
+    "term": {
+      "nl": "Capillairen",
+      "en": "Capillaries"
+    },
+    "definition": "Microscopisch kleine bloedvaatjes (haarvaatjes) waar de uitwisseling van zuurstof, voedingsstoffen en afvalstoffen tussen bloed en weefsels plaatsvindt.",
+    "chapter": 2,
+    "additions": [
+      "Schakelen tussen slagaders en aders; vormen het fijnste netwerk van het cardiovasculaire systeem.",
+      "Wanden zijn slechts één cellaag dik, wat snelle diffusie van stoffen mogelijk maakt.",
+      "In de longcapillairen vindt gaswisseling plaats (O₂ opnemen, CO₂ afgeven)."
+    ],
+    "importance": 3,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-014",
+    "term": {
+      "nl": "Cellulaire afweer",
+      "en": "Cell-mediated immunity"
+    },
+    "definition": "Tak van het specifieke immuunsysteem waarbij T-lymfocyten rechtstreeks geïnfecteerde of afwijkende lichaamscellen aanvallen en vernietigen.",
+    "chapter": 2,
+    "additions": [
+      "Soorten T-cellen: Killer T-cellen (CD8, doden geïnfecteerde cellen/kankercellen), Helper T-cellen (CD4, coördineren reactie), Suppressor T-cellen (remmen reactie na infectie), Geheugen-T-cellen (snelle reactie bij herinfectie), Vertraagde-overgevoeligheids-T-cellen (betrokken bij allergieën).",
+      "T-cellen rijpen in de thymus en worden geactiveerd wanneer fagocyten antigenen aan hen presenteren.",
+      "Stress verlaagt killer-T-cel-activiteit, waardoor vatbaarheid voor infecties en kanker toeneemt.",
+      "HIV vernietigt specifiek de helper T-cellen (CD4), waardoor het immuunsysteem instort."
+    ],
+    "importance": 5,
+    "type": "immuunmechanisme",
+    "aggregate": "ch2-028"
+  },
+  {
+    "id": "ch2-015",
+    "term": {
+      "nl": "Cerebellum",
+      "en": "Cerebellum"
+    },
+    "definition": "Kleine hersenen; hersengebied achter en onder het cerebrum dat bewegingscoördinatie, balans en fijne motoriek regelt.",
+    "chapter": 2,
+    "additions": [
+      "Speelt een rol bij het automatiseren van bewegingspatronen.",
+      "Onderdeel van het centrale zenuwstelsel (CZS), samen met het cerebrum en de hersenstam."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-016",
+    "term": {
+      "nl": "Cerebrum",
+      "en": "Cerebrum"
+    },
+    "definition": "Grote hersenen; het grootste deel van de hersenen, verantwoordelijk voor bewuste waarneming, denken, taal en vrijwillige beweging.",
+    "chapter": 2,
+    "additions": [
+      "Verdeeld in twee hersenhelften (hemisferen) en vier kwabben: frontaal, pariëtaal, temporaal en occipitaal.",
+      "De prefrontale cortex speelt een rol bij besluitvorming en emotieregulatie — relevant bij coping en stressmanagement.",
+      "Onderdeel van het centrale zenuwstelsel (CZS)."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-017",
+    "term": {
+      "nl": "Dikke darm",
+      "en": "Colon en rectum"
+    },
+    "definition": "Laatste deel van het spijsverteringskanaal, bestaand uit het proximale deel (colon) en het distale deel (rectum), waar water wordt geabsorbeerd en ontlasting wordt gevormd.",
+    "chapter": 2,
+    "additions": [
+      "De colon absorbeert water en elektrolyten uit de verteerde voedselbrij.",
+      "Het rectum slaat ontlasting op totdat defecatie plaatsvindt.",
+      "Zesde stap in het spijsverteringsproces (na dunne darm)."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-018",
+    "term": {
+      "nl": "Twaalfvingerige darm",
+      "en": "Duodenum"
+    },
+    "definition": "Eerste deel van de dunne darm, verbindt de maag met de dunne darm en is de plek waar alvleesklierenzymen worden uitgescheiden voor verdere vertering.",
+    "chapter": 2,
+    "additions": [
+      "Ontvangt zure voedselbrij vanuit de maag en neutraliseert deze met bicarbonaat.",
+      "Alvleesklier (pancreas) en lever scheiden hier enzymen en gal uit.",
+      "Vierde stap in het spijsverteringsproces: neutralisatie en verdere afbraak van voedsel."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-019",
+    "term": {
+      "nl": "Rode bloedcellen",
+      "en": "Erythrocytes"
+    },
+    "definition": "Bloedcellen die met behulp van hemoglobine zuurstof van de longen naar de weefsels transporteren en kooldioxide afvoeren.",
+    "chapter": 2,
+    "additions": [
+      "Worden aangemaakt in het beenmerg.",
+      "Bloedarmoede (anemie) = tekort aan rode bloedcellen of hemoglobine, leidt tot vermoeidheid en zuurstoftekort.",
+      "Beïnvloeden de viscositeit (dikte) van het bloed.",
+      "Milt verwijdert oude of defecte rode bloedcellen uit de bloedbaan."
+    ],
+    "importance": 3,
+    "type": "cel",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-020",
+    "term": {
+      "nl": "Slokdarm",
+      "en": "Esophagus"
+    },
+    "definition": "Spierbuisvormige verbinding tussen de mondholte en de maag via peristaltische bewegingen.",
+    "chapter": 2,
+    "additions": [
+      "Tweede stap in het spijsverteringsproces: transport van voedsel vanuit de mond naar de maag.",
+      "Geen vertering vindt hier plaats; enkel transport."
+    ],
+    "importance": 1,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-021",
+    "term": {
+      "nl": "Dunne darm",
+      "en": "Jejunum, Ileum"
+    },
+    "definition": "Het proximale deel (jejunum) en het distale deel (ileum) van de dunne darm, waar het grootste deel van de absorptie van voedingsstoffen plaatsvindt.",
+    "chapter": 2,
+    "additions": [
+      "Vijfde stap in het spijsverteringsproces: absorptie van voedingsstoffen.",
+      "Vlokken (villi) en microvilli vergroten het oppervlak voor maximale absorptie.",
+      "Verbindt het duodenum met de dikke darm."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-022",
+    "term": {
+      "nl": "Strottenhoofd",
+      "en": "Larynx"
+    },
+    "definition": "Structuur in de keel die de luchtpijp verbindt met de keelholte en zorgt voor stemgeluid; bevat de stembanden.",
+    "chapter": 2,
+    "additions": [
+      "Onderdeel van het bovenste gedeelte van het ademhalingssysteem.",
+      "De epiglottis (strotklepje) sluit de larynx af tijdens het slikken om verslikking te voorkomen."
+    ],
+    "importance": 1,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-023",
+    "term": {
+      "nl": "Witte bloedcellen",
+      "en": "Leukocytes"
+    },
+    "definition": "Bloedcellen die de hoofdverdedigers van het immuunsysteem vormen; omvatten fagocyten (aspecifiek) en lymfocyten (specifiek).",
+    "chapter": 2,
+    "additions": [
+      "Worden aangemaakt in het beenmerg en in lymfatische organen.",
+      "Twee hoofdtypen: (1) Fagocyten (macrofagen, neutrofielen) — aspecifieke afweer; (2) Lymfocyten (B- en T-cellen) — specifieke afweer.",
+      "Leukemie = aandoening waarbij abnormaal veel witte bloedcellen worden aangemaakt.",
+      "Stress en ongezonde leefstijl verminderen de effectiviteit van leukocyten."
+    ],
+    "importance": 4,
+    "type": "cel",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-024",
+    "term": {
+      "nl": "Limbisch systeem",
+      "en": "Limbic system"
+    },
+    "definition": "Groep van hersenkernen (o.a. hypothalamus, amygdala, hippocampus) die betrokken zijn bij emoties, geheugen en de stressrespons.",
+    "chapter": 2,
+    "additions": [
+      "De hypothalamus in het limbisch systeem start de HPA-as bij stress: hypothalamus → CRH → hypofyse → ACTH → bijnieren → cortisol.",
+      "De amygdala verwerkt angst en bedreigingssignalen; de hippocampus is betrokken bij geheugenvorming.",
+      "Centraal in de link tussen psychologische stress en fysiologische reacties (psychoneuro-immunologie)."
+    ],
+    "importance": 4,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-025",
+    "term": {
+      "nl": "Lipiden",
+      "en": "Lipids"
+    },
+    "definition": "Vetachtige stoffen in het bloed, waaronder triglyceriden en cholesterol, die als energiebron dienen maar bij te hoge concentraties schadelijk zijn voor de bloedvaten.",
+    "chapter": 2,
+    "additions": [
+      "Twee hoofdtypen: triglyceriden (verzadigd — dierlijk vet, vast; onverzadigd — plantaardig, vloeibaar) en cholesterol.",
+      "Cholesterol hoopt zich op in slagaderwanden → atherosclerose → arteriosclerose.",
+      "Stress verhoogt de lipidenspiegel in het bloed, wat bijdraagt aan atherosclerose.",
+      "Hoog cholesterol is een belangrijke risicofactor voor coronaire hartziekte (CHD)."
+    ],
+    "importance": 4,
+    "type": "stof",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-026",
+    "term": {
+      "nl": "Lymfatische organen",
+      "en": "Lymphatic/lymphoid organs"
+    },
+    "definition": "Organen van het lymfatisch stelsel die betrokken zijn bij de aanmaak, rijping en opslag van lymfocyten en bij de filtering van antigenen.",
+    "chapter": 2,
+    "additions": [
+      "Omvat: beenmerg (aanmaak lymfocyten), thymus (rijping T-cellen), lymfeknopen (filtering antigenen), milt (filtering bloed).",
+      "Milt filtert bloed, verwijdert oude rode bloedcellen en biedt opslagplaats voor witte bloedcellen.",
+      "Lymfevaten transporteren lymfe (afvalstoffen en antigenen) naar de bloedbaan — maar kunnen ook kankercellen verspreiden."
+    ],
+    "importance": 3,
+    "type": "systeem",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-027",
+    "term": {
+      "nl": "Lymfeknopen",
+      "en": "Lymph nodes"
+    },
+    "definition": "Boonvormige structuren verspreid door het lichaam (nek, oksels, buik, lies) die lymfe filteren en antigenen vangen.",
+    "chapter": 2,
+    "additions": [
+      "Bevatten witte bloedcellen die antigenen herkennen en de immuunreactie opstarten.",
+      "Zwelling van lymfeknopen is een teken van actieve immuunrespons (bijv. bij infectie).",
+      "Lymfeknopen en lymfevaten kunnen helaas ook bijdragen aan de verspreiding van kankercellen."
+    ],
+    "importance": 3,
+    "type": "orgaan",
+    "aggregate": "ch2-026"
+  },
+  {
+    "id": "ch2-028",
+    "term": {
+      "nl": "Lymfocyten",
+      "en": "Lymphocytes"
+    },
+    "definition": "Witte bloedcellen die deel uitmaken van het specifieke immuunsysteem en onderverdeeld zijn in B-cellen (humorale afweer) en T-cellen (cellulaire afweer).",
+    "chapter": 2,
+    "additions": [
+      "Lymfocyten herkennen en bestrijden specifieke antigenen — onderscheid van fagocyten die niet-specifiek werken.",
+      "Aangemaakt in het beenmerg; T-cellen rijpen in de thymus, B-cellen in het beenmerg.",
+      "Stress en ongezonde leefstijl (roken, slechte voeding) verlagen productie en effectiviteit van lymfocyten.",
+      "Bij ouderen: minder effectieve lymfocyten ondanks vergelijkbare aantallen."
+    ],
+    "importance": 5,
+    "type": "cel",
+    "aggregate": "ch2-023"
+  },
+  {
+    "id": "ch2-029",
+    "term": {
+      "nl": "Alvleesklier",
+      "en": "Pancreas"
+    },
+    "definition": "Klier die zowel spijsverteringsenzymen (exocrien) als hormonen zoals insuline en glucagon (endocrien) produceert.",
+    "chapter": 2,
+    "additions": [
+      "Spijsverteringsenzymen worden uitgescheiden in het duodenum voor verdere vertering van voedsel.",
+      "Insuline regelt de bloedsuikerspiegel; bij tekort of resistentie ontstaat diabetes.",
+      "Chronische stress kan de bloedsuikerregulatie verstoren (verhoogd cortisol → verhoogde bloedsuiker)."
+    ],
+    "importance": 3,
+    "type": "orgaan",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-030",
+    "term": {
+      "nl": "Fagocyten",
+      "en": "Phagocytes"
+    },
+    "definition": "Witte bloedcellen die deel uitmaken van de aspecifieke (niet-specifieke) immuniteit; vernietigen indringers door ze op te slokken en te verteren (fagocytose).",
+    "chapter": 2,
+    "additions": [
+      "Twee soorten fagocyten: macrofagen (in weefsels, blijvend actief) en neutrofielen (circuleren in bloed, snelle reactie).",
+      "Fagocyten presenteren antigenen aan B- en helper T-cellen om de specifieke immuunreactie te activeren.",
+      "Werken als 'eerste opruimers': vallen elk vreemd materiaal aan zonder specifieke herkenning.",
+      "Onderdeel van de tweede verdedigingslinie (na huid/slijmvliezen)."
+    ],
+    "importance": 4,
+    "type": "cel",
+    "aggregate": "ch2-023"
+  },
+  {
+    "id": "ch2-031",
+    "term": {
+      "nl": "Hypofyse",
+      "en": "Pituitary gland"
+    },
+    "definition": "Hersenaanhangsel (endocriene klier) dat als hormonale schakel fungeert tussen het centrale zenuwstelsel en de endocriene klieren.",
+    "chapter": 2,
+    "additions": [
+      "Centrale rol in de HPA-as (stressrespons): hypothalamus → CRH → hypofyse → ACTH → bijnieren → cortisol.",
+      "Produceert ook groeihormoon, TSH (stuurt schildklier aan) en andere hormonen.",
+      "Wordt aangestuurd door de hypothalamus; vormt zo de brug tussen zenuwstelsel en hormoonstelsel."
+    ],
+    "importance": 4,
+    "type": "orgaan",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-032",
+    "term": {
+      "nl": "Bloedplaatjes",
+      "en": "Platelets"
+    },
+    "definition": "Kleine bloedcellen (trombocyten) die een cruciale rol spelen in de bloedstolling om bloedverlies te stoppen.",
+    "chapter": 2,
+    "additions": [
+      "Worden aangemaakt in het beenmerg.",
+      "Hemofilie = aandoening waarbij bloedstolling verstoord is door een ontbrekend eiwit.",
+      "Stress verhoogt bloedstolling, wat bij bestaande atherosclerose kan leiden tot een bloedstolsel en hartinfarct."
+    ],
+    "importance": 3,
+    "type": "cel",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-033",
+    "term": {
+      "nl": "Kleine bloedsomloop / Ademhalingsbloedsomloop",
+      "en": "Respiratory (pulmonary) circulation"
+    },
+    "definition": "Het deel van de bloedsomloop tussen het hart en de longen, waarbij zuurstofarm bloed naar de longen wordt gepompt en zuurstofrijk bloed terugkeert naar het hart.",
+    "chapter": 2,
+    "additions": [
+      "Verloopt: rechter ventrikel → longslagader → longen (gaswisseling in alveoli) → longader → linker atrium.",
+      "Tegenover de grote bloedsomloop (systemische circulatie) die bloed naar de rest van het lichaam stuurt."
+    ],
+    "importance": 3,
+    "type": "fysiologisch proces",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-034",
+    "term": {
+      "nl": "Ruggenmerg",
+      "en": "Spinal cord"
+    },
+    "definition": "Het deel van het centrale zenuwstelsel dat loopt van de hersenen door de ruggengraat en zenuwsignalen doorgeeft tussen hersenen en lichaam.",
+    "chapter": 2,
+    "additions": [
+      "Onderdeel van het centrale zenuwstelsel (CZS), samen met de hersenen.",
+      "Beschermd door wervels van de ruggengraat.",
+      "Zorgt voor reflexen (spinale reflexboog) onafhankelijk van de hersenen."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-035",
+    "term": {
+      "nl": "Zwezerik",
+      "en": "Thymus"
+    },
+    "definition": "Endocriene klier in de borstholte waar T-lymfocyten (T-cellen) rijpen en gespecialiseerd worden.",
+    "chapter": 2,
+    "additions": [
+      "Centraal orgaan voor cellulaire afweer: zonder thymus kunnen T-cellen niet rijpen.",
+      "Is actief in de kindertijd; slinkt na de puberteit maar blijft functioneel.",
+      "Onderdeel van zowel het endocriene systeem als de lymfatische organen."
+    ],
+    "importance": 3,
+    "type": "orgaan",
+    "aggregate": "ch2-026"
+  },
+  {
+    "id": "ch2-036",
+    "term": {
+      "nl": "Schildklier",
+      "en": "Thyroid gland"
+    },
+    "definition": "Endocriene klier in de hals die schildklierhormonen (T3 en T4) produceert die het metabolisme, de groei en de energiehuishouding regelen.",
+    "chapter": 2,
+    "additions": [
+      "Wordt aangestuurd door TSH van de hypofyse.",
+      "Hypothyreoïdie (trage schildklier): vermoeidheid, gewichtstoename, koudegevoeligheid.",
+      "Hyperthyreoïdie (overactieve schildklier): gewichtsverlies, hartkloppingen, nervositeit."
+    ],
+    "importance": 2,
+    "type": "orgaan",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-037",
+    "term": {
+      "nl": "Luchtpijp",
+      "en": "Trachea"
+    },
+    "definition": "Buis die de mondholte verbindt met de longen via de bronchiën; vervoert lucht naar en van de longen.",
+    "chapter": 2,
+    "additions": [
+      "Ondersteund door C-vormige kraakbeenringen die de luchtstroom openhouden.",
+      "De mucociliaire escalator (trilharen + slijm) beschermt de luchtwegen door deeltjes omhoog te transporteren.",
+      "Derde element in het ademhalingsstelsel: mondholte/neus → larynx → trachea → bronchiën → bronchioli → alveoli."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-038",
+    "term": {
+      "nl": "Grote bloedsomloop / Systeembloedsomloop",
+      "en": "Systemic circulation"
+    },
+    "definition": "Het deel van de bloedsomloop dat zuurstofrijk bloed van het hart naar alle organen en weefsels van het lichaam transporteert en zuurstofarm bloed terugbrengt.",
+    "chapter": 2,
+    "additions": [
+      "Verloopt: linker ventrikel → aorta → slagaders → capillairen (gaswisseling) → aders → rechter atrium.",
+      "Tegenover de kleine bloedsomloop (pulmonaire circulatie) die enkel het hart-longentraject betreft.",
+      "Bloeddruk wordt gemeten in de grote bloedsomloop (systolisch/diastolisch in slagaders)."
+    ],
+    "importance": 3,
+    "type": "fysiologisch proces",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-039",
+    "term": {
+      "nl": "Aders",
+      "en": "Veins"
+    },
+    "definition": "Bloedvaten die zuurstofarm bloed van de weefsels en organen terugvoeren naar het hart.",
+    "chapter": 2,
+    "additions": [
+      "Hebben dunnere wanden en een lagere druk dan slagaders; bevatten kleppen om terugstroom te voorkomen.",
+      "Uitzondering: longaderen (longen → linker atrium) vervoeren wél zuurstofrijk bloed.",
+      "Onderdeel van het gesloten cardiovasculaire systeem."
+    ],
+    "importance": 2,
+    "type": "anatomische structuur",
+    "aggregate": null
+  },
+  {
+    "id": "ch2-040",
+    "term": {
+      "nl": "Hartkamer",
+      "en": "Ventricle"
+    },
+    "definition": "Onderste kamer van het hart (er zijn twee ventrikels) die bloed met kracht wegpompt naar de longen (rechts) of het lichaam (links).",
+    "chapter": 2,
+    "additions": [
+      "Linker ventrikel pompt zuurstofrijk bloed via de aorta naar de grote bloedsomloop; heeft dikkere wanden door hogere werkdruk.",
+      "Rechter ventrikel pompt zuurstofarm bloed via de longslagader naar de kleine bloedsomloop (longen).",
+      "Het hart heeft 4 kamers: 2 atria (boezems, boven) en 2 ventrikels (kamers, onder)."
+    ],
+    "importance": 3,
+    "type": "anatomische structuur",
+    "aggregate": "ch2-009"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "c1-001",
+    "term": { "nl": "Medische gedragswetenschappen", "en": "Behavioral Medicine" },
+    "definition": "Interdisciplinair vakgebied dat gedrag bestudeert vanuit de medische/gezondheidsoptiek. Gegroeid uit het behaviorisme (klassieke en operante conditionering). Richt zich op de toepassing van gedragswetenschappelijke kennis op gezondheid, ziekte en gerelateerde disfuncties.",
+    "chapter": 1,
+    "additions": [
+      "Ontstaan in de jaren 1970, nauw verwant aan gezondheidspsychologie",
+      "Invloeden uit psychologie, sociologie en diverse takken van de geneeskunde",
+      "Biofeedback therapie is een belangrijke toepassing: fysiologische processen (bv. bloeddruk) worden door de persoon zelf opgevolgd om controle te winnen via operante conditionering",
+      "Toont aan dat de link tussen lichaam en geest directer is dan voorheen gedacht"
+    ],
+    "importance": 4,
+    "type": "vakgebied"
+  },
+  {
+    "id": "c1-002",
+    "term": { "nl": "Chronische ziekte", "en": "Chronic disease" },
+    "definition": "Ziekte die zich vaak over een lange periode uitstrekt. De ziekte is vaak al lange tijd aanwezig voordat deze zich klinisch openbaart. Voorbeelden: hartziekten, kanker, diabetes, COPD.",
+    "chapter": 1,
+    "additions": [
+      "Chronische ziekten zijn tegenwoordig de belangrijkste doodsoorzaken in ontwikkelde landen, in plaats van infectieziekten",
+      "Verschuiving van infectieziekten naar chronische aandoeningen leidde tot meer aandacht voor gedrag en leefstijl",
+      "Gedragingen zoals roken, slechte voeding en stress zijn belangrijke risicofactoren",
+      "Kernwoord bij leerdoel 4: belang van psychologie rond ziekte en gezondheid"
+    ],
+    "importance": 5,
+    "type": "begrip"
+  },
+  {
+    "id": "c1-003",
+    "term": { "nl": "Compliance / Therapietrouw", "en": "Compliance" },
+    "definition": "De mate waarin een patiënt medisch advies opvolgt. De term 'compliance' klinkt passief; 'adherence' (therapietrouw) benadrukt meer de samenwerking tussen arts en patiënt.",
+    "chapter": 1,
+    "additions": [
+      "Circa 40% van patiënten volgt medisch advies niet goed op",
+      "Lager bij langdurige, complexe of dure behandelingen met bijwerkingen",
+      "Beïnvloed door Health Belief Model: ernstperceptie en kosten-batenanalyse",
+      "Verbeterstrategieën: motiverende gesprekken, reminders, gedragscontracten, sociale steun",
+      "Rationele non-adherence: bewuste keuze om behandeling niet te volgen"
+    ],
+    "importance": 5,
+    "type": "begrip"
+  },
+  {
+    "id": "c1-004",
+    "term": { "nl": "Congenitale afwijkingen", "en": "Congenital abnormalities" },
+    "definition": "Afwijkingen en ziekten ontstaan door geboorteafwijkingen of abnormale groei en ontwikkeling.",
+    "chapter": 1,
+    "additions": [
+      "Historisch een van de belangrijke doodsoorzaken naast infectieziekten"
+    ],
+    "importance": 1,
+    "type": "ziekte"
+  },
+  {
+    "id": "c1-005",
+    "term": { "nl": "Difterie", "en": "Diphtheria" },
+    "definition": "Ernstige infectieziekte veroorzaakt door bacteriën, die de luchtwegen aantast. Historisch een van de grote doodsoorzaken, nu grotendeels uitgebannen door vaccinatie.",
+    "chapter": 1,
+    "additions": [
+      "Voorbeeld van een infectieziekte die in de 19e/begin 20e eeuw veel sterfte veroorzaakte",
+      "Daling door betere hygiëne, voeding en preventieve voorzieningen (vaccinaties)"
+    ],
+    "importance": 1,
+    "type": "ziekte"
+  },
+  {
+    "id": "c1-006",
+    "term": { "nl": "Epidemiologie", "en": "Epidemiology" },
+    "definition": "De wetenschappelijke studie naar het voorkomen en de frequentie van ziekte en verwonding in populaties. Bestudeert mortaliteit, morbiditeit, prevalentie, incidentie en epidemieën.",
+    "chapter": 1,
+    "additions": [
+      "Verwant vakgebied aan gezondheidspsychologie (leerdoel 5)",
+      "Epidemiologen identificeren risicofactoren voor ziekten en gezondheidsverschillen",
+      "Onderzoek richt zich op zowel nationale als internationale populaties",
+      "Mensen met laag inkomen of opleidingsniveau hebben kortere levensverwachting en hoger risico op chronische ziekten"
+    ],
+    "importance": 5,
+    "type": "vakgebied"
+  },
+  {
+    "id": "c1-007",
+    "term": { "nl": "Etiologie", "en": "Etiology" },
+    "definition": "De wetenschap die de oorzaken van ziekten bestudeert. Een van de kerntaken van gezondheidspsychologie is de identificatie van etiologische en diagnostische factoren bij gezondheid en ziekte.",
+    "chapter": 1,
+    "additions": [
+      "Onderdeel van de definitie van gezondheidspsychologie: 'identificatie van etiologische en diagnostische factoren'",
+      "Relevant bij het biopsychosociaal model: oorzaken zijn biologisch, psychologisch én sociaal"
+    ],
+    "importance": 3,
+    "type": "begrip"
+  },
+  {
+    "id": "c1-008",
+    "term": { "nl": "Genderperspectief", "en": "Gender perspective" },
+    "definition": "Het bezien van geslachtelijke verschillen vanuit met name het sociaal-culturele perspectief. Mannen en vrouwen kunnen andere risicofactoren en gezondheidsgedragingen hebben.",
+    "chapter": 1,
+    "additions": [
+      "Demografische groepen (leeftijd, geslacht, culturele achtergrond) hebben andere denkbeelden over gezondheid en andere risico's",
+      "Vrouwen vermijden soms medicatie vanwege bijwerkingen zoals gewichtstoename",
+      "Geslacht is een van de achtergrondvariabelen in gedragsmodellen"
+    ],
+    "importance": 2,
+    "type": "begrip"
+  },
+  {
+    "id": "c1-009",
+    "term": { "nl": "Klier", "en": "Gland" },
+    "definition": "Orgaan dat hormonen of andere stoffen produceert en afscheidt. Klieren spelen een centrale rol in het endocriene systeem.",
+    "chapter": 1,
+    "additions": [
+      "Voorbeelden: pijnappelklier (epifyse), hypofyse, bijnieren, schildklier, alvleesklier",
+      "Het endocriene systeem reguleert lichaamsfuncties via hormonen en werkt samen met het zenuwstelsel"
+    ],
+    "importance": 2,
+    "type": "anatomie"
+  },
+  {
+    "id": "c1-010",
+    "term": { "nl": "Gezondheidszorgsysteem", "en": "Health care system" },
+    "definition": "Het geheel van organisaties, instellingen en middelen dat gericht is op het leveren van gezondheidszorg aan de bevolking.",
+    "chapter": 1,
+    "additions": [
+      "Analyse en verbetering van het gezondheidszorgsysteem is een van de vier doelstellingen van gezondheidspsychologie",
+      "Gezondheidsbeleid onderzoekt overheids- en organisatiestrategieën m.b.t. gezondheidszorg",
+      "Beleidsmaatregelen (rookverbod, suikertaks) kunnen gezondheidsgedrag sterk beïnvloeden"
+    ],
+    "importance": 3,
+    "type": "begrip"
+  },
+  {
+    "id": "c1-011",
+    "term": { "nl": "Incidentie", "en": "Incidence" },
+    "definition": "Term uit de epidemiologie: het aantal nieuwe gevallen waarbij een bepaalde aandoening optreedt in een bepaalde tijdsperiode.",
+    "chapter": 1,
+    "additions": [
+      "Kernwoord bij leerdoel 3: ziektematen beschrijven en gebruiken",
+      "Verschil met prevalentie: incidentie = nieuwe gevallen per tijdsperiode, prevalentie = totaal aantal gevallen op een moment",
+      "Epidemie = situatie waarin de incidentie snel toeneemt",
+      "Wordt uitgedrukt als aantal per populatie-eenheid per tijdseenheid"
+    ],
+    "importance": 5,
+    "type": "ziektemaat",
+    "aggregate": "c1-006"
+  },
+  {
+    "id": "c1-012",
+    "term": { "nl": "Infectieziekte", "en": "Infectious disease" },
+    "definition": "Ziekte ontstaan door infectie met micro-organismen zoals bacteriën of virussen.",
+    "chapter": 1,
+    "additions": [
+      "Begin 20e eeuw waren infectieziekten de belangrijkste doodsoorzaken",
+      "Daling door betere hygiëne, voeding, waterzuivering, riolering en vaccinaties",
+      "Verschuiving naar chronische ziekten als belangrijkste doodsoorzaken in ontwikkelde landen",
+      "Voorbeelden: difterie, griep, mazelen, longontsteking, roodvonk, tyfus"
+    ],
+    "importance": 4,
+    "type": "begrip"
+  },
+  {
+    "id": "c1-013",
+    "term": { "nl": "Ziekte-gezondheidscontinuüm", "en": "Illness/wellness continuum" },
+    "definition": "Het model (Antonovsky) dat gezondheid en ziekte voorstelt als een continuüm, waarbij iedereen zich ergens tussen de uitersten van volledige gezondheid en ernstige ziekte bevindt. Gezondheid is een variabele eigenschap die kan fluctueren.",
+    "chapter": 1,
+    "additions": [
+      "Kernwoord bij leerdoel 1: verschillende visies op gezondheid",
+      "Staat tegenover de dichotome visie (ziek vs. gezond)",
+      "Past bij het biopsychosociaal model dat gezondheid multidimensionaal ziet",
+      "WHO-definitie sluit hierbij aan: gezondheid is niet slechts afwezigheid van ziekte"
+    ],
+    "importance": 5,
+    "type": "model"
+  },
+  {
+    "id": "c1-014",
+    "term": { "nl": "Griep", "en": "Influenza" },
+    "definition": "Veelvoorkomende infectieziekte veroorzaakt door het influenzavirus, die de luchtwegen aantast.",
+    "chapter": 1,
+    "additions": [
+      "Historisch een van de belangrijke infectieziekten",
+      "Voorbeeld in het kader van de verschuiving van infectieziekten naar chronische ziekten als doodsoorzaak"
+    ],
+    "importance": 1,
+    "type": "ziekte"
+  },
+  {
+    "id": "c1-015",
+    "term": { "nl": "Mazelen", "en": "Measles" },
+    "definition": "Zeer besmettelijke infectieziekte veroorzaakt door het mazelenvirus. Nu grotendeels voorkomen door vaccinatie.",
+    "chapter": 1,
+    "additions": [
+      "Historisch een van de grote doodsoorzaken bij kinderen",
+      "Voorbeeld van succesvolle bestrijding van infectieziekten door vaccinatie (biomedisch model)"
+    ],
+    "importance": 1,
+    "type": "ziekte"
+  },
+  {
+    "id": "c1-016",
+    "term": { "nl": "Slechte voeding / Ondervoeding", "en": "Malnutrition" },
+    "definition": "Toestand van onvoldoende of onevenwichtige voeding die leidt tot gezondheidsproblemen.",
+    "chapter": 1,
+    "additions": [
+      "Voedingsziekten (zoals beriberi) waren in de 17e-19e eeuw een belangrijke doodsoorzaak",
+      "Voeding is een van de belangrijke leefstijlfactoren die gezondheid beïnvloeden",
+      "Verbetering van voeding droeg bij aan de daling van infectieziekten"
+    ],
+    "importance": 2,
+    "type": "begrip"
+  },
+  {
+    "id": "c1-017",
+    "term": { "nl": "Geest-lichaamprobleem", "en": "Mind/body problem" },
+    "definition": "De filosofische kwestie hoe lichaam en geest samenhangen. Centraal debat in de geschiedenis van de geneeskunde: zijn lichaam en geest gescheiden (dualisme) of vormen ze een eenheid?",
+    "chapter": 1,
+    "additions": [
+      "Griekse filosofen (Plato): lichaam en geest als afzonderlijke entiteiten",
+      "Thomas van Aquino (13e eeuw): verwierp scheiding, stelde dat ze samenwerken",
+      "Descartes (17e eeuw): lichaam als machine, communicatie via de pijnappelklier (pineal gland)",
+      "Het biopsychosociaal model erkent de wisselwerking tussen lichaam en geest",
+      "Leidt tot de ontwikkeling van psychosomatische geneeskunde en gezondheidspsychologie"
+    ],
+    "importance": 4,
+    "type": "begrip"
+  },
+  {
+    "id": "c1-018",
+    "term": { "nl": "Morbiditeit", "en": "Morbidity" },
+    "definition": "De mate van ziekte, verwonding of beperking binnen een populatie. Ziektecijfers in een populatie.",
+    "chapter": 1,
+    "additions": [
+      "Kernwoord bij leerdoel 3: ziektematen beschrijven en gebruiken",
+      "Wordt samen met mortaliteit, prevalentie en incidentie gebruikt om de gezondheidstoestand van populaties te beschrijven",
+      "Belangrijk begrip binnen de epidemiologie"
+    ],
+    "importance": 5,
+    "type": "ziektemaat",
+    "aggregate": "c1-006"
+  },
+  {
+    "id": "c1-019",
+    "term": { "nl": "Mortaliteit", "en": "Mortality" },
+    "definition": "Het aantal sterfgevallen in een populatie, vaak uitgedrukt als sterftecijfer per populatie-eenheid in een bepaalde periode.",
+    "chapter": 1,
+    "additions": [
+      "Kernwoord bij leerdoel 3: ziektematen",
+      "Het sterftecijfer geeft het aantal sterfgevallen per populatie-eenheid weer (bv. 5 per 1.000 geboorten)",
+      "Belangrijke verschuiving: van sterfte door infectieziekten naar sterfte door chronische ziekten"
+    ],
+    "importance": 5,
+    "type": "ziektemaat",
+    "aggregate": "c1-006"
+  },
+  {
+    "id": "c1-020",
+    "term": { "nl": "Epifyse / Pijnappelklier", "en": "Pineal gland" },
+    "definition": "Hormoonklier in de hersenen. Historisch relevant omdat Descartes deze zag als de plek waar lichaam en geest communiceren.",
+    "chapter": 1,
+    "additions": [
+      "René Descartes (17e eeuw): het lichaam communiceert met de geest via de pijnappelklier",
+      "Onderdeel van het endocriene systeem",
+      "Produceert melatonine, betrokken bij het slaap-waakritme"
+    ],
+    "importance": 2,
+    "type": "anatomie",
+    "aggregate": "c1-017"
+  },
+  {
+    "id": "c1-021",
+    "term": { "nl": "Longontsteking", "en": "Pneumonia" },
+    "definition": "Infectie van de longen, veroorzaakt door bacteriën, virussen of schimmels. Historisch een van de grote doodsoorzaken.",
+    "chapter": 1,
+    "additions": [
+      "Een van de infectieziekten die begin 20e eeuw veel sterfte veroorzaakten"
+    ],
+    "importance": 1,
+    "type": "ziekte"
+  },
+  {
+    "id": "c1-022",
+    "term": { "nl": "Prevalentie", "en": "Prevalence" },
+    "definition": "Term uit de epidemiologie: het aantal gevallen van personen die een bepaalde aandoening hebben of risicofactoren ervoor, op een bepaald moment.",
+    "chapter": 1,
+    "additions": [
+      "Kernwoord bij leerdoel 3: ziektematen beschrijven en gebruiken",
+      "Verschil met incidentie: prevalentie = totaal op een bepaald moment, incidentie = nieuwe gevallen in een periode",
+      "Wordt uitgedrukt als percentage of als aantal per populatie-eenheid"
+    ],
+    "importance": 5,
+    "type": "ziektemaat",
+    "aggregate": "c1-006"
+  },
+  {
+    "id": "c1-023",
+    "term": { "nl": "Psychosomatische geneeskunde", "en": "Psychosomatic medicine" },
+    "definition": "Wetenschap die zich bezighoudt met ziekten met een psychische component. Lichaam én geest zijn beide betrokken bij ziekte: symptomen zijn niet ingebeeld maar psychosomatisch (fysiek én mentaal).",
+    "chapter": 1,
+    "additions": [
+      "Ontstaan in de jaren 1950",
+      "Verwant vakgebied aan gezondheidspsychologie (leerdoel 5)",
+      "Voorloper van behavioral medicine en gezondheidspsychologie",
+      "Freud (begin 20e eeuw): conversion hysteria – fysieke symptomen zonder organische oorzaak (bv. glove anesthesia)"
+    ],
+    "importance": 4,
+    "type": "vakgebied"
+  },
+  {
+    "id": "c1-024",
+    "term": { "nl": "Roodvonk", "en": "Scarlet fever" },
+    "definition": "Infectieziekte veroorzaakt door groep A-streptokokken, gekenmerkt door koorts en huiduitslag.",
+    "chapter": 1,
+    "additions": [
+      "Historisch een van de belangrijke infectieziekten bij kinderen"
+    ],
+    "importance": 1,
+    "type": "ziekte"
+  },
+  {
+    "id": "c1-025",
+    "term": { "nl": "Beroerte", "en": "Stroke" },
+    "definition": "Acute onderbreking van de bloedtoevoer naar de hersenen, leidend tot hersenschade. Een van de belangrijkste chronische aandoeningen in ontwikkelde landen.",
+    "chapter": 1,
+    "additions": [
+      "Een van de huidige belangrijkste doodsoorzaken naast hartziekten en kanker",
+      "Wordt uitgebreid behandeld in hoofdstuk 14 (hart- en vaatziekten)",
+      "Risicofactoren omvatten roken, hoge bloeddruk, ongezonde voeding en gebrek aan beweging",
+      "Hartpatiënten die therapie slecht naleven hebben meer kans op een beroerte"
+    ],
+    "importance": 3,
+    "type": "ziekte"
+  },
+  {
+    "id": "c1-026",
+    "term": { "nl": "Tyfus", "en": "Typhoid" },
+    "definition": "Ernstige infectieziekte veroorzaakt door Salmonella typhi, verspreid via besmet voedsel of water.",
+    "chapter": 1,
+    "additions": [
+      "Historisch een van de belangrijke infectieziekten, vooral bij slechte hygiënische omstandigheden",
+      "Daling door verbeterde waterzuivering en riolering"
+    ],
+    "importance": 1,
+    "type": "ziekte"
+  }
+]

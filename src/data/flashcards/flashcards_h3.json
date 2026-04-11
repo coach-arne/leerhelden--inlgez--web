@@ -1,0 +1,452 @@
+[
+  {
+    "id": "fc-h3-001",
+    "term": {
+      "nl": "Alarmering",
+      "en": "Alarm reaction"
+    },
+    "definition": "De eerste fase van het General Adaptation Syndrome (GAS), waarbij het lichaam acuut wordt geactiveerd door het sympathisch zenuwstelsel en de bijnieren adrenaline en norepinefrine afgeven. Vergelijkbaar met de fight-or-flight reactie.",
+    "chapter": 3,
+    "additions": [
+      "De HPA-as (hypothalamus-pituitary-adrenal axis) wordt ook geactiveerd, wat leidt tot afgifte van cortisol.",
+      "Ezelsbruggetje voor de 3 GAS-fasen: AWU (Alarm, Weerstand, Uitputting).",
+      "De fight-or-flight respons verhoogt hartslag, bloeddruk en spierspanning als voorbereiding op actie.",
+      "Geïntroduceerd door Hans Selye als onderdeel van het GAS-model."
+    ],
+    "importance": 5,
+    "type": "fase",
+    "aggregate": "gas-model-001"
+  },
+  {
+    "id": "gas-model-001",
+    "term": {
+      "nl": "Algemeen Aanpassingssyndroom",
+      "en": "General Adaptation Syndrome (GAS)"
+    },
+    "definition": "Model van Hans Selye dat beschrijft hoe het lichaam reageert op stressoren in drie opeenvolgende fasen: alarmfase, weerstandsfase en uitputtingsfase. Stelt dat het lichaam op alle stressoren op dezelfde niet-specifieke manier reageert.",
+    "chapter": 3,
+    "additions": [
+      "Kritiek: het model houdt geen rekening met psychosociale factoren (zoals cognitieve beoordeling), waardoor het idee van 'nonspecificiteit' beperkt is.",
+      "John Mason toonde aan dat hormonale reacties variëren op basis van emotionele betrokkenheid, wat de nonspecificiteitsthese tegenspreekt.",
+      "Langdurige activatie in de weerstandsfase kan leiden tot 'diseases of adaptation' zoals maagzweren, hoge bloeddruk en verzwakte immuniteit.",
+      "Het GAS is een kernbegrip in het leerdoel rond fysiologische reacties op stress."
+    ],
+    "importance": 5,
+    "type": "model",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-002",
+    "term": {
+      "nl": "Activatie / Opwinding",
+      "en": "Arousal"
+    },
+    "definition": "Lichamelijke en geestelijke activatie of opwinding, zowel negatief (bijv. bij stress) als positief (bijv. bij plezierige ervaringen). Vormt de basis voor het meten van fysiologische stressreacties.",
+    "chapter": 3,
+    "additions": [
+      "Wordt gemeten via de polygraaf, die hartslag, ademhaling en galvanische huidrespons registreert.",
+      "Reactiviteit verwijst naar de mate van fysiologische reactie op een stressor ten opzichte van een basismeting van arousal.",
+      "Chronische stress kan leiden tot verhoogde basisarousal en vertraagd herstel naar het normale niveau.",
+      "Arousal staat expliciet in de leerdoelen als sleutelwoord voor stressmeting."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-003",
+    "term": {
+      "nl": "Catecholaminen",
+      "en": "Catecholamines"
+    },
+    "definition": "Een groep hormonen die een rol spelen bij stressreacties, zoals adrenaline (epinefrine) en noradrenaline (norepinefrine). Ze worden afgegeven door de bijnieren bij activatie van het sympathisch zenuwstelsel.",
+    "chapter": 3,
+    "additions": [
+      "Stressoren die hoge emotionele betrokkenheid oproepen verhogen zowel catecholaminen als cortisol (effort + distress patroon).",
+      "Bij positieve uitdagingen (effort zonder distress) worden catecholaminen verhoogd maar wordt cortisolafgifte onderdrukt (Frankenhaeuser).",
+      "Meetbaar via biochemische analyses van speeksel, bloed of urine; meetbaar tijdens dagelijkse situaties via draagbare apparaten.",
+      "Catecholaminen staan expliciet in de leerdoelen als methode om stress te meten.",
+      "Nadeel van meting: beïnvloedbaar door geslacht, gewicht, cafeïne en beweging voor of tijdens de meting."
+    ],
+    "importance": 4,
+    "type": "hormoon",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-004",
+    "term": {
+      "nl": "Cognitie",
+      "en": "Cognition"
+    },
+    "definition": "De activiteit van weten: het vergaren, organiseren en gebruiken van kennis. Cognitieve processen spelen een centrale rol in hoe mensen stressvolle situaties beoordelen en interpreteren.",
+    "chapter": 3,
+    "additions": [
+      "Cognitie vormt de basis van het appraisalproces: hoe iemand een situatie interpreteert bepaalt de stressreactie.",
+      "Persoonsgebonden factoren zoals zelfbeeld, motivatie en irrationele overtuigingen beïnvloeden de cognitieve beoordeling.",
+      "Cognitieve herstructurering (het veranderen van disfunctionele gedachten) is een belangrijke stressinterventietechniek."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "cog-appraisal-001",
+    "term": {
+      "nl": "Cognitieve beoordeling",
+      "en": "Cognitive appraisal"
+    },
+    "definition": "Het mentale beoordelingsproces waarbij een persoon een potentieel stressvolle situatie evalueert, inclusief de inschatting van de dreiging én de eigen mogelijkheden om ermee om te gaan. Bestaat uit primaire en secundaire beoordeling.",
+    "chapter": 3,
+    "additions": [
+      "Onderdeel van het transactionele stressmodel van Lazarus & Folkman.",
+      "De primaire beoordeling beoordeelt of de situatie irrelevant, positief of stressvol is; bij stressvol verder uitgesplitst in harm-loss, threat of challenge.",
+      "De secundaire beoordeling beoordeelt de beschikbare copingmiddelen: voldoende middelen = weinig stress, onvoldoende = hoge stress.",
+      "Cognitieve beoordeling staat centraal in het eerste leerdoel van hoofdstuk 3.",
+      "Vicarious appraisal: ook plaatsvervangende beoordelingen (over anderen) kunnen stress oproepen."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-005",
+    "term": {
+      "nl": "Corticosteroïden",
+      "en": "Corticosteroids"
+    },
+    "definition": "Een groep hormonen die een rol spelen bij stressreacties, met cortisol als belangrijkste vertegenwoordiger. Ze worden afgegeven via de HPA-as bij aanhoudende stressactivatie.",
+    "chapter": 3,
+    "additions": [
+      "Distress zonder effort leidt tot verhoogde cortisolafgifte, soms ook catecholaminen — kenmerkend voor hulpeloosheid (Frankenhaeuser).",
+      "Effort zonder distress onderdrukt de cortisolafgifte, ondanks verhoogde catecholaminen.",
+      "Cortisolmeting bij basisschoolleerlingen op toetsdagen: alleen kinderen met bovengemiddelde intelligentie toonden verhoogde cortisol, omdat zij toetsen als bedreigender waarnamen.",
+      "Corticosteroïden staan expliciet in de leerdoelen als meetmethode voor stress.",
+      "Nadeel van meting: duur, de meting zelf kan stressvol zijn en wordt beïnvloed door externe factoren."
+    ],
+    "importance": 4,
+    "type": "hormoon",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-006",
+    "term": {
+      "nl": "Alledaagse problemen",
+      "en": "Daily hassles"
+    },
+    "definition": "Relatief kleine, dagelijkse ergernissen en irritaties (bijv. sleutels kwijt, files, ruzie) die als stressor kunnen optreden. Gemeten met de Hassles Scale van Lazarus (117 items, beoordeeld op ernst).",
+    "chapter": 3,
+    "additions": [
+      "Daily hassles correleren sterker met gezondheidsklachten dan grote levensgebeurtenissen (life events).",
+      "Uplifts (positieve tegenhangers) hebben nauwelijks effect op gezondheid, in tegenstelling tot wat men zou verwachten.",
+      "Probleem met meting: zelfrapportage over meerdere weken is onnauwkeurig; oplossing: real-time smartphone logging (ervaringssampling).",
+      "De frequentie van negatieve emoties neemt toe wanneer daily hassles zich opstapelen over tijd.",
+      "Daily hassles staan expliciet in de leerdoelen als sleutelwoord voor stressmeting."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-007",
+    "term": {
+      "nl": "Alledaagse prettige gebeurtenissen",
+      "en": "Daily uplifts"
+    },
+    "definition": "Relatief kleine, prettige dagelijkse ervaringen (bijv. een taak afronden, goed contact met een vriend). De positieve tegenhanger van daily hassles, gemeten met de Uplifts Scale (135 items).",
+    "chapter": 3,
+    "additions": [
+      "Onderzoek toont aan dat uplifts nauwelijks effect hebben op gezondheid — minder impact dan verwacht.",
+      "Samen met daily hassles onderdeel van het meetkader van Lazarus (1981) voor dagelijkse stressbelasting.",
+      "Niet te verwarren met eustress: uplifts zijn specifieke positieve ervaringen, geen positieve stress op zich."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-008",
+    "term": {
+      "nl": "Leed / Negatieve stress",
+      "en": "Distress"
+    },
+    "definition": "De negatieve, schadelijke reactie op stressoren; synoniem aan strain. Ontstaat wanneer de stressbelasting te hoog is en resulteert in overbelasting en mogelijke gezondheidsschade.",
+    "chapter": 3,
+    "additions": [
+      "Tegengesteld aan eustress (positieve stress die motiveert en prestatieverhogend werkt).",
+      "In het model van Frankenhaeuser: distress zonder effort leidt tot verhoogde cortisol — kenmerkend voor hulpeloosheid of overgave.",
+      "Distress + effort: verhoogt zowel catecholaminen als cortisol; typisch bij frustraties of monotone taken.",
+      "Appraisals van harm-loss en threat leiden eerder tot distress dan appraisals van challenge."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-009",
+    "term": {
+      "nl": "Inspanning",
+      "en": "Effort"
+    },
+    "definition": "De mate van inspanning die iemand levert om iets te bereiken, gekenmerkt door interesse, motivatie en doorzettingsvermogen. Een van de twee dimensies in het stressreactiemodel van Frankenhaeuser.",
+    "chapter": 3,
+    "additions": [
+      "Frankenhaeuser onderscheidt drie stresspatronen op basis van effort en distress: (1) effort + distress, (2) effort zonder distress, (3) distress zonder effort.",
+      "Effort zonder distress: verhoogde catecholaminen maar onderdrukte cortisol — gezien bij positieve uitdagingen, actieve coping en hoge betrokkenheid.",
+      "Effort alleen verklaart niet volledig de fysiologische stressreactie; de combinatie met distress is cruciaal."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-010",
+    "term": {
+      "nl": "(Nor)adrenaline",
+      "en": "(Nor)epinephrine"
+    },
+    "definition": "Epinefrine (adrenaline) en norepinefrine (noradrenaline) zijn de twee belangrijkste hormonen behorende tot de catecholaminen. Ze worden afgegeven door de bijnieren bij stressactivatie en bereiden het lichaam voor op actie.",
+    "chapter": 3,
+    "additions": [
+      "Epinefrine verhoogt hartslag en bloeddruk; norepinefrine heeft meer invloed op vasoconstrictie.",
+      "Tijdens de alarmfase van het GAS zijn het de eerste hormonen die vrijkomen via het sympathisch zenuwstelsel.",
+      "Mason (1975) toonde aan dat niet alle stressoren dezelfde hormonale reacties oproepen — grote emotionele betrokkenheid leidt tot sterkere catecholaminerespons.",
+      "Meetbaar via urine, bloed of speeksel; meetbaar tijdens dagelijkse situaties."
+    ],
+    "importance": 4,
+    "type": "hormoon",
+    "aggregate": "fc-h3-003"
+  },
+  {
+    "id": "fc-h3-011",
+    "term": {
+      "nl": "Levensgebeurtenissen",
+      "en": "Life events (life transitions)"
+    },
+    "definition": "Belangrijke gebeurtenissen in het leven die psychologische aanpassing vereisen, zoals huwelijk, echtscheiding of overlijden. Gemeten met schalen zoals de Social Readjustment Rating Scale (SRRS) van Holmes & Rahe (1967).",
+    "chapter": 3,
+    "additions": [
+      "De SRRS kent aan elke gebeurtenis een stresswaarde toe (bijv. 100 punten voor overlijden partner, 11 voor kleine wetsovertreding); totaalscore = stressniveau.",
+      "Correlatie tussen SRRS-scores en ziekte is slechts ~.30 — het verband is aanwezig maar zwak.",
+      "Zwakke punten SRRS: vage formuleringen, geen onderscheid tussen positieve en negatieve gebeurtenissen, gevoelig voor geheugenfouten, nadruk op acute stress.",
+      "Alternatieven: Life Experiences Survey (LES, 57 items met impactscore -3 tot +3), PERI Life-Events Scale (102 items), Unpleasant Events Schedule (UES, 320 items).",
+      "Daily hassles voorspellen gezondheid beter dan life events, omdat ze fijnmaziger dagelijkse stressbelasting meten.",
+      "Life events staan expliciet in de leerdoelen als sleutelwoord."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-012",
+    "term": {
+      "nl": "Persoonlijke ruimte",
+      "en": "Personal space"
+    },
+    "definition": "De minimale ruimte rondom een persoon die die persoon cognitief voor zichzelf opeist. Schending van deze ruimte kan als stressor ervaren worden.",
+    "chapter": 3,
+    "additions": [
+      "Persoonlijke ruimte is een omgevingsgerelateerde bron van stress bij te hoge bevolkingsdichtheid of crowding.",
+      "Culturele verschillen bepalen mede hoeveel persoonlijke ruimte als 'normaal' wordt ervaren.",
+      "Samen met lawaai, hitte en drukte is persoonlijke ruimte een voorbeeld van een omgevingsstressor."
+    ],
+    "importance": 2,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-013",
+    "term": {
+      "nl": "Fysiologische opwinding",
+      "en": "Physiological arousal"
+    },
+    "definition": "De meetbare lichamelijke activatie als reactie op stressoren, zoals verhoogde hartslag, bloeddruk, ademhaling en hormoonafgifte.",
+    "chapter": 3,
+    "additions": [
+      "Fysiologische arousal wordt gebruikt als basismeting bij het bepalen van reactiviteit: de reactie op een stressor wordt vergeleken met het rustniveau.",
+      "Instrumenten: polygraaf (hartslag, ademhaling, galvanische huidrespons), biochemische analyses (cortisol, catecholaminen).",
+      "Langdurige verhoogde fysiologische arousal zonder herstel leidt tot allostatische belasting en slijtage van het lichaam.",
+      "fMRI en hersenscans tonen welke hersengebieden betrokken zijn bij stressreacties."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": "fc-h3-002"
+  },
+  {
+    "id": "fc-h3-014",
+    "term": {
+      "nl": "Polygraaf",
+      "en": "Polygraph"
+    },
+    "definition": "Apparaat dat via sensoren meerdere fysiologische signalen tegelijk registreert, zoals hartslag, ademhaling en galvanische huidrespons (zweten). Wordt gebruikt om fysiologische arousal bij stress te meten.",
+    "chapter": 3,
+    "additions": [
+      "Voorbeeld: paramedici hebben hogere bloeddruk tijdens ambulance-oproepen dan thuis — meetbaar via draagbare fysiologische apparaten.",
+      "Voordeel: objectief en betrouwbaar.",
+      "Nadeel: duur, de meting zelf kan stressvol zijn, en resultaten worden beïnvloed door geslacht, gewicht, cafeïne en beweging.",
+      "Polygraaf staat expliciet in de leerdoelen als sleutelwoord voor stressmeting."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-015",
+    "term": {
+      "nl": "Primaire beoordeling",
+      "en": "Primary appraisal"
+    },
+    "definition": "De eerste stap in het cognitieve beoordelingsproces: de inschatting of een situatie irrelevant, positief of stressvol is. Bij een stressvolle beoordeling wordt verder onderscheiden tussen harm-loss, threat en challenge.",
+    "chapter": 3,
+    "additions": [
+      "Harm-loss: de schade is al gebeurd (bijv. verlies van een dierbare).",
+      "Threat: toekomstige schade dreigt (bijv. angst voor ziekte).",
+      "Challenge: de situatie wordt gezien als groeikans of iets dat overwonnen kan worden — leidt tot beter functioneren en meer veerkracht.",
+      "Primaire appraisal staat centraal in het eerste leerdoel van hoofdstuk 3.",
+      "Persoonsgebonden factoren zoals zelfwaardering, motivatie en persoonlijkheid beïnvloeden de primaire appraisal."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": "cog-appraisal-001"
+  },
+  {
+    "id": "fc-h3-016",
+    "term": {
+      "nl": "Reactiviteit",
+      "en": "Reactivity"
+    },
+    "definition": "De mate van fysiologische reactie op een stressor, gemeten ten opzichte van een basismeting van arousal (rustniveau). Hoge reactiviteit betekent sterkere fysiologische uitschieters bij stress.",
+    "chapter": 3,
+    "additions": [
+      "Genetische factoren beïnvloeden de mate van reactiviteit — bijv. via genetische kwetsbaarheden in neurotransmittersystemen die gevoeligheid voor depressie bij langdurige stress verhogen.",
+      "Chronische stress kan leiden tot verhoogde basisreactiviteit en vertraagd herstel naar normale arousal na een stressor.",
+      "Mensen met hoge reactiviteit hebben een hoger risico op stress-gerelateerde gezondheidsproblemen op de lange termijn."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-017",
+    "term": {
+      "nl": "Secundaire beoordeling",
+      "en": "Secondary appraisal"
+    },
+    "definition": "De tweede stap in het cognitieve beoordelingsproces: de beoordeling van de beschikbare middelen en mogelijkheden om met de stressor om te gaan. Voldoende middelen leiden tot weinig stress; onvoldoende middelen tot hoge stress.",
+    "chapter": 3,
+    "additions": [
+      "Beoordelingen als 'Ik kan dit aan' of 'Ik weet dat ik zal falen' zijn voorbeelden van secundaire appraisal.",
+      "Secundaire appraisal staat centraal in het eerste leerdoel van hoofdstuk 3.",
+      "Situationele factoren die secundaire appraisal beïnvloeden: ernst, controleerbaarheid, onverwachte timing, sociale steun, ambiguïteit en lage wenselijkheid.",
+      "Sociale steun vergroot de waargenomen middelen en verlaagt daarmee de stressreactie."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": "cog-appraisal-001"
+  },
+  {
+    "id": "fc-h3-018",
+    "term": {
+      "nl": "Zelfwaardering",
+      "en": "Self-esteem"
+    },
+    "definition": "De mate waarin iemand zichzelf positief waardeert en zelfvertrouwen heeft. Een hogere zelfwaardering werkt als beschermende factor bij het omgaan met stressoren.",
+    "chapter": 3,
+    "additions": [
+      "Zelfwaardering is een persoonsgebonden factor die de cognitieve beoordeling (appraisal) van stressoren beïnvloedt.",
+      "Lage zelfwaardering vergroot de kans dat situaties als bedreigend (threat) worden beoordeeld in plaats van als uitdaging (challenge).",
+      "Zelfwaardering hangt samen met locus of control: mensen met een interne locus of control hebben vaak een hogere zelfwaardering en gaan beter met stress om.",
+      "Zelfeffectiviteit (self-efficacy) is een verwant maar onderscheiden begrip: het gaat specifiek over het vertrouwen in eigen kunnen voor een specifieke taak."
+    ],
+    "importance": 4,
+    "type": "psychologisch construct",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-019",
+    "term": {
+      "nl": "Fase van uitputting",
+      "en": "Stage of exhaustion"
+    },
+    "definition": "De derde en laatste fase van het General Adaptation Syndrome. Bij langdurige of herhaalde stress raken de energievoorraden van het lichaam uitgeput, verzwakt het immuunsysteem en worden interne organen beschadigd, wat kan leiden tot ernstige ziekte of de dood.",
+    "chapter": 3,
+    "additions": [
+      "Ezelsbruggetje: AWU (Alarm, Weerstand, Uitputting).",
+      "In deze fase is het lichaam niet meer in staat zich adequaat aan te passen aan de stressor.",
+      "Allostatische belasting — de opeenstapeling van fysiologische stressreacties door herhaalde blootstelling — is nauw verwant aan de uitputtingsfase.",
+      "Chronische stress verhoogt de vatbaarheid voor infectieziekten, zoals bij verkoudheid na langdurige stressblootstelling."
+    ],
+    "importance": 5,
+    "type": "fase",
+    "aggregate": "gas-model-001"
+  },
+  {
+    "id": "fc-h3-020",
+    "term": {
+      "nl": "Fase van weerstand",
+      "en": "Stage of resistance"
+    },
+    "definition": "De tweede fase van het General Adaptation Syndrome. Het lichaam probeert zich aan te passen aan de voortdurende stressor, maar de fysiologische arousal blijft hoger dan normaal. Dit kan leiden tot gezondheidsproblemen.",
+    "chapter": 3,
+    "additions": [
+      "Ezelsbruggetje: AWU (Alarm, Weerstand, Uitputting).",
+      "Langdurige activatie in deze fase kan leiden tot 'diseases of adaptation': maagzweren, hoge bloeddruk, verzwakte immuniteit.",
+      "De overgang van weerstandsfase naar uitputtingsfase treedt op bij chronische of herhaalde blootstelling aan stressoren."
+    ],
+    "importance": 5,
+    "type": "fase",
+    "aggregate": "gas-model-001"
+  },
+  {
+    "id": "fc-h3-021",
+    "term": {
+      "nl": "Spanning / Stressreactie",
+      "en": "Strain"
+    },
+    "definition": "De (negatieve) fysiologische en psychologische reactie op het meemaken van een stressor. Synoniem aan distress; de toestand van spanning als gevolg van stress.",
+    "chapter": 3,
+    "additions": [
+      "Strain is onderdeel van de definitie van stress als 'respons': de nadruk ligt op de reactie van de persoon, niet op de stressor zelf.",
+      "Stress als respons-perspectief: psychologisch (gedachten, emoties) én fysiologisch (bonzend hart, droge mond, zweten).",
+      "Onderscheiden van stressor (de oorzaak) en coping (de omgang ermee)."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-022",
+    "term": {
+      "nl": "Stressor",
+      "en": "Stressor"
+    },
+    "definition": "Een situatie of gebeurtenis die stressvol kan zijn en spanning (strain) oproept. Stressoren kunnen fysiek (bijv. kou, pijn), psychologisch (bijv. examen) of sociaal (bijv. conflict) van aard zijn.",
+    "chapter": 3,
+    "additions": [
+      "Selye stelde dat het lichaam op alle stressoren op dezelfde manier reageert (nonspecificiteit), maar dit werd later bekritiseerd.",
+      "Diverse stressoren (kou, lawaai, pijn, examens, drukte, vliegen) leiden tot verhoogde hormoonafgifte door de bijnieren.",
+      "Stressoren worden onderverdeeld in: levensgebeurtenissen, daily hassles, chronische stressoren (werk, relaties, financiën) en omgevingsstressoren.",
+      "Stressor staat expliciet in de leerdoelen als kernwoord."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h3-023",
+    "term": {
+      "nl": "Transactie",
+      "en": "Transaction"
+    },
+    "definition": "Voortdurende actieve wisselwerking met bijbehorende aanpassingen tussen de persoon en zijn omgeving. De basis van het transactionele stressmodel, waarbij stress gezien wordt als een proces in plaats van een stimulus of reactie.",
+    "chapter": 3,
+    "additions": [
+      "Het transactionele model van Lazarus & Folkman ziet stress als een dynamisch proces: de persoon beïnvloedt de omgeving én wordt erdoor beïnvloed.",
+      "Stress ontstaat bij een waargenomen discrepantie tussen de eisen van de situatie en de middelen van het biologische, psychologische en sociale systeem van de persoon.",
+      "Dit model integreert cognitieve beoordeling (appraisal) als centraal mechanisme.",
+      "Transactie staat expliciet in de leerdoelen als kernwoord voor de definitie van stress."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  }
+]
