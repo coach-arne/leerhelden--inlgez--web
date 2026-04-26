@@ -17,6 +17,7 @@ import { Separator } from '@/components/ui/separator'
 import { Slider } from '@/components/ui/slider'
 import {
   ALL_FLASHCARDS,
+  ALL_SOURCES,
   buildDeck,
   CHAPTER_NUMBERS,
   countAvailable,
@@ -30,10 +31,11 @@ import {
   sessionScoresAtom,
   setupChapterAtom,
   setupCountAtom,
+  setupSourceAtom,
   setupTypeAtom,
   termLanguageAtom,
 } from '@/modules/flashcards/atoms'
-import { formatChaptersLabel, formatTypesLabel } from '@/modules/flashcards/formatLabels'
+import { formatChaptersLabel, formatSourcesLabel, formatTypesLabel } from '@/modules/flashcards/formatLabels'
 import { loadFlashcardResults } from '@/modules/flashcards/flashcardStorage'
 import { cn } from '@/lib/utils'
 
@@ -42,10 +44,13 @@ const CHAPTER_OPTIONS = CHAPTER_NUMBERS.map((n) => ({
   label: `Hoofdstuk ${n}`,
 }))
 
+const SOURCE_OPTIONS = ALL_SOURCES.map((s) => ({ value: s, label: s }))
+
 export function FlashcardsSetupPage() {
   const navigate = useNavigate()
   const [chapters, setChapters] = useAtom(setupChapterAtom)
   const [types, setTypes] = useAtom(setupTypeAtom)
+  const [sources, setSources] = useAtom(setupSourceAtom)
   const [count, setCount] = useAtom(setupCountAtom)
   const [termLang, setTermLang] = useAtom(termLanguageAtom)
 
@@ -80,8 +85,8 @@ export function FlashcardsSetupPage() {
   )
 
   const available = useMemo(
-    () => countAvailable(ALL_FLASHCARDS, chapters, types),
-    [chapters, types],
+    () => countAvailable(ALL_FLASHCARDS, chapters, types, sources),
+    [chapters, types, sources],
   )
 
   const [history, setHistory] = useState(() => loadFlashcardResults())
@@ -102,7 +107,7 @@ export function FlashcardsSetupPage() {
   const handleStart = () => {
     if (available === 0) return
     const n = Math.min(count, available)
-    const deck = buildDeck(ALL_FLASHCARDS, chapters, types, n)
+    const deck = buildDeck(ALL_FLASHCARDS, chapters, types, n, sources)
     setSessionId(crypto.randomUUID())
     setDeck(deck)
     setIndex(0)
@@ -158,6 +163,19 @@ export function FlashcardsSetupPage() {
               placeholder="Alle types"
               enableSearch
               showSelectAll={typeOptions.length > 1}
+            />
+          </div>
+
+          <div className="space-y-2">
+            <Label htmlFor="source-multiselect">Bronbestand</Label>
+            <MultiSelectChips
+              id="source-multiselect"
+              options={SOURCE_OPTIONS}
+              selected={sources}
+              onChange={setSources}
+              placeholder="Alle bronbestanden"
+              enableSearch
+              showSelectAll={SOURCE_OPTIONS.length > 1}
             />
           </div>
 
@@ -237,6 +255,9 @@ export function FlashcardsSetupPage() {
                 <span className="flex flex-wrap items-center gap-2">
                   <Badge variant="secondary">{formatChaptersLabel(h.chapters)}</Badge>
                   <Badge variant="outline">{formatTypesLabel(h.types)}</Badge>
+                  {h.sources.length > 0 && (
+                    <Badge variant="outline">{formatSourcesLabel(h.sources)}</Badge>
+                  )}
                   <span className="tabular-nums">
                     goed {h.correct} · twijfel {h.unsure} · fout {h.incorrect}{' '}
                     ({h.requestedCount} kaarten)

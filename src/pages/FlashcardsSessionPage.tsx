@@ -22,6 +22,7 @@ import {
   termLanguageAtom,
 } from '@/modules/flashcards/atoms'
 import { cn } from '@/lib/utils'
+import { CheckIcon, HelpCircleIcon, XIcon } from 'lucide-react'
 
 export function FlashcardsSessionPage() {
   const navigate = useNavigate()
@@ -151,26 +152,26 @@ export function FlashcardsSessionPage() {
           )}
         </CardContent>
         {revealed && (
-          <CardFooter className="flex flex-col gap-2 sm:flex-row">
+          <CardFooter className="flex gap-4 flex-row justify-center">
             <Button
               variant="destructive"
-              className="w-full sm:flex-1"
+              className="w-14 h-14 cursor-pointer"
               onClick={() => advance({ correct: 0, incorrect: 1, unsure: 0 })}
             >
-              Nog niet
+              <XIcon className="" />
             </Button>
             <Button
               variant="secondary"
-              className="w-full sm:flex-1"
+              className="w-14 h-14 cursor-pointer"
               onClick={() => advance({ correct: 0, incorrect: 0, unsure: 1 })}
             >
-              Twijfel
+              <HelpCircleIcon className="" />
             </Button>
             <Button
-              className="w-full sm:flex-1"
+              className="w-14 h-14 cursor-pointer"
               onClick={() => advance({ correct: 1, incorrect: 0, unsure: 0 })}
             >
-              Goed
+              <CheckIcon className="" />
             </Button>
           </CardFooter>
         )}

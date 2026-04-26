@@ -1,0 +1,395 @@
+[
+  {
+    "id": "8a3f1c92-6b4e-4d7a-9c1f-2e5b8a7d4f01",
+    "term": { "nl": "Endocrien systeem", "en": "Endocrine system" },
+    "definition": "Het hormoonstelsel: een netwerk van klieren dat via hormonen in de bloedbaan lichaamsprocessen reguleert.",
+    "chapter": 2,
+    "additions": [
+      "Werkt nauw samen met het autonome zenuwstelsel; sommige stoffen (bv. noradrenaline) functioneren zowel als hormoon als neurotransmitter.",
+      "Verbinding met zenuwstelsel loopt via de hypothalamus en hypofyse.",
+      "Effecten van hormonen zijn trager maar langduriger dan die van neurotransmitters."
+    ],
+    "importance": 5,
+    "type": "begrip"
+  },
+  {
+    "id": "5d2a7e84-3f9b-4c1d-8e6a-7b4c9f1d3a02",
+    "term": { "nl": "Hormoon", "en": "Hormone" },
+    "definition": "Chemische boodschapper die door endocriene klieren in de bloedbaan wordt afgegeven en op afstand werkt op cellen met een passende receptor.",
+    "chapter": 2,
+    "additions": [
+      "Verschillen met neurotransmitters: trager, maar langduriger werking; transport via bloedbaan i.p.v. synaps; werken op afstand i.p.v. lokaal.",
+      "Sommige stoffen (bv. noradrenaline) zijn zowel hormoon als neurotransmitter."
+    ],
+    "importance": 4,
+    "type": "begrip"
+  },
+  {
+    "id": "e1c4b8f3-9d2a-4e6b-bc7f-1a3d6e8c4b03",
+    "term": { "nl": "Hypofyse", "en": "Pituitary gland" },
+    "definition": "Klier onder de hypothalamus die wordt aangeduid als 'meesterklier' omdat ze de afgifte van hormonen door andere endocriene klieren aanstuurt.",
+    "chapter": 2,
+    "additions": [
+      "Wordt zelf aangestuurd door de hypothalamus via releasing-hormonen (bv. CRH).",
+      "Geeft o.a. ACTH (→ bijnierschors), TSH (→ schildklier), FSH/LH (→ geslachtsklieren) af.",
+      "Centrale schakel in de HPA-as bij de stressrespons."
+    ],
+    "importance": 5,
+    "type": "klier"
+  },
+  {
+    "id": "7f9b2d56-4a3c-4e8d-91b7-3c5e8a2f6d04",
+    "term": { "nl": "Hypothalamus", "en": "Hypothalamus" },
+    "definition": "Hersengebied dat lichaamsfuncties (temperatuur, honger, dorst) reguleert en de schakel vormt tussen zenuwstelsel en hormoonstelsel.",
+    "chapter": 2,
+    "additions": [
+      "Stuurt chemische boodschappen naar de hypofyse, die op haar beurt andere klieren aanstuurt.",
+      "Beginpunt van zowel de HPA-as (via CRH) als de SAM-as (via sympathische zenuwbanen)."
+    ],
+    "importance": 4,
+    "type": "anatomie"
+  },
+  {
+    "id": "c3e6a9b1-7d4f-4b2e-8a5c-9f1d3b6e4c05",
+    "term": { "nl": "Schildklier", "en": "Thyroid gland" },
+    "definition": "Klier in de hals die via thyroxine (T4) het algemene activiteitsniveau, metabolisme en groei van het lichaam reguleert.",
+    "chapter": 2,
+    "additions": [
+      "Verstoringen leiden tot hypothyreoïdie of hyperthyreoïdie, beide met uitgesproken gedragsmatige en fysieke gevolgen.",
+      "Aangeboren onbehandelde hypothyreoïdie kan tot dwerggroei en mentale retardatie leiden."
+    ],
+    "importance": 4,
+    "type": "klier"
+  },
+  {
+    "id": "9b1f4d2e-6a8c-4f3b-bd7a-2e5c8f1a4b06",
+    "term": { "nl": "Thyroxine", "en": "Thyroxine (T4)" },
+    "definition": "Hoofdhormoon van de schildklier dat metabolisme, energieverbruik en groei reguleert.",
+    "chapter": 2,
+    "additions": [
+      "Te weinig thyroxine → hypothyreoïdie (laag activiteitsniveau, gewichtstoename).",
+      "Te veel thyroxine → hyperthyreoïdie (hyperactiviteit, tremors, slapeloosheid, gewichtsverlies)."
+    ],
+    "importance": 3,
+    "type": "hormoon"
+  },
+  {
+    "id": "4a7c2e8f-9d1b-4e6a-83c5-7b4f1d2e8a07",
+    "term": { "nl": "Hypothyreoïdie", "en": "Hypothyroidism" },
+    "definition": "Aandoening waarbij de schildklier onvoldoende thyroxine afscheidt, met als gevolg een verlaagd activiteitsniveau.",
+    "chapter": 2,
+    "additions": [
+      "Symptomen: vermoeidheid, gewichtstoename, traagheid.",
+      "Aangeboren en onbehandeld → dwerggroei en mentale retardatie."
+    ],
+    "importance": 3,
+    "type": "aandoening"
+  },
+  {
+    "id": "2e8b5f4a-3c1d-4f7e-9a6b-8d2c5f1e4b08",
+    "term": { "nl": "Hyperthyreoïdie", "en": "Hyperthyroidism" },
+    "definition": "Aandoening waarbij de schildklier overmatig thyroxine afscheidt, met als gevolg een verhoogd activiteitsniveau.",
+    "chapter": 2,
+    "additions": [
+      "Symptomen: hyperactiviteit, korte aandachtsspanne, tremors, slapeloosheid, gewichtsverlies.",
+      "Onbehandelde vorm staat bekend als de Ziekte van Graves."
+    ],
+    "importance": 3,
+    "type": "aandoening"
+  },
+  {
+    "id": "f5d2a1c7-8b3e-4d6a-91f4-3c7e2b5d8a09",
+    "term": { "nl": "Ziekte van Graves", "en": "Graves' disease" },
+    "definition": "Onbehandelde hyperthyreoïdie waarbij patiënten zich op een zeer rusteloze, prikkelbare en verwarde manier gedragen.",
+    "chapter": 2,
+    "additions": [
+      "Klassiek voorbeeld in Sarafino van psychologische/gedragsmatige gevolgen van een endocriene stoornis.",
+      "Illustreert hoe hormonale onbalans direct gedrag en cognitie beïnvloedt."
+    ],
+    "importance": 3,
+    "type": "ziekte"
+  },
+  {
+    "id": "6c8e3a2f-5d9b-4f1c-87a3-4b6d2e8f5c10",
+    "term": { "nl": "Bijnier", "en": "Adrenal gland" },
+    "definition": "Klier bovenop de nieren die centraal staat in de stressrespons en uit twee delen bestaat: bijnierschors en bijniermerg.",
+    "chapter": 2,
+    "additions": [
+      "Bijnierschors: produceert cortisol (HPA-as, traag).",
+      "Bijniermerg: produceert adrenaline en noradrenaline (SAM-as, snel).",
+      "Beide stress-assen worden bij een stressor geactiveerd, maar via verschillende routes."
+    ],
+    "importance": 5,
+    "type": "klier"
+  },
+  {
+    "id": "a4f1d6e9-2b8c-4e3d-95a7-6c1f3b8d4e11",
+    "term": { "nl": "Bijnierschors", "en": "Adrenal cortex" },
+    "definition": "Buitenste deel van de bijnier dat onder invloed van ACTH cortisol en aldosteron afscheidt.",
+    "chapter": 2,
+    "additions": [
+      "Eindstation van de HPA-as.",
+      "Wordt aangestuurd via een hormonale (niet zenuwgestuurde) route, vandaar tragere maar langduriger respons."
+    ],
+    "importance": 4,
+    "type": "anatomie"
+  },
+  {
+    "id": "b7e4c3f8-1a5d-4b9e-86c2-7d4a8f1e3b12",
+    "term": { "nl": "Bijniermerg", "en": "Adrenal medulla" },
+    "definition": "Binnenste deel van de bijnier dat onder invloed van het sympathische zenuwstelsel adrenaline en noradrenaline afscheidt.",
+    "chapter": 2,
+    "additions": [
+      "Eindstation van de SAM-as (sympathisch-adrenomedullair).",
+      "Snelle respons via directe zenuwprikkeling, geen hormonale tussenschakel zoals ACTH."
+    ],
+    "importance": 4,
+    "type": "anatomie"
+  },
+  {
+    "id": "1d8a5c2e-7f3b-4e9d-94a6-5c2f1d8a7e13",
+    "term": { "nl": "Cortisol", "en": "Cortisol" },
+    "definition": "Hoofdhormoon van de HPA-as, afgescheiden door de bijnierschors, dat het lichaam helpt omgaan met stress door bloedsuiker te verhogen en ontsteking te onderdrukken.",
+    "chapter": 4,
+    "additions": [
+      "Tijdelijke verhoging is adaptief; chronische verhoging is schadelijk.",
+      "Chronisch verhoogd cortisol verhoogt de kans op infecties, diabetes, depressie en slaapproblemen.",
+      "Cortisolreacties op stress voorspellen later risico op hypertensie.",
+      "Onderdrukt normaal gesproken ontsteking, maar bij chronische stress raakt dit systeem ontregeld."
+    ],
+    "importance": 5,
+    "type": "hormoon"
+  },
+  {
+    "id": "9e2b6f1d-4c8a-4d3e-87b5-1a4d6e2c9f14",
+    "term": { "nl": "Adrenaline (epinefrine)", "en": "Epinephrine (adrenaline)" },
+    "definition": "Stresshormoon afgescheiden door het bijniermerg dat samen met het sympathische zenuwstelsel snelle vecht-of-vluchtreacties produceert.",
+    "chapter": 2,
+    "additions": [
+      "Versnelt hartslag en ademhaling, verhoogt suikerproductie van de lever voor snelle energie.",
+      "Hoort bij de SAM-as, niet bij de HPA-as.",
+      "Wordt niet aangestuurd via ACTH maar via directe sympathische zenuwprikkeling."
+    ],
+    "importance": 4,
+    "type": "hormoon"
+  },
+  {
+    "id": "3c7f4a8e-6b2d-4e1f-93c8-2b5d8a1f6c15",
+    "term": { "nl": "Noradrenaline (norepinefrine)", "en": "Norepinephrine (noradrenaline)" },
+    "definition": "Stresshormoon afgescheiden door het bijniermerg dat samen met adrenaline en het sympathische zenuwstelsel lichamelijke stressreacties produceert.",
+    "chapter": 2,
+    "additions": [
+      "Functioneert zowel als hormoon (bijniermerg) als neurotransmitter (sympathisch zenuwstelsel) — klassiek voorbeeld van overlap.",
+      "Hoort bij de SAM-as."
+    ],
+    "importance": 4,
+    "type": "hormoon"
+  },
+  {
+    "id": "d4a8e2c5-7b1f-4c6e-98a3-3f6c1b8e2d16",
+    "term": { "nl": "Corticotropine-releasing hormone (CRH)", "en": "Corticotropin-releasing hormone (CRH)" },
+    "definition": "Hormoon afgegeven door de hypothalamus dat de hypofyse stimuleert om ACTH af te geven; eerste schakel van de HPA-as.",
+    "chapter": 4,
+    "additions": [
+      "Activeert de HPA-as bij langdurige of psychologische stress.",
+      "Sarafino noemt deze stof ook 'corticotropine-releasing factor'."
+    ],
+    "importance": 4,
+    "type": "hormoon"
+  },
+  {
+    "id": "e6c1b9f4-3a8d-4e2c-85b7-4d8f1c3e6a17",
+    "term": { "nl": "Adrenocorticotroop hormoon (ACTH)", "en": "Adrenocorticotropic hormone (ACTH)" },
+    "definition": "Hormoon afgegeven door de hypofyse dat via de bloedbaan de bijnierschors aanzet tot productie van cortisol; tweede schakel van de HPA-as.",
+    "chapter": 4,
+    "additions": [
+      "ACTH stuurt alleen de bijnierschors aan (cortisol), niet het bijniermerg (adrenaline).",
+      "Het immuunsysteem zendt ook ACTH-achtige signalen terug naar de hersenen — onderdeel van de psychoneuro-immunologische feedbacklus."
+    ],
+    "importance": 4,
+    "type": "hormoon"
+  },
+  {
+    "id": "5b8d2f6c-9a1e-4f3b-87c4-6e2a8d5f1b18",
+    "term": { "nl": "HPA-as", "en": "HPA axis (hypothalamic-pituitary-adrenal axis)" },
+    "definition": "Hypothalamus-hypofyse-bijnier-as: de centrale, traag werkende stress-as waarbij CRH → ACTH → cortisol wordt afgegeven.",
+    "chapter": 4,
+    "additions": [
+      "Stappen: 1) Hypothalamus geeft CRH af → 2) Hypofyse geeft ACTH af → 3) Bijnierschors produceert cortisol.",
+      "Wordt vooral geactiveerd bij langdurige of psychologische stress.",
+      "Tegenhanger van de snellere SAM-as die adrenaline en noradrenaline produceert."
+    ],
+    "importance": 5,
+    "type": "as"
+  },
+  {
+    "id": "f3a6c9e1-4d2b-4c8e-95f7-1b6d4a2c8f19",
+    "term": { "nl": "SAM-as", "en": "SAM axis (sympathetic-adrenomedullary axis)" },
+    "definition": "Sympathisch-adrenomedullaire as: de snelle vecht-of-vluchtroute waarbij sympathische zenuwprikkeling het bijniermerg aanzet tot afgifte van adrenaline en noradrenaline.",
+    "chapter": 4,
+    "additions": [
+      "Werkt via directe zenuwbanen, niet via hormonen — vandaar de snelheid (seconden).",
+      "Levert de klassieke directe stressreacties: hartkloppingen, zweten, verhoogde ademhaling.",
+      "Aanvulling op de tragere maar langduriger HPA-as."
+    ],
+    "importance": 4,
+    "type": "as"
+  },
+  {
+    "id": "2a5e8c1f-6b9d-4f4a-83e6-7c1f5b8d2a20",
+    "term": { "nl": "Alvleesklier (pancreas)", "en": "Pancreas" },
+    "definition": "Klier die de bloedsuikerspiegel reguleert via de productie van insuline en glucagon, en daarnaast spijsverteringsenzymen produceert.",
+    "chapter": 2,
+    "additions": [
+      "Insuline verlaagt bloedsuiker (glucose → cellen).",
+      "Glucagon verhoogt bloedsuiker (glucose vrij uit de lever).",
+      "Onvoldoende insulineproductie → diabetes mellitus → hyperglycemie."
+    ],
+    "importance": 4,
+    "type": "klier"
+  },
+  {
+    "id": "8c2f4a7e-1d6b-4e9c-86a1-5d2c8f4a7e21",
+    "term": { "nl": "Insuline", "en": "Insulin" },
+    "definition": "Pancreashormoon dat de bloedsuikerspiegel verlaagt door glucose naar lichaamscellen te transporteren.",
+    "chapter": 2,
+    "additions": [
+      "Tekort → diabetes mellitus → hyperglycemie → in extreme gevallen coma of dood.",
+      "Werkt antagonistisch met glucagon."
+    ],
+    "importance": 3,
+    "type": "hormoon"
+  },
+  {
+    "id": "7d1e6c3f-8a4b-4c2e-94f8-2a7c1d6e3f22",
+    "term": { "nl": "Glucagon", "en": "Glucagon" },
+    "definition": "Pancreashormoon dat de bloedsuikerspiegel verhoogt door glucose vrij te maken uit de lever.",
+    "chapter": 2,
+    "additions": [
+      "Werkt antagonistisch met insuline.",
+      "Houdt samen met insuline de bloedsuiker in evenwicht."
+    ],
+    "importance": 3,
+    "type": "hormoon"
+  },
+  {
+    "id": "4e9b1d8f-5c7a-4f2e-86c3-8d4f1a9e2b23",
+    "term": { "nl": "Diabetes mellitus", "en": "Diabetes mellitus" },
+    "definition": "Stofwisselingsziekte waarbij onvoldoende insulineproductie leidt tot een chronisch verhoogde bloedsuikerspiegel (hyperglycemie).",
+    "chapter": 2,
+    "additions": [
+      "Onbehandeld kan dit leiden tot coma en de dood.",
+      "Cross-chapter relevant: chronische stress (cortisol) verhoogt het risico op diabetes — zie metabool syndroom."
+    ],
+    "importance": 3,
+    "type": "ziekte"
+  },
+  {
+    "id": "1f6d4a2c-9e3b-4d7c-87a5-6b3d1f4a2c24",
+    "term": { "nl": "Eierstok", "en": "Ovary" },
+    "definition": "Vrouwelijke geslachtsklier die oestrogeen produceert en eicellen tot ontwikkeling brengt.",
+    "chapter": 2,
+    "additions": [
+      "Geslachtsklieren staan onder controle van FSH en LH uit de hypofyse.",
+      "Speelt centrale rol in de menstruatiecyclus en voortplanting."
+    ],
+    "importance": 2,
+    "type": "klier"
+  },
+  {
+    "id": "5a8c3f1e-2d6b-4e4a-95f1-9c8a3f5e1d25",
+    "term": { "nl": "Oestrogeen", "en": "Estrogen" },
+    "definition": "Voornamelijk in de eierstokken geproduceerd geslachtshormoon dat de vrouwelijke geslachtsontwikkeling en eicelontwikkeling reguleert.",
+    "chapter": 2,
+    "additions": [
+      "Beïnvloedt naast voortplanting ook bloeddruk, botdichtheid en humeur.",
+      "Wordt aangestuurd door FSH en LH uit de hypofyse."
+    ],
+    "importance": 2,
+    "type": "hormoon"
+  },
+  {
+    "id": "3b7e9c5d-4f1a-4c8d-98e6-1d5b7e9c3a26",
+    "term": { "nl": "Teelbal (testikel)", "en": "Testis" },
+    "definition": "Mannelijke geslachtsklier die testosteron produceert en spermacellen tot ontwikkeling brengt.",
+    "chapter": 2,
+    "additions": [
+      "Wordt evenals de eierstokken aangestuurd door FSH en LH uit de hypofyse."
+    ],
+    "importance": 2,
+    "type": "klier"
+  },
+  {
+    "id": "c8a4f1d6-3e9b-4a7c-89f2-4e6c8a1f3d27",
+    "term": { "nl": "Testosteron", "en": "Testosterone" },
+    "definition": "Voornamelijk in de testikels geproduceerd geslachtshormoon dat de mannelijke geslachtsontwikkeling en spermaproductie reguleert.",
+    "chapter": 2,
+    "additions": [
+      "Beïnvloedt ook spierontwikkeling, botdichtheid en gedrag (bv. agressie/dominantie)."
+    ],
+    "importance": 2,
+    "type": "hormoon"
+  },
+  {
+    "id": "6e2c8f5a-1b4d-4e9f-83c7-5a2e6c8f1b28",
+    "term": { "nl": "Thymus (zwezerik)", "en": "Thymus" },
+    "definition": "Klier achter het borstbeen die een rol speelt bij de ontwikkeling van immuniteit, vooral in de kindertijd.",
+    "chapter": 2,
+    "additions": [
+      "Krimpt na de puberteit en wordt minder actief bij volwassenen.",
+      "Belangrijk voor de rijping van T-lymfocyten — link naar het immuunsysteem en specifieke afweer."
+    ],
+    "importance": 2,
+    "type": "klier"
+  },
+  {
+    "id": "9d4a1f6c-7e2b-4c3d-95a8-3f1d9a4c6e29",
+    "term": { "nl": "Allostatische belasting", "en": "Allostatic load" },
+    "definition": "De cumulatieve fysiologische slijtage van het lichaam door herhaalde of langdurige blootstelling aan stressoren, zoals chronisch verhoogde cortisol, bloeddruk en immuunontregeling.",
+    "chapter": 4,
+    "additions": [
+      "Beïnvloedende factoren: blootstellingsduur, individuele reactiviteit, herstelsnelheid, hulpbronnenherstel (bv. slaap).",
+      "Vroege stress kan via epigenetica de stressgevoeligheid op latere leeftijd verhogen.",
+      "Verklaart waarom chronische stress leidt tot hart- en vaatziekten, diabetes, depressie en infecties."
+    ],
+    "importance": 4,
+    "type": "begrip"
+  },
+  {
+    "id": "2c5f8a1e-6d3b-4f7c-87a4-1d6c2f5a8e30",
+    "term": { "nl": "Metabool syndroom", "en": "Metabolic syndrome" },
+    "definition": "Een cluster van risicofactoren — buikvet, hoge bloeddruk, ongunstig cholesterolprofiel en chronische ontstekingsactiviteit — dat de kans op chronische ziekten zoals hart- en vaatziekten en diabetes verhoogt.",
+    "chapter": 4,
+    "additions": [
+      "Stress verergert dit syndroom via aanhoudend verhoogde cortisol.",
+      "Belangrijk voorbeeld van hoe psychologische factoren via het endocriene systeem fysieke ziekte beïnvloeden."
+    ],
+    "importance": 3,
+    "type": "aandoening"
+  },
+  {
+    "id": "7a3e6c9f-4b1d-4e8a-93f5-8c4a7e3f1d31",
+    "term": { "nl": "Psychoneuro-immunologie", "en": "Psychoneuroimmunology (PNI)" },
+    "definition": "Vakgebied dat onderzoekt hoe psychosociale processen het zenuwstelsel, het endocriene systeem en het immuunsysteem wederzijds beïnvloeden.",
+    "chapter": 4,
+    "additions": [
+      "Deze drie systemen vormen een feedbacklus: zenuw- en endocriene systemen sturen het immuunsysteem aan, en het immuunsysteem signaleert terug via cytokinen en ACTH-achtige stoffen.",
+      "Verklaart waarom negatieve emoties (stress, depressie, pessimisme) de immuunfunctie verminderen."
+    ],
+    "importance": 3,
+    "type": "vakgebied"
+  },
+  {
+    "id": "4f1c7d3a-8e5b-4a6c-89d2-5e1f4c7a3b32",
+    "term": { "nl": "Neurotransmitter", "en": "Neurotransmitter" },
+    "definition": "Chemische boodschapper die door zenuwcellen wordt vrijgegeven om signalen lokaal over te brengen via de synaps tussen twee neuronen.",
+    "chapter": 2,
+    "additions": [
+      "Verschilt van hormonen door snellere maar kortere werking, kortere afstand en lokale werking.",
+      "Sommige stoffen (bv. noradrenaline) functioneren zowel als neurotransmitter als hormoon.",
+      "Voorbeeld: acetylcholine — staat in voor spierbeweging en vele autonome functies."
+    ],
+    "importance": 3,
+    "type": "begrip"
+  }
+]

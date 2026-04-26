@@ -1,4 +1,4 @@
-import type { ChapterSelection, TypeSelection } from '@/types/flashcard'
+import type { ChapterSelection, SourceSelection, TypeSelection } from '@/types/flashcard'
 
 /** Opgeslagen sessieresultaat (genormaliseerd: arrays; leeg = alle). */
 export type StoredSessionResult = {
@@ -6,6 +6,7 @@ export type StoredSessionResult = {
   finishedAt: string
   chapters: ChapterSelection
   types: TypeSelection
+  sources: SourceSelection
   requestedCount: number
   correct: number
   incorrect: number

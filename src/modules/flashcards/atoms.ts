@@ -3,11 +3,13 @@ import { atom } from 'jotai'
 import type {
   ChapterSelection,
   Flashcard,
+  SourceSelection,
   TypeSelection,
 } from '@/types/flashcard'
 
 export const setupChapterAtom = atom<ChapterSelection>([])
 export const setupTypeAtom = atom<TypeSelection>([])
+export const setupSourceAtom = atom<SourceSelection>([])
 /** Gekozen aantal kaarten in deze sessie (max = beschikbaar na filters). */
 export const setupCountAtom = atom<number>(10)
 

@@ -18,13 +18,14 @@ import {
   sessionScoresAtom,
   setupChapterAtom,
   setupCountAtom,
+  setupSourceAtom,
   setupTypeAtom,
 } from '@/modules/flashcards/atoms'
 import {
   appendFlashcardResult,
   loadFlashcardResults,
 } from '@/modules/flashcards/flashcardStorage'
-import { formatChaptersLabel, formatTypesLabel } from '@/modules/flashcards/formatLabels'
+import { formatChaptersLabel, formatSourcesLabel, formatTypesLabel } from '@/modules/flashcards/formatLabels'
 import { cn } from '@/lib/utils'
 
 export function FlashcardsResultsPage() {
@@ -32,11 +33,13 @@ export function FlashcardsResultsPage() {
   const scores = useAtomValue(sessionScoresAtom)
   const chapters = useAtomValue(setupChapterAtom)
   const types = useAtomValue(setupTypeAtom)
+  const sources = useAtomValue(setupSourceAtom)
   const sessionId = useAtomValue(sessionIdAtom)
   const setDeck = useSetAtom(activeDeckAtom)
   const setSessionId = useSetAtom(sessionIdAtom)
   const setChapters = useSetAtom(setupChapterAtom)
   const setTypes = useSetAtom(setupTypeAtom)
+  const setSources = useSetAtom(setupSourceAtom)
   const setCount = useSetAtom(setupCountAtom)
 
   const total = deck?.length ?? 0
@@ -56,12 +59,13 @@ export function FlashcardsResultsPage() {
       finishedAt: new Date().toISOString(),
       chapters,
       types,
+      sources,
       requestedCount: deck.length,
       correct: scores.correct,
       incorrect: scores.incorrect,
       unsure: scores.unsure,
     })
-  }, [chapters, deck, scores, sessionId, types])
+  }, [chapters, deck, scores, sessionId, sources, types])
 
   const clearSession = () => {
     setDeck(null)
@@ -71,6 +75,7 @@ export function FlashcardsResultsPage() {
   const resetFiltersAndGo = () => {
     setChapters([])
     setTypes([])
+    setSources([])
     setCount(10)
     clearSession()
   }
@@ -119,6 +124,12 @@ export function FlashcardsResultsPage() {
               <span className="font-medium text-foreground">Type:</span>{' '}
               {formatTypesLabel(types)}
             </p>
+            {sources.length > 0 && (
+              <p>
+                <span className="font-medium text-foreground">Bron:</span>{' '}
+                {formatSourcesLabel(sources)}
+              </p>
+            )}
           </div>
         </CardContent>
       </Card>
