@@ -1,0 +1,462 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4e5f-8a9b-c0d1e2f30001",
+    "term": {
+      "nl": "Centraal zenuwstelsel (CZS)",
+      "en": "Central nervous system (CNS)"
+    },
+    "definition": "Het deel van het zenuwstelsel dat bestaat uit de hersenen en het ruggenmerg; fungeert als controlecentrum voor het hele lichaam.",
+    "chapter": 2,
+    "additions": [
+      "Controleert lichaamsactiviteit door elektrochemische berichten via neuronen te verzenden en te ontvangen.",
+      "Wordt verbonden met de rest van het lichaam via het perifeer zenuwstelsel (PZS).",
+      "Kernwoord in de leerdoelen van H2 Module 1."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0002-4e5f-8a9b-c0d1e2f30002",
+    "term": {
+      "nl": "Perifeer zenuwstelsel (PZS)",
+      "en": "Peripheral nervous system (PNS)"
+    },
+    "definition": "Het netwerk van neuronen buiten het CZS dat het lichaam verbindt met de hersenen en het ruggenmerg.",
+    "chapter": 2,
+    "additions": [
+      "Onderverdeeld in het somatisch zenuwstelsel en het autonoom zenuwstelsel.",
+      "Bestaat uit afferente (sensorische) en efferente (motorische) neuronen.",
+      "Communicatie binnen het PZS wordt verzorgd door 12 paar hersenzenuwen, grotendeels afkomstig uit de hersenstam."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0003-4e5f-8a9b-c0d1e2f30003",
+    "term": { "nl": "Somatisch zenuwstelsel", "en": "Somatic nervous system" },
+    "definition": "Onderdeel van het PZS dat verantwoordelijk is voor bewuste sensorische en motorische functies, gericht op de huid en skeletspieren.",
+    "chapter": 2,
+    "additions": [
+      "Afferente neuronen brengen sensorische signalen van de zintuigen naar het ruggenmerg.",
+      "Efferente neuronen sturen motorische signalen naar dwarsgestreepte skeletspieren voor vrijwillige beweging.",
+      "Aandoening: myasthenia gravis verstoort de communicatie tussen zenuwen en spieren → spierzwakte, hangende oogleden, slik- en ademhalingsproblemen.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0004-4e5f-8a9b-c0d1e2f30004",
+    "term": { "nl": "Autonoom zenuwstelsel", "en": "Autonomic nervous system" },
+    "definition": "Onderdeel van het PZS dat onbewust de interne organen aanstuurt en hun activiteit rapporteert aan de hersenen.",
+    "chapter": 2,
+    "additions": [
+      "Stuurt signalen tussen het ruggenmerg en gladde spieren van interne organen (hart, maag, longen, bloedvaten en klieren).",
+      "Bestaat uit twee antagonistische delen: het sympathisch en het parasympathisch zenuwstelsel.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0005-4e5f-8a9b-c0d1e2f30005",
+    "term": {
+      "nl": "Sympathisch zenuwstelsel",
+      "en": "Sympathetic nervous system"
+    },
+    "definition": "Onderdeel van het autonoom zenuwstelsel dat het lichaam activeert bij stress en noodsituaties door energie te mobiliseren (vecht-of-vlucht).",
+    "chapter": 2,
+    "additions": [
+      "Effecten: versnelde hartslag, verwijding slagaders naar hart en spieren, vernauwing slagaders naar huid en spijsverteringsorganen, verhoogde transpiratie, verminderde speekselproductie.",
+      "Wordt 'sympathisch' genoemd omdat het reageert op emotionele toestanden.",
+      "Relevant voor stresshoofdstuk (H3/H4): HPA-as en sympathisch systeem werken samen bij stressrespons.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0006-4e5f-8a9b-c0d1e2f30006",
+    "term": {
+      "nl": "Parasympathisch zenuwstelsel",
+      "en": "Parasympathetic nervous system"
+    },
+    "definition": "Onderdeel van het autonoom zenuwstelsel dat het lichaam kalmeert na stress en energie conserveert en opslaat.",
+    "chapter": 2,
+    "additions": [
+      "Effecten: bevordert spijsvertering (verhoogde speekselproductie en maagcontracties), verlaagt hartslag, herstelt het lichaam na emotionele activatie.",
+      "Werkt tegengesteld aan het sympathisch zenuwstelsel.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0007-4e5f-8a9b-c0d1e2f30007",
+    "term": { "nl": "Cerebrum (grote hersenen)", "en": "Cerebrum" },
+    "definition": "Het grootste hersendeel, onderdeel van de voorhersenen, dat motoriek, mentale activiteit, taal, waarneming en redeneren controleert.",
+    "chapter": 2,
+    "additions": [
+      "Bestaat uit twee hersenhelften: links (redeneren, taal, wiskunde) en rechts (beeldvorming, emoties, patronen).",
+      "Verdeeld in vier kwabben: frontaal, pariëtaal, occipitaal en temporaal.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0008-4e5f-8a9b-c0d1e2f30008",
+    "term": { "nl": "Frontale kwab", "en": "Frontal lobe" },
+    "definition": "Kwab van het cerebrum die verantwoordelijk is voor motoriek, planning en emotie.",
+    "chapter": 2,
+    "additions": [
+      "Schade aan de frontale kwab kan leiden tot persoonlijkheidsveranderingen en emotionele stoornissen.",
+      "Onderdeel van de vier kwabben van het cerebrum (frontaal, pariëtaal, occipitaal, temporaal)."
+    ],
+    "importance": 4,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0009-4e5f-8a9b-c0d1e2f30009",
+    "term": { "nl": "Pariëtale kwab", "en": "Parietal lobe" },
+    "definition": "Kwab van het cerebrum die verantwoordelijk is voor de verwerking van gevoel, pijn en beweging.",
+    "chapter": 2,
+    "additions": [
+      "Ontvangt somatosensorische informatie van de huid en het lichaam.",
+      "Onderdeel van de vier kwabben van het cerebrum."
+    ],
+    "importance": 4,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0010-4e5f-8a9b-c0d1e2f30010",
+    "term": { "nl": "Occipitale kwab", "en": "Occipital lobe" },
+    "definition": "Kwab van het cerebrum die verantwoordelijk is voor visuele verwerking.",
+    "chapter": 2,
+    "additions": [
+      "Schade aan de occipitale kwab kan leiden tot blindheid of onvermogen om objecten visueel te herkennen.",
+      "Onderdeel van de vier kwabben van het cerebrum."
+    ],
+    "importance": 4,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0011-4e5f-8a9b-c0d1e2f30011",
+    "term": { "nl": "Temporale kwab", "en": "Temporal lobe" },
+    "definition": "Kwab van het cerebrum die verantwoordelijk is voor gehoor, geheugen en taalbegrip.",
+    "chapter": 2,
+    "additions": [
+      "Schade kan het begrip van spraak aantasten en het vermogen om de richting van een geluid te bepalen.",
+      "Onderdeel van de vier kwabben van het cerebrum."
+    ],
+    "importance": 4,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0012-4e5f-8a9b-c0d1e2f30012",
+    "term": { "nl": "Limbisch systeem", "en": "Limbic system" },
+    "definition": "Groep van hersenstructuren in de voorhersenen die betrokken zijn bij de expressie van emoties zoals angst, boosheid en opwinding.",
+    "chapter": 2,
+    "additions": [
+      "Onderdeel van het telencephalon, samen met het cerebrum.",
+      "Speelt een rol bij emotionele verwerking; relevant bij stressreacties (H3)."
+    ],
+    "importance": 3,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0013-4e5f-8a9b-c0d1e2f30013",
+    "term": { "nl": "Thalamus", "en": "Thalamus" },
+    "definition": "Hersenstructuur in het diencephalon die fungeert als schakelstation: verwerkt en stuurt sensorische informatie door naar de juiste hersendelen.",
+    "chapter": 2,
+    "additions": [
+      "Verwerkt ook motorische commando's van de motorische cortex naar de skeletspieren.",
+      "Onderscheid met hypothalamus: thalamus = doorgeven van informatie; hypothalamus = reguleren van homeostase.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0014-4e5f-8a9b-c0d1e2f30014",
+    "term": { "nl": "Hypothalamus", "en": "Hypothalamus" },
+    "definition": "Hersenstructuur in het diencephalon die homeostase reguleert en een sleutelrol speelt bij emoties, honger, dorst, stress en seksuele activiteit.",
+    "chapter": 2,
+    "additions": [
+      "Homeostase = een staat van evenwicht of normale functie tussen lichaamssystemen.",
+      "Stuurt bij stress de HPA-as aan via corticotropine-releasing factor (CRF) → hypofyse → bijnieren (H3).",
+      "Verbindt het zenuwstelsel met het endocriene systeem via de hypofyse.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0015-4e5f-8a9b-c0d1e2f30015",
+    "term": { "nl": "Cerebellum (kleine hersenen)", "en": "Cerebellum" },
+    "definition": "Hersenstructuur aan de achterkant van de hersenen die beweging coördineert en het evenwicht van het lichaam bewaart.",
+    "chapter": 2,
+    "additions": [
+      "Vergelijkt de intentie en de uitvoering van bewegingen; dempt ongecontroleerde trillingen.",
+      "Schade → ataxie (ongecoördineerde bewegingen).",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0016-4e5f-8a9b-c0d1e2f30016",
+    "term": { "nl": "Hersenstam", "en": "Brainstem" },
+    "definition": "Het laagste deel van de hersenen dat basale levensfuncties reguleert; bestaat uit de middenhersenen, het reticulair systeem, de pons en de medulla.",
+    "chapter": 2,
+    "additions": [
+      "Middenhersenen (midbrain): spierbeweging en visuele/auditieve informatie; degeneratie gelinkt aan Parkinson.",
+      "Reticulair systeem: regulatie van slaap, opwinding en aandacht.",
+      "Pons: oogbeweging, gezichtsuitdrukking en kauwen.",
+      "Medulla: reguleert hartslag, ademhaling en bloeddruk — schade is levensbedreigend.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0017-4e5f-8a9b-c0d1e2f30017",
+    "term": { "nl": "Medulla", "en": "Medulla oblongata" },
+    "definition": "Onderdeel van de hersenstam dat vitale functies reguleert: hartslag, ademhaling en bloeddruk.",
+    "chapter": 2,
+    "additions": [
+      "Schade aan de medulla is levensbedreigend.",
+      "Polio beschadigde soms het centrum in de medulla dat de ademhaling regelt."
+    ],
+    "importance": 4,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0018-4e5f-8a9b-c0d1e2f30018",
+    "term": { "nl": "Pons", "en": "Pons" },
+    "definition": "Onderdeel van de hersenstam betrokken bij oogbeweging, gezichtsuitdrukking en kauwen.",
+    "chapter": 2,
+    "additions": [
+      "Vaak verward met het reticulair systeem (slaap/opwinding) — de pons focust op gezicht en oogfuncties.",
+      "Onderdeel van de hersenstam, samen met medulla, middenhersenen en reticulair systeem."
+    ],
+    "importance": 4,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0019-4e5f-8a9b-c0d1e2f30019",
+    "term": { "nl": "Reticulair systeem", "en": "Reticular system" },
+    "definition": "Netwerk van neuronen dat van de hersenstam naar de thalamus loopt en een sleutelrol speelt bij de regulatie van slaap, opwinding en aandacht.",
+    "chapter": 2,
+    "additions": [
+      "Onderdeel van de hersenstam.",
+      "Relevant voor bewustzijn en alertheid."
+    ],
+    "importance": 3,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0020-4e5f-8a9b-c0d1e2f30020",
+    "term": { "nl": "Ruggenmerg", "en": "Spinal cord" },
+    "definition": "Het deel van het CZS dat de hersenen via zenuwbanen verbindt met het lichaam; bestaat uit afferente en efferente zenuwen.",
+    "chapter": 2,
+    "additions": [
+      "Schade kan leiden tot paraplegie (verlamming van de benen) of tetraplegie (verlamming van armen én benen).",
+      "Organisatie is parallel aan het lichaam: hoe hoger de schade, hoe meer lichaamsdelen verlam zijn.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0021-4e5f-8a9b-c0d1e2f30021",
+    "term": { "nl": "Neurotransmitters", "en": "Neurotransmitters" },
+    "definition": "Chemische boodschappers die in de synaps worden afgegeven en signalen tussen neuronen stimuleren of remmen.",
+    "chapter": 2,
+    "additions": [
+      "Voorbeelden: dopamine, serotonine.",
+      "Sommige stoffen functioneren zowel als neurotransmitter als hormoon.",
+      "Kernwoord in de leerdoelen van H2."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0022-4e5f-8a9b-c0d1e2f30022",
+    "term": { "nl": "Neuron", "en": "Neuron" },
+    "definition": "Zenuwcel die elektrochemische signalen doorgeeft; bestaat uit een cellichaam, dendrieten en een axon.",
+    "chapter": 2,
+    "additions": [
+      "Dendrieten ontvangen signalen van andere neuronen.",
+      "Het axon stuurt signalen door naar het volgende neuron via de synaptische knop.",
+      "Epilepsie ontstaat wanneer neuronen ongecontroleerd vuren."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0023-4e5f-8a9b-c0d1e2f30023",
+    "term": { "nl": "Synaps", "en": "Synapse" },
+    "definition": "De ruimte (opening) tussen de axonuiteindes van het presynaptisch neuron en het cellichaam of de dendrieten van het postsynaptisch neuron, waar signalen elektrochemisch worden overgedragen.",
+    "chapter": 2,
+    "additions": [
+      "Signaaloverdracht vindt plaats via neurotransmitters.",
+      "Basis van alle communicatie in het zenuwstelsel."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0024-4e5f-8a9b-c0d1e2f30024",
+    "term": { "nl": "Myelineschede", "en": "Myelin sheath" },
+    "definition": "Isolerende vetlaag rond axonen die de snelheid van elektrische impulsen verhoogt en storing tussen zenuwen voorkomt.",
+    "chapter": 2,
+    "additions": [
+      "Beschadiging van de myelineschede → multiple sclerose (MS): spierzwakte en coördinatieproblemen.",
+      "Myeline neemt toe tijdens de hersenontwikkeling in de vroege kinderjaren."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0025-4e5f-8a9b-c0d1e2f30025",
+    "term": { "nl": "Afferente neuronen", "en": "Afferent neurons" },
+    "definition": "Sensorische neuronen die signalen van de zintuigen naar het ruggenmerg en de hersenen transporteren.",
+    "chapter": 2,
+    "additions": [
+      "Tegengesteld aan efferente neuronen, die motorische signalen van het CZS naar de spieren sturen.",
+      "Onderdeel van het somatisch zenuwstelsel."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0026-4e5f-8a9b-c0d1e2f30026",
+    "term": { "nl": "Efferente neuronen", "en": "Efferent neurons" },
+    "definition": "Motorische neuronen die signalen van het CZS naar de skeletspieren sturen voor vrijwillige beweging.",
+    "chapter": 2,
+    "additions": [
+      "Tegengesteld aan afferente neuronen (sensorisch).",
+      "Onderdeel van het somatisch zenuwstelsel."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0027-4e5f-8a9b-c0d1e2f30027",
+    "term": { "nl": "Paraplegie", "en": "Paraplegia" },
+    "definition": "Verlamming van de benen als gevolg van ruggenmergschade.",
+    "chapter": 2,
+    "additions": [
+      "Onderscheid met tetraplegie: paraplegie = benen; tetraplegie = armen én benen.",
+      "'Para' = gedeeltelijk/naast → enkel de onderste ledematen."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0028-4e5f-8a9b-c0d1e2f30028",
+    "term": { "nl": "Tetraplegie", "en": "Tetraplegia" },
+    "definition": "Verlamming van armen, benen en romp als gevolg van hoge ruggenmergschade (ter hoogte van de nek).",
+    "chapter": 2,
+    "additions": [
+      "'Tetra' = vier → alle vier de ledematen aangetast.",
+      "Onderscheid met paraplegie: paraplegie = enkel benen."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0029-4e5f-8a9b-c0d1e2f30029",
+    "term": { "nl": "Ataxie", "en": "Ataxia" },
+    "definition": "Ongecoördineerde bewegingen als gevolg van schade aan het cerebellum.",
+    "chapter": 2,
+    "additions": [
+      "Het cerebellum coördineert beweging en evenwicht; schade verstoort dit.",
+      "Belangrijk onderscheid: ataxie = cerebellumschade; paraplegie/tetraplegie = ruggenmergschade."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0030-4e5f-8a9b-c0d1e2f30030",
+    "term": { "nl": "Multiple sclerose (MS)", "en": "Multiple sclerosis (MS)" },
+    "definition": "Aandoening waarbij de myelineschede rond axonen degenereerde, wat leidt tot vertraagde signaaloverdracht, spierzwakte en coördinatieproblemen.",
+    "chapter": 2,
+    "additions": [
+      "Oorzaak: beschadiging van de myelineschede (isolerende vetlaag rond axonen).",
+      "Verschil met Parkinson: MS = myelineschade; Parkinson = degeneratie van middenhersenen."
+    ],
+    "importance": 4,
+    "type": "ziekte",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0031-4e5f-8a9b-c0d1e2f30031",
+    "term": { "nl": "Parkinson", "en": "Parkinson's disease" },
+    "definition": "Neurologische aandoening veroorzaakt door degeneratie van hersengebieden in of verbonden met de middenhersenen (midbrain), wat leidt tot bewegingsproblemen.",
+    "chapter": 2,
+    "additions": [
+      "Middenhersenen zijn verantwoordelijk voor spierbeweging en visuele/auditieve informatie.",
+      "Verschil met MS: Parkinson = middenhersenen; MS = myelineschade."
+    ],
+    "importance": 4,
+    "type": "ziekte",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0032-4e5f-8a9b-c0d1e2f30032",
+    "term": { "nl": "Homeostase", "en": "Homeostasis" },
+    "definition": "Een staat van evenwicht of normale functie tussen de lichaamssystemen, gereguleerd door onder andere de hypothalamus.",
+    "chapter": 2,
+    "additions": [
+      "De hypothalamus is het centrale orgaan voor homeostaseregulatie.",
+      "Relevant bij stressreacties: stress verstoort de homeostase (H3)."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  },
+  {
+    "id": "a1b2c3d4-0033-4e5f-8a9b-c0d1e2f30033",
+    "term": { "nl": "Vagus zenuw", "en": "Vagus nerve" },
+    "definition": "Hersenzenuw die zich uitstrekt naar belangrijke organen zoals de luchtwegen, longen, hart en darmen, en een sleutelrol speelt in de regulatie van het autonoom zenuwstelsel.",
+    "chapter": 2,
+    "additions": [
+      "Beïnvloedt zowel sympathische als parasympathische activiteit.",
+      "Onderdeel van de 12 paar hersenzenuwen die communicatie binnen het PZS verzorgen."
+    ],
+    "importance": 3,
+    "type": "anatomie",
+    "source": "flashcards_h2_module1_zenuwstelsel.json"
+  }
+]

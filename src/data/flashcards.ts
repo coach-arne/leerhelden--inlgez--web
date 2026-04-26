@@ -3,6 +3,7 @@ import type { Flashcard } from '@/types/flashcard'
 import flashcardsH1 from './flashcards/flashcards_h1.json'
 import flashcardsH2 from './flashcards/flashcards_h2.json'
 import flashcardsHM2 from './flashcards/flashcards_h2-M2.json'
+import flashcardsHM1 from './flashcards/flashcards_h2-M1.json'
 import flashcardsH3 from './flashcards/flashcards_h3.json'
 
 type SourceEntry = { source: string; cards: Omit<Flashcard, 'source'>[] }
@@ -11,6 +12,7 @@ const SOURCE_ENTRIES: SourceEntry[] = [
   { source: 'flashcards_h1.json', cards: flashcardsH1 as Omit<Flashcard, 'source'>[] },
   { source: 'flashcards_h2.json', cards: flashcardsH2 as Omit<Flashcard, 'source'>[] },
   { source: 'flashcards_h2-M2.json', cards: flashcardsHM2 as Omit<Flashcard, 'source'>[] },
+  { source: 'flashcards_h2-M1.json', cards: flashcardsHM1 as Omit<Flashcard, 'source'>[] },
   { source: 'flashcards_h3.json', cards: flashcardsH3 as Omit<Flashcard, 'source'>[] },
 ]
 
