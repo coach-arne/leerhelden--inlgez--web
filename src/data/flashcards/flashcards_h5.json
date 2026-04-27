@@ -1,0 +1,439 @@
+[
+  {
+    "id": "fc-h5-007",
+    "term": {
+      "nl": "Coping",
+      "en": "Coping"
+    },
+    "definition": "Het proces waarmee mensen proberen om te gaan met de waargenomen discrepantie tussen de eisen en de middelen die ze inschatten in een stressvolle situatie. Coping betekent beheren, niet per se oplossen.",
+    "chapter": 5,
+    "additions": [
+      "Volgens Lazarus heeft coping twee hoofdfuncties: emotiegerichte coping (reguleren van emotionele reacties) en probleemgerichte coping (de stressor zelf veranderen).",
+      "Coping is een dynamisch proces: voortdurend (her)inschatten van situaties; gedrag en omgeving beïnvloeden elkaar continu.",
+      "Mensen gebruiken meestal meerdere strategieën tegelijk; consistentie, combinatie, duurafhankelijkheid en genetische invloed bepalen het gebruikspatroon.",
+      "Bij oplosbare problemen werkt probleemgerichte coping meestal beter; bij onveranderlijke situaties is emotiegerichte coping vaak passender.",
+      "Relatiegerichte (dyadische) coping richt zich op het beheren van sociale relaties tijdens stressvolle perioden."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h5-010",
+    "term": {
+      "nl": "Emotiegericht",
+      "en": "Emotion-focused"
+    },
+    "definition": "Vorm van coping gericht op het reguleren van eigen cognities en emotionele reacties op een stressvolle situatie, in plaats van op het aanpakken van het probleem zelf. Toegepast wanneer mensen denken dat ze weinig aan de situatie zelf kunnen veranderen.",
+    "chapter": 5,
+    "additions": [
+      "Lazarus onderscheidt deze functie van coping naast probleemgerichte coping.",
+      "Gedragsmatige strategieën: alcohol/drugs gebruiken, ontspanning zoeken in sport of tv, steun zoeken bij anderen.",
+      "Cognitieve strategieën: herdefiniëren van de situatie, ontkenning (Freudiaans afweermechanisme).",
+      "Effectiviteit van vermijding (zoals ontkenning) is meestal beperkt tot de eerste weken; daarna is aandacht beter.",
+      "Vrouwen, mensen met lagere SES en oudere personen rapporteren gemiddeld vaker emotiegerichte coping; ook in Aziatische, Afrikaanse en Latijns-Amerikaanse culturen vaker."
+    ],
+    "importance": 5,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-007"
+  },
+  {
+    "id": "fc-h5-017",
+    "term": {
+      "nl": "Probleemgericht",
+      "en": "Problem-focused"
+    },
+    "definition": "Vorm van coping gericht op het probleem of de stressvolle situatie zelf, met als doel deze te verminderen of de eigen hulpbronnen uit te breiden. Toegepast wanneer mensen geloven dat ze invloed kunnen uitoefenen op de situatie.",
+    "chapter": 5,
+    "additions": [
+      "Lazarus onderscheidt deze functie van coping naast emotiegerichte coping.",
+      "Voorbeelden: van baan veranderen, betalingsregeling treffen, behandelplan volgen, nieuwe vaardigheden leren, een actieplan opstellen.",
+      "Effectiever bij oplosbare problemen; minder geschikt bij onveranderlijke situaties.",
+      "Mannen, mensen met hogere SES/opleiding en blanke Amerikanen rapporteren vaker probleemgerichte coping.",
+      "Proactieve coping (preventief stress voorkomen) leunt sterk op probleemgerichte strategieën zoals tijdig plannen."
+    ],
+    "importance": 5,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-007"
+  },
+  {
+    "id": "fc-h5-004",
+    "term": {
+      "nl": "Cognitieve herdefinitie",
+      "en": "Cognitive redefinition"
+    },
+    "definition": "Emotiegerichte cognitieve copingstrategie waarbij men het probleem in een positiever licht gaat zien door de situatie anders te interpreteren (bv. 'Het had erger kunnen zijn').",
+    "chapter": 5,
+    "additions": [
+      "Voorbeeld uit het boek: een 73-jarige vrouw met borstkanker zegt 'Ik ben 73, wat moet ik nog met een borst?' om de situatie draaglijker te maken.",
+      "Verschilt subtiel van positieve herbeoordeling: herdefinitie focust op herinterpreteren van wat het probleem ís, herbeoordeling op hoe ernstig/zwaar het is.",
+      "Sluit aan bij Beck en Ellis' idee dat denkpatronen bepalen hoe stressvol een situatie wordt beoordeeld."
+    ],
+    "importance": 3,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-010"
+  },
+  {
+    "id": "fc-h5-011",
+    "term": {
+      "nl": "Emotionele ontlading",
+      "en": "Emotional discharge"
+    },
+    "definition": "Emotiegerichte gedragsmatige copingstrategie waarbij men emoties uit (huilen, schreeuwen, klagen) of humor gebruikt om opgekropte spanning af te voeren.",
+    "chapter": 5,
+    "additions": [
+      "Onderdeel van Moos & Schaefer's typologie van vermijdende coping (avoidance coping).",
+      "Emotionele expressie heeft positieve effecten zoals minder distress, maar te veel emotionele verwerking kan leiden tot piekeren en stress verergeren.",
+      "Typisch voorbeeld van een gedragsmatige (i.t.t. cognitieve) emotiegerichte strategie."
+    ],
+    "importance": 3,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-010"
+  },
+  {
+    "id": "fc-h5-012",
+    "term": {
+      "nl": "Intrapsychische processen",
+      "en": "Intrapsychic processes"
+    },
+    "definition": "Emotiegerichte cognitieve copingstrategieën waarbij men de stressvolle situatie cognitief herinterpreteert of vervormt om er beter mee om te gaan, zonder de externe situatie te veranderen.",
+    "chapter": 5,
+    "additions": [
+      "Omvat klassieke Freudiaanse afweermechanismen zoals ontkenning, verdringing en rationalisatie.",
+      "Effectiviteit van ontkenning is meestal beperkt tot de eerste weken van een langdurige stressor; daarna is actief copen effectiever.",
+      "Wordt vooral ingezet wanneer men ervaart weinig invloed te hebben op de situatie zelf."
+    ],
+    "importance": 3,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-010"
+  },
+  {
+    "id": "fc-h5-016",
+    "term": {
+      "nl": "Positieve herbeoordeling",
+      "en": "Positive reappraisal"
+    },
+    "definition": "Emotiegerichte cognitieve copingstrategie waarbij men een stressor anders, positiever beoordeelt — bijvoorbeeld door er een leerervaring of groeikans in te zien.",
+    "chapter": 5,
+    "additions": [
+      "Sluit aan bij de copingstrategie 'betekenis vinden in stressvolle situaties': geassocieerd met minder depressie en groter welzijn.",
+      "Voorbeelden: na verlies vrijwilliger worden voor ziekteonderzoek; hechtere relaties ervaren na een natuurramp.",
+      "Hoort bij approach coping (i.t.t. avoidance coping) in de Moos & Schaefer-typologie.",
+      "Conceptueel verwant aan cognitieve herstructurering (H5-techniek), maar herbeoordeling is een spontane copingstijl, herstructurering een aangeleerde therapeutische techniek."
+    ],
+    "importance": 4,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-010"
+  },
+  {
+    "id": "fc-h5-020",
+    "term": {
+      "nl": "Berustende acceptatie",
+      "en": "Resigned acceptance"
+    },
+    "definition": "Emotiegerichte copingstrategie waarbij men berust in de stressvolle situatie en deze accepteert zoals die is, zonder pogingen om er iets aan te veranderen.",
+    "chapter": 5,
+    "additions": [
+      "Onderdeel van Moos & Schaefer's vermijdende coping (avoidance, cognitief).",
+      "Komt vaker voor bij ouderen, omdat zij stressoren als minder veranderbaar inschatten dan jongeren.",
+      "Verwant aan accommodatie: aanpassen aan het stressvolle feit zonder het te veranderen (bv. mensen met chronische pijn die hun pijn accepteren en doorgaan met dagelijkse activiteiten)."
+    ],
+    "importance": 3,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-010"
+  },
+  {
+    "id": "fc-h5-008",
+    "term": {
+      "nl": "Directe actie",
+      "en": "Direct action"
+    },
+    "definition": "Probleemgerichte gedragsmatige copingstrategie waarbij men concrete actie onderneemt gericht op het verminderen of oplossen van de stressor.",
+    "chapter": 5,
+    "additions": [
+      "Onderdeel van Moos & Schaefer's approach coping (gedrag).",
+      "Voorbeelden: van baan veranderen, betalingsregeling treffen, een behandelplan volgen, een studieschema opstellen.",
+      "Effectief bij oplosbare problemen; minder geschikt bij onveranderlijke situaties (zoals een ongeneeslijke diagnose)."
+    ],
+    "importance": 3,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-017"
+  },
+  {
+    "id": "fc-h5-021",
+    "term": {
+      "nl": "Informatie vergaren",
+      "en": "Seeking information"
+    },
+    "definition": "Probleemgerichte copingstrategie waarbij men actief informatie verzamelt over de stressor om beter geïnformeerde beslissingen te kunnen nemen.",
+    "chapter": 5,
+    "additions": [
+      "Onderdeel van Moos & Schaefer's approach coping ('seeking guidance and support').",
+      "Voorbereiding op stressvolle gebeurtenissen via informatieve controle (Janis): weten wat je te wachten staat verlaagt stress.",
+      "Let op: bij kinderen en sterk angstige mensen niet te veel details geven, maar sensorisch uitleggen (welke geluiden/gevoelens te verwachten).",
+      "Sterke link met self-efficacy: meer kennis leidt tot meer vertrouwen in eigen kunnen."
+    ],
+    "importance": 3,
+    "type": "copingstrategie",
+    "aggregate": "fc-h5-017"
+  },
+  {
+    "id": "fc-h5-013",
+    "term": {
+      "nl": "Indringende gedachten",
+      "en": "Intrusive thoughts"
+    },
+    "definition": "Zich steeds weer opdringende gedachten over een stressvolle gebeurtenis, vaak na een trauma. De persoon kan deze gedachten niet (of moeilijk) bewust onderdrukken.",
+    "chapter": 5,
+    "additions": [
+      "Komen vaak voor bij PTSS en na ernstige stressoren zoals een ongeval, ziekenhuisopname of verlies.",
+      "Worden in de stress-en-coping-literatuur gezien als signaal dat verwerking nog niet voltooid is.",
+      "Cognitieve technieken zoals cognitieve herstructurering en cognitieve therapie kunnen helpen om de impact ervan te verminderen.",
+      "Ook relevant in H4 (stress en ziekte) als marker voor onverwerkte stress en verhoogd ziekterisico."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h5-023",
+    "term": {
+      "nl": "Stressmanagement",
+      "en": "Stress management"
+    },
+    "definition": "Geheel van gedragsmatige en cognitieve technieken om psychische en lichamelijke stressreacties te verminderen of effectief mee om te gaan.",
+    "chapter": 5,
+    "additions": [
+      "Wordt ingezet wanneer aangeleerde coping vaardigheden onvoldoende zijn bij nieuwe of intense stressoren.",
+      "Combineert relaxatie, cognitieve technieken en gedragstechnieken; soms aangevuld met medicatie onder medisch toezicht.",
+      "Onderzoek toont aan: meerdere technieken samen werken beter dan één enkele techniek; meditatie blijkt effectiever dan andere enkelvoudige methoden.",
+      "Cognitieve en gedragsmatige programma's zijn voor stressreductie even effectief als medicatie, en verlagen aantoonbaar bloeddruk en medicatiebehoefte.",
+      "Bedrijfstrainingen op de werkvloer zijn effectief, maar kennen lage deelname en therapietrouw als knelpunt."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h5-001",
+    "term": {
+      "nl": "Benzodiazepinen",
+      "en": "Benzodiazepines"
+    },
+    "definition": "Medicijnen tegen angst en stress (bv. Valium, Xanax) die een neurotransmitter (GABA) activeren die zenuwimpulsen in het centrale zenuwstelsel remt.",
+    "chapter": 5,
+    "additions": [
+      "Effect: vermindering van angst en lichamelijke arousal, maar kunnen slaperigheid veroorzaken.",
+      "Bedoeld voor korte termijngebruik, bijvoorbeeld na overlijden van een geliefde of tijdens het aanleren van andere copingtechnieken.",
+      "Risico op afhankelijkheid bij langdurig gebruik."
+    ],
+    "importance": 4,
+    "type": "medicijn",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-002",
+    "term": {
+      "nl": "Bètablokker",
+      "en": "Beta-blocker"
+    },
+    "definition": "Medicijn (bv. Inderal/propranolol) dat de bèta-adrenerge receptoren blokkeert en daarmee de effecten van epinefrine (adrenaline) en norepinefrine (noradrenaline) in het perifere zenuwstelsel remt.",
+    "chapter": 5,
+    "additions": [
+      "Effect: minder angst, lagere bloeddruk en hartslag, en minder sufheid dan benzodiazepinen.",
+      "Wordt ingezet bij intense of langdurige stress en bij hypertensie.",
+      "Sluit aan bij H4-stof: stressrespons verloopt via catecholamines (adrenaline, noradrenaline) → bètablokker remt die werking gericht."
+    ],
+    "importance": 4,
+    "type": "medicijn",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-009",
+    "term": {
+      "nl": "Diuretica",
+      "en": "Diuretics"
+    },
+    "definition": "Bloedvolumeverlagende medicijnen die de nieren stimuleren tot meer urineproductie, waardoor de bloeddruk daalt.",
+    "chapter": 5,
+    "additions": [
+      "In H5 genoemd in de context van farmacologische ondersteuning bij stressgerelateerde hypertensie.",
+      "Vaak gebruikt in combinatie met andere antihypertensiva of bètablokkers.",
+      "Minder centraal in de leerdoelen dan benzodiazepinen en bètablokkers; kennis van werking volstaat."
+    ],
+    "importance": 2,
+    "type": "medicijn",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-019",
+    "term": {
+      "nl": "Progressieve spierrelaxatie",
+      "en": "Progressive muscle relaxation"
+    },
+    "definition": "Stressreducerende techniek waarbij men systematisch spiergroepen aanspant en weer ontspant om bewust te worden van spierspanning en zo lichamelijke en psychische ontspanning te bereiken.",
+    "chapter": 5,
+    "additions": [
+      "Ontwikkeld door Edmund Jacobson (1938).",
+      "Standaardvolgorde: handen → gezicht → nek → buik → benen; per spiergroep 7-10 sec aanspannen, ~15 sec ontspannen, 2-3 keer herhalen.",
+      "Een training duurt 20-30 minuten, bij voorkeur in een rustige omgeving.",
+      "Onderzoek toont effectiviteit bij stressreductie, hartslagregulatie en immuunfunctie.",
+      "Korte versie na beheersing: diep ademen + zelfspraak ('Ontspan, voel je kalm') + denken aan iets prettigs.",
+      "Kindvriendelijke variant via spelmatige aanpak (bv. met een lappenpop).",
+      "Kernwoord 'relaxatie' in de leerdoelen verwijst hier expliciet naar."
+    ],
+    "importance": 5,
+    "type": "techniek",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-024",
+    "term": {
+      "nl": "Systematische desensitisatie",
+      "en": "Systematic desensitization"
+    },
+    "definition": "Gedragstherapeutische techniek (Joseph Wolpe) om angst en fobieën te verminderen via klassieke conditionering: geleidelijke blootstelling aan de gevreesde stimulus terwijl men ontspannen is, leidt tot tegenconditionering.",
+    "chapter": 5,
+    "additions": [
+      "Werkt met een stimulushiërarchie: een opeenvolging van benaderingen van de geconditioneerde stimulus, van minst naar meest angstwekkend (zie Tabel 5.3 Sarafino).",
+      "Stappen kunnen imaginair zijn (denken aan de tandarts bellen) of symbolisch (foto's, films, modellen).",
+      "Effectief bij angst voor tandartsen, hoogtes, spreken in het openbaar, examens.",
+      "Verwant aan in vivo exposure (H12), waarbij men zonder ontspanning de angsthiërarchie doorloopt — effectief bij pijnangst en catastroferen.",
+      "Expliciet kernwoord in de leerdoelen van H5."
+    ],
+    "importance": 5,
+    "type": "techniek",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-003",
+    "term": {
+      "nl": "Biofeedback",
+      "en": "Biofeedback"
+    },
+    "definition": "Stressreducerende methode waarbij een elektromechanisch apparaat fysiologische lichaamssignalen (zoals spierspanning of hartslag) terugkoppelt aan de persoon, die dan via operante conditionering leert die processen vrijwillig te beheersen.",
+    "chapter": 5,
+    "additions": [
+      "Effectief bij spanningshoofdpijn en spanningsklachten; bij migraine en spierspanningshoofdpijn 40-50% pijnreductie (samen met relaxatie, H12).",
+      "Iets effectiever dan alleen ontspanning; gecombineerde behandeling werkt vaak het best.",
+      "Kinderen leren biofeedback sneller dan volwassenen omdat zij het als spel zien en vaker thuis oefenen.",
+      "Spierspanning wordt typisch gemeten via EMG (elektromyografie) op het voorhoofd.",
+      "Lange termijn effect blijkt tot 5 jaar na behandeling behouden, mits regelmatig blijven oefenen.",
+      "Expliciet kernwoord in de leerdoelen van H5."
+    ],
+    "importance": 5,
+    "type": "techniek",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-014",
+    "term": {
+      "nl": "Modelling",
+      "en": "Modeling"
+    },
+    "definition": "Leren door observatie van anderen (observationeel of sociaal leren). Het observeren van kalme modellen kan stress en angst verminderen, terwijl het observeren van angstige reacties stress kan oproepen.",
+    "chapter": 5,
+    "additions": [
+      "Theoretische basis: Bandura's sociaal-cognitieve theorie.",
+      "Effectief bij kinderen via symbolische modellen (films, video's) of in vivo (echte situaties).",
+      "Vaak ingezet bij voorbereiding op medische ingrepen: kinderen die een filmpje zien van een kalm kind tijdens een prik, ervaren minder angst.",
+      "Expliciet kernwoord in de leerdoelen van H5."
+    ],
+    "importance": 5,
+    "type": "techniek",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-006",
+    "term": {
+      "nl": "Cognitieve therapie",
+      "en": "Cognitive therapy"
+    },
+    "definition": "Therapievorm die gebruikmaakt van cognitieve herstructurering: het identificeren en wijzigen van irrationele overtuigingen en denkfouten naar meer constructieve, realistische en minder stressvolle gedachten.",
+    "chapter": 5,
+    "additions": [
+      "Belangrijke grondleggers: Albert Ellis (RET) en Aaron Beck (cognitieve therapie).",
+      "Ellis benoemt irrationele overtuigingen zoals 'kan-niet-tegen-itis' en 'moeten-denken' (musterbation).",
+      "Beck benoemt denkfouten zoals arbitraire inferentie (conclusies trekken op basis van te weinig info) en magnificatie (overdrijven van impact).",
+      "Werkwijze: vragen stellen, overtuigingen toetsen via hypothesetoetsing in het dagelijks leven, alternatieve denkpatronen ontwikkelen.",
+      "Effectief gebleken bij prikkelbare darm syndroom, artritis, multiple sclerose; vermindert pijn, depressie en vermoeidheid (H13)."
+    ],
+    "importance": 4,
+    "type": "therapie",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-005",
+    "term": {
+      "nl": "Cognitieve herstructurering",
+      "en": "Cognitive restructuring"
+    },
+    "definition": "Cognitieve techniek waarbij stresserende, irrationele of disfunctionele gedachten positiever en realistischer worden gemaakt door ze te identificeren, ter discussie te stellen en te vervangen.",
+    "chapter": 5,
+    "additions": [
+      "Voorbeeld: 'Ik ben waardeloos' → 'Ik maakte een fout, maar dat maakt me niet waardeloos.'",
+      "Kerntechniek binnen cognitieve therapie (Ellis, Beck).",
+      "Ook breed toegepast in H12 (pijnmanagement) en H13 (chronische ziekten) als kernonderdeel van CGT.",
+      "Effectiever in combinatie met gedragstechnieken (multimodale aanpak) dan als losse interventie.",
+      "Expliciet kernwoord in de leerdoelen van H5."
+    ],
+    "importance": 5,
+    "type": "techniek",
+    "aggregate": "fc-h5-006"
+  },
+  {
+    "id": "fc-h5-022",
+    "term": {
+      "nl": "Stressinoculatietraining",
+      "en": "Stress-inoculation training"
+    },
+    "definition": "Stressreducerende methode (Donald Meichenbaum) waarbij verschillende methoden worden gecombineerd om mensen vaardigheden aan te leren die stress verlichten — een soort 'inenting' tegen toekomstige stressoren.",
+    "chapter": 5,
+    "additions": [
+      "Drie fasen: (1) informatie over stress en typische reacties, (2) vaardigheidstraining (ontspanning, positief denken, sociale steun zoeken), (3) toepassing op echte of ingebeelde stressvolle situaties.",
+      "Vooral effectief voor mensen die zich voorbereiden op een aankomende stressor (bv. een operatie of examen).",
+      "Verwant aan proactieve coping: voorkomt of vermindert stress door anticipatie.",
+      "Onderdeel van de cognitieve benadering binnen stressmanagement."
+    ],
+    "importance": 4,
+    "type": "training",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-018",
+    "term": {
+      "nl": "Probleemoplossende training",
+      "en": "Problem-solving training"
+    },
+    "definition": "Training die mensen leert effectiever om te gaan met concrete, dagelijkse problemen via een systematische stappen-aanpak.",
+    "chapter": 5,
+    "additions": [
+      "Standaardstappen: probleem herkennen → duidelijk omschrijven → meerdere oplossingen bedenken → de beste kiezen → uitvoeren → evalueren.",
+      "Vermindert angst en negatieve gevoelens doordat men beter voorbereid is op toekomstige uitdagingen.",
+      "Versterkt het gevoel van persoonlijke controle en self-efficacy.",
+      "Wordt ook ingezet bij chronische ziekten (H13) — bijvoorbeeld diabetici die leren oplossingen vinden voor situaties zonder geschikte voeding."
+    ],
+    "importance": 4,
+    "type": "training",
+    "aggregate": "fc-h5-023"
+  },
+  {
+    "id": "fc-h5-015",
+    "term": {
+      "nl": "Multimodale therapie",
+      "en": "Multimodal therapy"
+    },
+    "definition": "Stressreducerende benadering die meerdere technieken (relaxatie, cognitieve herstructurering, modelling, medicatie, sociale steun, etc.) combineert, afgestemd op de unieke behoeften van het individu.",
+    "chapter": 5,
+    "additions": [
+      "Onderzoek toont consistent: meerdere technieken samen werken beter dan één enkele techniek.",
+      "Voorbeeld: groepsondersteuning + stressmanagement + educatie bij zwangere vrouwen in risicogroepen verlaagt vroeggeboorterisico en verbetert gezondheid.",
+      "Bij chronische pijn (H12) is een multimodale aanpak (gedragstechnieken + cognitieve therapie + relaxatie) standaard, omdat enkele technieken vaak onvoldoende zijn.",
+      "Verwant aan integratieve/geïntegreerde zorg (H13): combinatie van medische, psychologische en sociale zorg.",
+      "Expliciet kernwoord in de leerdoelen van H5."
+    ],
+    "importance": 5,
+    "type": "therapie",
+    "aggregate": "fc-h5-023"
+  }
+]

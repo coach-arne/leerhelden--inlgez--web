@@ -1,0 +1,537 @@
+[
+  {
+    "id": "social-support-h4",
+    "term": {
+      "nl": "Sociale steun",
+      "en": "Social support"
+    },
+    "definition": "Het comfort, de zorg, waardering of hulp die iemand ontvangt of als beschikbaar ervaart vanuit zijn sociale omgeving (familie, vrienden, artsen, organisaties).",
+    "chapter": 4,
+    "additions": [
+      "Vier typen: emotionele/esteem-steun, tastbare/instrumentele steun, informatieve steun en gezelschap (companionship).",
+      "Onderscheid tussen ontvangen steun (daadwerkelijke hulp) en waargenomen steun (gevoel dat hulp beschikbaar is); waargenomen steun blijkt vaak het sterkst beschermend.",
+      "Drie verklaringsmodellen: bufferhypothese (steun verzacht stresseffecten bij hoge stress), directe-effecthypothese (steun bevordert gezondheid ongeacht stress), stresspreventiemodel (steun helpt stress vermijden).",
+      "Verlaagt bloeddruk, cortisol en hartslag bij stressvolle taken; verhoogt overlevingskans bij CHD en kanker; beschermt tegen depressie en angst.",
+      "Niet altijd positief: mismatch met behoefte, ongepaste of overmatige steun (bv. overbezorgdheid bij hartpatiënten) kan revalidatie hinderen. Onzichtbare steun is vaak het meest effectief."
+    ],
+    "importance": 5,
+    "type": "psychologisch construct",
+    "aggregate": null
+  },
+  {
+    "id": "personal-control-h4",
+    "term": {
+      "nl": "Persoonlijke controle",
+      "en": "Personal control"
+    },
+    "definition": "Het gevoel dat je keuzes kunt maken en effectief kunt handelen om gewenste resultaten te bereiken en negatieve uitkomsten te vermijden.",
+    "chapter": 4,
+    "additions": [
+      "Centrale modificator van stress; expliciet kernwoord in leerdoel 1 van H4.",
+      "Twee hoofdvormen: gedragsmatige controle (concrete acties) en cognitieve controle (gedachten/strategieën).",
+      "Sterke controle bevordert gezondheidsgedrag, sneller herstel na ziekte/operatie en minder depressieve klachten.",
+      "Klassiek onderzoek Langer & Rodin (1976): ouderen die zelf kleine keuzes mochten maken in een verzorgingstehuis (bv. planten verzorgen) waren actiever, gelukkiger én hadden na 18 maanden lagere sterftecijfers.",
+      "Externe locus of control komt vaker voor bij ouderen, mensen met minder economische kansen en in niet-Westerse culturen."
+    ],
+    "importance": 5,
+    "type": "psychologisch construct",
+    "aggregate": null
+  },
+  {
+    "id": "behavioral-control-h4",
+    "term": {
+      "nl": "Gedragsmatige controle",
+      "en": "Behavioral control"
+    },
+    "definition": "Het vermogen om concrete acties te ondernemen om de impact van een stressor te verminderen.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeeld: een zwangere vrouw gebruikt ademhalingstechnieken tijdens de bevalling om pijn te verminderen.",
+      "Eén van twee hoofdvormen van persoonlijke controle, naast cognitieve controle.",
+      "Een sterk gevoel van behavioral control vermindert de fysiologische stressreactie en bevordert herstel."
+    ],
+    "importance": 4,
+    "type": "psychologisch construct",
+    "aggregate": "personal-control-h4"
+  },
+  {
+    "id": "cognitive-control-h4",
+    "term": {
+      "nl": "Cognitieve controle",
+      "en": "Cognitive control"
+    },
+    "definition": "Het vermogen om via gedachten of strategieën de betekenis of impact van een stressor te beïnvloeden.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeeld: tijdens een bevalling denken aan het geluk van het krijgen van een kind, of zich mentaal verplaatsen naar een prettige herinnering.",
+      "Cognitieve herinterpretatie van stressvolle gebeurtenissen vermindert negatieve emoties en fysiologische stressreacties.",
+      "Eén van twee hoofdvormen van persoonlijke controle, naast gedragsmatige controle.",
+      "Vormt de basis voor cognitieve herstructurering als interventietechniek (komt terug in H5)."
+    ],
+    "importance": 4,
+    "type": "psychologisch construct",
+    "aggregate": "personal-control-h4"
+  },
+  {
+    "id": "locus-of-control-h4",
+    "term": {
+      "nl": "Locus of control",
+      "en": "Locus of control"
+    },
+    "definition": "De zienswijze van iemand over de voornaamste bron van invloed op het eigen leven. Intern: men gelooft zelf verantwoordelijk te zijn voor uitkomsten; extern: externe factoren (geluk, anderen) bepalen het leven.",
+    "chapter": 4,
+    "additions": [
+      "Geïntroduceerd door Rotter; gemeten met de I-E schaal.",
+      "Voor gezondheid specifiek: Multidimensional Health Locus of Control schalen met drie subschalen — interne controle, krachtige-andere controle (artsen) en toevallige controle (lot/geluk).",
+      "Sterke interne locus of control hangt samen met betere gezondheidsgewoonten, minder ziektes en minder depressieve symptomen bij chronische ziekte.",
+      "Patiënten met kanker of nierfalen die in eigen invloed of die van artsen geloven, zijn minder depressief dan zij die in toeval geloven.",
+      "Expliciet kernwoord in leerdoel 1 van H4."
+    ],
+    "importance": 5,
+    "type": "psychologisch construct",
+    "aggregate": "personal-control-h4"
+  },
+  {
+    "id": "self-efficacy-h4",
+    "term": {
+      "nl": "Eigen-effectiviteitsverwachting",
+      "en": "Self-efficacy"
+    },
+    "definition": "Het geloof dat je een specifieke taak succesvol kunt uitvoeren (Bandura).",
+    "chapter": 4,
+    "additions": [
+      "Twee verwachtingen: outcome expectancy (het gedrag zal een positief resultaat opleveren) en self-efficacy expectancy (ik kan dit gedrag succesvol uitvoeren).",
+      "Mensen met hoge self-efficacy voelen zich minder bedreigd door stressvolle situaties, hebben lagere hartslag- en bloeddrukreacties en betere therapietrouw.",
+      "Belangrijk voor gedragspersistentie, herstel en revalidatie (bv. ouderen met ademhalingsproblemen volgden beter een oefenprogramma als ze geloofden dat ze het konden).",
+      "Komt terug in latere hoofdstukken bij gedragsverandering (stoppen met roken, sporten, dieet)."
+    ],
+    "importance": 4,
+    "type": "psychologisch construct",
+    "aggregate": "personal-control-h4"
+  },
+  {
+    "id": "learned-helplessness-h4",
+    "term": {
+      "nl": "Aangeleerde hulpeloosheid",
+      "en": "Learned helplessness"
+    },
+    "definition": "Verschijnsel waarbij iemand door herhaalde blootstelling aan oncontroleerbare stressvolle gebeurtenissen leert dat zijn gedrag geen invloed heeft op de uitkomst, en daardoor stopt met proberen — zelfs in situaties waarin hij wél controle zou hebben.",
+    "chapter": 4,
+    "additions": [
+      "Geïntroduceerd door Seligman (1975); expliciet kernwoord in leerdoel 1 van H4.",
+      "Hangt samen met depressie, vooral bij een pessimistische attributiestijl.",
+      "Mensen maken attributies langs drie dimensies: intern-extern, stabiel-tijdelijk, en algemeen-specifiek.",
+      "Pessimistische attributiestijl (intern, stabiel, globaal voor negatieve gebeurtenissen) → hoger risico op depressie. Optimistische stijl (extern, tijdelijk, specifiek) → meer veerkracht.",
+      "Ontstaat vooral bij langdurige oncontroleerbare stress (bv. werknemer die haar baas niet tevreden kan stellen, wordt apathisch)."
+    ],
+    "importance": 5,
+    "type": "psychologisch construct",
+    "aggregate": "personal-control-h4"
+  },
+  {
+    "id": "hardiness-h4",
+    "term": {
+      "nl": "Gehardheid (stressweerbaarheid)",
+      "en": "Hardiness"
+    },
+    "definition": "Een persoonlijkheidskenmerk dat mensen helpt effectief om te gaan met stressvolle of moeilijke situaties, bestaande uit drie componenten: betrokkenheid (commitment), controle (control) en uitdaging (challenge).",
+    "chapter": 4,
+    "additions": [
+      "Mensen met hoge hardiness zien stressvolle gebeurtenissen als groeikansen in plaats van bedreigingen en blijven gezonder onder druk.",
+      "Expliciet kernwoord in leerdoel 1 van H4.",
+      "Verwant aan, maar te onderscheiden van: resilience (veerkracht), sense of coherence (Antonovsky: begrijpelijk, beheersbaar, betekenisvol) en optimisme.",
+      "Lage neuroticisme en hoge consciëntieusheid (Big Five) overlappen met hardiness en hangen samen met betere stresshantering."
+    ],
+    "importance": 5,
+    "type": "psychologisch construct",
+    "aggregate": null
+  },
+  {
+    "id": "resilience-h4",
+    "term": {
+      "nl": "Veerkracht",
+      "en": "Resilience"
+    },
+    "definition": "Stressweerbaarheidsverhogende eigenschap die mensen in staat stelt zich aan te passen aan en te herstellen van tegenslag, gekenmerkt door zelfvertrouwen, gevoel van controle en optimisme.",
+    "chapter": 4,
+    "additions": [
+      "Sterk verwant aan hardiness; resilience benadrukt vooral het herstelvermogen na tegenslag.",
+      "Ontstaat deels door genetische aanleg, deels door eerdere ervaringen met succesvolle stresshantering.",
+      "Beschermt tegen depressie, angststoornissen en fysieke gevolgen van chronische stress."
+    ],
+    "importance": 3,
+    "type": "psychologisch construct",
+    "aggregate": null
+  },
+  {
+    "id": "stamina-h4",
+    "term": {
+      "nl": "Innerlijke kracht (stamina)",
+      "en": "Stamina"
+    },
+    "definition": "Een stressweerbaarheidsverhogende eigenschap die verwijst naar mentaal uithoudingsvermogen en doorzettingsvermogen onder druk.",
+    "chapter": 4,
+    "additions": [
+      "Verwant aan hardiness en resilience, maar minder uitgewerkt als formeel construct in Sarafino & Smith.",
+      "Speelt een rol bij volhouden van gezondheidsgedrag en omgang met chronische stressoren."
+    ],
+    "importance": 2,
+    "type": "psychologisch construct",
+    "aggregate": null
+  },
+  {
+    "id": "type-a-pattern-h4",
+    "term": {
+      "nl": "Type A-gedragspatroon",
+      "en": "Type A behavior pattern"
+    },
+    "definition": "Gedragspatroon gekenmerkt door competitieve prestatiedrang, voortdurende tijdsdruk, vijandigheid/boosheid en een krachtige, dominante spreekstijl.",
+    "chapter": 4,
+    "additions": [
+      "Geïntroduceerd door cardiologen Friedman en Rosenman na observatie dat hartpatiënten dit patroon vaker vertoonden.",
+      "Sterk verband met CHD: Type A-personen hebben in grote studies dubbel zoveel kans op coronaire hartziekten.",
+      "Vooral het 'dodelijke component' boosheid/vijandigheid verklaart het CHD-risico.",
+      "Gemeten met de Structured Interview ('gold standard', 15–20 min, beoordeelt zowel inhoud als spreekstijl); zelfrapportages zijn minder betrouwbaar.",
+      "Genetisch deels bepaald (tweelingstudies); neemt toe tot middelbare leeftijd en daalt daarna (mogelijk door vroegere sterfte).",
+      "Expliciet kernwoord in leerdoel 1 van H4."
+    ],
+    "importance": 5,
+    "type": "gedragspatroon",
+    "aggregate": null
+  },
+  {
+    "id": "type-b-pattern-h4",
+    "term": {
+      "nl": "Type B-gedragspatroon",
+      "en": "Type B behavior pattern"
+    },
+    "definition": "Gedragspatroon gekenmerkt door lage competitiviteit, ontspannen levenshouding, weinig tijdsdruk, weinig vijandigheid en een kalme, langzame spreekstijl.",
+    "chapter": 4,
+    "additions": [
+      "Vormt het contrast met Type A; lagere stressreactiviteit en lager risico op CHD.",
+      "Vaak meer filosofische, geduldige benadering van het leven.",
+      "Niet zomaar de afwezigheid van Type A — het is een eigen patroon van gedrag en spraak."
+    ],
+    "importance": 4,
+    "type": "gedragspatroon",
+    "aggregate": null
+  },
+  {
+    "id": "hostility-h4",
+    "term": {
+      "nl": "Vijandigheid",
+      "en": "Hostility"
+    },
+    "definition": "Een vijandige houding gekenmerkt door snelle prikkelbaarheid, wantrouwen, cynisme en boosheid jegens anderen.",
+    "chapter": 4,
+    "additions": [
+      "Wordt beschouwd als het 'dodelijke component' van Type A-gedrag — sterkste verklarende factor voor het verband met CHD.",
+      "Gemeten met o.a. de Cook-Medley Hostility Scale, die boosheid, wantrouwen, cynisme en prikkelbaarheid meet.",
+      "Hangt samen met meer sociale conflicten, minder sociale steun, slechter slapen tijdens stress en ongezondere gewoonten (roken, alcohol, overgewicht).",
+      "Chronische vijandigheid en woede komen vaker voor bij hypertensieve personen; ruminatie (blijven malen) verhoogt rustbloeddruk.",
+      "Studie onder artsen: hoge scores op de vijandigheidsschaal hingen samen met sterk verhoogde sterftecijfers."
+    ],
+    "importance": 5,
+    "type": "psychologisch construct",
+    "aggregate": "type-a-pattern-h4"
+  },
+  {
+    "id": "psychoneuroimmunology-h4",
+    "term": {
+      "nl": "Psychoneuroimmunologie (PNI)",
+      "en": "Psychoneuroimmunology"
+    },
+    "definition": "Interdisciplinaire wetenschap die onderzoekt hoe psychosociale processen invloed hebben op het zenuwstelsel, het endocriene (hormoon)systeem en het immuunsysteem, en hoe deze elkaar wederzijds beïnvloeden.",
+    "chapter": 4,
+    "additions": [
+      "Expliciet kernwoord in leerdoel 2 van H4; centraal mechanisme voor de directe route waarlangs stress gezondheid beïnvloedt.",
+      "Belangrijke inzichten: negatieve emoties onderdrukken immuunfunctie, positieve emoties en sociale steun bevorderen het, en chronische stress veroorzaakt chronische ontsteking met verhoogd ziekterisico.",
+      "Klassiek experiment Ader & Cohen: aangeleerd verband tussen prikkel en immuunonderdrukking via klassieke conditionering, wat aantoonde dat het immuunsysteem 'leerbaar' is.",
+      "Gezonde levensstijl (slaap, voeding, beweging, niet roken) versterkt de immuunrespons; slechte slaap of stress verhoogt gevoeligheid voor verkoudheid."
+    ],
+    "importance": 5,
+    "type": "vakgebied",
+    "aggregate": null
+  },
+  {
+    "id": "immunosuppression-h4",
+    "term": {
+      "nl": "Immunosuppressie",
+      "en": "Immunosuppression"
+    },
+    "definition": "Onderdrukking van het immuunsysteem, met als gevolg een verminderde afweer tegen ziekteverwekkers en tumoren.",
+    "chapter": 4,
+    "additions": [
+      "Chronische stress veroorzaakt immunosuppressie via langdurige cortisolafgifte en sympathische activering.",
+      "Acute stress: tijdelijke activering van vooral non-specifieke immuniteit. Chronische stress: onderdrukking van zowel specifieke als non-specifieke immuniteit.",
+      "Verklaart waarom mensen onder chronische stress vatbaarder zijn voor infecties (bv. studenten worden eerder verkouden tijdens tentamenweken).",
+      "Centraal mechanisme dat psychoneuroimmunologie probeert te begrijpen."
+    ],
+    "importance": 3,
+    "type": "mechanisme",
+    "aggregate": "psychoneuroimmunology-h4"
+  },
+  {
+    "id": "feedback-loop-h4",
+    "term": {
+      "nl": "Feedback loop (terugkoppelingscircuit)",
+      "en": "Feedback loop"
+    },
+    "definition": "Twee of meer systemen die elkaar wederzijds beïnvloeden, waarbij de output van het ene systeem dient als input voor het andere.",
+    "chapter": 4,
+    "additions": [
+      "Centraal in psychoneuroimmunologie: zenuw-, hormoon- en immuunsystemen vormen voortdurend feedback loops.",
+      "Voorbeeld: chronische stress → cortisolafgifte (HPA-as) → onderdrukking immuunfunctie → ontstekingsstoffen → terugwerken op zenuwstelsel en stemming.",
+      "Allostatische belasting ontstaat wanneer feedback loops langdurig ontregeld zijn."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "psychophys-disorders-h4",
+    "term": {
+      "nl": "Psychofysiologische aandoeningen",
+      "en": "Psychophysiological disorders"
+    },
+    "definition": "Lichamelijke symptomen of ziekten die ontstaan of verergeren door een samenspel van fysiologische en psychosociale processen, in het bijzonder stress.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeelden in H4: maagzweer, prikkelbare-darmsyndroom, inflammatoire darmziekten, astma, spanningshoofdpijn, migraine, eczeem, psoriasis, artritis.",
+      "Verving het oudere begrip 'psychosomatische ziekten' om beter de wisselwerking tussen lichaam en geest weer te geven.",
+      "Ook hypertensie en CHD worden vaak als psychofysiologisch beschouwd.",
+      "Stress speelt vooral een rol in het ontstaan, verergeren en onderhouden van symptomen — zelden de enige oorzaak."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "hypertension-h4",
+    "term": {
+      "nl": "(Essentiële) hypertensie",
+      "en": "(Essential) hypertension"
+    },
+    "definition": "Chronisch verhoogde bloeddruk over meerdere weken zonder aanwijsbare lichamelijke oorzaak (in >90% van de gevallen 'essentieel' of primair).",
+    "chapter": 4,
+    "additions": [
+      "Belangrijke risicofactor voor CHD, beroertes en nierfalen; bijna 50% van Amerikaanse volwassenen heeft hoge bloeddruk.",
+      "Classificatie (VS): normaal <120/80 mmHg; hypertensieve crisis >180/120 mmHg (acute medische hulp nodig).",
+      "Risicofactoren: obesitas, hoog zoutgebruik, alcoholmisbruik, lichamelijke inactiviteit, familiegeschiedenis, chronische stress, woede en angst.",
+      "Beroepsstress (bv. luchtverkeersleiders) en omgevingsstress (drukke wijken, ervaren racisme bij donkere Amerikanen) verhogen bloeddruk; PTSS verhoogt het risico.",
+      "White-coat hypertensie: vals hoge bloeddruk bij artsbezoek door angst — kan tot onjuiste diagnose leiden.",
+      "Expliciet kernwoord in leerdoel 3 van H4."
+    ],
+    "importance": 5,
+    "type": "ziekte",
+    "aggregate": null
+  },
+  {
+    "id": "coronary-heart-disease-h4",
+    "term": {
+      "nl": "Coronaire hartziekte (CHD)",
+      "en": "Coronary heart disease"
+    },
+    "definition": "Aandoening waarbij de kransslagaders zijn vernauwd door atherosclerose, waardoor de hartspier onvoldoende bloed en zuurstof krijgt.",
+    "chapter": 4,
+    "additions": [
+      "Een van de belangrijkste doodsoorzaken wereldwijd; expliciet kernwoord in leerdoel 3 van H4.",
+      "Manifestaties: angina pectoris (pijn op de borst), ischemie, myocardinfarct (hartaanval) en plotselinge hartdood.",
+      "Risicofactoren: chronische stress, vijandigheid, depressie, weinig sociale steun, obesitas, weinig beweging en PTSS.",
+      "Type A-personen hebben dubbel zoveel kans op CHD; vooral het 'dodelijke component' boosheid/vijandigheid is verklarend.",
+      "Stress beïnvloedt CHD in drie fasen: vroege fase (versnelt atherosclerose via ontsteking en lipiden), latere fase (uitlokken van ischemische aanvallen of infarcten), na diagnose (verhoogd risico op recidief en sterfte).",
+      "Mechanismen: verhoogde lipiden, ontstekingsstoffen, catecholaminen, cortisol → schade aan hart en vaten; ritmestoornissen; ongezond gedrag (roken, alcohol)."
+    ],
+    "importance": 5,
+    "type": "ziekte",
+    "aggregate": null
+  },
+  {
+    "id": "sudden-cardiac-death-h4",
+    "term": {
+      "nl": "Plotselinge hartdood",
+      "en": "Sudden cardiac death"
+    },
+    "definition": "Onverwacht overlijden door een acute hartstilstand, meestal veroorzaakt door een ernstige ritmestoornis bij een onderliggende hartziekte zoals CHD.",
+    "chapter": 4,
+    "additions": [
+      "Bij ernstige ischemie kan een fatale ritmestoornis ontstaan; het hart stopt met pompen, met overlijden binnen minuten of uren.",
+      "Emotionele uitbarstingen (bv. hevige woede) kunnen plotselinge hartdood uitlokken bij vatbare personen.",
+      "Veelvoorkomende doodsoorzaak bij hartpatiënten."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "aggregate": "coronary-heart-disease-h4"
+  },
+  {
+    "id": "cancer-h4",
+    "term": {
+      "nl": "Kanker",
+      "en": "Cancer"
+    },
+    "definition": "Verzamelnaam voor ziekten waarbij cellen ongecontroleerd delen en kwaadaardige tumoren vormen die zich kunnen verspreiden naar andere lichaamsdelen (metastase).",
+    "chapter": 4,
+    "additions": [
+      "Stress kan kankerprogressie mogelijk versterken via stresshormonen (cortisol, adrenaline) die immuunsysteemfunctie en angiogenese beïnvloeden.",
+      "Bij tumoren speelt angiogenese (vorming nieuwe bloedvaten) een rol; metastase is verspreiding naar andere lichaamsdelen.",
+      "Verband tussen stress en het ontstaan van kanker is controversieel; effecten lopen vermoedelijk via gedragsmatige (rookgedrag, voeding) én immunologische routes.",
+      "Kankerpatiënten waarderen vooral emotionele steun (figuur 4-1).",
+      "Expliciet kernwoord in leerdoel 3 van H4."
+    ],
+    "importance": 4,
+    "type": "ziekte",
+    "aggregate": null
+  },
+  {
+    "id": "ulcer-h4",
+    "term": {
+      "nl": "Maagzweer",
+      "en": "Ulcer"
+    },
+    "definition": "Open zweer in de wand van de maag of twaalfvingerige darm.",
+    "chapter": 4,
+    "additions": [
+      "Klassiek voorbeeld van psychofysiologische aandoening; lange tijd gezien als 'stressziekte bij uitstek'.",
+      "Hoofdoorzaak is meestal de bacterie Helicobacter pylori, maar stress en NSAID's kunnen het beeld verergeren.",
+      "Stress verhoogt maagzuurproductie en verstoort de slijmvliesbescherming."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "aggregate": "psychophys-disorders-h4"
+  },
+  {
+    "id": "ibd-h4",
+    "term": {
+      "nl": "Inflammatoire darmziekte (darmontsteking)",
+      "en": "Inflammatory bowel disease"
+    },
+    "definition": "Verzamelnaam voor chronische ontstekingsziekten van de darmen, waaronder ziekte van Crohn en colitis ulcerosa.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeeld van een psychofysiologische aandoening waarbij stress een verergerende rol speelt.",
+      "Stress beïnvloedt de darm-hersen-as via het autonome zenuwstelsel en pro-inflammatoire stoffen.",
+      "Te onderscheiden van prikkelbare-darmsyndroom (IBS): bij IBD is er aantoonbare ontsteking, bij IBS niet."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "aggregate": "psychophys-disorders-h4"
+  },
+  {
+    "id": "ibs-h4",
+    "term": {
+      "nl": "Prikkelbare-darmsyndroom (PDS / spastische colon)",
+      "en": "Irritable bowel syndrome"
+    },
+    "definition": "Functionele darmstoornis gekenmerkt door buikpijn, krampen en veranderd ontlastingspatroon, zonder aantoonbare structurele afwijking.",
+    "chapter": 4,
+    "additions": [
+      "Klassiek voorbeeld van psychofysiologische aandoening waarbij stress en emoties symptomen kunnen uitlokken of verergeren.",
+      "Onderscheid van inflammatoire darmziekte (IBD): bij IBS geen ontsteking aantoonbaar, bij IBD wel.",
+      "Behandeling combineert vaak dieet, stressmanagement en cognitieve gedragstherapie."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "aggregate": "psychophys-disorders-h4"
+  },
+  {
+    "id": "cardiovascular-h4",
+    "term": {
+      "nl": "Cardiovasculair",
+      "en": "Cardiovascular"
+    },
+    "definition": "Aangaande het hart en de bloedvaten.",
+    "chapter": 4,
+    "additions": [
+      "Cardiovasculaire reactiviteit verwijst naar de fysiologische veranderingen in hart, bloedvaten en bloed als reactie op stressoren.",
+      "Stress verhoogt cardiovasculaire reactiviteit (bloeddruk, hartslag, bloedstolling, slechte cholesterolwaarden, ontstekingsstoffen) en daarmee het risico op atherosclerose en CHD.",
+      "Hoge cardiovasculaire reactiviteit is kenmerkend voor Type A-personen."
+    ],
+    "importance": 2,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "beta-blocker-h4",
+    "term": {
+      "nl": "Bètablokker",
+      "en": "Beta-blocker"
+    },
+    "definition": "Medicijn dat bèta-adrenerge receptoren blokkeert, waardoor het effect van adrenaline en noradrenaline op het hart en de bloedvaten wordt verminderd.",
+    "chapter": 4,
+    "additions": [
+      "Klinisch gebruikt bij hypertensie, angina pectoris en na een hartinfarct.",
+      "Vermindert hartslag en bloeddruk door blokkering van sympathische activering, wat relevant is voor stressgerelateerde cardiovasculaire klachten.",
+      "Soms ingezet om Type A-gerelateerde fysiologische reactiviteit te dempen wanneer gedragstherapie onvoldoende werkt."
+    ],
+    "importance": 2,
+    "type": "medicament",
+    "aggregate": null
+  },
+  {
+    "id": "cohort-h4",
+    "term": {
+      "nl": "Cohort",
+      "en": "Cohort"
+    },
+    "definition": "Een vaste groep mensen die deel uitmaakt van een onderzoek, vaak gedurende langere tijd gevolgd.",
+    "chapter": 4,
+    "additions": [
+      "Gebruikt in cohortstudies om te onderzoeken hoe risicofactoren (bv. stress, persoonlijkheid) samenhangen met latere ziekteontwikkeling.",
+      "Vaak gecombineerd met een prospectief design om causale verbanden tussen psychosociale factoren en gezondheid te onderzoeken (bv. Type A-onderzoek)."
+    ],
+    "importance": 2,
+    "type": "onderzoeksmethode",
+    "aggregate": null
+  },
+  {
+    "id": "cross-sectional-h4",
+    "term": {
+      "nl": "Cross-sectioneel",
+      "en": "Cross-sectional"
+    },
+    "definition": "Onderzoeksopzet waarbij bestaande groepen op één bepaald moment met elkaar worden vergeleken, zonder de groepen door de tijd te volgen.",
+    "chapter": 4,
+    "additions": [
+      "Geeft geen uitsluitsel over causaliteit; alleen associatie tussen variabelen op één meetmoment.",
+      "Tegengesteld aan longitudinaal/prospectief onderzoek, waar dezelfde mensen door de tijd gevolgd worden.",
+      "Veelgebruikt om prevalentie van een aandoening (bv. hypertensie) in verschillende groepen te vergelijken."
+    ],
+    "importance": 2,
+    "type": "onderzoeksmethode",
+    "aggregate": null
+  },
+  {
+    "id": "prospective-h4",
+    "term": {
+      "nl": "Prospectief",
+      "en": "Prospective"
+    },
+    "definition": "Onderzoeksopzet waarbij een groep deelnemers vooruit in de tijd wordt gevolgd om vast te stellen welke uitkomsten (bv. ziekte) optreden in relatie tot eerder gemeten variabelen.",
+    "chapter": 4,
+    "additions": [
+      "Beter geschikt om causale verbanden te onderzoeken dan retrospectief onderzoek, omdat blootstelling vóór de uitkomst wordt gemeten.",
+      "Cruciaal voor onderzoek naar Type A-gedrag en CHD: aantoning dat de persoonlijkheidsfactor de ziekte voorafgaat (en niet andersom).",
+      "Vaak in cohortdesign uitgevoerd."
+    ],
+    "importance": 3,
+    "type": "onderzoeksmethode",
+    "aggregate": null
+  },
+  {
+    "id": "retrospective-h4",
+    "term": {
+      "nl": "Retrospectief",
+      "en": "Retrospective"
+    },
+    "definition": "Onderzoeksopzet waarbij achteraf wordt teruggekeken op eerdere blootstellingen of gebeurtenissen, bv. door deelnemers te vragen naar hun verleden.",
+    "chapter": 4,
+    "additions": [
+      "Gevoelig voor recall bias en sociale wenselijkheid; minder geschikt om causaliteit aan te tonen.",
+      "Tegengesteld aan prospectief onderzoek, dat mensen vooruit in de tijd volgt.",
+      "Wel sneller en goedkoper uit te voeren dan prospectief onderzoek."
+    ],
+    "importance": 3,
+    "type": "onderzoeksmethode",
+    "aggregate": null
+  }
+]
