@@ -26,6 +26,9 @@ import {
 import {
   activeDeckAtom,
   cardRevealedAtom,
+  hintErrorAtom,
+  hintLoadingAtom,
+  hintTextAtom,
   sessionIdAtom,
   sessionIndexAtom,
   sessionScoresAtom,
@@ -59,6 +62,9 @@ export function FlashcardsSetupPage() {
   const setIndex = useSetAtom(sessionIndexAtom)
   const setScores = useSetAtom(sessionScoresAtom)
   const setRevealed = useSetAtom(cardRevealedAtom)
+  const setHintText = useSetAtom(hintTextAtom)
+  const setHintLoading = useSetAtom(hintLoadingAtom)
+  const setHintError = useSetAtom(hintErrorAtom)
 
   const chapterStrings = useMemo(
     () => chapters.map(String),
@@ -113,6 +119,9 @@ export function FlashcardsSetupPage() {
     setIndex(0)
     setScores({ correct: 0, incorrect: 0, unsure: 0 })
     setRevealed(false)
+    setHintText(null)
+    setHintLoading(false)
+    setHintError(null)
     navigate('/flashcards/session')
   }
 

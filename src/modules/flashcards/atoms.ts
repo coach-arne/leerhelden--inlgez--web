@@ -36,6 +36,9 @@ export const sessionIndexAtom = atom<number>(0)
 
 /** Of de achterkant (definitie) zichtbaar is. */
 export const cardRevealedAtom = atom<boolean>(false)
+export const hintTextAtom = atom<string | null>(null)
+export const hintLoadingAtom = atom<boolean>(false)
+export const hintErrorAtom = atom<string | null>(null)
 
 export const currentCardAtom = atom((get) => {
   const deck = get(activeDeckAtom)

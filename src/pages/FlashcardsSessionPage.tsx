@@ -16,11 +16,15 @@ import {
   activeDeckAtom,
   cardRevealedAtom,
   currentCardAtom,
+  hintErrorAtom,
+  hintLoadingAtom,
+  hintTextAtom,
   sessionIdAtom,
   sessionIndexAtom,
   sessionScoresAtom,
   termLanguageAtom,
 } from '@/modules/flashcards/atoms'
+import { requestHintFromLmStudio } from '@/modules/flashcards/helpers/requestHintFromLmStudio'
 import { cn } from '@/lib/utils'
 import { CheckIcon, HelpCircleIcon, XIcon } from 'lucide-react'
 
@@ -31,6 +35,9 @@ export function FlashcardsSessionPage() {
   const setSessionId = useSetAtom(sessionIdAtom)
   const [index, setIndex] = useAtom(sessionIndexAtom)
   const [revealed, setRevealed] = useAtom(cardRevealedAtom)
+  const [hintText, setHintText] = useAtom(hintTextAtom)
+  const [hintLoading, setHintLoading] = useAtom(hintLoadingAtom)
+  const [hintError, setHintError] = useAtom(hintErrorAtom)
   const [, setScores] = useAtom(sessionScoresAtom)
   const termLang = useAtomValue(termLanguageAtom)
   const card = useAtomValue(currentCardAtom)
@@ -55,8 +62,21 @@ export function FlashcardsSessionPage() {
       }
       setIndex(index + 1)
       setRevealed(false)
+      setHintText(null)
+      setHintError(null)
+      setHintLoading(false)
     },
-    [deck, index, navigate, setIndex, setRevealed, setScores],
+    [
+      deck,
+      index,
+      navigate,
+      setHintError,
+      setHintLoading,
+      setHintText,
+      setIndex,
+      setRevealed,
+      setScores,
+    ],
   )
 
   const onKeyDown = useCallback(
@@ -84,6 +104,29 @@ export function FlashcardsSessionPage() {
   const termText = termLang === 'nl' ? card.term.nl : card.term.en
   const otherTermLabel = termLang === 'nl' ? 'Engels' : 'Nederlands'
   const otherTermText = termLang === 'nl' ? card.term.en : card.term.nl
+
+  const handleRequestHint = async () => {
+    if (hintLoading) return
+    setHintLoading(true)
+    setHintError(null)
+
+    try {
+      const hint = await requestHintFromLmStudio({
+        term: termText,
+        termLanguage: termLang,
+      })
+      setHintText(hint)
+    } catch (error) {
+      const message =
+        error instanceof Error
+          ? error.message
+          : 'Hint kon niet worden opgehaald. Controleer LM Studio.'
+      setHintError(message)
+      setHintText(null)
+    } finally {
+      setHintLoading(false)
+    }
+  }
 
   return (
     <div className="mx-auto min-h-svh max-w-lg space-y-6 p-6">
@@ -118,15 +161,43 @@ export function FlashcardsSessionPage() {
         </CardHeader>
         <CardContent className="space-y-4">
           {!revealed ? (
-            <button
-              type="button"
-              className="w-full rounded-lg border border-dashed border-border bg-muted/30 px-4 py-8 text-center text-sm text-muted-foreground transition-colors hover:bg-muted/50"
-              onClick={() => setRevealed(true)}
-              aria-expanded={false}
-              aria-controls="flashcard-answer"
-            >
-              Tik of druk op spatie om de definitie te tonen
-            </button>
+            <div className="space-y-3">
+              <button
+                type="button"
+                className="w-full rounded-lg border border-dashed border-border bg-muted/30 px-4 py-8 text-center text-sm text-muted-foreground transition-colors hover:bg-muted/50"
+                onClick={() => setRevealed(true)}
+                aria-expanded={false}
+                aria-controls="flashcard-answer"
+              >
+                Tik of druk op spatie om de definitie te tonen
+              </button>
+              <Button
+                type="button"
+                variant="outline"
+                className="w-full"
+                disabled={hintLoading}
+                onClick={handleRequestHint}
+              >
+                {hintLoading ? 'Hint ophalen...' : 'Geef hint'}
+              </Button>
+              {hintError && (
+                <p className="text-sm text-destructive" role="status" aria-live="polite">
+                  {hintError}
+                </p>
+              )}
+              {hintText && (
+                <div
+                  className="rounded-md border border-border bg-muted/20 px-3 py-2"
+                  role="status"
+                  aria-live="polite"
+                >
+                  <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                    Hint
+                  </p>
+                  <p className="mt-1 text-sm leading-relaxed">{hintText}</p>
+                </div>
+              )}
+            </div>
           ) : (
             <div
               id="flashcard-answer"

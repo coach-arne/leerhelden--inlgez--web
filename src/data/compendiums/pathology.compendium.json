@@ -1,0 +1,3299 @@
+[
+  {
+    "nameNL": "Hypertensie (essentiële hypertensie)",
+    "nameEN": "Hypertension (essential hypertension)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chronisch verhoogde bloeddruk (≥130/80 mmHg) over meerdere weken. Essentiële (primaire) hypertensie heeft geen duidelijke medische oorzaak en betreft >90% van de gevallen. Secundaire hypertensie is het gevolg van andere lichamelijke aandoeningen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hypertensie is een belangrijke risicofactor voor coronaire hartziekten (CHD), beroertes en nierfalen. Internationaal varieert de prevalentie sterk: Europa ~44%, VS ~50% van volwassenen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Risicofactoren: obesitas, ongezonde voeding (veel zout, vet, cholesterol), alcoholmisbruik, lichamelijke inactiviteit, familiegeschiedenis, chronische stress, woede en angst."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "White coat-hypertensie: sommige patiënten krijgen een vals hoge bloeddruk bij artsbezoek door angst, wat kan leiden tot onjuiste diagnose."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beroepsstress als risicofactor: luchtverkeersleiders hebben significant vaker hypertensie dan andere luchtmacht medewerkers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Psychologische factoren zoals PTSS, chronische vijandigheid en ruminatie (blijven denken aan woede) verhogen de rustbloeddruk."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Natriumbeperking (max. 2300 mg/dag) en verhoogde kaliuminname zijn eerste dieetmaatregelen bij hypertensie."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "2f638dc0-1f8b-41a6-bb5c-170d5a3878b2"
+  },
+  {
+    "nameNL": "Atherosclerose",
+    "nameEN": "Atherosclerosis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Voortschrijdend proces waarbij vetachtige plaques (bestaande uit cholesterol en andere vetten) zich ophopen in de wand van slagaders, waardoor deze langzaam vernauwen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De plaques verharden en vernauwen de slagaders, wat leidt tot arteriosclerose (verminderde elasticiteit en diameter). Dit verhoogt de bloeddruk en verergert met de leeftijd, maar het proces begint al vroeg in het leven."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Atherosclerose is de onderliggende oorzaak van veel cardiovasculaire aandoeningen, waaronder coronaire hartziekte, myocardinfarct en beroerte."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "LDL ('slecht') cholesterol bevordert plaquevorming; HDL ('goed') cholesterol helpt LDL uit het bloed te verwijderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Woede hangt samen met stijfheid van de slagaders, een vroeg symptoom van atherosclerose."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stress versnelt atherosclerose via ontstekingsreacties en verhoogde lipidenniveaus."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "92a561ca-9ef7-4660-adb9-3688556e5fd2"
+  },
+  {
+    "nameNL": "Arteriosclerose",
+    "nameEN": "Arteriosclerosis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verdikking en verharding van de slagaderwanden, resulterend in verminderde elasticiteit en diameter van slagaders. Is een gevolg van atherosclerose."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Arteriosclerose verhoogt de bloeddruk doordat de bloedvaten minder flexibel worden en meer weerstand bieden aan de bloedstroom."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Arteriosclerose en atherosclerose worden soms door elkaar gebruikt maar zijn strikt genomen verschillende processen: atherosclerose betreft vetafzetting, arteriosclerose betreft verharding van de vaatwand."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "3c0010b9-6178-4b54-8f07-5270912f6bdf"
+  },
+  {
+    "nameNL": "Myocardinfarct (hartaanval)",
+    "nameEN": "Myocardial infarction (heart attack)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Afsterven van hartspierweefsel door langdurig zuurstoftekort, meestal veroorzaakt door een bloedstolsel in een vernauwde kransslagader."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Symptomen: drukkend/beklemmend gevoel in de borst (langer dan enkele minuten), pijn uitstralend naar schouders, nek, kaak of armen, kortademigheid, duizeligheid, zweten en misselijkheid. Niet iedereen ervaart dezelfde symptomen (vrouwen soms geen pijn op de borst)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Snel medisch ingrijpen (binnen 3 uur) met trombolytica (bloedstolsel-oplossers) is cruciaal om blijvende schade te voorkomen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Veel plotselinge sterfte door ventrikelfibrillatie (ventrikelfibrilleren), niet per se door het infarct zelf."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Emotionele uitbarstingen zoals woede kunnen bij vatbare personen een hartinfarct uitlokken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Angst of ontkenning van symptomen leidt vaak tot vertraging in het zoeken van medische hulp, wat de kans op blijvende schade of overlijden verhoogt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Revalidatie omvat leefstijlveranderingen (stoppen met roken, gewichtsverlies, beweging, dieet) en psychologische ondersteuning."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "9f4f98b1-cbdb-47d0-8c54-842bac2ad237"
+  },
+  {
+    "nameNL": "Angina pectoris",
+    "nameEN": "Angina pectoris",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hevige pijn en beklemming in de borst door een kortdurende vernauwing of spasme in een kransslagader, waardoor de hartspier tijdelijk onvoldoende zuurstof ontvangt (ischemie)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Treedt vaak op bij fysieke inspanning of stress. Er treedt weinig of geen blijvende schade aan het hart op als de ischemie snel stopt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stille ischemie: zuurstoftekort zonder pijn, maar toch risico op schade."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Angina pectoris kan maanden of jaren na een hartinfarct blijven terugkomen, wat beangstigend en invaliderend kan zijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vaak controleerbaar met medicatie; niet altijd spoedzorg nodig."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "54a20eba-5862-4572-941c-4b3bc5e907cc"
+  },
+  {
+    "nameNL": "Congestief hartfalen",
+    "nameEN": "Congestive heart failure",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Permanente verzwakking van het hart (verminderde pompfunctie) door een onderliggende aandoening zoals ernstige arteriosclerose."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Symptomen: kortademigheid, vochtophoping in de longen en perifeer oedeem."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Komt vooral op oudere leeftijd voor en veroorzaakt aanzienlijke beperkingen in het dagelijks functioneren."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Oudere patiënten die een hartinfarct overleven, kunnen hartfalen ontwikkelen als langetermijngevolg."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "43016777-671b-4c42-b2fb-275ea22a8003"
+  },
+  {
+    "nameNL": "Aneurysma",
+    "nameEN": "Aneurysm",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een uitstulping in een verzwakte slagader of ader. Kan dodelijk zijn als het scheurt, vooral in een grote slagader."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vaak asymptomatisch tot het scheurt; kan voorkomen in de aorta, hersenvaten of perifere bloedvaten."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Risicofactoren zijn hypertensie, atherosclerose en roken."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "85195cb7-b82c-4978-8fbd-92e61ab26c95"
+  },
+  {
+    "nameNL": "Beroerte (CVA)",
+    "nameEN": "Stroke (cerebrovascular accident)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een aandoening waarbij hersenbeschadiging optreedt wanneer de bloedtoevoer naar een deel van de hersenen wordt verstoord, waardoor het geen zuurstof meer krijgt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Twee hoofdtypen: ischemische beroerte (bloedprop blokkeert hersendoorbloeding, komt vaker voor, geleidelijke ontwikkeling) en hemorragische beroerte (gesprongen bloedvat in de hersenen, minder frequent maar dodelijker, plotseling begin)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gevolgen: verlamming aan één lichaamszijde, spraak- en taalproblemen (afasie), cognitieve beperkingen en emotionele stoornissen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Linkszijdige hersenbeschadiging → problemen met taal/spreken (receptieve of expressieve afasie). Rechtszijdige beschadiging → problemen met visuele waarneming en ruimtelijk inzicht (visual neglect)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Transient ischemic attacks (TIA's / mini-beroertes) zijn waarschuwingstekens voor een volledige beroerte."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Risicofactoren: verhoogde bloeddruk (belangrijkste), roken, boezemfibrilleren, familiehistorie, depressie en werkstress."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Revalidatie: fysiotherapie, logopedie, ergotherapie, biofeedback en zelfinstructie."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "1ef1efea-b800-4182-b318-f7a89d9eb4f6"
+  },
+  {
+    "nameNL": "Coronaire hartziekte",
+    "nameEN": "Coronary heart disease (CHD)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Aandoening waarbij kransslagaders vernauwd zijn door atherosclerose (plaque-opbouw), waardoor de bloedtoevoer naar de hartspier vermindert."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Manifestaties: angina pectoris, ischemie, myocardinfarct en plotselinge hartdood."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Komt vooral voor in moderne samenlevingen met westerse leefstijl. Wereldwijd een van de belangrijkste doodsoorzaken."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Type A-persoonlijkheid (competitief, ongeduldig, vijandig) verdubbelt het risico op CHD; met name boosheid en vijandigheid zijn de gevaarlijke componenten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chronische negatieve emoties (woede, depressie, angst) verhogen het risico via fysiologische en gedragsmatige routes."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het diathese-stressmodel verklaart waarom stress bij sommigen tot hartziekte leidt: ziekte ontstaat bij hoge stress én hoge kwetsbaarheid."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "fa0f7e5f-f3ce-42e1-94da-617f4a0ae444"
+  },
+  {
+    "nameNL": "Astma",
+    "nameEN": "Asthma",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chronische ademhalingsstoornis waarbij de luchtwegen ontstoken en vernauwd raken door overreactie van het immuunsysteem, met ontsteking, spasmen en overmatige slijmproductie in de bronchiën."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Symptomen: piepende ademhaling, kortademigheid, benauwdheid en paniek tijdens aanvallen. Wereldwijd ~235 miljoen mensen getroffen; vooral kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Triggers: allergieën (pollen, huisstofmijt), infecties, stress, woede, rook, kou, luchtvervuiling en fysieke inspanning."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wederkerige relatie met stress: astma veroorzaakt stress, en stress verergert astma."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Catastroferen (paniek bij eerste ademhalingsklachten) verergert aanvallen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Astmasymptomen kunnen door conditionering worden opgewekt door suggestie of geconditioneerde stimuli."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ongeveer 1/4 van kinderen met astma heeft geen symptomen meer als volwassene."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behandeling: bronchodilatoren (acuut) en corticosteroïden (preventief)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "24fc2263-7a47-48d1-a116-c415493491f3"
+  },
+  {
+    "nameNL": "COPD (chronische obstructieve longziekte)",
+    "nameEN": "Chronic obstructive pulmonary disease (COPD)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verzamelnaam voor emfyseem en chronische bronchitis. Kenmerkt zich door permanent verminderde luchtstroom, vooral merkbaar bij krachtig uitademen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "COPD is progressief en leidt tot toenemende ademhalingsmoeilijkheden en beperkingen in het dagelijks functioneren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "80% van de COPD-gevallen is gerelateerd aan roken."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ook bekend als CLRD (chronic lower respiratory disease)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoge-teer sigaretten veroorzaken meer schade dan lage-teer varianten; ook marihuanasigaretten zijn schadelijk."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "cbc4d8ce-c90c-48bd-9a97-242e6333a6d6"
+  },
+  {
+    "nameNL": "Emfyseem",
+    "nameEN": "Emphysema",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vernietiging van de alveolaire (longblaasjes) wanden, waardoor gasuitwisseling en uitademing bemoeilijkt worden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onderdeel van COPD. Leidt tot verlittekend longweefsel en progressieve ademhalingsproblemen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sterk geassocieerd met langdurig roken; onomkeerbare schade aan de longen."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "fc61b820-5fe8-4d12-bc41-4843ace080db"
+  },
+  {
+    "nameNL": "Chronische bronchitis",
+    "nameEN": "Chronic bronchitis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Langdurige ontsteking van de luchtwegen met overmatige slijmproductie, wat resulteert in een aanhoudende hoest."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onderdeel van COPD. Sterk gerelateerd aan roken en langdurige blootstelling aan luchtvervuiling."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verschilt van acute bronchitis doordat de klachten chronisch (>3 maanden per jaar, gedurende minstens 2 jaar) aanhouden."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "02264849-56c3-4a5c-88f7-1856c4255a1d"
+  },
+  {
+    "nameNL": "Longontsteking",
+    "nameEN": "Pneumonia",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Infectie van de longen, vaak veroorzaakt door bacteriën of virussen. Kan levensbedreigend zijn, vooral bij ouderen en mensen met een verzwakt immuunsysteem."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kinderen van rokers lopen meer risico op longontsteking."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Rokers zijn gevoeliger voor verkoudheidsvirussen en longinfecties door verzwakte immuunfunctie."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "31bf01ce-fdca-4a1d-85cf-dd42806d31bd"
+  },
+  {
+    "nameNL": "Cystische fibrose (taaislijmziekte)",
+    "nameEN": "Cystic fibrosis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een erfelijke, fatale longziekte waarbij abnormaal taai slijm de luchtwegen en andere organen verstopt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidt tot ernstige ademhalingsproblemen en spijsverteringsstoornissen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een van de meest voorkomende erfelijke ziekten bij personen van Europese afkomst."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "dff0c2ac-96dd-436b-a7d7-044739b9a523"
+  },
+  {
+    "nameNL": "Pneumoconiose",
+    "nameEN": "Pneumoconiosis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Longziekte veroorzaakt door langdurige inademing van stof (zoals bij mijnwerkers, bouwvakkers)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidt tot verlittekening van het longweefsel en verminderde longfunctie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beroepsgebonden longziekte; preventie via beschermende maatregelen op de werkplek is essentieel."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "f8715f7b-9be8-4fa0-bf4b-a9877a1e2adf"
+  },
+  {
+    "nameNL": "Kanker (maligne neoplasma)",
+    "nameEN": "Cancer (malignant neoplasm)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verzamelnaam voor tientallen ziekten waarbij cellen zich ongecontroleerd vermenigvuldigen en een kwaadaardig gezwel (maligne neoplasma) vormen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vijf hoofdtypen: carcinomen (huid/organen, 85%), melanomen (pigmentcellen), lymfomen (lymfestelsel), sarcomen (spieren/botten/bindweefsel) en leukemieën (bloedvormende organen)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Metastase: uitzaaiing van kankercellen via bloed of lymfe naar andere lichaamsdelen. Angiogenese: tumor ontwikkelt eigen bloedtoevoer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behandeling: chirurgie, radiotherapie, chemotherapie en immunotherapie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wereldwijd: 1 op de 7 sterfgevallen door kanker."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Risicofactoren: genetisch (oncogenen), UV-straling, chemicaliën, roken, ongezonde voeding, inactiviteit, obesitas, virussen (HPV, hepatitis B/C) en stress."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bijwerkingen behandeling: pijn, misselijkheid, vermoeidheid, haaruitval en anticipatoire misselijkheid (conditionering)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Veel patiënten tonen veerkracht; aanpassing is beter bij actieve, probleemgerichte coping en betrokkenheid bij behandelbeslissingen."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "94e8a425-0d36-40d4-bde4-078ff74ecceb"
+  },
+  {
+    "nameNL": "Longkanker",
+    "nameEN": "Lung cancer",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ongecontroleerde celdeling die begint in de bronchiale buizen en zich verspreidt naar de longen en via de bloedbaan naar het hele lichaam."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lage overlevingskans (~21%) door vroege uitzaaiing. De dodelijkste vorm van kanker."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sterk verband met roken: verantwoordelijk voor ~30% van alle kankersterfte."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vóór 1930 zeldzaam; sinds 1950 forse stijging in sterftecijfers, eerst bij mannen, later bij vrouwen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Carcinogenen in tabaksrook (nitrosaminen, PAK's) beschadigen cilia en veroorzaken genetische mutaties."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "b1afd09e-7853-4224-917e-3e39c4e29209"
+  },
+  {
+    "nameNL": "Borstkanker",
+    "nameEN": "Breast cancer",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kwaadaardige tumor in het borstweefsel. Hoge overlevingskans bij vroege detectie (tot 99%)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behandeling varieert van lumpectomie (tumorverwijdering met bestraling) tot mastectomie (volledige borstverwijdering)."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kan invloed hebben op seksueel functioneren en lichaamsbeeld."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "CGT-programma's bij borstkanker kunnen zelfs het immuunsysteem verbeteren."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "aff0a8e5-aa1e-4597-b79f-e16706a4cf2c"
+  },
+  {
+    "nameNL": "Prostaatkanker",
+    "nameEN": "Prostate cancer",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kwaadaardige tumor in de prostaat. Zeer hoge overlevingskans (tot 98% na 10 jaar) bij tijdige detectie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Komt vooral voor bij oudere mannen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kan leiden tot seksuele disfunctie; stressmanagement verbetert seksueel functioneren bij prostaatkankerpatiënten."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "f5ac154f-ac6b-4fb5-b9b7-c9778583ba9d"
+  },
+  {
+    "nameNL": "Darmkanker (dikke darmkanker)",
+    "nameEN": "Colorectal cancer",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kwaadaardige tumor in de dikke darm of het rectum. Goede prognose bij vroege detectie (~90% overleving)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Risicodieet: veel verzadigd vet, weinig vezels en weinig vis."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Regelmatige screening is belangrijk voor vroege opsporing."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "d6e05156-7596-47b9-b0b8-3a6705f77ca5"
+  },
+  {
+    "nameNL": "Huidkanker",
+    "nameEN": "Skin cancer",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meest voorkomende vorm van kanker. Veel gevallen zijn goedaardig en behandelbaar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Melanomen (kanker van pigmentvormende cellen) zijn aanzienlijk gevaarlijker dan andere vormen van huidkanker."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "UV-straling is de belangrijkste risicofactor; bescherming tegen zonlicht is de primaire preventie."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "d2068fe0-bed7-4adb-8d4f-f30c117e83a7"
+  },
+  {
+    "nameNL": "Leukemie (bloedkanker)",
+    "nameEN": "Leukemia",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kanker in de bloedbaan en bloedvormende organen (zoals beenmerg), gekenmerkt door abnormaal hoge productie van witte bloedcellen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meest voorkomende kanker bij kinderen; overlevingskans na 5 jaar is ~84% bij kinderen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behandeling bij kinderen start met intensieve inductiefase (medicatie en soms hersenbestraling), gevolgd door onderhoudsbehandeling van 2-3 jaar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Haarverlies door behandeling is psychologisch bijzonder belastend voor kinderen."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "bbec983f-6738-421c-bfe1-ea6da871c37e"
+  },
+  {
+    "nameNL": "Lymfoom",
+    "nameEN": "Lymphoma",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kwaadaardig gezwel in de lymfklieren (lymfestelsel). Ontstaat wanneer lymfocyten ongecontroleerd gaan delen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behoort tot de vijf hoofdtypen van kanker die in de gezondheidspsychologie worden besproken."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "880d2336-d2af-46bf-b65a-9342dce58180"
+  },
+  {
+    "nameNL": "Sarcoom",
+    "nameEN": "Sarcoma",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kwaadaardig gezwel dat ontstaat uit bindweefselcellen, in spieren, botten of bindweefsel."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Minder frequent dan carcinomen, maar kan zeer agressief zijn."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "2870a3aa-2875-4752-b341-aebdcbc402c1"
+  },
+  {
+    "nameNL": "Carcinoom",
+    "nameEN": "Carcinoma",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kwaadaardige nieuwvorming op bepaalde weefsels zoals huid, spijsverterings-, ademhalings- en geslachtsorganen. Veruit het meest voorkomende type kanker (85% van alle gevallen)."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De meeste 'kankers' die in de leerstof worden besproken (long-, borst-, prostaat-, darmkanker) zijn carcinomen."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "3d589a4e-f0c4-4bcc-bfb1-19c025b4da5d"
+  },
+  {
+    "nameNL": "Melanoom",
+    "nameEN": "Melanoma",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een vorm van huidkanker die ontstaat in de pigmentvormende cellen (melanocyten). Gevaarlijker dan andere vormen van huidkanker door neiging tot vroege uitzaaiing."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "CAUTION-signalen (waarschuwingstekens): verandering in een moedervlek qua kleur, vorm of grootte."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "7aed94fe-8b69-4db6-9753-a5a5d2b659fe"
+  },
+  {
+    "nameNL": "HIV/AIDS",
+    "nameEN": "HIV/AIDS",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "AIDS (verworven immuundeficiëntiesyndroom) wordt veroorzaakt door het HIV-virus, dat T-helpercellen (CD4-cellen) vernietigt, waardoor immuundeficiëntie ontstaat."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Overdracht: seksueel contact, bloedcontact, moeder-kind en besmette injectienaalden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Progressie: van HIV-infectie naar AIDS bij lage CD4-telling en/of opportunistische infecties. Zonder behandeling sterven de meeste patiënten binnen 3 jaar."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behandeling: antiretrovirale therapie (ART) verhoogt levensverwachting aanzienlijk."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Psychosociaal: stigmatisering en discriminatie maken aanpassing extra moeilijk; therapietrouw is cruciaal."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Psychosociale interventies kunnen angst en depressie verminderen en immuunfunctie versterken."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "55a1b215-6727-4555-a0d6-c09a4bf0519a"
+  },
+  {
+    "nameNL": "Reumatische koorts",
+    "nameEN": "Rheumatic fever",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Auto-immuunziekte waarbij het immuunsysteem, na een streptokokkeninfectie, de eigen hartspieren en -kleppen aanvalt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidt vaak tot permanente beschadiging aan de hartkleppen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Voorbeeld van een auto-immuunziekte in de context van het immuunsysteem (H2); oorzaken: erfelijkheid en reactie op eerdere infecties."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "8c6909bd-b709-4e64-813e-f74741c7f44d"
+  },
+  {
+    "nameNL": "Systemische lupus erythematosus (SLE)",
+    "nameEN": "Systemic lupus erythematosus (SLE)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Auto-immuunziekte waarbij het immuunsysteem meerdere organen aanvalt, waaronder huid, gewrichten, nieren en hart."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kan leiden tot diverse symptomen zoals huiduitslag, gewrichtspijn, vermoeidheid en orgaanschade."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Oorzaken: combinatie van erfelijkheid en reactie op eerdere infecties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Treft vaker vrouwen dan mannen."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "c24787e9-4d7b-4f9f-b61b-39e798d3aa44"
+  },
+  {
+    "nameNL": "Allergie",
+    "nameEN": "Allergy",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een immuunreactie op onschadelijke lichaamsvreemde stoffen (allergenen). De reactie is gedeeltelijk erfelijk bepaald."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Allergenen lokken een allergische reactie uit waarbij het immuunsysteem overdreven reageert. Kan variëren van mild (niezen, jeuk) tot ernstig (anafylaxie)."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Allergieën kunnen via beenmergtransplantatie worden overgedragen, wat de rol van antistoffen bevestigt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Veel astma-aanvallen worden getriggerd door allergieën (pollen, huisstofmijt)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "6c17fb04-68df-491d-b77c-32b047019ca8"
+  },
+  {
+    "nameNL": "Epilepsie",
+    "nameEN": "Epilepsy",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Neurologische aandoening met terugkerende aanvallen door elektrische verstoringen in de hersenschors (cerebral cortex)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vormen: tonisch-clonisch (grand mal) met bewustzijnsverlies, stijfheid en spiertrekkingen; mildere vormen met kortstondig staren of lichte spiertrekkingen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Oorzaken: vaak onbekend; risicofactoren zijn hersenletsel, beroerte, erfelijkheid en aandoeningen als Alzheimer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behandeling: anti-epileptica, vagale zenuwstimulatie-implantaat en soms operatie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Soms wordt een aanval voorafgegaan door een aura (zintuigelijke verschijnselen)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Psychosociale factoren: stigmatisering, beperkingen (werk, rijbewijs), angst en sociale isolatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Emoties kunnen aanvallen uitlokken; biofeedback kan helpen bij aanvalspreventie door bewustwording van triggers."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "1dfa7f60-25c1-4754-a9e1-d27630640e9a"
+  },
+  {
+    "nameNL": "Multiple sclerose (MS)",
+    "nameEN": "Multiple sclerosis (MS)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Auto-immuunziekte waarbij het immuunsysteem de myelineschede (isolatielaag) van zenuwcellen vernietigt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidt tot spierzwakte, coördinatieproblemen en progressieve neurologische achteruitgang."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verloop is wisselend: perioden van verergering (relapsen) en verbetering (remissie)."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cognitieve herstructurering is bewezen effectief bij MS voor het verminderen van pijn, depressie en vermoeidheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in de leerstof als voorbeeld van auto-immuunziekte (H2) en als chronische neurologische aandoening (H13)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "cb11d601-6eae-487a-b434-ef38af9d22ad"
+  },
+  {
+    "nameNL": "Myasthenia gravis",
+    "nameEN": "Myasthenia gravis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Aandoening met verstoorde communicatie tussen zenuwen en spieren (neuromusculaire junctie), behorend tot het somatisch zenuwstelsel."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidt tot spierzwakte, vooral in de oogleden, gezichtsspieren en ledematen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Genoemd in de leerstof als voorbeeld van een ziekte van het somatisch zenuwstelsel (H2)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "83c54058-ca1d-49fd-b96f-b099c6910d07"
+  },
+  {
+    "nameNL": "Ziekte van Alzheimer (dementie)",
+    "nameEN": "Alzheimer's disease (dementia)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Progressief verlies van cognitieve functies (aandacht, geheugen, zelfzorg en gedrag) dat vaak optreedt op oudere leeftijd."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dementie is de overkoepelende term; de ziekte van Alzheimer is de meest voorkomende vorm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Geen genezing mogelijk; therapie richt zich op het behouden van functioneren en familieondersteuning."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Patiënten gaan geleidelijk achteruit, niet plotseling; correcte informatie hierover helpt bij realistische verwachtingen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mantelzorgers ervaren hoge stressbelasting; ondersteuning van mantelzorgers is essentieel."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "880739d3-e5f6-45a7-bd31-6121b9cca85e"
+  },
+  {
+    "nameNL": "Ruggenmergletsel (dwarslaesie)",
+    "nameEN": "Spinal cord injury",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Neurologische schade in de wervelkolom die resulteert in verlies van motorische controle, gevoel en reflexen in de bijbehorende lichaamsgebieden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tetraplegie (quadriplegie): verlamming vanaf de nek naar beneden. Paraplegie: verlamming van de onderste ledematen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ontstaat meestal bij jongeren door ongelukken."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Levensverwachting blijft relatief hoog: een 20-jarige paraplegicus leeft gemiddeld nog ~45 jaar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Revalidatie in drie fasen: stabilisatie, spierversterking (met biofeedback), en training in dagelijkse activiteiten met hulpmiddelen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Seksualiteit verandert maar is vaak nog deels mogelijk; psychosociale factoren zijn vaak een grotere belemmering dan fysieke."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Aanpassing kost tijd (vaak pas na enkele jaren verbetering) en hangt af van acceptatie, frustratietolerantie en betekenisvinding."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "7c327cb6-0736-49aa-bc06-3c86832c07f4"
+  },
+  {
+    "nameNL": "Maagzweren (peptische ulcera)",
+    "nameEN": "Peptic ulcers",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Open wonden in de maag- of darmwand, vaak in de twaalfvingerige darm. Veroorzaakt door een combinatie van bacteriële infectie (Helicobacter pylori), overmatige maagzuurproductie en stress."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stress verhoogt maagzuurproductie, wat schade aan het slijmvlies veroorzaakt."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken als psychofysiologische stoornis (H4): lichamelijke klachten die ontstaan door samenspel van psychosociale en fysiologische factoren."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "4c663684-0fec-4a98-807a-b554b7f2cb6f"
+  },
+  {
+    "nameNL": "Hepatitis",
+    "nameEN": "Hepatitis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Virale infectie die de lever aantast en ontsteking veroorzaakt. Symptomen: vermoeidheid, geelzucht (gele verkleuring van huid en ogen), misselijkheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hepatitis A: via besmet voedsel, water en keukengerei. Hepatitis B & C: via bloedcontact, seksueel contact en besmette naalden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kan leiden tot permanente leverschade."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hepatitis B en C zijn risicofactoren voor leverkanker."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hepatitis B/C zijn ook relevant in de context van HIV-preventie (overlappende overdrachtsroutes)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "de3b9b34-8a81-4c9e-a9bc-ddad6708af04"
+  },
+  {
+    "nameNL": "Cirrose (levercirrose)",
+    "nameEN": "Cirrhosis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Afsterven van levercellen die worden vervangen door niet-functioneel littekenweefsel."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Veroorzaakt door alcoholmisbruik, hepatitis of andere leverziekten. Leidt tot aantasting van leverfunctie, bloedzuivering en stofwisseling."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijk gevolg van chronisch alcoholmisbruik; besproken in H7 (verslavende stoffen)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "3df1bafe-88a4-4714-bdfb-5c4a024dc392"
+  },
+  {
+    "nameNL": "Prikkelbare darm syndroom (PDS)",
+    "nameEN": "Irritable bowel syndrome (IBS)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Veelvoorkomende functionele darmstoornis waarbij geen fysieke schade wordt gevonden aan de darm, maar wel ernstige klachten optreden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Symptomen: buikpijn, opgeblazen gevoel, constipatie of diarree."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stress is een kernfactor in zowel het ontstaan als het aanhouden van klachten: vroege levensstress, langdurige chronische stress en recente stressvolle gebeurtenissen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Psychotherapie en stressmanagement kunnen effectief zijn bij het verlichten van symptomen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stress beïnvloedt het immuunsysteem, dat op zijn beurt de darmwerking kan verstoren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cognitieve herstructurering is bewezen effectief bij PDS."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "156e31ca-defd-4d68-8d6a-301e57c76db7"
+  },
+  {
+    "nameNL": "Inflammatoire darmziekten (IBD)",
+    "nameEN": "Inflammatory bowel disease (IBD)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verzamelnaam voor chronische ontstekingsziekten van de darm, met als twee hoofdvormen de ziekte van Crohn en colitis ulcerosa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verergeren bij stress; oorzaak deels onbekend."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken als psychofysiologische stoornis die wordt verergerd door stress."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "a5b42b8c-3eba-4e7c-b1d7-ece55e5da6e4"
+  },
+  {
+    "nameNL": "Ziekte van Crohn",
+    "nameEN": "Crohn's disease",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chronische ontstekingsziekte die zowel de dikke als dunne darm kan aantasten. Onderdeel van de inflammatoire darmziekten (IBD)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verergert bij stress; behandeling omvat medicatie en soms chirurgie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kan overal in het maag-darmkanaal voorkomen, in tegenstelling tot colitis ulcerosa die beperkt is tot de dikke darm."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "3b0989e6-3a58-4fdc-bf36-1769d6833da3"
+  },
+  {
+    "nameNL": "Colitis ulcerosa",
+    "nameEN": "Ulcerative colitis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chronische ontsteking van de dikke darm. Onderdeel van de inflammatoire darmziekten (IBD)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidt tot zweervorming in de darmwand, bloederige diarree en buikpijn."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beperkt tot de dikke darm, in tegenstelling tot de ziekte van Crohn."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "5de26fb9-e044-495b-af53-43203805c6ab"
+  },
+  {
+    "nameNL": "Diabetes mellitus type 1",
+    "nameEN": "Diabetes mellitus type 1",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Auto-immuunziekte waarbij het immuunsysteem de insulineproducerende cellen in de alvleesklier vernietigt. Ontstaat vaak op jonge leeftijd."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verantwoordelijk voor 5-10% van alle diabetesgevallen. Behandeling: dagelijkse insuline-injecties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Complicatie: ketoacidose – ophoping van vetzuren in het bloed, kan leiden tot coma of dood."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Adolescenten worstelen met autonomie versus therapietrouw; hormonale veranderingen bemoeilijken bloedsuikercontrole."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beschermende factoren bij jongeren: hoge zelfwaardering, sterke ouder-kindrelaties en sociale vaardigheden."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "57a5e6b0-4d97-4c7e-8785-7bc227c97d0d"
+  },
+  {
+    "nameNL": "Diabetes mellitus type 2",
+    "nameEN": "Diabetes mellitus type 2",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stofwisselingsziekte waarbij het lichaam wel insuline aanmaakt maar er onvoldoende op reageert (insulineresistentie). Komt veel vaker voor (90-95% van alle gevallen)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vaak bij mensen boven de 40 jaar, vooral met overgewicht. Behandeling: dieet, medicatie, soms insuline."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Risicofactoren: genetische aanleg, obesitas, stress, slechte voeding en roken."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Complicaties: neuropathie (zenuwaandoening door schade aan myelineschede), atherosclerose, blindheid, nierfalen en amputaties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Minder dan 50% van diabetespatiënten haalt glucosedoelen; therapietrouw is een groot probleem."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Geïntegreerde zorg voor depressieve diabetespatiënten leidt tot betere bloedsuikercontrole én minder depressie."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "120c33f6-9aa5-4469-b757-fb8a3083a695"
+  },
+  {
+    "nameNL": "Hypothyreoïdie",
+    "nameEN": "Hypothyroidism",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onvoldoende afscheiding van schildklierhormonen (thyroxine), resulterend in een laag activiteitsniveau, vermoeidheid en gewichtstoename."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in de context van het endocriene systeem (H2) als voorbeeld van hormonale disbalans."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "18691298-be22-4a1c-bf5c-27981388e51d"
+  },
+  {
+    "nameNL": "Hyperthyreoïdie",
+    "nameEN": "Hyperthyroidism",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Overmatige afscheiding van schildklierhormonen, resulterend in een hoog activiteitsniveau, korte aandachtsspanne, tremors, slapeloosheid en gewichtsverlies."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onbehandelde hyperthyreoïdie kan leiden tot de ziekte van Graves."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "ae8cafae-dca3-41b9-9af6-72e19a2af5bf"
+  },
+  {
+    "nameNL": "Ziekte van Graves",
+    "nameEN": "Graves' disease",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Auto-immuunaandoening van de schildklier die leidt tot ernstige hyperthyreoïdie. Onbehandelde personen gedragen zich op een zeer rusteloze, prikkelbare en verwarde manier."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in H2 als voorbeeld van een hormonale aandoening veroorzaakt door overmatige schildklieractiviteit."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "cf5f339f-7f77-422c-9550-e1f395ae0ec3"
+  },
+  {
+    "nameNL": "Obesitas (zwaarlijvigheid)",
+    "nameEN": "Obesity",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Overmatige vetopslag in het lichaam door een positieve energiebalans (meer calorie-inname dan verbruik). Gemeten via de Quetelet-index (BMI)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Oorzaken: erfelijkheid, eetgedrag, gebrek aan beweging en psychologische factoren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vetopslag in adipose tissue (vetweefsel): eenmaal gevormde vetcellen blijven bestaan."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke risicofactor voor hart- en vaatziekten, hypertensie, diabetes type 2 en bepaalde kankers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Interventies: voorlichting, dieet, bewegingsprogramma's, zelfhulpgroepen en medische benadering (chirurgie, medicatie)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "a4968c1c-b58c-4421-a768-2d6d37f2fdf9"
+  },
+  {
+    "nameNL": "Reumatoïde artritis",
+    "nameEN": "Rheumatoid arthritis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Auto-immuunziekte met chronische ontsteking van gewrichten. Vaak de meest pijnlijke en invaliderende vorm van artritis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bij gevorderde stadia: gewrichtsvocht verdwijnt, kraakbeen wordt vernietigd, botafbraak, misvormingen en ontwrichtingen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kan ook hart, longen en bloedvaten aantasten."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidende oorzaak van invaliditeit bij chronische ziekten in de VS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Helplessness (hulpeloosheid) leidt tot meer pijn en depressie; persoonlijke controle verbetert stemming."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De meeste mensen met artritis hebben minstens één comorbide chronische ziekte."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "96493115-3414-4ce1-88e6-2206f2cb9de3"
+  },
+  {
+    "nameNL": "Artrose (osteoartritis)",
+    "nameEN": "Osteoarthritis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meest voorkomende vorm van artritis, ontstaat door slijtage van gewrichten. Komt vaak voor bij ouderen of mensen met overgewicht."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beroepsrisico: dansers (voeten), wevers (handen), bouwvakkers (knieën/heupen)."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gewichtsverlies ontlast gewrichten: 1 kg minder lichaamsgewicht = 4 kg minder druk op de knie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behandeling: NSAID's, kunstgewrichten bij ernstige slijtage, fysiotherapie en beweging."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "9b8465a1-8b7c-48fc-b7e5-9f05b050be7d"
+  },
+  {
+    "nameNL": "Jicht",
+    "nameEN": "Gout",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Aandoening waarbij overtollig urinezuur kristalliseert in gewrichten, vooral de grote teen. Veroorzaakt acute, zeer pijnlijke gewrichtsontsteking."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dieetaanpassing (beperken van bepaalde voedingsmiddelen en alcohol) is belangrijk bij jicht."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Komt vaker voor bij mannen dan bij vrouwen."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "f13a800d-05f1-49bb-9517-bfe6c31158d8"
+  },
+  {
+    "nameNL": "Fibromyalgie",
+    "nameEN": "Fibromyalgia",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Veroorzaakt wijdverspreide pijn en stijfheid in spieren en zacht weefsel, zonder aantoonbare ontstekingen of gewrichtsschade."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Behoort tot de reumatische aandoeningen (meer dan 100 verschillende aandoeningen van gewrichten, spieren en bindweefsel)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "20aa5813-6b33-4db2-b6df-aa94eec3af0a"
+  },
+  {
+    "nameNL": "Juveniele artritis",
+    "nameEN": "Juvenile arthritis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Artritis die kinderen treft. Vaak tijdelijk, met relatief weinig blijvende schade."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kan psychosociaal belastend zijn door beperkingen in spel en schoolactiviteiten."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "14656e22-9745-4d1d-86e0-81b271d95bf3"
+  },
+  {
+    "nameNL": "Anorexia nervosa",
+    "nameEN": "Anorexia nervosa",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Eetstoornis gekenmerkt door extreme beperking van voedselinname, verstoord lichaamsbeeld en intense angst om aan te komen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Psychiatrische aandoening met complexe etiologie (biologisch, psychologisch, sociaal)."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in H8 (voeding, gewicht en gezondheid) als ernstige eetstoornis met potentieel levensbedreigende gevolgen."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "6181ea04-63e4-4fb3-9a5c-3553cfceeda0"
+  },
+  {
+    "nameNL": "Boulimia nervosa",
+    "nameEN": "Bulimia nervosa",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Eetstoornis gekenmerkt door eetbuien gevolgd door compensatiegedrag (purgeren, vasten, overmatig bewegen)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Psychiatrische aandoening met complexe etiologie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in H8; kan leiden tot ernstige lichamelijke complicaties zoals elektrolytverstoringen en tandschade."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "959d3b2e-b8cd-4e1c-ad38-6874e851ead4"
+  },
+  {
+    "nameNL": "Hypochondrie",
+    "nameEN": "Hypochondriasis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Excessieve bezorgdheid over gezondheid en de overtuiging ernstig ziek te zijn, ondanks geruststellende medische bevindingen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidt tot frequent doktersbezoek zonder medische noodzaak (overgebruik van gezondheidszorg)."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in H9 als voorbeeld van overgebruik van de gezondheidszorg (non-consultatiegedrag vs. overgebruik)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "23b3c475-59a5-4d7d-8a3c-11307702d23b"
+  },
+  {
+    "nameNL": "Spanningshoofdpijn",
+    "nameEN": "Tension-type headache (muscle contraction headache)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Doffe, constante pijn door spierspanning en verstoringen in het zenuwstelsel. Komt ≥2 keer per week voor en kan uren, dagen of weken duren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chronische stress is een belangrijke oorzaak van spierspanning in hoofd-, nek- en schouderspieren."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoofdpijnfrequentie daalt na pensionering, vooral bij mensen met stressgevoelige persoonlijkheden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Biofeedback (EMG) is effectief bij behandeling."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "bba4131b-f3a3-4d3d-ae24-1abd434baa7a"
+  },
+  {
+    "nameNL": "Migraine",
+    "nameEN": "Migraine",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Scherpe, kloppende pijn, vaak aan één kant van het hoofd, veroorzaakt door bloedvatverwijding en zenuwactiviteit. Duurt uren tot soms dagen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Soms voorafgegaan door een aura (zintuigelijke verschijnselen zoals lijnen of glinsteringen)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Triggers: hormoonschommelingen, slaapgebrek, voeding (alcohol, chocola) en vooral dagelijkse stress."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stress is een belangrijke maar niet de enige factor bij het ontstaan van migraine."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "018fd659-0a30-44bd-8498-a5df8409e980"
+  },
+  {
+    "nameNL": "Eczeem",
+    "nameEN": "Eczema",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chronische huidontsteking gekenmerkt door jeuk, roodheid en schilfering. Stress kan uitbraken veroorzaken of verergeren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vaak in combinatie met allergieën."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken als psychofysiologische stoornis (H4) waarbij stress de huidklachten verergert."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "22066aab-7209-4709-9f48-e86f693e331a"
+  },
+  {
+    "nameNL": "Psoriasis",
+    "nameEN": "Psoriasis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Chronische huidziekte met rode, schilferige plekken. Stress kan uitbraken veroorzaken of verergeren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vaak in combinatie met allergieën."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken als voorbeeld van huidziekte die verergert door stress."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "a603bada-3264-4ec3-b61a-0257f1a39ca2"
+  },
+  {
+    "nameNL": "Anemie (bloedarmoede)",
+    "nameEN": "Anemia",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Tekort aan rode bloedcellen of hemoglobine, waardoor het zuurstoftransport in het bloed verminderd is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Symptomen: vermoeidheid, bleekheid, kortademigheid."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in H2 bij de samenstelling van bloed en het cardiovasculaire systeem."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "a42f4a1e-b678-4742-b677-1deccf180ce3"
+  },
+  {
+    "nameNL": "Hemofilie",
+    "nameEN": "Hemophilia",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Erfelijke aandoening waarbij de bloedstolling is verstoord door het ontbreken van een essentieel stollenseiwit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Leidt tot langdurige bloedingen, zelfs bij kleine verwondingen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in H2 bij de vormelementen van het bloed (bloedplaatjes en stollingsproces)."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "e45addae-262c-4ca5-87bd-fbe8b1c13b4f"
+  },
+  {
+    "nameNL": "Tuberculose",
+    "nameEN": "Tuberculosis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bacteriële infectieziekte die voornamelijk de longen aantast. Historisch een belangrijke doodsoorzaak."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Besproken in de historische context van de verschuiving van infectieziekten naar chronische aandoeningen als belangrijkste doodsoorzaken."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Begin 20e eeuw waren infectieziekten de belangrijkste doodsoorzaken; daling van sterfte door betere hygiëne, voeding en preventieve voorzieningen."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "884ebb64-dee0-49d8-82a1-4662e5704a4c"
+  },
+  {
+    "nameNL": "Malaria",
+    "nameEN": "Malaria",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Infectieziekte veroorzaakt door protozoa (eencellige parasieten), overgedragen via besmette muggen of besmet water."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In de leerstof genoemd als voorbeeld van een antigeen (protozoa) in de context van het immuunsysteem."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Protozoa zoals die malaria veroorzaken, worden herkend door het immuunsysteem via hun eiwitmantels."
+            }
+          ]
+        }
+      ]
+    },
+    "id": "18788622-a6c1-4e7b-821b-7ab5d1d18313"
+  }
+]
