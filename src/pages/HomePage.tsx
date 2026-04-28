@@ -18,8 +18,7 @@ export function HomePage() {
           Inleiding gezondheidspsychologie
         </h1>
         <p className="mt-2 text-muted-foreground">
-          Oefen interactief met de cursus. Meer modules volgen; nu beschikbaar:
-          flashcards.
+          Oefen interactief met de cursus. Beschikbare modules:
         </p>
       </div>
       <Card>
@@ -33,6 +32,20 @@ export function HomePage() {
         <CardContent>
           <Link to="/flashcards" className={cn(buttonVariants())}>
             Naar flashcards
+          </Link>
+        </CardContent>
+      </Card>
+      <Card>
+        <CardHeader>
+          <CardTitle>Compendia</CardTitle>
+          <CardDescription>
+            Zoek en bekijk aandoeningen en begrippen met beschrijvingen en
+            aanvullende informatie.
+          </CardDescription>
+        </CardHeader>
+        <CardContent>
+          <Link to="/compendiums" className={cn(buttonVariants())}>
+            Naar compendia
           </Link>
         </CardContent>
       </Card>
