@@ -1,0 +1,503 @@
+[
+    {
+      "id": "fc-h6-007",
+      "term": {
+        "nl": "Gezondheidsgedrag",
+        "en": "Health behavior"
+      },
+      "definition": "Gedrag dat mensen vertonen om ziekte te voorkomen of hun gezondheid te verbeteren, ongeacht hun huidige gezondheidsstatus en ongeacht of het gedrag daadwerkelijk dat doel bereikt. Synoniemen die ook voorkomen: healthful/health-related behavior.",
+      "chapter": 6,
+      "additions": [
+        "Wordt beïnvloed door kennis, gewoonten, sociale omgeving, emoties en persoonlijkheid.",
+        "Onderverdeeld in drie typen (Kasl & Cobb): well behavior (preventief), symptom-based behavior (bij klachten) en sick-role behavior (na herkende ziekte).",
+        "Vier basisgedragingen samen verlengen het leven gemiddeld met ~12 jaar: niet roken, matig alcoholgebruik, regelmatig bewegen en gezond eten.",
+        "Cumulatief effect (Tabel 6.1 Sarafino): hoe meer risicofactoren, hoe kleiner de kans om hoge leeftijd te bereiken.",
+        "Expliciet kernwoord in leerdoel 1 van H6."
+      ],
+      "importance": 5,
+      "type": "begrip",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-027",
+      "term": {
+        "nl": "Gezondheidsbehoudend gedrag",
+        "en": "Well behavior"
+      },
+      "definition": "Gedrag van gezonde mensen om hun huidige gezondheid te behouden of te versterken en ziekte te voorkomen. Een vorm van preventief gedrag.",
+      "chapter": 6,
+      "additions": [
+        "Voorbeelden: sporten, gezond eten, vaccinaties, regelmatig tandartsbezoek, autogordel dragen.",
+        "Motivatie is cruciaal: mensen ondernemen vaak pas actie als ze een dreiging voelen, voordeel zien én geen plezier ervaren in het ongezonde alternatief.",
+        "Eén gezond gedrag voorspelt niet automatisch ander gezond gedrag: gezondheidsgewoonten zijn relatief stabiel maar onderling weinig consistent.",
+        "Valt onder de typologie van Kasl & Cobb naast symptom-based en sick-role behavior."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-007"
+    },
+    {
+      "id": "fc-h6-012",
+      "term": {
+        "nl": "Symptoomgedrag",
+        "en": "Symptom-based behavior"
+      },
+      "definition": "Gedrag van mensen die zich ziek voelen, met als doel de ziekte te definiëren en een goede remedie te vinden.",
+      "chapter": 6,
+      "additions": [
+        "Voorbeelden: klagen over klachten, medische hulp zoeken, advies vragen aan familie of vrienden, zelf googelen.",
+        "Reacties op symptomen verschillen door angst voor dokters, financiële barrières en persoonlijke houding (stoïcijns vs. hulpzoekend).",
+        "Onderdeel van de typologie van Kasl & Cobb naast well behavior en sick-role behavior.",
+        "Wordt verder uitgewerkt in H9 (gezondheidsdiensten gebruiken)."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-007"
+    },
+    {
+      "id": "fc-h6-021",
+      "term": {
+        "nl": "Ziekte-rolgedrag",
+        "en": "Sick-role behavior"
+      },
+      "definition": "Gedrag van mensen die zich ziek voelen met het doel beter te worden — een vorm van gedrag dat optreedt nadat ziekte erkend is.",
+      "chapter": 6,
+      "additions": [
+        "Voorbeelden: medicijnen nemen, thuisblijven van werk, hulp vragen bij dagelijkse taken.",
+        "Kan ook emotionele functies vervullen, zoals aandacht of sympathie krijgen — secundaire ziektewinst.",
+        "Aangeleerd via observatie: kinderen met prikkelbare-darmsyndroom blijven vaker thuis als hun ouders ook ziek gedrag vertonen.",
+        "Onderdeel van de typologie van Kasl & Cobb; sluit aan op H10 (in het ziekenhuis) en H13 (chronische ziekten)."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-007"
+    },
+    {
+      "id": "fc-h6-008",
+      "term": {
+        "nl": "Gezondheidsgewoonten",
+        "en": "Health habits"
+      },
+      "definition": "Vast gewoontegedrag van mensen om ziekte te voorkomen of de gezondheid te verbeteren. Verschilt van algemeen gezondheidsgedrag in dat het ingesleten en automatisch is.",
+      "chapter": 6,
+      "additions": [
+        "Voorbeelden: tandenpoetsen, ontbijten, autogordel dragen — gedragingen die zonder bewuste afweging gebeuren.",
+        "Gewoonten zijn een belangrijke beperking van de Theory of Planned Behavior en het Health Belief Model: deze modellen veronderstellen rationele afweging die bij gewoonten ontbreekt.",
+        "Gewoontevorming kan zowel gezondheidsbevorderend (sporten) als schadelijk (roken bij stress) zijn.",
+        "Stabiele gewoonten zijn moeilijk te doorbreken zonder structurele omgevings- of cue-veranderingen."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-007"
+    },
+    {
+      "id": "fc-h6-016",
+      "term": {
+        "nl": "Primaire preventie",
+        "en": "Primary prevention"
+      },
+      "definition": "Maatregelen gericht op het voorkómen dat een aandoening of ziekte überhaupt ontstaat.",
+      "chapter": 6,
+      "additions": [
+        "Voorbeelden: vaccinaties, veiligheidsgordels, gezonde voeding, antirook-campagnes, fluoride in drinkwater.",
+        "Drie typen aanpak: gedragsbeïnvloeding (voorlichting), omgevingsmaatregelen (structureel), en preventieve medische zorg (vaccinatie, screening van risicogroepen).",
+        "Health Belief Model is oorspronkelijk ontwikkeld om primaire preventie (deelname aan vaccinatie/screening) te verklaren.",
+        "Expliciet kernwoord in leerdoel 1 van H6."
+      ],
+      "importance": 5,
+      "type": "preventieniveau",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-019",
+      "term": {
+        "nl": "Secundaire preventie",
+        "en": "Secondary prevention"
+      },
+      "definition": "Vroege opsporing en behandeling van aandoeningen om ernstiger problemen of complicaties te voorkomen.",
+      "chapter": 6,
+      "additions": [
+        "Voorbeelden: mammografie, bevolkingsonderzoek darmkanker (colonoscopie), regelmatige bloeddrukcontrole, zelf doktersbezoek bij klachten.",
+        "Belemmeringen: onvoldoende bewustzijn van risico's, angst, schaamte, culturele opvattingen; lagere deelname onder armere of lager opgeleide groepen.",
+        "Effectief mits goed georganiseerd en cultureel sensitief opgezet.",
+        "Expliciet kernwoord in leerdoel 1 van H6."
+      ],
+      "importance": 5,
+      "type": "preventieniveau",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-025",
+      "term": {
+        "nl": "Tertiaire preventie",
+        "en": "Tertiary prevention"
+      },
+      "definition": "Maatregelen om negatieve gevolgen van een bestaande (vaak ernstige of chronische) aandoening zo veel mogelijk te beperken — voorkomen van complicaties, invaliditeit en bevorderen van revalidatie.",
+      "chapter": 6,
+      "additions": [
+        "Voorbeelden: fysiotherapie na beroerte, levensstijlondersteuning bij diabetes, pijnbestrijding en revalidatieprogramma's.",
+        "Sluit nauw aan bij H13 (chronische invaliderende ziekten) en H14 (hartziekten, kanker, AIDS): coping en kwaliteit van leven staan centraal.",
+        "Doelen overlappen met het tweede adaptieve taakdomein van Moos (psychosociaal functioneren).",
+        "Expliciet kernwoord in leerdoel 1 van H6."
+      ],
+      "importance": 5,
+      "type": "preventieniveau",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-009",
+      "term": {
+        "nl": "Health Belief Model",
+        "en": "Health Belief Model"
+      },
+      "definition": "Sociaalcognitief model voor de verklaring en voorspelling van gezondheidsgerelateerd gedrag, dat stelt dat preventief gedrag rechtstreeks afhangt van (1) de ervaren dreiging van een gezondheidsprobleem en (2) de afweging van voordelen en barrières van het aanbevolen gedrag.",
+      "chapter": 6,
+      "additions": [
+        "Ontwikkeld in de jaren 1950 door sociaal psychologen in de VS om verklaringen te bieden voor lage deelname aan preventieve gezondheidsprogramma's.",
+        "Centrale componenten: perceived susceptibility, perceived seriousness, perceived benefits, perceived barriers, cues to action, en (later toegevoegd) self-efficacy.",
+        "Cues to action: externe prikkels (oproepbrief, mediabericht, symptoom) die de overgang van overweging naar actie triggeren.",
+        "Toepasbaar op primaire, secundaire én tertiaire preventie.",
+        "Kritiek: gebrek aan standaardisatie van meetinstrumenten; meer een lijst losse variabelen dan een coherent geheel; negeert gewoonten en emoties.",
+        "Expliciet kernwoord in leerdoel 2 van H6."
+      ],
+      "importance": 5,
+      "type": "model",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-015",
+      "term": {
+        "nl": "Ervaren dreiging",
+        "en": "Perceived threat"
+      },
+      "definition": "Volgens het Health Belief Model een belangrijke determinant van preventief gedrag. Bestaat uit twee subcomponenten: waargenomen vatbaarheid ('Ik loop risico') en waargenomen ernst ('Deze ziekte heeft ernstige gevolgen').",
+      "chapter": 6,
+      "additions": [
+        "Subjectieve risicoperceptie — niet de objectieve dreiging — bepaalt gedrag.",
+        "Wordt vaak vertekend door onrealistisch optimisme: mensen denken minder risico te lopen dan leeftijdsgenoten (bv. studenten over longkanker).",
+        "Onrealistisch pessimisme treedt op bij reëel gevaar (bv. studenten na Tsjernobyl die overschatten ziek te worden).",
+        "Cues to action (externe prikkels) verhogen de kans dat ervaren dreiging tot daadwerkelijke actie leidt.",
+        "Ook centraal in de Protectie Motivatie Theorie als 'threat appraisal'."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-009"
+    },
+    {
+      "id": "fc-h6-014",
+      "term": {
+        "nl": "Waargenomen ernst",
+        "en": "Perceived seriousness"
+      },
+      "definition": "Volgens het Health Belief Model een belangrijke determinant van preventief gedrag: de inschatting van hoe erg de mogelijke gevolgen (organisch en sociaal) van een ziekte zijn.",
+      "chapter": 6,
+      "additions": [
+        "Samen met waargenomen vatbaarheid (perceived susceptibility) vormt het de 'ervaren dreiging' (perceived threat) in het HBM.",
+        "Voorbeeld: gevreesde gevolgen van kanker stimuleren preventief gedrag zoals stoppen met roken of regelmatig zonbeschermen.",
+        "Ook 'perceived severity' genoemd in sommige literatuur — beide termen zijn uitwisselbaar.",
+        "Een hoge waargenomen ernst zónder waargenomen vatbaarheid leidt zelden tot gedragsverandering: beide componenten zijn nodig."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-009"
+    },
+    {
+      "id": "fc-h6-026",
+      "term": {
+        "nl": "Theorie van gepland gedrag",
+        "en": "Theory of planned behavior"
+      },
+      "definition": "Model (Ajzen) voor verklaring en voorspelling van gezondheidsgerelateerd gedrag. Stelt dat mensen vooraf over hun intentie beslissen voor de meeste vrijwillige gedragingen, en dat intenties de beste voorspellers zijn van wat mensen zullen doen. Intentie wordt bepaald door attitude, subjectieve norm en waargenomen gedragscontrole.",
+      "chapter": 6,
+      "additions": [
+        "Uitbreiding van de oudere Theory of Reasoned Action (Fishbein & Ajzen, 1975) door toevoeging van de derde determinant waargenomen gedragscontrole.",
+        "Verder verfijnd tot het Beredeneerd Gedrag Model (Fishbein & Ajzen, 2010): de drie determinanten heten daar attitude, ervaren norm en waargenomen gedragscontrole.",
+        "Belangrijke beperking: de intention-behavior gap — intenties leiden niet altijd tot gedrag (iemand wil sporten, maar doet het niet).",
+        "Negeert de invloed van gewoonten (automatisch gedrag zonder bewuste afweging).",
+        "Achtergrondvariabelen (persoonlijkheid, leeftijd, opleiding, eerder gedrag) werken indirect via de drie determinanten.",
+        "Onderdeel van het kernwoord 'Beredeneerd Gedrag Model' in leerdoel 2 van H6."
+      ],
+      "importance": 5,
+      "type": "model",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-003",
+      "term": {
+        "nl": "Attitude",
+        "en": "Attitude"
+      },
+      "definition": "Een aangeleerde neiging om op een systematische manier positief of negatief te reageren op een bepaald object, persoon, situatie of gedrag.",
+      "chapter": 6,
+      "additions": [
+        "Eerste determinant van intentie binnen de Theorie van Gepland Gedrag en het ASE-model.",
+        "Gevormd door twee verwachtingen: het waarschijnlijke resultaat van het gedrag ('Sporten maakt me gezonder') en de waardering van dat resultaat ('Gezond zijn is fijn').",
+        "Aangeleerd: ontstaat door ervaring, observatie en sociale interactie — niet aangeboren.",
+        "Voorbeeld uit Sarafino: Ellie's attitude tegenover sporten — 'het zou goed voor me zijn'.",
+        "Beïnvloedbaar via voorlichting, message framing, fear appeals en motivational interviewing."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-026"
+    },
+    {
+      "id": "fc-h6-024",
+      "term": {
+        "nl": "Subjectieve norm",
+        "en": "Subjective norm"
+      },
+      "definition": "Hetgeen je denkt dat anderen van je verwachten met betrekking tot bepaald gedrag. Tweede determinant van intentie in de Theorie van Gepland Gedrag.",
+      "chapter": 6,
+      "additions": [
+        "Gebaseerd op twee elementen: overtuiging over de mening van belangrijke anderen ('Mijn familie vindt dat ik moet sporten') én de motivatie om aan die meningen te voldoen ('Ik wil doen wat zij willen').",
+        "In het Beredeneerd Gedrag Model verfijnd tot 'ervaren norm', met onderscheid tussen injunctive norm (wat anderen vinden dat je moet doen) en descriptive norm (wat anderen daadwerkelijk doen).",
+        "In het ASE-model vervangen door het bredere begrip 'sociale invloed', dat ook sociale druk/steun en modeling omvat.",
+        "Belangrijke moderator van gezondheidsgedrag bij adolescenten (peer pressure)."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-026"
+    },
+    {
+      "id": "fc-h6-013",
+      "term": {
+        "nl": "Ervaren gedragscontrole",
+        "en": "Perceived behavioral control"
+      },
+      "definition": "De verwachting van een persoon ten aanzien van het wel of niet kunnen uitvoeren van bepaald gedrag. Derde determinant van intentie in de Theorie van Gepland Gedrag. Conceptueel sterk verwant aan self-efficacy.",
+      "chapter": 6,
+      "additions": [
+        "Voorbeeld: 'Ik denk dat ik het schema volhoud om niet te roken'.",
+        "In het ASE-model en sociaal-cognitieve theorie (Bandura) vervangen door 'eigen-effectiviteitsverwachting' (self-efficacy expectation).",
+        "Verschil met self-efficacy is conceptueel klein; beide termen worden in de literatuur grotendeels uitwisselbaar gebruikt.",
+        "Daadwerkelijke controle (objectieve mogelijkheden zoals tijd, geld, vaardigheden) beïnvloedt gedrag ook direct, niet alleen via de waargenomen variant.",
+        "Toegevoegd aan de oorspronkelijke Theory of Reasoned Action om gedrag te verklaren dat niet volledig vrijwillig is."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": "fc-h6-026"
+    },
+    {
+      "id": "fc-h6-002",
+      "term": {
+        "nl": "ASE-model",
+        "en": "ASE model (Attitude – Social influence – Self-Efficacy)"
+      },
+      "definition": "Nederlandse variant (De Vries) voor de verklaring en voorspelling van gezondheidsgerelateerd gedrag. Gedrag wordt verklaard door Attitude, Sociale invloed en Eigen-effectiviteitsverwachting.",
+      "chapter": 6,
+      "additions": [
+        "Vergelijkbaar met de Theorie van Gepland Gedrag, met twee verschillen: (1) 'sociale invloed' vervangt 'subjectieve norm' en omvat ook sociale druk/steun en modeling; (2) 'eigen-effectiviteitsverwachting' (Bandura) vervangt 'waargenomen gedragscontrole'.",
+        "Conceptueel verschil met TPB is klein, maar het ASE-model integreert expliciet Bandura's sociaal-cognitieve theorie.",
+        "Veel empirische ondersteuning, vooral in Nederlandstalig gezondheidsonderzoek.",
+        "Kritiek: nadruk op cognitieve factoren — emotionele factoren zoals geanticipeerde spijt en morele normen komen te weinig aan bod.",
+        "Expliciet kernwoord in leerdoel 2 van H6."
+      ],
+      "importance": 5,
+      "type": "model",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-020",
+      "term": {
+        "nl": "Eigen-effectiviteitsverwachting",
+        "en": "Self-efficacy (expectations)"
+      },
+      "definition": "Het vertrouwen dat een persoon heeft in zijn eigen vermogens en vaardigheden om bepaald gedrag te kunnen uitvoeren. Centraal begrip in Bandura's sociaal-cognitieve theorie.",
+      "chapter": 6,
+      "additions": [
+        "Conceptueel sterk verwant aan 'waargenomen gedragscontrole' (TPB); in het ASE-model en de sociaal-cognitieve theorie het centrale begrip.",
+        "Bandura onderscheidt drie typen verwachtingen: situation-outcome ('Roken = kans op kanker'), action-outcome ('Stoppen verlaagt risico') en self-efficacy ('Ik kan stoppen').",
+        "Wordt opgebouwd via succeservaringen, modeling (anderen zien slagen), verbale overtuiging en fysiologische signalen.",
+        "Sleutelvariabele in gedragsverandering: bij gelijke kennis voorspelt self-efficacy wie wél en niet daadwerkelijk verandert.",
+        "Belangrijk in stressmanagement (H5: voorbereiden op stressvolle gebeurtenissen) en chronische ziekten (H13: zelfmanagement)."
+      ],
+      "importance": 5,
+      "type": "begrip",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-004",
+      "term": {
+        "nl": "Cognitie",
+        "en": "Cognition"
+      },
+      "definition": "'De activiteit van weten' — het vergaren, organiseren en gebruiken van kennis. Verzamelterm voor mentale processen zoals perceptie, geheugen, denken, redeneren en probleemoplossen.",
+      "chapter": 6,
+      "additions": [
+        "Centrale rol in alle sociaalcognitieve modellen van gezondheidsgedrag: HBM, TPB, ASE-model, Sociaal-Cognitieve Theorie en PMT.",
+        "Cognitieve determinanten op individueel niveau: kennis, waargenomen risico, self-efficacy en (automatische) gewoonten.",
+        "Misvattingen kunnen tot verkeerd gedrag leiden: bv. mensen met hoge bloeddruk denken hun symptomen te herkennen, wat vaak onjuist is.",
+        "Onrealistisch optimisme is een veelvoorkomende cognitieve vertekening die preventief gedrag belemmert.",
+        "Expliciet kernwoord in leerdoel 2 van H6 ('beliefs, cognities, determinanten')."
+      ],
+      "importance": 5,
+      "type": "begrip",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-022",
+      "term": {
+        "nl": "Stages of change model",
+        "en": "Stages of change model"
+      },
+      "definition": "Procesmodel (Prochaska & DiClemente) — ook 'transtheoretisch model' genoemd — dat gedragsverandering beschrijft als een proces in vijf fasen, niet als een eenmalige actie. Centraal staat de 'readiness to change' (bereidheid om te veranderen).",
+      "chapter": 6,
+      "additions": [
+        "De vijf fasen: (1) precontemplatie — geen intentie binnen 6 maanden; (2) contemplatie — overweegt verandering; (3) preparation — actieve plannen, kleine stappen; (4) actie — gedrag aangepast (< 6 mnd); (5) maintenance — gedrag volhouden (> 6 mnd).",
+        "Verandering verloopt als een spiraal, niet lineair: terugval is normaal en mensen kunnen op een eerdere fase terugkomen.",
+        "Interventies moeten fasespecifiek zijn: bewustwording in precontemplatie, voor-/nadelen afwegen in contemplatie, concrete planning in preparation, beloning in actie, terugvalpreventie in maintenance.",
+        "Ondersteund bij stoppen met roken; minder effectief bij complex gedrag.",
+        "Kritiek: het model negeert irrationele/emotionele factoren en behandelt fasecategorieën soms als arbitrair.",
+        "Expliciet kernwoord in leerdoel 2 van H6."
+      ],
+      "importance": 5,
+      "type": "model",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-018",
+      "term": {
+        "nl": "Bekrachtiging",
+        "en": "Reinforcement (positive / negative)"
+      },
+      "definition": "Operant-conditioneringsprincipe waarbij een gedrag wordt versterkt door zijn consequenties. Positieve bekrachtiging = introduceren van een positieve stimulus (bv. snoepje voor goed gedrag). Negatieve bekrachtiging = wegnemen van een negatieve stimulus (bv. aspirientje tegen hoofdpijn).",
+      "chapter": 6,
+      "additions": [
+        "Theoretische basis: B.F. Skinner's operante conditionering.",
+        "Veelvoorkomende verwarring: negatieve bekrachtiging is NIET hetzelfde als straf. Beide vormen van bekrachtiging vergroten gedrag; straf onderdrukt het.",
+        "Voorbeeld bij gedragsverandering: rookvrije dagen belonen met een cadeaubon (positief), of vermijden van ontwenningsverschijnselen door te roken (negatieve bekrachtiging — houdt verslaving in stand).",
+        "Centraal in gedragsmatige interventies voor gezondheidsbevordering en in de operante benadering van pijn (H12)."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-017",
+      "term": {
+        "nl": "Straf",
+        "en": "Punishment"
+      },
+      "definition": "Operant-conditioneringsprincipe waarbij een gedrag wordt gevolgd door een negatieve consequentie, waardoor het gedrag onderdrukt wordt.",
+      "chapter": 6,
+      "additions": [
+        "Onderscheid met negatieve bekrachtiging: straf vermindert gedrag, negatieve bekrachtiging vergroot het.",
+        "Effectief om gedrag op korte termijn te onderdrukken, maar leert geen alternatief gedrag aan.",
+        "Bijwerkingen: angst, vermijding, aversie tegen de straffende persoon — vaak ongeschikt als hoofdstrategie in gezondheidsinterventies.",
+        "Voorbeeld in gezondheidscontext: hogere belasting op tabak of suiker als vorm van structurele straf op ongezond gedrag."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-005",
+      "term": {
+        "nl": "Extinctie / uitdoving",
+        "en": "Extinction"
+      },
+      "definition": "Operant-conditioneringsprincipe: als de consequenties (bekrachtigers/stimuli) die een bepaald gedrag in stand houden worden weggehaald, zal het gedrag uiteindelijk uitdoven.",
+      "chapter": 6,
+      "additions": [
+        "Onderscheid met straf: bij extinctie wordt niets toegevoegd, maar wordt de bestaande beloning weggehaald.",
+        "Voorbeeld in gezondheidscontext: ophouden met aandacht geven aan pijnklachten van een kind met chronische pijn → afname pijngedrag (operante benadering, H12).",
+        "Klassiek voorbeeld H12: meisje met brandwonden — pijnklachten werden niet meer beloond met aandacht, gezond gedrag wél → drastische vermindering pijngedrag.",
+        "Risico: tijdelijke 'extinction burst' — gedrag neemt eerst toe voordat het afneemt."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-001",
+      "term": {
+        "nl": "Onthouding-overtredingseffect",
+        "en": "Abstinence-violation effect"
+      },
+      "definition": "Het verschijnsel dat mensen na een kleine terugval (bv. één sigaret na stoppen) door schuldgevoelens hun terugval zien als persoonlijk falen, waardoor de kans op een volledige terugval (relapse) groter wordt.",
+      "chapter": 6,
+      "additions": [
+        "Belangrijk onderscheid: lapse (tijdelijke misstap) ≠ relapse (volledige terugkeer naar oud gedrag).",
+        "De cognitieve interpretatie van de lapse bepaalt of het tot relapse leidt — niet de lapse zelf.",
+        "Oplossingen: coping vaardigheden trainen, herinterpreteren van een misstap als leermoment (cognitieve herstructurering, H5), booster sessies en realistische doelen stellen.",
+        "Centraal in terugvalpreventie (relapse prevention) bij verslaving, dieet en sporten.",
+        "Gerelateerd aan 'valse hoop': onrealistische verwachting van moeiteloze gedragsverandering vergroot het risico op het AVE."
+      ],
+      "importance": 4,
+      "type": "begrip",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-006",
+      "term": {
+        "nl": "Valse hoop",
+        "en": "False hopes"
+      },
+      "definition": "Het vertrouwen te zullen slagen zonder rationele basis — onrealistische verwachting over hoe snel, makkelijk of volledig een gedragsverandering zal slagen.",
+      "chapter": 6,
+      "additions": [
+        "'False hope syndrome' (Polivy & Herman): mensen overschatten herhaaldelijk hun vermogen om te veranderen, ondanks eerdere mislukkingen.",
+        "Typisch voorbeeld: nieuwjaarsvoornemens om af te vallen of te sporten — vaak gestaakt binnen weken.",
+        "Verhoogt het risico op het abstinence-violation effect: hoge verwachting + lapse → groter gevoel van falen → relapse.",
+        "Tegenwicht: realistische doelen stellen, kleine stappen plannen, en self-efficacy opbouwen via succeservaringen."
+      ],
+      "importance": 3,
+      "type": "begrip",
+      "aggregate": "fc-h6-001"
+    },
+    {
+      "id": "fc-h6-010",
+      "term": {
+        "nl": "Message framing",
+        "en": "Message framing (gain-framed vs. loss-framed)"
+      },
+      "definition": "De manier waarop een (gezondheids)voorlichtingsboodschap wordt geformuleerd. Gain-framed = positieve gevolgen van gezond gedrag benadrukken ('Door te sporten blijf je fit'). Loss-framed = negatieve gevolgen van ongezond gedrag benadrukken ('Zonder bloeddrukcontrole riskeer je een beroerte').",
+      "chapter": 6,
+      "additions": [
+        "Gain-framed werkt het best bij preventief gedrag (well behavior): bv. sporten, gezond eten, tandenpoetsen.",
+        "Loss-framed werkt beter bij vroegopsporing (secundaire preventie) en bij mensen met hoge risicoperceptie of hoge self-efficacy: bv. screening, mammografie.",
+        "Onderdeel van de bredere strategie 'tailoring' (persoonlijke afstemming): boodschappen op maat zijn effectiever dan generieke campagnes.",
+        "Gerelateerd aan fear appeals (angstboodschappen): effectief maar tijdelijk, werken het best bij concrete instructies en versterking van self-efficacy."
+      ],
+      "importance": 4,
+      "type": "techniek",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-011",
+      "term": {
+        "nl": "Motiverende gespreksvoering",
+        "en": "Motivational interviewing"
+      },
+      "definition": "Cliëntgeoriënteerde counselingstijl t.b.v. gezondheidsbevorderende gedragsverandering, waarbij de cliënt zelf de argumenten voor gedragsverandering formuleert in plaats van overtuigd te worden door de hulpverlener.",
+      "chapter": 6,
+      "additions": [
+        "Twee kerncomponenten: (1) Decisional Balance — voor- en nadelen afwegen van gedragsverandering; (2) Persoonlijke Feedback — vergelijking met normen, risico's en gevolgen.",
+        "Empathische, niet-oordelende benadering die ambivalentie benoemt en exploreert in plaats van confronteert.",
+        "Effectief bij verslaving (alcohol, roken), condoomgebruik, medicatietrouw en dieet.",
+        "Past binnen de contemplatie- en preparation-fase van het Stages of Change model: helpt mensen om de overgang naar actie te maken.",
+        "Wordt apart behandeld in studietaak 3.4."
+      ],
+      "importance": 4,
+      "type": "techniek",
+      "aggregate": null
+    },
+    {
+      "id": "fc-h6-023",
+      "term": {
+        "nl": "Seksueel overdraagbare aandoening (SOA)",
+        "en": "STD (sexually transmitted disease)"
+      },
+      "definition": "Alle aandoeningen die via seksueel geslachtsverkeer kunnen worden overgedragen. Voorbeelden: hiv/aids, chlamydia, gonorroe, syfilis, hepatitis B, HPV.",
+      "chapter": 6,
+      "additions": [
+        "In H6 vooral relevant in de context van gezondheidsbevordering en gedragsverandering — bv. condoomgebruik als doelgedrag voor interventies.",
+        "Risicogroepen voor hiv/aids: mannen die seks hebben met mannen, injecterende drugsgebruikers, sekswerkers.",
+        "Preventie via primaire (voorlichting, condoomgebruik), secundaire (screening, vroege behandeling) en tertiaire preventie (antivirale therapie).",
+        "Wordt verder uitgewerkt in H14 (AIDS): oorzaken, management en coping."
+      ],
+      "importance": 2,
+      "type": "ziekte",
+      "aggregate": null
+    }
+  ]
