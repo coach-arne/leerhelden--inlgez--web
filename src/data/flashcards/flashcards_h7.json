@@ -1,0 +1,393 @@
+[
+  {
+    "id": "fc-h7-001",
+    "term": {
+      "nl": "Verslaving",
+      "en": "Addiction (physical and psychological dependence)"
+    },
+    "definition": "Toestand waarin iemand lichamelijk en/of psychologisch afhankelijk is van een psychoactieve substantie. Psychoactieve stoffen beïnvloeden stemming, denken en gedrag.",
+    "chapter": 7,
+    "additions": [
+      "Twee componenten: (1) fysieke afhankelijkheid (lichaam past zich aan, gekenmerkt door tolerantie en ontwenningsverschijnselen); (2) psychologische afhankelijkheid (drang/craving om te gebruiken, ook zonder fysieke noodzaak).",
+      "Heroïne heeft hoge fysieke én hoge psychologische afhankelijkheid; cocaïne hoge psychologische maar lagere fysieke; LSD en wiet lage fysieke afhankelijkheid.",
+      "Term wordt nu ook breder gebruikt voor gedragsverslavingen: gokken, shoppen, eten.",
+      "DSM-diagnose 'Stoornis in middelengebruik' (Substance Use Disorder) wordt gesteld bij een pathologisch patroon: niet nakomen van verantwoordelijkheden, gevaarlijk gedrag, juridische problemen.",
+      "Bijdragende factoren: positieve én negatieve bekrachtiging, klassieke conditionering, persoonlijkheid (impulsiviteit, sensation-seeking) en genetische aanleg.",
+      "Expliciet kernwoord in leerdoel 1 en 2 van H7."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-020",
+    "term": {
+      "nl": "Gewenning / tolerantie",
+      "en": "Tolerance"
+    },
+    "definition": "Effect dat optreedt bij langdurig middelengebruik: het lichaam went aan de stof, waardoor er steeds meer nodig is om hetzelfde beoogde effect op te wekken.",
+    "chapter": 7,
+    "additions": [
+      "Kernkenmerk van fysieke afhankelijkheid naast ontwenningsverschijnselen.",
+      "Diagnostisch criterium voor 'Stoornis in middelengebruik' (Substance Use Disorder) volgens de DSM.",
+      "Drijft de spiraal van toenemend gebruik: hoe meer tolerantie, hoe hoger de doseringen, hoe sterker de afhankelijkheid.",
+      "Niet alle middelen veroorzaken even snel tolerantie: opioïden en alcohol snel, LSD relatief weinig.",
+      "Expliciet kernwoord in leerdoel 1 van H7."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": "fc-h7-001"
+  },
+  {
+    "id": "fc-h7-021",
+    "term": {
+      "nl": "Ontwenning",
+      "en": "Withdrawal"
+    },
+    "definition": "Onprettige lichamelijke en psychologische verschijnselen die optreden bij onthouding van stoffen waar men lichamelijke afhankelijkheid voor heeft opgebouwd.",
+    "chapter": 7,
+    "additions": [
+      "Typische symptomen: angst, prikkelbaarheid, beven, hallucinaties, misselijkheid, hoofdpijn, trillingen.",
+      "Angst voor ontwenning versterkt het verslavingsgedrag — een vorm van negatieve bekrachtiging: gebruiken vermijdt de onaangename ontwenningsverschijnselen.",
+      "Tweede kernkenmerk van fysieke afhankelijkheid (naast tolerantie).",
+      "Nicotine craving piekt in de eerste week na stoppen met roken, daarna sterke daling.",
+      "Bij ernstige alcoholafhankelijkheid kan ontwenning levensbedreigend zijn (delirium tremens) — medische detoxificatie is dan noodzakelijk."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": "fc-h7-001"
+  },
+  {
+    "id": "fc-h7-018",
+    "term": {
+      "nl": "Drugs- / alcoholmisbruik",
+      "en": "Substance abuse"
+    },
+    "definition": "Pathologisch patroon van middelengebruik dat leidt tot herhaaldelijke problemen in sociaal, professioneel of fysiek functioneren — bijvoorbeeld niet nakomen van verantwoordelijkheden, gevaarlijk gedrag of juridische problemen.",
+    "chapter": 7,
+    "additions": [
+      "In de DSM wordt deze diagnose gevangen onder 'Stoornis in middelengebruik' (Substance Use Disorder).",
+      "Onderscheid met verslaving: misbruik kan zonder fysieke afhankelijkheid bestaan; verslaving impliceert altijd afhankelijkheid (fysiek en/of psychologisch).",
+      "Tolerantie, ontwenningsverschijnselen en cravings zijn ook diagnostische criteria.",
+      "Verschillende ernstniveaus: van mild tot ernstig, afhankelijk van het aantal aanwezige criteria."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": "fc-h7-001"
+  },
+  {
+    "id": "fc-h7-002",
+    "term": {
+      "nl": "Alcoholisten",
+      "en": "Alcoholics"
+    },
+    "definition": "Personen geclassificeerd volgens DSM-criteria voor een alcoholgebruiksstoornis — gekenmerkt door fysieke en psychologische afhankelijkheid van alcohol, tolerantie en ontwenningsverschijnselen.",
+    "chapter": 7,
+    "additions": [
+      "Onderscheid met probleemdrinkers: alcoholisten vertonen volledige afhankelijkheid; probleemdrinkers hebben wel alcoholgerelateerde problemen maar niet noodzakelijk fysieke afhankelijkheid.",
+      "Behandeling via zelfhulpgroepen (Alcoholics Anonymous): filosofie 'eenmaal alcoholist, altijd alcoholist'; volledige abstinentie als doel.",
+      "Medicamenteuze ondersteuning: disulfiram (veroorzaakt misselijkheid bij alcoholinname — aversiestrategie) en naltrexon (vermindert beloningseffect van alcohol).",
+      "Genetische aanleg speelt een aanzienlijke rol in het ontstaan van alcoholisme."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": "fc-h7-018"
+  },
+  {
+    "id": "fc-h7-014",
+    "term": {
+      "nl": "Probleemdrinkers",
+      "en": "Problem drinkers"
+    },
+    "definition": "Personen met een combinatie van alcoholgerelateerde problematiek (lichamelijke, sociale of psychische problemen) én excessief drinken — zonder noodzakelijkerwijs te voldoen aan alle DSM-criteria voor alcoholisme.",
+    "chapter": 7,
+    "additions": [
+      "Tussenpositie tussen sociale drinkers en alcoholisten: ervaren wel schade door alcohol, maar zijn niet fysiek afhankelijk.",
+      "Vroege identificatie via screeningsinstrumenten (vragenlijsten over binge drinken, craving en gevolgen) is effectief in hogescholen, medische settings en werkplekken.",
+      "Lichte problematiek kan vaak met informatie en advies behandeld worden; online programma's zoals ModerateDrinking.com zijn effectief voor niet-afhankelijke gebruikers.",
+      "Verschil met alcoholisten is klinisch relevant voor behandelkeuze: probleemdrinkers kunnen vaak controle leren, alcoholisten moeten doorgaans volledig abstineren."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": "fc-h7-018"
+  },
+  {
+    "id": "fc-h7-004",
+    "term": {
+      "nl": "Binge drinking",
+      "en": "Binge drinking"
+    },
+    "definition": "Ten minste één keer in 30 dagen minimaal vijf of meer alcoholische dranken na elkaar drinken (voor mannen; voor vrouwen vaak gedefinieerd als vier of meer).",
+    "chapter": 7,
+    "additions": [
+      "Vooral prevalent bij 18-34-jarigen (ongeveer 38% in de VS); adolescenten beginnen vaak vóór hun 15e.",
+      "Verhoogt risico op acute alcoholvergiftiging, verkeersongelukken, ongewenst seksueel gedrag en gewelddadig gedrag.",
+      "Veelvoorkomend onder studenten, vooral bij leden van studentenverenigingen.",
+      "Op lange termijn verhoogt het risico op alcoholafhankelijkheid, levercirrose en hart- en vaatziekten.",
+      "Wettelijke maatregelen (leeftijdsgrenzen, accijnzen) en gerichte preventiecampagnes kunnen binge drinking verminderen."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": "fc-h7-018"
+  },
+  {
+    "id": "fc-h7-005",
+    "term": {
+      "nl": "Koolmonoxide",
+      "en": "Carbon monoxide"
+    },
+    "definition": "Giftig gas (CO) dat voorkomt in sigarettenrook. Bindt sterk aan hemoglobine in rode bloedcellen en verdringt zuurstof, waardoor het zuurstoftransport door het bloed wordt verminderd.",
+    "chapter": 7,
+    "additions": [
+      "Een van de belangrijkste schadelijke componenten van sigarettenrook, naast nicotine en teer.",
+      "Verminderd zuurstoftransport draagt bij aan atherosclerose (slagaderverharding) en daarmee aan hart- en vaatziekten.",
+      "Verklaart deels waarom rokers eerder kortademig zijn bij inspanning: minder beschikbare zuurstof voor spieren en organen.",
+      "Sluit aan bij H2 (lichamelijke systemen): koppeling tussen sigarettenrook en het cardiovasculaire systeem."
+    ],
+    "importance": 4,
+    "type": "stof",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-019",
+    "term": {
+      "nl": "Teer",
+      "en": "Tars"
+    },
+    "definition": "Substantie (mengsel van duizenden chemische stoffen, waaronder vele carcinogenen) die voorkomt in sigarettenrook. Zet zich af in de longen.",
+    "chapter": 7,
+    "additions": [
+      "Belangrijke component van sigarettenrook naast nicotine (verslavend) en koolmonoxide (giftig).",
+      "Verantwoordelijk voor de meeste kankerverwekkende effecten van roken: long-, mond-, slokdarm-, blaas-, prostaat- en nierkanker.",
+      "Beschadigt de trilhaartjes (cilia) in de luchtwegen, waardoor reiniging van de luchtwegen vermindert en het infectierisico toeneemt.",
+      "'Light' of 'mild' sigaretten met minder teer blijken geen veiliger alternatief — rokers compenseren door dieper te inhaleren."
+    ],
+    "importance": 4,
+    "type": "stof",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-006",
+    "term": {
+      "nl": "Levercirrose",
+      "en": "Cirrhosis of liver"
+    },
+    "definition": "Aandoening waarbij normale levercellen worden vernietigd en vervangen door niet-functioneel littekenweefsel, waardoor de leverfunctie ernstig wordt aangetast.",
+    "chapter": 7,
+    "additions": [
+      "Belangrijkste oorzaak: chronisch overmatig alcoholgebruik; ook hepatitis-infecties en obesitas (NAFLD) kunnen cirrose veroorzaken.",
+      "Symptomen ontstaan vaak laat: geelzucht, vochtophoping in de buik (ascites), bloedingen, hepatische encefalopathie.",
+      "Cirrose is doorgaans irreversibel; alleen stoppen met alcohol kan verdere schade voorkomen, maar het bestaande littekenweefsel blijft.",
+      "In gevorderde stadia is een levertransplantatie soms de enige optie.",
+      "Expliciet kernwoord in leerdoel 3 van H7."
+    ],
+    "importance": 5,
+    "type": "ziekte",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-008",
+    "term": {
+      "nl": "COPD (chronische obstructieve longziekte)",
+      "en": "COPD (chronic obstructive pulmonary disease)"
+    },
+    "definition": "Verzameling chronische longziekten waaronder longemfyseem, chronische bronchitis en astmatische aandoeningen. Wordt gekenmerkt door permanent verminderde luchtstroom (vooral duidelijk bij krachtige uitademing).",
+    "chapter": 7,
+    "additions": [
+      "Roken is de oorzaak in ongeveer 80% van de COPD-gevallen.",
+      "Mechanisme: rook beschadigt de trilhaartjes (cilia) in de luchtwegen → verhoogd risico op infecties; verlies van longblaasjes (alveoli) → minder gaswisseling.",
+      "Symptomen: chronische hoest, kortademigheid, slijmproductie, verminderde inspanningstolerantie — vaak progressief verloop.",
+      "Niet te genezen, wel te vertragen door stoppen met roken, medicatie (bronchodilatoren, corticosteroïden) en longrevalidatie.",
+      "Passief roken en e-sigaretten (vapen) zijn geen veilig alternatief — beide veroorzaken long- en vaatziekten.",
+      "Expliciet kernwoord in leerdoel 3 van H7; sluit aan bij H2 (ademhalingssysteem)."
+    ],
+    "importance": 5,
+    "type": "ziekte",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-007",
+    "term": {
+      "nl": "Klassieke conditionering",
+      "en": "Classical conditioning"
+    },
+    "definition": "Leerprincipe (Pavlov) waarbij een geconditioneerde stimulus — zoals de geur van alcohol of het zien van een asbak — al een hunkering (craving) naar het middel kan teweegbrengen, omdat deze gekoppeld is geraakt aan eerder middelengebruik.",
+    "chapter": 7,
+    "additions": [
+      "Belangrijke determinant van verslavingsgedrag: situaties, objecten en gevoelens worden 'cues' die het verlangen activeren, ook zonder fysieke ontwenning.",
+      "Verklaart waarom ex-rokers terugvallen bij geur van rook, of ex-alcoholisten bij een café passeren.",
+      "Behandelimplicatie: cue exposure-therapie deconditioneert deze associaties door blootstelling zonder gebruik.",
+      "Verschilt van operante conditionering (H6: bekrachtiging/straf) maar werkt in verslaving vaak samen: cues triggeren craving (klassiek) → gebruik leidt tot beloning (operant)."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-009",
+    "term": {
+      "nl": "Cue exposure",
+      "en": "Cue exposure"
+    },
+    "definition": "Behandeltechniek waarbij de cliënt onder gecontroleerde omstandigheden wordt blootgesteld aan de stof en aan objecten/situaties die verband houden met de verslaving, zonder daadwerkelijk te gebruiken. Doel: deconditioneren van de biologische koppeling tussen prikkel en gebruik.",
+    "chapter": 7,
+    "additions": [
+      "Vermindert geconditioneerde craving-reacties op middelen-gerelateerde signalen.",
+      "Voorbeeld: cliënt houdt een biertje vast, ruikt eraan, maar drinkt het niet — herhaalde blootstelling zwakt de craving af.",
+      "Theoretische basis: klassieke conditionering — de geconditioneerde respons (craving) dooft uit (extinctie) als de cue niet meer gevolgd wordt door gebruik.",
+      "Conceptueel verwant aan systematische desensitisatie (H5) en in vivo exposure (H12), maar gericht op craving in plaats van angst."
+    ],
+    "importance": 4,
+    "type": "techniek",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-013",
+    "term": {
+      "nl": "Nicotine regulation model",
+      "en": "Nicotine regulation model"
+    },
+    "definition": "Biologische verklaring voor nicotineafhankelijkheid die ervan uitgaat dat mensen blijven roken — of niet kunnen stoppen — omdat ze afhankelijk geworden zijn van een bepaald nicotinepeil in het bloed.",
+    "chapter": 7,
+    "additions": [
+      "Rokers passen hun gedrag aan om dit niveau te handhaven: meer of dieper inhaleren bij 'lichte' sigaretten, meer roken bij stress.",
+      "Verklaart waarom 'light' sigaretten geen veiliger alternatief zijn: rokers compenseren automatisch het lagere nicotineniveau.",
+      "Therapeutische implicatie: nicotinevervangingstherapie (pleisters, kauwgom, spray) handhaaft het nicotineniveau zonder de andere schadelijke componenten van rook.",
+      "Vormt slechts één deel van de verklaring — psychosociale factoren (gewoonte, cues, sociale invloed) spelen ook een grote rol."
+    ],
+    "importance": 4,
+    "type": "model",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-003",
+    "term": {
+      "nl": "Aversietherapie",
+      "en": "Aversion strategies"
+    },
+    "definition": "Behandelstrategie waarbij onplezierige stimuli worden gekoppeld aan het genotsmiddelengebruik om het (verslavings)gedrag te ontmoedigen — een toepassing van klassieke conditionering.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeelden: disulfiram (Antabuse) bij alcohol — veroorzaakt misselijkheid bij alcoholinname; rapid smoking bij tabak — versneld kettingroken tot misselijkheid optreedt.",
+      "Werking: bij herhaalde koppeling van middel + onaangename stimulus ontstaat een geconditioneerde aversie tegen het middel.",
+      "Effectiviteit is gemengd en hangt sterk af van therapietrouw — bij disulfiram bv. stoppen mensen vaak met het medicijn voor ze drinken.",
+      "Conceptueel het tegenovergestelde van cue exposure: bij aversie wordt een nieuwe negatieve associatie aangeleerd, bij cue exposure wordt de bestaande positieve associatie afgeleerd.",
+      "Expliciet kernwoord in leerdoel 4 van H7."
+    ],
+    "importance": 5,
+    "type": "techniek",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-010",
+    "term": {
+      "nl": "Braakopwekkend middel",
+      "en": "Emetic drugs"
+    },
+    "definition": "Braakmiddelen die in aversiestrategieën worden gebruikt, met als doel om ongezond gedrag (zoals alcoholgebruik) te ontmoedigen door het te koppelen aan misselijkheid en braken.",
+    "chapter": 7,
+    "additions": [
+      "Specifieke implementatie van aversietherapie: middel + emetisch middel → braken → geconditioneerde aversie.",
+      "Voorbeeld: emetine of apomorfine bij alcoholbehandeling.",
+      "Disulfiram werkt op een vergelijkbaar principe maar via een ander biochemisch mechanisme (blokkeert aldehyde-dehydrogenase, waardoor acetaldehyde zich ophoopt → misselijkheid bij alcoholinname).",
+      "Ethisch en medisch omstreden vanwege fysieke belasting; tegenwoordig weinig gebruikt buiten gespecialiseerde settings."
+    ],
+    "importance": 3,
+    "type": "techniek",
+    "aggregate": "fc-h7-003"
+  },
+  {
+    "id": "fc-h7-017",
+    "term": {
+      "nl": "Sociale-invloedbenadering",
+      "en": "Social influence approach"
+    },
+    "definition": "Preventiebenadering gericht op vaardigheidstraining om sociale druk te kunnen weerstaan — bijvoorbeeld leren 'nee' zeggen tegen aangeboden sigaretten, alcohol of drugs.",
+    "chapter": 7,
+    "additions": [
+      "Veelgebruikt in schoolprogramma's voor adolescenten, omdat sociale druk een sterke voorspeller is van beginnend middelengebruik.",
+      "Combineert vaak met inzicht in groepsdynamiek, media-invloeden (reclame) en voorbeeldgedrag van rolmodellen.",
+      "Effectiever dan louter informatieve programma's die zich beperken tot 'angstboodschappen' over gezondheidsrisico's.",
+      "Wordt vaak gecombineerd met life skills training (bredere aanpak) voor maximaal effect.",
+      "Expliciet kernwoord ('sociale invloeden') in leerdoel 4 van H7."
+    ],
+    "importance": 5,
+    "type": "techniek",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-011",
+    "term": {
+      "nl": "Levensvaardigheden trainingsprogramma",
+      "en": "Life skills training program"
+    },
+    "definition": "Trainingsprogramma gericht op het aanleren van algemene sociale, cognitieve en copingvaardigheden — niet alleen specifiek 'nee zeggen', maar bredere zelfregulatie.",
+    "chapter": 7,
+    "additions": [
+      "Componenten: assertiviteit, omgaan met stress, probleemoplossen, zelfcontrole, communicatievaardigheden, omgaan met emoties.",
+      "Theoretische basis: jongeren die zich emotioneel en sociaal competent voelen, hebben minder behoefte aan middelen om met stress of onzekerheid om te gaan.",
+      "Bewezen effect: minder middelengebruik in de adolescentie, ook op lange termijn.",
+      "Wordt vaak gecombineerd met de social influence approach in geïntegreerde schoolpreventieprogramma's (bv. LifeSkills Training van Botvin).",
+      "Sluit aan bij stressmanagement (H5: probleemoplossende training, stress-inoculatietraining)."
+    ],
+    "importance": 4,
+    "type": "training",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-012",
+    "term": {
+      "nl": "Methadon",
+      "en": "Methadone"
+    },
+    "definition": "Chemisch middel (synthetisch opioïd) dat wordt gebruikt als vervanging van drugs (vooral heroïne) bij het ontwenningsproces. Voorkomt ontwenningsverschijnselen zonder de sterke 'high' van heroïne te geven.",
+    "chapter": 7,
+    "additions": [
+      "Onderdeel van harm reduction-beleid: legaal en gecontroleerd verstrekt in plaats van illegaal heroïnegebruik.",
+      "Voordelen: vermindert criminaliteit, transmissie van hiv/hepatitis (geen injectie), en sociale schade; werkt 24-36 uur (langer dan heroïne).",
+      "Nadeel: vervangt de ene afhankelijkheid door de andere — methadon zelf is verslavend.",
+      "Buprenorfine is een veiliger alternatief met lagere overdosisrisico; naltrexon blokkeert juist de euforie van opioïden.",
+      "Multidimensionale aanpak werkt het best: methadon + positieve bekrachtiging (geldbeloningen) + cognitieve gedragstherapie."
+    ],
+    "importance": 4,
+    "type": "medicijn",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-015",
+    "term": {
+      "nl": "Terugval / tijdelijke terugval",
+      "en": "Relapse / lapse"
+    },
+    "definition": "Lapse = één foutje / tijdelijke misstap (bv. één sigaret na stoppen). Relapse = volledige terugval naar het oude gedrag (weer regelmatig roken). Een lapse kan via het abstinence-violation effect leiden tot een relapse.",
+    "chapter": 7,
+    "additions": [
+      "Tot 60-80% van mensen die stoppen met roken, alcohol of heroïne valt binnen één jaar terug — ongeacht de gebruikte behandelmethode.",
+      "Belangrijkste oorzaken van terugval: craving en ontwenningsverschijnselen, negatieve emoties + slechte coping, lage zelfeffectiviteit na een lapse, sociale druk, verwachte beloning van het middel, cognitieve dissonantie en (bij roken) gewichtstoename.",
+      "Het abstinence-violation effect (H6) verklaart hoe een lapse tot een relapse leidt: schuldgevoelens en gevoel van persoonlijk falen → opgeven.",
+      "Klinische implicatie: lapse normaliseren als leermoment, niet als persoonlijk falen, om de cascade naar relapse te doorbreken.",
+      "Expliciet kernwoord in leerdoel 4 van H7."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h7-016",
+    "term": {
+      "nl": "Terugvalpreventieprogramma",
+      "en": "Relapse prevention method"
+    },
+    "definition": "Zelfmanagementprogramma onder supervisie van een therapeut (Marlatt) waarin de cliënt: (1) leert hoog-risicosituaties te herkennen, (2) vaardigheden en copingstrategieën krijgt aangeleerd, en (3) leert deze toe te passen in die hoog-risicosituaties.",
+    "chapter": 7,
+    "additions": [
+      "Doel: doorbreken van het abstinence violation effect (schuld en verminderd zelfvertrouwen na een terugval).",
+      "Hoog-risicosituaties zijn vaak: negatieve emoties, sociale druk, conflicten, positieve emoties (vieren), of fysieke ongemakken.",
+      "Vier aanvullende strategieën: (1) langdurige counseling en beloningen tot een jaar na behandeling; (2) voortgezette medicatie (nicotinevervanging, methadon) na hoofdbehandeling; (3) mindfulness en ontspanningstechnieken voor negatieve emoties; (4) sociale steunnetwerken (familie, AA, vrienden).",
+      "Effectief gebleken bij verschillende verslavingen; werkt het best als onderdeel van een multidimensionaal programma."
+    ],
+    "importance": 4,
+    "type": "techniek",
+    "aggregate": "fc-h7-015"
+  }
+]

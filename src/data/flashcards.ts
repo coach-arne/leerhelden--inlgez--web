@@ -8,6 +8,9 @@ import flashcardsH3 from './flashcards/flashcards_h3.json'
 import flashcardsH4 from './flashcards/flashcards_h4.json'
 import flashcardsH5 from './flashcards/flashcards_h5.json'
 import flashcardsH6 from './flashcards/flashcards_h6.json'
+import flashcardsH7 from './flashcards/flashcards_h7.json'
+import flashcardsH8 from './flashcards/flashcards_h8.json'
+import flashcardsH9 from './flashcards/flashcards_h9.json'
 
 type SourceEntry = { source: string; cards: Omit<Flashcard, 'source'>[] }
 
@@ -20,6 +23,9 @@ const SOURCE_ENTRIES: SourceEntry[] = [
   { source: 'flashcards_h4.json', cards: flashcardsH4 as Omit<Flashcard, 'source'>[] },
   { source: 'flashcards_h5.json', cards: flashcardsH5 as Omit<Flashcard, 'source'>[] },
   { source: 'flashcards_h6.json', cards: flashcardsH6 as Omit<Flashcard, 'source'>[] },
+  { source: 'flashcards_h7.json', cards: flashcardsH7 as Omit<Flashcard, 'source'>[] },
+  { source: 'flashcards_h8.json', cards: flashcardsH8 as Omit<Flashcard, 'source'>[] },
+  { source: 'flashcards_h9.json', cards: flashcardsH9 as Omit<Flashcard, 'source'>[] },
 ]
 
 export const ALL_SOURCES: string[] = SOURCE_ENTRIES.map((e) => e.source)

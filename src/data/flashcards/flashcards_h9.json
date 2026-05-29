@@ -1,0 +1,350 @@
+[
+  {
+    "id": "fc-h9-004",
+    "term": {
+      "nl": "Gezond-verstandmodel",
+      "en": "Common-sense model"
+    },
+    "definition": "Cognitieve voorstelling (lekentheorie) van een ziekte die ons gezondheidsgedrag en hoe wij over ziekte denken beïnvloedt. Leken vormen hun eigen 'gezond verstand'-beeld van wat een ziekte is en wat ze ermee moeten.",
+    "chapter": 9,
+    "additions": [
+      "Ontwikkeld door Leventhal; bestaat uit vijf dimensies: (1) identiteit (label + symptomen), (2) oorzaak, (3) tijdslijn (verloop/duur), (4) gevolgen (consequenties), (5) controleerbaarheid/behandelbaarheid.",
+      "Voorbeeld tijdslijn: weten dat salmonella pas na uren klachten geeft, of dat een verkoudheid vanzelf overgaat.",
+      "Onjuiste modellen hebben gevolgen: minder kans op preventie, hulp zoeken of advies opvolgen; bij chronische ziekte kan een negatief model leiden tot controleverlies en emotionele stress.",
+      "Sluit aan bij het Health Belief Model (H6): beide gaan over hoe overtuigingen gezondheidsgedrag sturen.",
+      "Expliciet kernwoord in leerdoel 1 van H9."
+    ],
+    "importance": 5,
+    "type": "model",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-010",
+    "term": {
+      "nl": "Leken Verwijzing Systeem",
+      "en": "Lay referral system"
+    },
+    "definition": "Mensen uit de omgeving van een persoon zonder medische achtergrond (vrienden, familie, collega's) die hun eigen informatie en verklaringen geven over de gezondheidsklachten van die persoon.",
+    "chapter": 9,
+    "additions": [
+      "Functies: symptomen interpreteren ('Dat is gewoon een allergie'), medische hulp aanraden, huisremedies voorstellen, of doorverwijzen naar anderen.",
+      "Mensen raadplegen dit informele netwerk vaak vóór ze een professional bezoeken.",
+      "Risico: het advies is niet altijd correct en kan medische hulp uitstellen of verergering veroorzaken.",
+      "Werkt samen met het gezond-verstandmodel: leken vullen elkaars cognitieve ziektebeeld aan.",
+      "Expliciet kernwoord in leerdoel 1 van H9."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-002",
+    "term": {
+      "nl": "Beoordelingsuitstel",
+      "en": "Appraisal delay"
+    },
+    "definition": "De tijd die voorbijgaat voordat men een symptoom dat men heeft, interpreteert als een indicatie van ziekte.",
+    "chapter": 9,
+    "additions": [
+      "Eerste fase in het uitstelproces (Safer e.a.): appraisal → illness → utilization → treatment delay.",
+      "Hangt sterk af van symptoomperceptie: pijnlijke of zichtbare symptomen worden sneller als ziekte beoordeeld dan vage of langzaam opkomende klachten.",
+      "Vraag die de persoon zich stelt: 'Ben ik ziek?'",
+      "Verlengd door afleiding, onrealistisch optimisme of het ontbreken van pijn."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-009",
+    "term": {
+      "nl": "Ziekte-uitstel",
+      "en": "Illness delay"
+    },
+    "definition": "De tijd die voorbijgaat tussen het moment dat men een ziektesymptoom herkent en het moment dat men beslist dat men medische zorg nodig heeft.",
+    "chapter": 9,
+    "additions": [
+      "Tweede fase in het uitstelproces: volgt op appraisal delay en gaat vooraf aan utilization delay.",
+      "Vraag die de persoon zich stelt: 'Heb ik hier medische zorg voor nodig?'",
+      "Onderscheid met beoordelingsuitstel: bij illness delay erkent men al ziek te zijn, maar twijfelt men of een arts nodig is.",
+      "Verlengd door angst, ontkenning (zoals Mr. Glover die hartaanvalsymptomen ontkende) of de overtuiging dat het vanzelf overgaat."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-018",
+    "term": {
+      "nl": "Gebruiksuitstel",
+      "en": "Utilization delay"
+    },
+    "definition": "De tijd die zich afspeelt tussen de beslissing dat men medische zorg moet hebben en het daadwerkelijke gebruik van die medische zorg.",
+    "chapter": 9,
+    "additions": [
+      "Derde fase in het uitstelproces: volgt op illness delay en gaat vooraf aan treatment delay.",
+      "Vraag die de persoon zich stelt: 'Is de moeite en kost van zorg de baten waard?'",
+      "Verlengd door praktische barrières: kosten, bereikbaarheid, tijd, wachtlijsten, angst voor de uitkomst.",
+      "Sluit aan bij de kosten-batenafweging in het Health Belief Model (H6)."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-017",
+    "term": {
+      "nl": "Behandelingsvertraging",
+      "en": "Treatment delay"
+    },
+    "definition": "De tijd die verstrijkt tussen het opmerken van een klacht en het zoeken van medische hulp — in het gefaseerde model de totale of laatste vertraging tot de behandeling daadwerkelijk start.",
+    "chapter": 9,
+    "additions": [
+      "In Sarafino's model de overkoepelende term voor het hele traject van symptoom tot zorg; soms specifiek de laatste fase tot behandeling.",
+      "De vier fasen samen (appraisal, illness, utilization, treatment delay) verklaren waarom mensen soms maanden wachten met symptomen van ernstige ziekten.",
+      "Klinisch relevant: bij aandoeningen als kanker of hartinfarct is uitstel levensbedreigend — vroege herkenning en actie zijn cruciaal.",
+      "Let op terminologie-overlap: verschillende bronnen verdelen de fasen iets anders; ken de logische volgorde van het proces."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-007",
+    "term": {
+      "nl": "Hypochondrie",
+      "en": "Hypochondriasis"
+    },
+    "definition": "Ziekelijke zwaarmoedigheid en bezorgdheid ten aanzien van de eigen gezondheid: de neiging om zich buitensporig zorgen te maken, lichamelijke gewaarwordingen nauwlettend in de gaten te houden, vaak ongegronde klachten te hebben en te geloven ziek te zijn ondanks geruststelling van artsen.",
+    "chapter": 9,
+    "additions": [
+      "Vorm van problematisch (over)gebruik van gezondheidsdiensten — vaak emotioneel gemotiveerd en kostbaar.",
+      "Gelinkt aan de persoonlijkheidstrek neuroticisme.",
+      "Behandelbaar met cognitieve gedragstherapie (CGT).",
+      "Tegenpool van de uitstellende patiënt: de hypochonder zoekt juist te véél en te vaak medische hulp.",
+      "Expliciet kernwoord in leerdoel 2 van H9."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-003",
+    "term": {
+      "nl": "Chronisch vermoeidheidssyndroom (CFS)",
+      "en": "Chronic Fatigue Syndrome (CFS)"
+    },
+    "definition": "Aanhoudende of regelmatig optredende ernstige vermoeidheid gedurende meerdere maanden (≥6 maanden), soms met keelpijn en hoofdpijn. In Nederland aangeduid met ME.",
+    "chapter": 9,
+    "additions": [
+      "Er is geen diagnostische test beschikbaar; de diagnose is er een van uitsluiting.",
+      "Behandeling verloopt onder meer via cognitieve gedragstherapie (CGT).",
+      "Illustreert de complexe relatie tussen lichamelijke klachten en psychosociale factoren — een kernthema van H9.",
+      "Door het ontbreken van een biologische test ligt het maatschappelijk en medisch gevoelig; patiënten voelen zich soms niet serieus genomen."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-011",
+    "term": {
+      "nl": "Psychogene aandoening bij een grote groep personen",
+      "en": "Mass psychogenic illness"
+    },
+    "definition": "Het ervaren van ziektesymptomen door een grote groep mensen, hoewel medische tests geen lichamelijke grond voor die symptomen aantonen.",
+    "chapter": 9,
+    "additions": [
+      "Ontstaat door psychosociale processen zoals suggestie, angst en sociale besmetting binnen een groep.",
+      "Voorbeeld: een groep werknemers of scholieren die plotseling klaagt over misselijkheid en duizeligheid zonder aantoonbare oorzaak.",
+      "Illustreert hoe verwachting en aandacht symptoombeleving kunnen creëren (vergelijk het nocebo-effect).",
+      "Verwant aan medical students' disease, maar dan op groepsniveau in plaats van individueel."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-013",
+    "term": {
+      "nl": "Medische-studentensyndroom",
+      "en": "Medical students' disease"
+    },
+    "definition": "Het idee van geneeskundestudenten dat men een ziekte heeft als gevolg van de toenemende kennis over symptomen van ziekten.",
+    "chapter": 9,
+    "additions": [
+      "Ontstaat doordat studenten normale lichaamssignalen gaan herinterpreteren als tekenen van de ziekten die ze net bestuderen.",
+      "Klassiek voorbeeld van hoe kennis, aandacht en suggestie de symptoomperceptie vertekenen.",
+      "Individuele tegenhanger van mass psychogenic illness (groepsniveau).",
+      "Doorgaans onschuldig en voorbijgaand, maar illustreert het bredere principe dat aandacht voor het lichaam klachten kan oproepen."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-014",
+    "term": {
+      "nl": "Placebo",
+      "en": "Placebo"
+    },
+    "definition": "Stof, tablet of behandeling zonder of met minder werkzame bestanddelen dan een echt medicijn of een echte behandeling, die toch een effect kan hebben door de verwachting van de patiënt.",
+    "chapter": 9,
+    "additions": [
+      "Placebo-effect: verbetering puur door de verwachting dat de behandeling werkt.",
+      "Tegenhanger is het nocebo-effect: bijwerkingen ervaren puur op basis van negatieve verwachtingen.",
+      "Belangrijk in onderzoek: gecontroleerde studies vergelijken een werkzaam middel met een placebo om het echte effect te isoleren.",
+      "Illustreert de kracht van psychosociale factoren (verwachting, suggestie) bij symptoombeleving en herstel."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-008",
+    "term": {
+      "nl": "Iatrogene aandoeningen",
+      "en": "Iatrogenic conditions"
+    },
+    "definition": "Aandoeningen die ontstaan door een medische fout, een neveneffect (bijwerking) of een risico van de (al dan niet medicinale) behandeling.",
+    "chapter": 9,
+    "additions": [
+      "Voorbeelden: verkeerde medicatie of dosering, complicaties van een operatie, een normale bijwerking van een nieuw medicijn.",
+      "Medische fouten leiden jaarlijks tot ongeveer 100.000 doden in de VS (ziekenhuisfouten en geneesmiddelbijwerkingen).",
+      "Angst voor iatrogene schade is een reden waarom mensen zorg mijden of uitstellen — het vermindert vertrouwen in zorgverleners.",
+      "Versterkt samen met verhalen over wantrouwen (zoals het Tuskegee-syfilisexperiment) de drempel om hulp te zoeken."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-006",
+    "term": {
+      "nl": "Artsgericht",
+      "en": "Doctor-centered"
+    },
+    "definition": "De stijl van behandelen waarbij de arts zich primair richt op het gezondheidsprobleem: gesloten vragen, focus op één klacht, en beperkte ruimte voor inbreng van de patiënt.",
+    "chapter": 9,
+    "additions": [
+      "Tegenpool van de patiëntgerichte stijl.",
+      "Efficiënt onder tijdsdruk, maar levert minder diagnostische informatie op en lagere patiënttevredenheid.",
+      "Risico: medisch jargon vormt een drempel, vooral voor lager opgeleiden (bv. slechts 39% van vrouwen begreep de term 'umbilicus').",
+      "Expliciet kernwoord ('stijl en gedrag van de arts') in leerdoel 3 van H9."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-012",
+    "term": {
+      "nl": "Patiëntgericht",
+      "en": "Patient-centered"
+    },
+    "definition": "De stijl van behandelen waarbij de arts zich primair richt op de patiënt: open vragen, begrijpelijke taal (weinig jargon), empathie en gezamenlijke besluitvorming (shared decision making).",
+    "chapter": 9,
+    "additions": [
+      "Tegenpool van de artsgerichte stijl.",
+      "Effecten: hogere patiënttevredenheid, betere therapietrouw én meer diagnostische informatie.",
+      "Vrouwelijke artsen hanteren deze stijl vaker en nemen gemiddeld meer tijd.",
+      "Werkt het best wanneer de participatiebehoefte van de patiënt en de stijl van de arts op elkaar zijn afgestemd; een mismatch leidt juist tot stress en minder opvolging.",
+      "Expliciet kernwoord in leerdoel 3 van H9."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-001",
+    "term": {
+      "nl": "Opvolging / therapietrouw",
+      "en": "Adherence"
+    },
+    "definition": "De mate waarin een patiënt medische adviezen opvolgt. 'Adherence' benadrukt de actieve samenwerking van de patiënt, terwijl 'compliance' passiever klinkt.",
+    "chapter": 9,
+    "additions": [
+      "Slechte therapietrouw komt vaak voor, vooral bij chronische aandoeningen (langdurige behandeling) en bij gevraagde gedragsveranderingen (dieet, stoppen met roken).",
+      "Complexe medicatieschema's verlagen de kans op naleving.",
+      "Beïnvloed door gezondheidsopvattingen, sociale steun, bijwerkingen, begrip van de behandeling en de arts-patiëntrelatie.",
+      "Verbeteren kan via: vereenvoudigen van het regime, duidelijke patiëntgerichte communicatie, reminders, educatie en het betrekken van sociale steun.",
+      "Expliciet kernwoord (compliance, adherence) in leerdoel 4 van H9."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-005",
+    "term": {
+      "nl": "Volgzaamheid",
+      "en": "Compliance"
+    },
+    "definition": "Volgzaamheid bij medische adviezen — het opvolgen van wat de arts voorschrijft. Klinkt passiever dan 'adherence', dat meer de actieve betrokkenheid van de patiënt benadrukt.",
+    "chapter": 9,
+    "additions": [
+      "Bijna synoniem met adherence; het verschil zit in de connotatie: compliance suggereert gehoorzaamheid, adherence suggereert partnerschap.",
+      "Moderne literatuur geeft de voorkeur aan 'adherence' omdat het de patiënt als actieve deelnemer ziet, niet als passieve ontvanger van bevelen.",
+      "Lage compliance is een groot probleem in de zorg, vooral bij chronische ziekten.",
+      "Expliciet kernwoord in leerdoel 4 van H9."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": "fc-h9-001"
+  },
+  {
+    "id": "fc-h9-015",
+    "term": {
+      "nl": "Beredeneerd niet nakomen",
+      "en": "Rational nonadherence"
+    },
+    "definition": "Het overwogen niet opvolgen van een medisch advies op basis van geldige redenen — een bewuste, beredeneerde keuze in plaats van vergeetachtigheid of onbegrip.",
+    "chapter": 9,
+    "additions": [
+      "Voorbeelden van geldige redenen: hinderlijke bijwerkingen vermijden, de behandeling lijkt niet te werken, te hoge kosten, of strijd met persoonlijke waarden.",
+      "Belangrijk inzicht: non-adherence is niet altijd irrationeel of 'fout' — het kan een rationele kosten-batenafweging van de patiënt zijn.",
+      "Klinische implicatie: artsen moeten redenen voor non-adherence exploreren in plaats van te veronderstellen dat de patiënt onwillig of vergeetachtig is.",
+      "Sluit aan bij gedeelde besluitvorming (patiëntgerichte stijl): de patiënt als meebeslissende partner.",
+      "Expliciet kernwoord in leerdoel 4 van H9."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": "fc-h9-001"
+  },
+  {
+    "id": "fc-h9-019",
+    "term": {
+      "nl": "Medicaid",
+      "en": "Medicaid"
+    },
+    "definition": "Amerikaanse ziektekostenverzekering van de overheid voor mensen met lage inkomens.",
+    "chapter": 9,
+    "additions": [
+      "Onderdeel van de sociaal-economische context van zorggebruik: lagere inkomens hebben minder toegang tot reguliere zorg.",
+      "Onthoudtruc: MedicAID = AID (hulp) voor wie het financieel nodig heeft (lage inkomens).",
+      "Samen met Medicare heeft het de toegangskloof iets verkleind, maar eigen bijdragen en uitgesloten behandelingen blijven een drempel.",
+      "Specifiek Amerikaanse context; in veel andere landen bestaat een universele ziektekostenverzekering."
+    ],
+    "importance": 2,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h9-020",
+    "term": {
+      "nl": "Medicare",
+      "en": "Medicare"
+    },
+    "definition": "Amerikaanse ziektekostenverzekering van de overheid voor ouderen.",
+    "chapter": 9,
+    "additions": [
+      "Onderdeel van de sociaal-economische context van zorggebruik; ouderen gebruiken meer zorg door chronische aandoeningen.",
+      "Onthoudtruc: MediCARE = CARE (zorg) voor de oudere generatie.",
+      "Te onderscheiden van Medicaid (voor lage inkomens) — een klassiek verwarringspaar.",
+      "Specifiek Amerikaanse context; de VS voerde pas na 2010 bredere verplichte dekking in."
+    ],
+    "importance": 2,
+    "type": "begrip",
+    "aggregate": null
+  }
+]

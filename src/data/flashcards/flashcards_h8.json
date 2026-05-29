@@ -1,0 +1,496 @@
+[
+  {
+    "id": "fc-h8-005",
+    "term": {
+      "nl": "Koolhydraten",
+      "en": "Carbohydrates"
+    },
+    "definition": "Verbindingen van suikermoleculen die de belangrijkste energiebron voor het lichaam vormen.",
+    "chapter": 8,
+    "additions": [
+      "Eenvoudige suikers: glucose (o.a. in dierlijke producten) en fructose (fruit, honing).",
+      "Complexe suikers: zetmeel (planten), lactose (melk), sucrose (tafelsuiker). Voorbeeld: brood bevat zetmeel dat wordt afgebroken tot glucose.",
+      "De glycemische index meet de snelheid en intensiteit waarmee koolhydraten worden omgezet naar bloedsuiker; hoog-glycemische suikers verhogen het obesitasrisico.",
+      "Een van de zes voedingsbestanddelen (kernwoorden leerdoel 1): koolhydraten, vetten, eiwitten, vitamines, mineralen, voedingsvezel.",
+      "Expliciet kernwoord in leerdoel 1 van H8."
+    ],
+    "importance": 5,
+    "type": "voedingsstof",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-019",
+    "term": {
+      "nl": "Eiwitten",
+      "en": "Proteins"
+    },
+    "definition": "Voedingsbestanddeel dat nodig is voor de opbouw en het herstel van lichaamscellen en weefsels.",
+    "chapter": 8,
+    "additions": [
+      "Opgebouwd uit 20 aminozuren, waarvan 10 essentieel zijn (moeten via voeding worden binnengekregen).",
+      "Volwaardige eiwitten bevatten alle essentiële aminozuren: vlees, vis, eieren; plantaardige bronnen moeten gecombineerd worden.",
+      "Naast bouwfunctie ook een (secundaire) energiebron wanneer koolhydraten en vetten tekortschieten.",
+      "Een van de zes kernvoedingsbestanddelen uit leerdoel 1.",
+      "Expliciet kernwoord in leerdoel 1 van H8."
+    ],
+    "importance": 5,
+    "type": "voedingsstof",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-013",
+    "term": {
+      "nl": "Vetten (lipiden)",
+      "en": "Lipids"
+    },
+    "definition": "Vetachtige voedingsstoffen die dienen als geconcentreerde energiebron en opslagvorm, en die nodig zijn voor onder meer hormoonproductie en celmembranen.",
+    "chapter": 8,
+    "additions": [
+      "Verzadigd vet verhoogt LDL ('slecht' cholesterol); onverzadigd vet verhoogt HDL ('goed' cholesterol, in vis, olijf- en notenolie); transvetten verhogen LDL én verlagen HDL (sterk ongunstig).",
+      "Richtlijn: 10-30% van de dagelijkse calorie-inname uit vet.",
+      "Vetten worden in het bloed vervoerd door lipoproteïnen (HDL en LDL).",
+      "Cholesterol is technisch geen vet maar een steroïde, maar wordt samen met vetten besproken vanwege de gezamenlijke rol bij atherosclerose.",
+      "Sluit aan bij H2 (atherosclerose) en H14 (hart- en vaatziekten)."
+    ],
+    "importance": 4,
+    "type": "voedingsstof",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-014",
+    "term": {
+      "nl": "Lipoproteïnen",
+      "en": "Lipoproteins"
+    },
+    "definition": "Cholesteroldragende proteïnen (eiwitten) in het lichaam die cholesterol en andere vetten door het bloed transporteren.",
+    "chapter": 8,
+    "additions": [
+      "Twee hoofdtypen: HDL (hoge dichtheid, 'goede' cholesterol) en LDL (lage dichtheid, 'slechte' cholesterol).",
+      "Omdat vetten niet oplossen in water (bloed), zijn eiwitdragers nodig om ze te vervoeren.",
+      "De verhouding HDL/LDL is een belangrijke voorspeller van het risico op atherosclerose en hartziekten.",
+      "Het cholesterolgehalte wordt bepaald door zowel genetica als voeding."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-001",
+    "term": {
+      "nl": "Lipoproteïnen met hoge dichtheid (HDL)",
+      "en": "High-density lipoprotein (HDL)"
+    },
+    "definition": "'Goede cholesterol': lipoproteïne dat de kans op te hoge cholesterol en aderverkalking (atherosclerose) verkleint, doordat het cholesterol uit de bloedvaten terug naar de lever transporteert.",
+    "chapter": 8,
+    "additions": [
+      "Tegenhanger van LDL: HDL beschermt tegen plaquevorming in de bloedvaten.",
+      "Wordt verhoogd door onverzadigde vetten (vis, olijfolie, noten) en regelmatige lichaamsbeweging.",
+      "Onthoudtruc: HDL = 'Healthy' / 'Hoog is goed'.",
+      "Een hoge HDL-waarde verlaagt het cardiovasculaire risico, ook bij een verhoogd totaalcholesterol."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": "fc-h8-014"
+  },
+  {
+    "id": "fc-h8-015",
+    "term": {
+      "nl": "Lipoproteïnen met lage dichtheid (LDL)",
+      "en": "Low-density lipoprotein (LDL)"
+    },
+    "definition": "'Slechte cholesterol': lipoproteïne dat de kans op te hoge cholesterol en aderverkalking (atherosclerose) vergroot, doordat het cholesterol naar de bloedvatwanden transporteert.",
+    "chapter": 8,
+    "additions": [
+      "Tegenhanger van HDL: LDL speelt een sleutelrol bij het ontstaan van atherosclerose (vetafzetting in bloedvaten).",
+      "Wordt verhoogd door verzadigde vetten en transvetten.",
+      "Onthoudtruc: LDL = 'Lousy' / 'Laag is goed'.",
+      "Verhoogd LDL is een belangrijke risicofactor voor hart- en vaatziekten (H14) en kan met statines worden verlaagd."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": "fc-h8-014"
+  },
+  {
+    "id": "fc-h8-021",
+    "term": {
+      "nl": "Bloedcholesterol",
+      "en": "Serum cholesterol"
+    },
+    "definition": "Cholesterol is een steroïde die een onontbeerlijk bestanddeel vormt van alle celmembranen. De bepaling van serum-cholesterol (cholesterolgehalte in het bloed) is een belangrijke parameter bij het onderzoek van een hartpatiënt.",
+    "chapter": 8,
+    "additions": [
+      "Wordt in het bloed getransporteerd via lipoproteïnen: het 'goede' (HDL) en 'slechte' (LDL) deel samen vormen het totaalcholesterol.",
+      "Hoog serum-cholesterol (vooral LDL) is een belangrijke risicofactor voor atherosclerose en hartziekten.",
+      "Bepaald door zowel genetica als voeding (verzadigd vet verhoogt het).",
+      "Interventies zoals het MRFIT-programma toonden aan dat dieetverandering het cholesterol meetbaar kan verlagen, vooral bij hoogrisicopersonen."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-012",
+    "term": {
+      "nl": "Hypertensie",
+      "en": "Hypertension"
+    },
+    "definition": "Verhoogde bloeddruk — een belangrijke risicofactor voor hart- en vaatziekten en beroerte.",
+    "chapter": 8,
+    "additions": [
+      "Vaak veroorzaakt of verergerd door overmatige zout(natrium)inname en overgewicht.",
+      "Gewichtsverlies en zoutbeperking verlagen de bloeddruk; ook lichaamsbeweging en stressmanagement (H5) helpen.",
+      "Vaak symptoomloos ('silent killer'); mensen overschatten hun vermogen om hoge bloeddruk aan symptomen te herkennen (H6: cognitieve misvattingen).",
+      "Expliciet kernwoord in leerdoel 2 van H8; sluit aan bij H14 (hartziekten, beroerte)."
+    ],
+    "importance": 5,
+    "type": "ziekte",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-022",
+    "term": {
+      "nl": "Natrium",
+      "en": "Sodium"
+    },
+    "definition": "Mineraal (in de vorm van zout, natriumchloride) dat essentieel is voor zenuwfunctie en vochtbalans, maar bij overmatige inname bijdraagt aan hoge bloeddruk.",
+    "chapter": 8,
+    "additions": [
+      "Belangrijkste voedingsfactor in de ontwikkeling van hypertensie naast overgewicht.",
+      "Verborgen natrium zit vooral in bewerkte voeding, niet alleen in toegevoegd tafelzout.",
+      "Een van de mineralen die het lichaam nodig heeft (naast calcium, fosfor, kalium, ijzer).",
+      "Beperking van natriuminname is een kernonderdeel van bloeddrukverlagende diëten (bv. DASH-dieet)."
+    ],
+    "importance": 3,
+    "type": "voedingsstof",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-016",
+    "term": {
+      "nl": "Insuline",
+      "en": "Insulin"
+    },
+    "definition": "Hormoon dat de bloedsuikerspiegel reguleert en de vetopslag bevordert; hoge niveaus verhogen de eetlust.",
+    "chapter": 8,
+    "additions": [
+      "Een van de drie hormonen waarmee de hypothalamus het lichaamsgewicht reguleert, naast ghreline (verhoogt eetlust) en leptine (remt eetlust).",
+      "Geproduceerd door de alvleesklier (pancreas, zie H2).",
+      "Speelt een centrale rol bij diabetes type 2, een belangrijke comorbiditeit van obesitas (H13).",
+      "Verbindt voeding, gewicht en chronische ziekte: een rode draad door H8 en H13/H14."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-011",
+    "term": {
+      "nl": "Hyperinsulinemie",
+      "en": "Hyperinsulinemia"
+    },
+    "definition": "Verhoogd insulineniveau in het bloed. Komt vaak voor bij zwaarlijvige mensen.",
+    "chapter": 8,
+    "additions": [
+      "Gevolg: men voelt zich hongeriger, ervaart zoete smaken als aangenamer en eet meer — een vicieuze cirkel die overgewicht versterkt.",
+      "Vaak een voorloper van insulineresistentie en diabetes type 2.",
+      "Illustreert hoe biologische factoren (niet alleen wilskracht) bijdragen aan moeilijk doorbreekbaar overeten.",
+      "Gerelateerd aan de set-point theorie: het lichaam verdedigt zijn gewicht via hormonale signalen."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-003",
+    "term": {
+      "nl": "Quetelet-index (BMI)",
+      "en": "Body mass index (BMI)"
+    },
+    "definition": "Maat voor over- of ondergewicht op basis van de verhouding tussen het lichaamsgewicht en het kwadraat van de lichaamslengte. Formule: gewicht (kg) / lengte (m)².",
+    "chapter": 8,
+    "additions": [
+      "Indeling: BMI ≥ 25 = overgewicht; BMI ≥ 30 = obesitas; BMI ≥ 40 = morbide obesitas.",
+      "Beperking: houdt geen rekening met spiermassa of vetverdeling — een gespierd persoon kan een hoge BMI hebben zonder overgewicht.",
+      "Vetverdeling is even belangrijk: buikvet (centrale adipositas) is gevaarlijker dan vet op heupen of dijen.",
+      "Expliciet kernwoord (quetelet-index) in leerdoel 3 van H8."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-018",
+    "term": {
+      "nl": "Overgewicht",
+      "en": "Overweight"
+    },
+    "definition": "Toestand van een BMI van 25 of hoger (BMI ≥ 25), waarbij het lichaamsgewicht hoger is dan gezond geacht voor de lichaamslengte.",
+    "chapter": 8,
+    "additions": [
+      "Ontstaat door een positieve energiebalans: meer calorie-inname dan -verbruik.",
+      "Lichte tot matige mate; verhoogt het gezondheidsrisico minder sterk dan obesitas, zeker bij fysiek actieve mensen.",
+      "Actieve mensen met overgewicht hebben minder gezondheidsrisico dan inactieve mensen — fitheid weegt mee.",
+      "Onderscheid met obesitas is een kwestie van graad, niet van soort (BMI-drempel 30)."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": "fc-h8-003"
+  },
+  {
+    "id": "fc-h8-017",
+    "term": {
+      "nl": "Obesitas",
+      "en": "Obesity"
+    },
+    "definition": "(Extreem) overgewicht, gedefinieerd als een BMI van 30 of hoger (BMI > 30).",
+    "chapter": 8,
+    "additions": [
+      "Verhoogt het risico op hartziekten, diabetes type 2, kanker en beroerte; hoe hoger de BMI, hoe groter het risico op ziekte en sterfte.",
+      "Oorzaken zijn multifactorieel: erfelijkheid (set-point, FTO/MC4R-genen), vetcelhyperplasie, emotioneel eten, sociale omgeving en sedentair gedrag.",
+      "Buikvet (centrale adipositas) vormt een groter risico dan vet op heupen/dijen; mannen stapelen vet vaker in de buik, vrouwen op dijen/heupen/billen.",
+      "Stigmatisering verhoogt stress en vermindert de motivatie tot gedragsverandering — zelfverwijt verlaagt therapietrouw.",
+      "Expliciet kernwoord in leerdoel 3 van H8."
+    ],
+    "importance": 5,
+    "type": "ziekte",
+    "aggregate": "fc-h8-003"
+  },
+  {
+    "id": "fc-h8-009",
+    "term": {
+      "nl": "Vetcelhyperplasie",
+      "en": "Fat cell hyperplasia"
+    },
+    "definition": "Bovenmatige ontwikkeling (toename in aantal) van vetcellen. Maakt afvallen op latere leeftijd moeilijker.",
+    "chapter": 8,
+    "additions": [
+      "Het aantal vetcellen neemt vooral toe in de jeugd; eenmaal gevormd blijven vetcellen bestaan (ze worden alleen kleiner bij gewichtsverlies, niet minder in aantal).",
+      "Bij gewichtsverlies geven vetcellen 'uithongeringssignalen' af die honger opwekken en de stofwisseling verlagen — een biologische rem op afvallen.",
+      "Verklaart waarom preventie in de kindertijd cruciaal is: het voorkomt blijvende vetcelvorming.",
+      "Onderscheid met hypertrofie (grotere vetcellen): hyperplasie betreft méér cellen, vooral aangelegd in de jeugd."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-024",
+    "term": {
+      "nl": "Set-point theorie",
+      "en": "Set-point theory"
+    },
+    "definition": "Theorie die ervan uitgaat dat elk persoon een eigen 'streefgewicht' heeft dat het lichaam probeert te behouden, gestuurd via de hypothalamus.",
+    "chapter": 8,
+    "additions": [
+      "Gewichtsschommelingen worden opgevangen door aanpassing van eetlust en metabolisme: bij afvallen daalt de stofwisseling en stijgt de honger.",
+      "Aangestuurd door hormonen: ghreline (verhoogt eetlust), leptine (remt eetlust) en insuline (vetopslag).",
+      "Verklaart waarom langdurig gewichtsverlies zo moeilijk is — het lichaam 'verdedigt' het oude gewicht.",
+      "Beperking: verklaart niet waarom sommige mensen wél langdurig gewichtsverlies behouden.",
+      "Erfelijke aanleg beïnvloedt het set-point, maar genetica is geen noodlot: lichaamsbeweging kan genetische risico's compenseren."
+    ],
+    "importance": 4,
+    "type": "model",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-007",
+    "term": {
+      "nl": "Eetstoornissen",
+      "en": "Eating disorders"
+    },
+    "definition": "Disfunctionele eetproblemen met een psychiatrisch ziektebeeld: anorexia nervosa, boulimia nervosa en binge eating.",
+    "chapter": 8,
+    "additions": [
+      "Komen vooral voor bij jonge vrouwen in de adolescentie; start vaak rond de puberteit.",
+      "Gedeelde risicofactoren: genetische aanleg (hoger bij eeneiige tweelingen), westerse schoonheidsidealen, vertekend lichaamsbeeld (body image distortion — vrouwen overschatten hun lichaamsgrootte met ~25%), perfectionisme en lage zelfwaardering.",
+      "Behandeling is lastig, vooral bij anorexia; boulimia is doorgaans beter behandelbaar met cognitieve gedragstherapie.",
+      "Expliciet kernwoord in leerdoel 4 van H8."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-002",
+    "term": {
+      "nl": "Anorexia nervosa",
+      "en": "Anorexia nervosa"
+    },
+    "definition": "Psychische stoornis waarbij de persoon een abnormaal laag lichaamsgewicht heeft (ten minste 15% onder het normale gewicht). Daarnaast is er sprake van een verstoord lichaamsbeeld en een grote angst om dik te worden.",
+    "chapter": 8,
+    "additions": [
+      "Kenmerken: extreem ondergewicht (BMI ≤ 18.5), intense angst voor gewichtstoename, vertekend lichaamsbeeld.",
+      "Persoonlijkheid is vaak perfectionistisch en controlegericht.",
+      "Ernstige medische risico's: nierfalen, hartproblemen, elektrolytenstoornissen — kent de hoogste sterfte van alle psychiatrische stoornissen.",
+      "Behandeling: focus op gewichtstoename (vaak klinisch/in ziekenhuis), gezinstherapie en soms antidepressiva.",
+      "Onderscheid met boulimia: anorexiapatiënten zijn ondergewicht; boulimiapatiënten hebben vaak een normaal gewicht."
+    ],
+    "importance": 5,
+    "type": "ziekte",
+    "aggregate": "fc-h8-007"
+  },
+  {
+    "id": "fc-h8-004",
+    "term": {
+      "nl": "Boulimia nervosa",
+      "en": "Bulimia nervosa"
+    },
+    "definition": "Eetstoornis waarbij men frequent abnormaal grote hoeveelheden voedsel eet zonder hongerig te zijn, op basis van negatieve gevoelens. Om het gewicht toch op peil te houden compenseren patiënten door bijvoorbeeld over te geven of geneesmiddelen (laxeermiddelen) te gebruiken.",
+    "chapter": 8,
+    "additions": [
+      "Kenmerken: eetbuien + compensatiegedrag (braken, laxeren, overmatige beweging); vaak chronisch hoge stressniveaus.",
+      "Patiënten zijn zich bewust van het abnormale gedrag en ervaren schuldgevoel — anders dan bij anorexia, waar ontkenning overheerst.",
+      "Risico's: ontstekingen in het spijsverteringskanaal, tanderosie en hartproblemen (hartritmestoornissen door elektrolytenverlies).",
+      "Cruciaal onderscheid met binge eating: bij boulimia is er WÉL compensatiegedrag, bij binge eating NIET.",
+      "Behandeling: psychotherapie met cognitieve en gedragsmatige technieken, zelfmonitoring, cognitieve herstructurering, beloningssystemen, eventueel medicatie."
+    ],
+    "importance": 5,
+    "type": "ziekte",
+    "aggregate": "fc-h8-007"
+  },
+  {
+    "id": "fc-h8-006",
+    "term": {
+      "nl": "Binge eating ((vr)eetbuien)",
+      "en": "Binge eating"
+    },
+    "definition": "Het frequent eten van abnormaal grote hoeveelheden voedsel zonder hongerig te zijn, op basis van negatieve gevoelens, met verlies van controle over het eetgedrag tijdens de bui. Het verschil met boulimia is dat men GEEN poging doet te compenseren (zoals overgeven of laxeermiddelen gebruiken).",
+    "chapter": 8,
+    "additions": [
+      "Kerncriterium: in korte tijd (bv. enkele uren) veel meer eten dan de meeste mensen, met het gevoel de controle kwijt te zijn.",
+      "Cruciaal onderscheid met boulimia: het ontbreken van compensatiegedrag — daardoor leidt binge eating vaak tot obesitas.",
+      "Uitgelokt door negatieve emoties (stress, verveling, depressie) en gestegen ghreline-niveaus bij stress; mensen grijpen naar 'comfort food'.",
+      "Erkend als zelfstandige eetstoornis (Binge Eating Disorder) in de DSM-5, naast anorexia en boulimia."
+    ],
+    "importance": 4,
+    "type": "ziekte",
+    "aggregate": "fc-h8-007"
+  },
+  {
+    "id": "fc-h8-020",
+    "term": {
+      "nl": "Chronische lijners",
+      "en": "Restrained eaters"
+    },
+    "definition": "Mensen die continu letten op hun lijn en proberen te weerstaan waar ze trek in hebben.",
+    "chapter": 8,
+    "additions": [
+      "Paradoxaal effect: door voortdurend te onderdrukken raakt de natuurlijke honger-/verzadigingsregulatie verstoord, wat juist tot overeten (disinhibition) kan leiden.",
+      "Een lapse ('ik heb mijn dieet al verbroken') kan een eetbui uitlokken — vergelijkbaar met het abstinence-violation effect (H6/H7).",
+      "Tieners die fanatiek lijnen, komen op lange termijn vaak juist aan.",
+      "Verklaart waarom rigide diëten minder effectief zijn dan geleidelijke, duurzame leefstijlverandering."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-023",
+    "term": {
+      "nl": "Stimuluscontrole",
+      "en": "Stimulus control"
+    },
+    "definition": "Gedragstechniek waarbij men omgevingsaspecten (cues) die een bepaald probleemgedrag aansporen verandert, om dat gedrag te verminderen.",
+    "chapter": 8,
+    "additions": [
+      "Voorbeelden bij gewichtsbeheersing: alleen eten in een vaste ruimte, voedsel uit het zicht bewaren, kleinere borden gebruiken.",
+      "Kernonderdeel van leefstijlinterventies, samen met zelfmonitoring (eten/locatie/stemming registreren), beloningen en gedragscontracten.",
+      "Theoretische basis: operante conditionering — door de cues (antecedenten) te wijzigen verandert het gedrag.",
+      "Conceptueel verwant aan cue exposure (H7), maar stimuluscontrole vermijdt de cue terwijl cue exposure er juist gecontroleerd aan blootstelt."
+    ],
+    "importance": 4,
+    "type": "techniek",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-022b",
+    "term": {
+      "nl": "Sedentair gedrag",
+      "en": "Sedentary behavior"
+    },
+    "definition": "(Stil)zittend gedrag zoals tv-kijken en computeren, gekenmerkt door een zeer laag energieverbruik.",
+    "chapter": 8,
+    "additions": [
+      "Verlaagt het energieverbruik; tv-kijken verlaagt de stofwisseling zelfs tot ónder rustniveau.",
+      "Belangrijke bijdrage aan de positieve energiebalans en daarmee aan overgewicht.",
+      "Interventie: mensen belonen voor het NIET uitvoeren van zittende activiteiten ('beloon niet-tv-kijken'; schermen ontkoppelen).",
+      "Onderscheid met te weinig sporten: men kan dagelijks sporten én toch veel sedentair zijn — beide vormen een apart risico."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-010",
+    "term": {
+      "nl": "Smaakversterkers",
+      "en": "Flavor enhancers"
+    },
+    "definition": "Voedseladditieven die de smaak van voedsel versterken (bv. mononatriumglutamaat, MSG).",
+    "chapter": 8,
+    "additions": [
+      "Onderdeel van de bredere categorie voedseladditieven, samen met conserveermiddelen.",
+      "Veelgebruikt in bewerkte voeding; kunnen bijdragen aan overconsumptie doordat het eten aantrekkelijker wordt.",
+      "Obese mensen reageren sterker op aantrekkelijke voedselprikkels (smaak, geur, beschrijving), wat overeten bevordert.",
+      "Perifeer in de leerdoelen, maar genoemd in de woordenlijst onder voeding."
+    ],
+    "importance": 2,
+    "type": "voedingsstof",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-022c",
+    "term": {
+      "nl": "Conserveermiddelen",
+      "en": "Preservatives"
+    },
+    "definition": "Voedseladditieven die de houdbaarheid van voedsel verlengen door bederf door micro-organismen tegen te gaan.",
+    "chapter": 8,
+    "additions": [
+      "Onderdeel van de categorie voedseladditieven, samen met smaakversterkers.",
+      "Let op: het Engelse 'preservatives' betekent conserveermiddelen, NIET voorbehoedmiddelen (contraceptives) — een klassieke valse vriend.",
+      "Sommige conserveermiddelen (bv. nitrieten in vleeswaren) worden in verband gebracht met een verhoogd kankerrisico.",
+      "Perifeer in de leerdoelen, maar genoemd in de woordenlijst onder voeding."
+    ],
+    "importance": 2,
+    "type": "voedingsstof",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-008",
+    "term": {
+      "nl": "Omgevingsgevaren",
+      "en": "Environmental hazards"
+    },
+    "definition": "Gevaren in de fysieke omgeving die de kans op ongevallen of letsel verhogen — een belangrijk thema binnen veiligheid en ongevalspreventie.",
+    "chapter": 8,
+    "additions": [
+      "Voorbeelden: gevaren in en om het huis (gladde vloeren, gif, vuur), op het werk en in het verkeer.",
+      "Samen met verkeersongevallen het centrale onderwerp van het veiligheidsleerdoel (leerdoel 6).",
+      "Preventie via omgevingsmaatregelen (structureel, zoals veiligheidsgordels en helmen) is vaak effectiever dan louter gedragsverandering.",
+      "Sluit aan bij de preventieniveaus uit H6: omgevingsaanpassing als vorm van primaire preventie.",
+      "Expliciet kernwoord in leerdoel 6 van H8."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h8-025",
+    "term": {
+      "nl": "hiv",
+      "en": "HIV (human immunodeficiency virus)"
+    },
+    "definition": "Human immunodeficiency virus; het virus dat aids kan veroorzaken.",
+    "chapter": 8,
+    "additions": [
+      "In H8 genoemd in de context van veiligheid en risicogedrag; uitgebreid behandeld in H14 (AIDS: oorzaken, management en coping).",
+      "Overdracht via bloed, seksueel contact en van moeder op kind; preventie via condoomgebruik, veilige injectiepraktijken en (tegenwoordig) PrEP.",
+      "Tast het immuunsysteem aan door vernietiging van T-helpercellen (CD4), waardoor het lichaam vatbaar wordt voor opportunistische infecties.",
+      "Perifeer in H8, maar opgenomen in de woordenlijst; relevante brug naar H14."
+    ],
+    "importance": 2,
+    "type": "ziekte",
+    "aggregate": null
+  }
+]
