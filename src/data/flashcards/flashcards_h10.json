@@ -1,0 +1,467 @@
+[
+  {
+    "id": "fc-h10-001",
+    "term": {
+      "nl": "Angst",
+      "en": "Anxiety"
+    },
+    "definition": "Bezorgdheid en ongerustheid — de meest voorkomende emotie bij ziekenhuispatiënten, ontstaat door onzekerheid over de diagnose, behandeling en uitkomst.",
+    "chapter": 10,
+    "additions": [
+      "Angst is vaak het hoogst vóór een operatie en neemt daarna geleidelijk af.",
+      "Veel angst komt voort uit onwetendheid: niet weten wat er mankeert, hoe ernstig het is en of de behandeling zal helpen.",
+      "Preoperatieve angstvermindering (via psychologische voorbereiding) leidt tot sneller herstel, minder pijn en kortere opname.",
+      "Persoonlijke factoren: jongvolwassenen hebben het vaak moeilijker dan ouderen; mannen zijn gevoeliger voor lichamelijke beperkingen, vrouwen voor verminking.",
+      "Expliciet kernwoord in leerdoel 1 van H10."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-008",
+    "term": {
+      "nl": "Onpersoonlijke behandeling (depersonalisatie)",
+      "en": "Depersonalization"
+    },
+    "definition": "De patiënt wordt behandeld alsof hij of zij niet aanwezig is — 'nonperson treatment' (Goffman). Het lichaam wordt als een object gezien dat gerepareerd moet worden.",
+    "chapter": 10,
+    "additions": [
+      "Voorbeeld: een chirurg die tijdens een operatie met een collega praat alsof de patiënt niet bestaat.",
+      "Redenen vanuit personeel: emotionele afstand helpt omgaan met stressvolle/tragische situaties; werkdruk en tijdsgebrek verminderen persoonlijke aandacht.",
+      "Kan psychologische schade veroorzaken: gevoelens van machteloosheid, vernedering en verlies van eigenwaarde.",
+      "Let op dubbelgebruik van de term: in H10 beschrijft depersonalisatie de patiëntervaring; bij burnout (Maslach) beschrijft het de houding van de zorgverlener (afstand nemen van patiënten, onverschilligheid).",
+      "Expliciet kernwoord in leerdoel 1 van H10."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-021",
+    "term": {
+      "nl": "Reactantie",
+      "en": "Reactance"
+    },
+    "definition": "Boze reacties van patiënten die het gevoel hebben dat ze gecontroleerd worden of in hun vrijheden beperkt worden.",
+    "chapter": 10,
+    "additions": [
+      "Ontstaat door verlies van autonomie: patiënten moeten routines volgen die door anderen bepaald worden (bv. wanneer eten, slapen, medicatie).",
+      "Patiënten die reactantie vertonen worden vaak gezien als 'probleempatiënt' — veeleisend, emotioneel, storend.",
+      "Twee soorten probleempatiënten: ernstig zieken (gedrag vaker vergeven) en niet-ernstig zieken (worden als aandachtzoekers gezien).",
+      "Reactantie is een gezonde psychologische reactie op vrijheidsbeperking — niet per se 'lastig' gedrag.",
+      "Expliciet kernwoord in leerdoel 1 van H10."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-022",
+    "term": {
+      "nl": "Scheidingsangst",
+      "en": "Separation distress"
+    },
+    "definition": "Angst die (vooral jonge) kinderen ervaren wanneer ze worden gescheiden van hun ouders, bijvoorbeeld bij ziekenhuisopname.",
+    "chapter": 10,
+    "additions": [
+      "Kan leiden tot langdurige gedragsproblemen als er onvoldoende ondersteuning is.",
+      "Oplossingen: rooming-in (ouder overnacht op kamer), bezoekuren verruimen, psychologische voorbereiding van het kind.",
+      "Belangrijk onderscheid met angst bij volwassenen: scheidingsangst is specifiek leeftijdsgebonden (sterkst bij peuters/kleuters).",
+      "Expliciet kernwoord in leerdoel 1 van H10."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-007",
+    "term": {
+      "nl": "Conformerend",
+      "en": "Conforming"
+    },
+    "definition": "Een patiënt is conformerend als hij/zij verandert van opvatting of gedrag door veronderstelde of reële sociale druk — de 'goede patiënt' die passief meewerkt.",
+    "chapter": 10,
+    "additions": [
+      "Passieve patiënten worden vaker gezien als 'goede patiënt': coöperatief, stil, geduldig, meegaand.",
+      "Actieve patiënten die vragen stellen en klachten uiten worden sneller als 'probleempatiënt' gezien.",
+      "Motivatie: veel patiënten gedragen zich conformerend om problemen te vermijden of uit angst voor slechtere zorg bij klagen.",
+      "Tegenpool van reactantie: conformerend = aanpassen aan het systeem, reactantie = verzet tegen het systeem."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-011",
+    "term": {
+      "nl": "Emotiegerichte coping",
+      "en": "Emotion-focused coping"
+    },
+    "definition": "Actie van de patiënt gericht op het verminderen van spanningen door ontkenning, afleiding of het zoeken van sociale steun.",
+    "chapter": 10,
+    "additions": [
+      "In de ziekenhuiscontext: zich afleiden met tv of gesprekken, steun vragen aan medepatiënten of familie, situatie herinterpreteren.",
+      "Effectief voor onveranderlijke aspecten van de opname (bv. het wachten op een operatie).",
+      "Sociale steun bevordert zowel herstel als psychologische aanpassing.",
+      "Conceptueel identiek aan H5 (Lazarus' coping-tweedeling); in H10 specifiek toegepast op de ziekenhuissetting."
+    ],
+    "importance": 4,
+    "type": "copingstrategie",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-020",
+    "term": {
+      "nl": "Probleemgerichte coping",
+      "en": "Problem-focused coping"
+    },
+    "definition": "Actie van de patiënt gericht op het reduceren van spanningen of het vergroten van de belastbaarheid — bv. informatie zoeken, pijnstillers vragen of vragen stellen aan de arts.",
+    "chapter": 10,
+    "additions": [
+      "In de ziekenhuiscontext: actief informatie zoeken, medicatie vragen, verpleeghulp inroepen.",
+      "Effectief wanneer de patiënt invloed heeft op de situatie (bv. keuze voor behandeloptie, oefeningen na operatie).",
+      "Minder effectief wanneer de situatie oncontroleerbaar is (bv. wachten op diagnose) — dan is emotiegerichte coping passender.",
+      "Conceptueel identiek aan H5; in H10 specifiek toegepast op de ziekenhuissetting."
+    ],
+    "importance": 4,
+    "type": "copingstrategie",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-002",
+    "term": {
+      "nl": "Vermijdende coping",
+      "en": "Avoidance coping"
+    },
+    "definition": "Copingstijl waarbij de patiënt zo weinig mogelijk informatie wil krijgen over de ziekte of procedure.",
+    "chapter": 10,
+    "additions": [
+      "Tegenpool van attention coping (informatiezoekende stijl).",
+      "Sommige patiënten gaan beter om met stress door informatie te vermijden — 'wat ik niet weet, deert mij niet'.",
+      "Effectief op korte termijn (bv. eerste weken na diagnose), maar minder effectief op lange termijn voor aanpassing.",
+      "Match tussen copingstijl en informatieaanbod is cruciaal: een vermijdende patiënt overspoelen met details verhoogt angst."
+    ],
+    "importance": 4,
+    "type": "copingstrategie",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-003",
+    "term": {
+      "nl": "Aandachtgerichte coping",
+      "en": "Attention coping"
+    },
+    "definition": "Copingstijl waarbij de patiënt zo veel mogelijk informatie wil krijgen over de ziekte of procedure.",
+    "chapter": 10,
+    "additions": [
+      "Tegenpool van avoidance coping.",
+      "Informatiezoekende patiënten willen details weten: wat gaat er gebeuren, hoe lang duurt het, wat zijn de risico's?",
+      "Sluit aan bij informatieve controle (H5/H10): weten wat je te wachten staat verlaagt angst bij deze copingstijl.",
+      "Combinatie met gedragscontrole (oefeningen, ademhaling) en cognitieve controle (positieve herkadering) is het meest effectief."
+    ],
+    "importance": 4,
+    "type": "copingstrategie",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-005",
+    "term": {
+      "nl": "Burn-out",
+      "en": "Burnout"
+    },
+    "definition": "Toestand van psychosociale en fysieke uitputting bij zorgverleners die het gevolg is van chronische blootstelling aan hoge stressniveaus en weinig persoonlijke controle.",
+    "chapter": 10,
+    "additions": [
+      "Drie componenten (Maslach): (1) emotionele uitputting, (2) depersonalisatie (afstand van patiënten, onverschilligheid), (3) verminderd gevoel van bekwaamheid.",
+      "Oorzaken: hoge werkdruk, continu contact met lijdende mensen, interpersoonlijke conflicten, onvoldoende controle.",
+      "Gevolgen: meer ziekteverzuim, baanwisseling, verslaving, hogere kans op hart- en vaatziekten, slechtere patiëntenzorg (bv. meer ziekenhuisinfecties).",
+      "Aanpak: vrije tijd met ontspannende activiteiten, variatie in taken, steungroepen, stressmanagementtraining (H5).",
+      "Verpleegkundigen scoren lager op depersonalisatie (meer empathie); artsen voelen zich vaker professioneel succesvol."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-009",
+    "term": {
+      "nl": "Emotionele uitputting",
+      "en": "Emotional exhaustion"
+    },
+    "definition": "Het gevoel dat je 'het' niet meer aankunt en niet meer in staat bent om anderen psychologisch te ondersteunen — een van de drie componenten van burn-out (Maslach).",
+    "chapter": 10,
+    "additions": [
+      "Eerste en meest zichtbare component van burn-out: leeg en overbelast gevoel.",
+      "Meer directe patiëntenzorg = meer emotionele uitputting.",
+      "Onderscheid met de andere twee Maslach-componenten: depersonalisatie (onverschilligheid) en verminderd gevoel van bekwaamheid (laag zelfvertrouwen).",
+      "Kan overgaan in cynisme en afstandelijkheid als het niet wordt aangepakt."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": "fc-h10-005"
+  },
+  {
+    "id": "fc-h10-010",
+    "term": {
+      "nl": "Emotionele besmetting",
+      "en": "Emotional contagion"
+    },
+    "definition": "Onderling versterken van angst, bijvoorbeeld wanneer patiënten die bij elkaar op de kamer liggen in dezelfde fase van ziekte- of behandeling verkeren.",
+    "chapter": 10,
+    "additions": [
+      "Kamergenoten die wachten op dezelfde operatie kunnen elkaars angst opschroeven.",
+      "Omgekeerd: herstellende kamergenoten (operatie al ondergaan) verminderen angst en bevorderen herstel.",
+      "Klinische implicatie: kamerindeling beïnvloedt de emotionele aanpassing — meng wachtende en herstellende patiënten.",
+      "Verwant aan het mass psychogenic illness-concept uit H9, maar hier op kleinschalig kamerniveau."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-004",
+    "term": {
+      "nl": "Cortisolniveau",
+      "en": "Cortisol level"
+    },
+    "definition": "Niveau van het stresshormoon cortisol in het bloed, uitgescheiden door de bijnier (bijnierschors). Verhoogd cortisol is een fysiologische marker van stress.",
+    "chapter": 10,
+    "additions": [
+      "Onderdeel van de HPA-as (hypothalamus-hypofyse-bijnier, zie H3/H4): chronische stress → verhoogd cortisol → immuunsuppressie en andere gezondheidseffecten.",
+      "In H10 als objectieve maat voor de stress die ziekenhuisopname veroorzaakt.",
+      "Verlaagd door effectieve psychologische voorbereiding en stressmanagement.",
+      "Sluit aan bij de stressrespons van H3/H4: SAM-as (snel, adrenaline) vs. HPA-as (langzamer, cortisol)."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-015",
+    "term": {
+      "nl": "Lamaze-training",
+      "en": "Lamaze training"
+    },
+    "definition": "Methode om een patiënt psychisch voor te bereiden op een medische procedure — oorspronkelijk ontwikkeld als bevallingstraining, nu breder toegepast.",
+    "chapter": 10,
+    "additions": [
+      "Combineert informatieve, cognitieve en gedragsmatige voorbereiding: uitleg over wat te verwachten, ademhalingsoefeningen, ontspanningstechnieken.",
+      "Sluit aan bij de drie vormen van controle: informatieve controle (weten wat komt), gedragscontrole (ademhaling), cognitieve controle (focus op positieve aspecten).",
+      "Psychologische voorbereiding leidt aantoonbaar tot minder angst, sneller herstel, minder pijnmedicatie en kortere opname.",
+      "Expliciet kernwoord ('psychologische voorbereiding') in leerdoel 2 van H10."
+    ],
+    "importance": 5,
+    "type": "techniek",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-006",
+    "term": {
+      "nl": "Hartcatheterisatie",
+      "en": "Cardiac catheterization"
+    },
+    "definition": "Met behulp van een hartcatheter wordt een vernauwing in de kransslagader opgerekt — ook wel dotterbehandeling genoemd.",
+    "chapter": 10,
+    "additions": [
+      "Voorbeeld in H10 van een niet-chirurgische procedure die angst kan veroorzaken.",
+      "Combinatie van cognitieve, gedrags- en informatieve training verlaagt angst bij deze procedure.",
+      "Sluit aan bij H14 (hart- en vaatziekten): behandeling van atherosclerose en coronaire hartziekte."
+    ],
+    "importance": 3,
+    "type": "procedure",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-012",
+    "term": {
+      "nl": "Endoscopie",
+      "en": "Endoscopy"
+    },
+    "definition": "Onderzoek naar inwendige organen met een optisch instrument (endoscoop).",
+    "chapter": 10,
+    "additions": [
+      "Voorbeeld in H10 van een niet-chirurgische procedure die angst en ongemak (kokhalzen) kan veroorzaken.",
+      "Psychologische voorbereiding (informatie + ontspanningstechnieken) vermindert aantoonbaar angst en fysiologische reacties.",
+      "Illustreert dat voorbereiding niet alleen bij operaties effectief is, maar bij alle invasieve procedures."
+    ],
+    "importance": 3,
+    "type": "procedure",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-013",
+    "term": {
+      "nl": "Algehele narcose",
+      "en": "Full anesthesia"
+    },
+    "definition": "De patiënt wordt volledig buiten bewustzijn gebracht voor een operatie.",
+    "chapter": 10,
+    "additions": [
+      "Opvallend: patiënten onder volledige narcose kunnen nog steeds algemene informatie waarnemen.",
+      "Positieve suggesties tijdens de operatie ('U herstelt goed') kunnen het herstel versnellen — minder complicaties en snellere genezing.",
+      "Dit benadrukt de rol van psychosociale factoren, zelfs wanneer bewust denken uitgeschakeld lijkt."
+    ],
+    "importance": 3,
+    "type": "procedure",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-014",
+    "term": {
+      "nl": "Ischemie",
+      "en": "Ischemia"
+    },
+    "definition": "Plaatselijke bloedeloosheid door belemmering van de bloedtoevoer, bijvoorbeeld door een embolie (bloedprop) of atherosclerotische plaque.",
+    "chapter": 10,
+    "additions": [
+      "In H10 genoemd bij hartcatheterisatie; in H14 centraal bij hartziekten (myocardischemie → angina pectoris → hartinfarct).",
+      "Mechanisme: verminderde bloedtoevoer → zuurstoftekort in weefsel → weefselbeschadiging of -afsterving.",
+      "Ook relevant in H2 (cardiovasculair systeem) en H11 (ischemie als bron van pijn)."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-016",
+    "term": {
+      "nl": "Euthanasieverklaring / wilsverklaring",
+      "en": "Living will"
+    },
+    "definition": "Document waarin een persoon vooraf vastlegt welke medische behandelingen wel of niet gewenst zijn in geval van terminale ziekte of wilsonbekwaamheid.",
+    "chapter": 10,
+    "additions": [
+      "Wordt behandeld in de paragraaf 'When the illness is terminal' (studietaak 5.3).",
+      "Geeft de patiënt controle over het stervensproces — een vorm van informatieve en gedragscontrole.",
+      "In Nederland geregeld via de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.",
+      "Verwant aan palliatieve zorg: beide gericht op waardigheid en kwaliteit van leven bij terminale ziekte."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-019",
+    "term": {
+      "nl": "Palliatief",
+      "en": "Palliative"
+    },
+    "definition": "Behandeling die niet meer gericht is op genezing maar op het draaglijk maken van ziekte en sterven — kwaliteit van leven staat centraal.",
+    "chapter": 10,
+    "additions": [
+      "Focus: pijnbestrijding, symptoomcontrole, psychologische en spirituele ondersteuning.",
+      "Wordt ingezet bij terminale aandoeningen wanneer curatieve behandeling niet meer mogelijk is.",
+      "Onderdeel van tertiaire preventie (H6): beperken van negatieve gevolgen van een bestaande aandoening.",
+      "Palliatieve zorg is teamwerk: artsen, verpleegkundigen, psychologen, maatschappelijk werkers en geestelijk verzorgers."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-018",
+    "term": {
+      "nl": "Ziekenhuisinfectie",
+      "en": "Nosocomial infection"
+    },
+    "definition": "Ziekte of infectie die de patiënt oploopt tijdens zijn verblijf in het ziekenhuis.",
+    "chapter": 10,
+    "additions": [
+      "Risico neemt toe bij hoge verpleegkundige burn-out: overwerkt personeel maakt meer hygiënefouten.",
+      "Voorbeelden: MRSA, Clostridium difficile, urineweginfecties door katheter.",
+      "Illustreert hoe de psychosociale toestand van het personeel (burn-out) de patiëntuitkomst beïnvloedt — een indirecte biopsychosociale keten.",
+      "Verwant aan iatrogene aandoeningen (H9): beide zijn onbedoelde gezondheidsschade door de zorgsetting."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-023",
+    "term": {
+      "nl": "Psychogeen",
+      "en": "Psychogenic"
+    },
+    "definition": "Van psychische oorsprong — klachten die niet door een lichamelijke oorzaak worden verklaard maar door psychologische factoren.",
+    "chapter": 10,
+    "additions": [
+      "Voorbeelden: psychogene pijn (H11), conversiestoornissen, functionele klachten.",
+      "In H10 relevant bij de vraag of klachten van patiënten een somatische of psychologische oorsprong hebben.",
+      "Het biopsychosociale model (H1) erkent dat psychogene en somatische oorzaken vaak samenwerken.",
+      "Verwant aan mass psychogenic illness (H9)."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-025",
+    "term": {
+      "nl": "Waakzaam / nauwlettend",
+      "en": "Vigilant"
+    },
+    "definition": "Waakzaam, nauwlettend — een staat van verhoogde alertheid en oplettendheid.",
+    "chapter": 10,
+    "additions": [
+      "In H10 gerelateerd aan de attention coping-stijl: waakzame patiënten zoeken actief informatie en volgen alles nauwlettend.",
+      "Tegenovergestelde van vermijdende (avoidance) copingstijl.",
+      "Een woordenlijstterm zonder diepere conceptuele lading; kennis van de Engelse term volstaat."
+    ],
+    "importance": 2,
+    "type": "begrip",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-017",
+    "term": {
+      "nl": "MBMD (Millon Behavioral Medicine Diagnostic)",
+      "en": "Millon Behavioral Medicine Diagnostic (MBMD)"
+    },
+    "definition": "Test voor het meten van de reactie van de patiënt op de ziekte en het voorspellen van moeilijkheden tijdens de behandeling.",
+    "chapter": 10,
+    "additions": [
+      "Meet psychiatrische symptomen, copingstijlen, stressmoderatoren en behandelprognose.",
+      "Specifiek ontworpen voor medische populaties, in tegenstelling tot de MMPI die een algemene persoonlijkheidstest is.",
+      "Onderdeel van de psychologische screening bij ziekenhuisopname.",
+      "Onderscheid met PAIS: MBMD meet voorspellers van behandeluitkomst, PAIS meet psychosociale aanpassing áán de ziekte."
+    ],
+    "importance": 3,
+    "type": "meetinstrument",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-024",
+    "term": {
+      "nl": "MMPI (Minnesota Multiphasic Personality Inventory)",
+      "en": "Minnesota Multiphasic Personality Inventory (MMPI)"
+    },
+    "definition": "Persoonlijkheidstest met tien schalen, waarvan drie schalen relevant zijn voor het bieden van psychologische hulp aan medische patiënten.",
+    "chapter": 10,
+    "additions": [
+      "De drie relevante schalen meten hypochondrie, depressie en hysterie.",
+      "Oorspronkelijk ontworpen als psychiatrisch screeningsinstrument; in H10 toegepast op medische populaties.",
+      "Onderscheid met MBMD: MMPI is een brede persoonlijkheidstest, MBMD is specifiek voor medische settings."
+    ],
+    "importance": 3,
+    "type": "meetinstrument",
+    "aggregate": null
+  },
+  {
+    "id": "fc-h10-026",
+    "term": {
+      "nl": "PAIS (Psychosocial Adjustment to Illness Scale)",
+      "en": "Psychosocial Adjustment to Illness Scale (PAIS)"
+    },
+    "definition": "Test die zeven verschillende psychosociale kenmerken van het leven van de patiënt meet die verband houden met de aanpassing aan een ziekte.",
+    "chapter": 10,
+    "additions": [
+      "De zeven domeinen: gezondheidszorgoriëntatie, beroepsomgeving, thuisomgeving, seksuele relaties, uitgebreide familierelaties, sociale omgeving en psychologisch functioneren.",
+      "Meet hoe goed de patiënt zich aanpast aan de ziekte — niet de ziekte zelf.",
+      "Onderscheid met MBMD: PAIS meet psychosociale aanpassing, MBMD voorspelt behandeluitkomst."
+    ],
+    "importance": 3,
+    "type": "meetinstrument",
+    "aggregate": null
+  }
+]
