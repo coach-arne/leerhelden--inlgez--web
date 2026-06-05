@@ -1,9 +1,14 @@
 import type { ChapterSelection, SourceSelection, TypeSelection } from '@/types/flashcard'
 
+export function getChapterLabels(chapters: ChapterSelection): string[] {
+  if (chapters.length === 0) return ['Alle hoofdstukken']
+  return [...chapters]
+    .sort((a, b) => a - b)
+    .map((c) => `Hoofdstuk ${c}`)
+}
+
 export function formatChaptersLabel(chapters: ChapterSelection): string {
-  if (chapters.length === 0) return 'Alle hoofdstukken'
-  const sorted = [...chapters].sort((a, b) => a - b)
-  return sorted.map((c) => `Hoofdstuk ${c}`).join(', ')
+  return getChapterLabels(chapters).join(', ')
 }
 
 export function formatTypesLabel(types: TypeSelection): string {

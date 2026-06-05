@@ -38,7 +38,11 @@ import {
   setupTypeAtom,
   termLanguageAtom,
 } from '@/modules/flashcards/atoms'
-import { formatChaptersLabel, formatSourcesLabel, formatTypesLabel } from '@/modules/flashcards/formatLabels'
+import {
+  formatSourcesLabel,
+  formatTypesLabel,
+  getChapterLabels,
+} from '@/modules/flashcards/formatLabels'
 import { loadFlashcardResults } from '@/modules/flashcards/flashcardStorage'
 import { cn } from '@/lib/utils'
 
@@ -262,7 +266,11 @@ export function FlashcardsSetupPage() {
                   })}
                 </span>
                 <span className="flex flex-wrap items-center gap-2">
-                  <Badge variant="secondary">{formatChaptersLabel(h.chapters)}</Badge>
+                  {getChapterLabels(h.chapters).map((label, i) => (
+                    <Badge key={`${h.id}-ch-${i}`} variant="secondary">
+                      {label}
+                    </Badge>
+                  ))}
                   <Badge variant="outline">{formatTypesLabel(h.types)}</Badge>
                   {h.sources.length > 0 && (
                     <Badge variant="outline">{formatSourcesLabel(h.sources)}</Badge>
