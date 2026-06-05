@@ -1,7 +1,9 @@
 import { useEffect } from 'react'
-import { EditorContent, useEditor } from '@tiptap/react'
+import CodeBlock from '@tiptap/extension-code-block'
+import { EditorContent, ReactNodeViewRenderer, useEditor } from '@tiptap/react'
 import StarterKit from '@tiptap/starter-kit'
 
+import { CodeBlockNodeView } from '@/components/CodeBlockNodeView'
 import type { TiptapDoc } from '@/types/compendium'
 import { cn } from '@/lib/utils'
 
@@ -14,7 +16,14 @@ export function RichTextViewer({ doc, className }: RichTextViewerProps) {
   const editor = useEditor({
     editable: false,
     content: doc,
-    extensions: [StarterKit],
+    extensions: [
+      StarterKit.configure({ codeBlock: false }),
+      CodeBlock.extend({
+        addNodeView() {
+          return ReactNodeViewRenderer(CodeBlockNodeView)
+        },
+      }),
+    ],
     immediatelyRender: false,
   })
 

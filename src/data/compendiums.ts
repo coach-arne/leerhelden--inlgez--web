@@ -26,7 +26,7 @@ const SOURCE_ENTRIES: SourceEntry[] = [
     items: pathologyRaw as RawCompendiumEntry[],
   },
   {
-    compendium: 'health_psychology_models',
+    compendium: 'modellen',
     label: 'Gezondheidspsychologie modellen',
     description: 'Modellen in de gezondheidspsychologie.',
     items: healthPsychologyModelsRaw as RawCompendiumEntry[],
