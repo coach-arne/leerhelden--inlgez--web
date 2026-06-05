@@ -1,0 +1,2972 @@
+[
+  {
+    "nameNL": "Biomedisch model",
+    "nameEN": "Biomedical model",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 1 · H1 · pp. 1–18"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het biomedisch model verklaart ziekte en gezondheid vooral vanuit lichamelijke processen: pathogenen, genetica, weefselschade, fysiologische ontregeling en medische afwijkingen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De kernlogica is lineair: een biologische oorzaak veroorzaakt een lichamelijke stoornis, die via diagnose en behandeling medisch kan worden aangepakt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model was historisch dominant en blijft belangrijk voor acute en somatische aandoeningen, maar is onvolledig omdat gedrag, betekenisgeving, stress, omgeving en sociale context buiten beeld blijven."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: onthoud vooral de beperking. Het biomedisch model is niet fout, maar te smal voor gezondheidspsychologie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Typische denkfout: ziekte gelijkstellen aan enkel biologische schade, terwijl herstel, therapietrouw en preventie vaak psychologisch en sociaal beïnvloed worden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Biologische oorzaak\"] --> B[\"Lichamelijke stoornis\"]\n  B --> C[\"Symptomen\"]\n  C --> D[\"Medische diagnose\"]\n  D --> E[\"Medische behandeling\"]\n  E --> F[\"Herstel of symptoomvermindering\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "1fa290af-8542-56fe-a1d1-870628d61720"
+  },
+  {
+    "nameNL": "Biopsychosociaal model (Engel, 1977)",
+    "nameEN": "Biopsychosocial model (Engel, 1977)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 1 · H1 · pp. 1–18"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het biopsychosociaal model verklaart gezondheid en ziekte vanuit de voortdurende interactie tussen biologische, psychologische en sociale factoren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Biologische factoren omvatten bijvoorbeeld genetica, infectie, fysiologie en pijn. Psychologische factoren omvatten cognities, emoties, coping, motivatie en gedrag. Sociale factoren omvatten steun, cultuur, gezin, werk en zorgcontext."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dit is het leidende paradigma in de gezondheidspsychologie, omdat het zowel ontstaan, verloop, beleving, behandeling als preventie van ziekte breder kan verklaren."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: gebruik dit model als kapstok. Veel andere modellen in het vak zijn eigenlijk uitwerkingen van één deel van dit bredere biopsychosociale perspectief."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijk verschil met het biomedisch model: ziekte is niet alleen een defect in het lichaam, maar een proces waarin lichaam, persoon en context elkaar beïnvloeden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  B[\"Biologisch\nlichaam, genetica, fysiologie\"] --> G[\"Gezondheid en ziekte\"]\n  P[\"Psychologisch\ncognities, emoties, gedrag\"] --> G\n  S[\"Sociaal\nsteun, cultuur, omgeving\"] --> G\n  G --> B\n  G --> P\n  G --> S"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "2ee54512-381e-5090-a49a-4d7897f19936"
+  },
+  {
+    "nameNL": "Illness-wellness continuüm (Antonovsky)",
+    "nameEN": "Illness-wellness continuum (Antonovsky)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 1 · H1 · p. 3, fig. 1-1"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het illness-wellness continuüm ziet gezondheid en ziekte niet als twee aparte categorieën, maar als uitersten van een doorlopende schaal."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Iemand kan dus niet simpelweg in de categorie 'gezond' of 'ziek' worden geplaatst. Mensen kunnen tegelijk klachten hebben en toch relatief goed functioneren, of geen diagnose hebben maar weinig welzijn ervaren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model past bij een salutogene benadering: niet alleen vragen waarom mensen ziek worden, maar ook wat hen richting welzijn, veerkracht en functioneren beweegt."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: dit model helpt om het verschil tussen afwezigheid van ziekte en aanwezigheid van welzijn te onthouden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het is vooral een conceptueel model: het maakt zichtbaar dat gezondheid gradueel en dynamisch is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Ernstige ziekte\nlaag functioneren\"] --> B[\"Klachten of risico\"]\n  B --> C[\"Neutraal gebied\"]\n  C --> D[\"Goed functioneren\"]\n  D --> E[\"Optimaal welzijn\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "230e19d2-05cb-53e3-a351-293ee929904c"
+  },
+  {
+    "nameNL": "Interventiecyclus",
+    "nameEN": "Intervention cycle",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 1 · H1 · extra stof"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De interventiecyclus is een systematische manier om gezondheidspsychologische problemen aan te pakken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De cyclus verloopt via diagnose, voorbereiding, implementatie en evaluatie. Eerst breng je het probleem, de doelgroep en determinanten in kaart; daarna kies en plan je een interventie; vervolgens voer je die uit; ten slotte evalueer je effect en proces."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De cyclus is iteratief: evaluatie kan leiden tot bijsturing, een nieuwe diagnose of een aangepaste interventie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: koppel dit aan casussen. Je moet kunnen herkennen in welke fase een onderzoeker of hulpverlener zich bevindt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijk: een interventie zonder diagnose is blind; een interventie zonder evaluatie leert niets bij."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Diagnose\nprobleem en determinanten\"] --> B[\"Voorbereiding\ndoelen en methode\"]\n  B --> C[\"Implementatie\nuitvoering\"]\n  C --> D[\"Evaluatie\neffect en proces\"]\n  D --> A"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "458463e2-2944-55ac-8686-4c7c60273f8c"
+  },
+  {
+    "nameNL": "Transactioneel stressmodel (Lazarus)",
+    "nameEN": "Transactional model of stress (Lazarus)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H3 · pp. 57–81"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het transactioneel stressmodel ziet stress als een proces tussen persoon en omgeving, niet als een stimulus alleen en ook niet als een reactie alleen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Centraal staat cognitieve appraisal. Bij primaire appraisal beoordeelt iemand of een situatie irrelevant, positief, bedreigend, schadelijk/verliesgericht of uitdagend is. Bij secundaire appraisal beoordeelt iemand welke middelen, controle en copingmogelijkheden beschikbaar zijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stress ontstaat vooral wanneer de ervaren eisen groter lijken dan de ervaren hulpbronnen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: stress zit in de transactie: dezelfde gebeurtenis kan voor de ene persoon bedreigend zijn en voor de andere een uitdaging."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onthoud het verschil: primaire appraisal gaat over 'wat betekent dit?', secundaire appraisal over 'wat kan ik eraan doen?'."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Gebeurtenis of stressor\"] --> B[\"Primaire appraisal\nbedreiging, schade, uitdaging\"]\n  B --> C[\"Secundaire appraisal\nmiddelen en controle\"]\n  C --> D{\"Eisen > middelen?\"}\n  D -- \"ja\" --> E[\"Stressreactie\"]\n  D -- \"nee\" --> F[\"Hanteerbare uitdaging\"]\n  E --> G[\"Coping\"]\n  F --> G\n  G --> B"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "a01afbd6-8573-58fe-8b81-832403c91009"
+  },
+  {
+    "nameNL": "General Adaptation Syndrome (GAS) (Selye)",
+    "nameEN": "General Adaptation Syndrome (GAS) (Selye)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H3 · pp. 57–81"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het General Adaptation Syndrome beschrijft een algemene fysiologische stressrespons in drie fasen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In de alarmfase wordt het lichaam geactiveerd voor fight-or-flight. In de weerstandsfase probeert het lichaam langdurig met de stressor om te gaan. Als de stress te lang blijft duren, kan de uitputtingsfase ontstaan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model benadrukt de lichamelijke kost van langdurige stress, maar is minder gericht op individuele interpretatie dan het transactioneel stressmodel."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: GAS is vooral fysiologisch en fasegericht; Lazarus is vooral appraisal- en betekenisgericht."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De uitputtingsfase is relevant voor gezondheidspsychologie omdat chronische stress dan kan bijdragen aan ziekte en herstelproblemen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Stressor\"] --> B[\"Alarmfase\nfight-or-flight\"]\n  B --> C[\"Weerstandsfase\nadaptatie en volhouden\"]\n  C --> D{\"Stressor blijft?\"}\n  D -- \"nee\" --> E[\"Herstel\"]\n  D -- \"ja\" --> F[\"Uitputtingsfase\nslijtage en kwetsbaarheid\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "af09b579-a3c5-59b4-8e50-f24f3de36208"
+  },
+  {
+    "nameNL": "Allostatische belasting",
+    "nameEN": "Allostatic load",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H3 · pp. 57–81"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Allostatische belasting verwijst naar de cumulatieve fysiologische slijtage die ontstaat door herhaalde of langdurige stressreacties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Allostase betekent dat het lichaam stabiliteit probeert te bereiken door verandering: hartslag, cortisol, bloeddruk en immuunactiviteit passen zich aan de eisen van de situatie aan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belasting ontstaat vooral wanneer stressreacties te vaak optreden, te sterk zijn, te lang duren of onvoldoende herstellen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: allostatische belasting is geen éénmalige stressreactie, maar de opgetelde prijs van herhaalde activatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Denk aan het verschil tussen een alarm dat kort afgaat en een alarmsysteem dat maandenlang blijft loeien."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Herhaalde stressoren\"] --> B[\"Fysiologische activatie\nHPA-as, sympathisch systeem\"]\n  B --> C{\"Voldoende herstel?\"}\n  C -- \"ja\" --> D[\"Adaptatie zonder grote schade\"]\n  C -- \"nee\" --> E[\"Allostatische belasting\"]\n  E --> F[\"Slijtage\nbloeddruk, immuniteit, metabolisme\"]\n  F --> G[\"Grotere ziektekans\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "e13c3753-5f25-5f5e-9798-35f8db5563fb"
+  },
+  {
+    "nameNL": "Bufferhypothese (sociale steun)",
+    "nameEN": "Buffering hypothesis of social support",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De bufferhypothese stelt dat sociale steun vooral beschermt wanneer iemand veel stress ervaart."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Steun werkt dan als buffer tussen stressor en negatieve gezondheidsuitkomsten. Ze kan stress minder bedreigend maken, coping ondersteunen of emotionele belasting verminderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bij lage stress is het beschermende effect volgens deze hypothese kleiner of minder zichtbaar."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: het sleutelwoord is 'interactie'. Sociale steun verandert vooral het verband tussen hoge stress en gezondheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vergelijk dit met de directe-effecthypothese: daar werkt steun altijd, ook zonder hoge stress."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Hoge stress\"] --> B[\"Risico op negatieve gezondheidseffecten\"]\n  S[\"Sociale steun\"] -. \"buffer\" .-> B\n  S --> C[\"Betere appraisal en coping\"]\n  C -. \"verzwakt stress-effect\" .-> B"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "d655d2b3-a645-50c7-8d60-2451a1511370"
+  },
+  {
+    "nameNL": "Directe-effecthypothese (sociale steun)",
+    "nameEN": "Main-effect hypothesis of social support",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De directe-effecthypothese stelt dat sociale steun gezondheid bevordert ongeacht het actuele stressniveau."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Steun kan bijvoorbeeld zorgen voor verbondenheid, betere stemming, praktische hulp, gezondere normen en stimulering van gezonde leefstijl."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het effect loopt dus niet alleen via bescherming tegen stress, maar ook via algemene positieve invloed op gedrag en welzijn."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: direct effect betekent dat sociale steun ook gunstig is als er geen duidelijke stressor aanwezig is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dit model past goed bij preventie: sociale netwerken kunnen gezondheid ondersteunen vóór er problemen ontstaan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  S[\"Sociale steun\"] --> A[\"Verbondenheid en welzijn\"]\n  S --> B[\"Gezonde normen en leefstijl\"]\n  S --> C[\"Praktische hulp\"]\n  A --> G[\"Betere gezondheid\"]\n  B --> G\n  C --> G\n  X[\"Stressniveau\"] -. \"niet noodzakelijk\" .-> G"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "726ac781-6042-57e1-a711-ea86e9957f2a"
+  },
+  {
+    "nameNL": "Stresspreventiemodel (sociale steun)",
+    "nameEN": "Stress-prevention model of social support",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het stresspreventiemodel stelt dat sociale steun helpt om stressvolle situaties te vermijden, te voorkomen of kleiner te maken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Steun werkt dan vóór de stressreactie volledig ontstaat. Andere mensen kunnen waarschuwen, praktisch helpen, problemen mee oplossen of toegang geven tot hulpbronnen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De focus ligt dus op het verminderen van blootstelling aan stressoren of het minimaliseren van hun impact."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: buffer = beschermt tijdens hoge stress; preventie = voorkomt of verkleint stressoren op voorhand."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model maakt duidelijk dat steun niet alleen emotioneel is, maar ook informatief en instrumenteel."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  S[\"Sociale steun\"] --> A[\"Informatie en advies\"]\n  S --> B[\"Praktische hulp\"]\n  S --> C[\"Problemen vroeg signaleren\"]\n  A --> D[\"Stressoren vermijden of verkleinen\"]\n  B --> D\n  C --> D\n  D --> E[\"Lagere stressbelasting\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "ef829c33-22be-5275-9337-d29ae563e60a"
+  },
+  {
+    "nameNL": "Locus of control (Rotter)",
+    "nameEN": "Locus of control (Rotter)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Locus of control verwijst naar de mate waarin iemand uitkomsten ziet als gevolg van eigen handelen of van externe krachten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bij een interne locus gelooft iemand dat eigen gedrag invloed heeft op uitkomsten. Bij een externe locus worden uitkomsten eerder toegeschreven aan toeval, lot, machtige anderen of omstandigheden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dit beïnvloedt gezondheidsgedrag, therapietrouw en stressreacties, omdat controleverwachtingen bepalen of mensen actief handelen of eerder passief blijven."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: locus of control gaat over controleverwachting, niet over daadwerkelijke controle."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een interne locus is vaak gunstig, maar kan ook belastend worden wanneer iemand zichzelf verantwoordelijk voelt voor iets wat niet controleerbaar is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Gezondheidsuitkomst\"] --> B{\"Waaraan schrijf ik dit toe?\"}\n  B -- \"Eigen gedrag\" --> C[\"Interne locus of control\"]\n  B -- \"Toeval, lot of anderen\" --> D[\"Externe locus of control\"]\n  C --> E[\"Meer actieve coping en gedrag\"]\n  D --> F[\"Meer passiviteit of afhankelijkheid\"]\n  E --> G[\"Invloed op stress en gezondheid\"]\n  F --> G"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "680c31de-0e29-5794-9df8-97f3c747b7f2"
+  },
+  {
+    "nameNL": "Learned helplessness (Seligman, 1975)",
+    "nameEN": "Learned helplessness (Seligman, 1975)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Learned helplessness ontstaat wanneer iemand herhaaldelijk ervaart dat inspanning geen verschil maakt in oncontroleerbare situaties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Daardoor kan de verwachting ontstaan dat toekomstige pogingen ook nutteloos zijn. Dit leidt tot passiviteit, lagere motivatie, stress en kwetsbaarheid voor depressieve reacties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De attributiestijl bepaalt de kwetsbaarheid: intern, stabiel en globaal toeschrijven maakt hulpeloosheid hardnekkiger dan extern, tijdelijk en specifiek toeschrijven."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: let op de drie attributiedimensies: intern versus extern, stabiel versus tijdelijk, globaal versus specifiek."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model is belangrijk omdat het verklaart waarom mensen soms niet handelen, zelfs wanneer er objectief wél mogelijkheden zijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Herhaalde oncontroleerbare situaties\"] --> B[\"Verwachting: mijn gedrag helpt niet\"]\n  B --> C[\"Aangeleerde hulpeloosheid\"]\n  C --> D[\"Passiviteit en lagere motivatie\"]\n  C --> E[\"Stress en depressieve kwetsbaarheid\"]\n  F[\"Attributiestijl\nintern, stabiel, globaal\"] --> C"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "4892e5cf-5092-5e5c-bd40-e0879626da24"
+  },
+  {
+    "nameNL": "Hardiness (Kobasa)",
+    "nameEN": "Hardiness (Kobasa)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hardiness is een persoonlijkheidskenmerk dat bescherming biedt tegen negatieve effecten van stress."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het bestaat uit drie componenten: controle, commitment en challenge. Controle is het gevoel invloed te kunnen uitoefenen; commitment is betrokkenheid bij leven en doelen; challenge is stressoren zien als uitdaging en groeikans."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hardiness beïnvloedt appraisal en coping: stressvolle situaties worden minder snel als puur bedreigend geïnterpreteerd."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: onthoud de drie C's: Control, Commitment, Challenge."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hardiness lijkt op veerkracht, maar in de cursus wordt het concreet gekoppeld aan deze drie persoonlijkheidscomponenten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  C1[\"Controle\"] --> H[\"Hardiness\"]\n  C2[\"Commitment\nbetrokkenheid\"] --> H\n  C3[\"Challenge\nuitdaging\"] --> H\n  H --> A[\"Stressoren als hanteerbaar zien\"]\n  A --> B[\"Actievere coping\"]\n  B --> G[\"Minder negatieve stresseffecten\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "a56926f5-2171-5bcd-9dec-aa3ea18e060a"
+  },
+  {
+    "nameNL": "Sense of Coherence (Antonovsky)",
+    "nameEN": "Sense of coherence (Antonovsky)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sense of Coherence is het gevoel dat de wereld begrijpelijk, beheersbaar en betekenisvol is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Begrijpelijkheid betekent dat gebeurtenissen voorspelbaar of te begrijpen zijn. Beheersbaarheid betekent dat hulpbronnen beschikbaar lijken. Betekenisvolheid betekent dat uitdagingen de moeite waard zijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een sterke sense of coherence hangt samen met minder stress en betere gezondheidsuitkomsten, omdat mensen stressoren coherenter kunnen plaatsen en aanpakken."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: dit model past bij Antonovsky's salutogenese: focus op bronnen van gezondheid in plaats van enkel oorzaken van ziekte."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vergelijk met hardiness: beide zijn beschermend, maar Sense of Coherence gaat meer over globale oriëntatie op de wereld."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Begrijpelijkheid\"] --> S[\"Sense of Coherence\"]\n  B[\"Beheersbaarheid\"] --> S\n  C[\"Betekenisvolheid\"] --> S\n  S --> D[\"Stressoren worden coherent geplaatst\"]\n  D --> E[\"Effectievere coping\"]\n  E --> F[\"Minder stress en betere gezondheid\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "54278139-d672-5c4a-902b-a7dbd22a1f7f"
+  },
+  {
+    "nameNL": "Type A/B gedragspatroon (Friedman & Rosenman)",
+    "nameEN": "Type A/B behavior pattern (Friedman & Rosenman)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Type A/B gedragspatroon onderscheidt een gejaagde, competitieve stijl van een meer ontspannen stijl."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Type A wordt gekenmerkt door competitiviteit, tijdsdruk, ongeduld en vijandigheid. Vooral boosheid en hostiliteit worden gezien als de gevaarlijke component voor coronaire hartziekte."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Type B wordt gekenmerkt door meer geduld, ontspanning en minder competitieve urgentie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: niet elk Type A-kenmerk is even belangrijk. Hostiliteit en boosheid zijn de kern voor gezondheidsrisico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dit model toont hoe persoonlijkheid en emotionele stijl via stressreacties en gedrag lichamelijke ziekte kunnen beïnvloeden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Type A\ncompetitief, tijdsdruk, hostiliteit\"] --> B[\"Sterkere stressreacties\"]\n  B --> C[\"Meer cardiovasculaire belasting\"]\n  C --> D[\"Verhoogd risico op CHD\"]\n  E[\"Type B\nrustiger en geduldiger\"] --> F[\"Lagere gedragsmatige urgentie\"]\n  F --> G[\"Relatief lager risico\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "ea0e2efc-42a7-5bcd-8561-bc4c03db43bc"
+  },
+  {
+    "nameNL": "Big Five persoonlijkheidsmodel",
+    "nameEN": "Big Five personality model",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Big Five-model beschrijft persoonlijkheid via vijf brede trekken: openheid, consciëntieusheid, extraversie, vriendelijkheid en emotionele stabiliteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Voor gezondheid zijn vooral consciëntieusheid en emotionele stabiliteit relevant. Hoge consciëntieusheid hangt vaak samen met gezonder gedrag en betere therapietrouw. Lage emotionele stabiliteit, of hoog neuroticisme, hangt vaker samen met stress en negatieve emoties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model verklaart geen ziekte op zichzelf, maar helpt begrijpen waarom mensen verschillen in gedrag, stressreacties en gezondheidsrisico."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: ken de vijf trekken, maar onthoud vooral de gezondheidslink: hoge consciëntieusheid en laag neuroticisme zijn meestal gunstig."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Big Five-model is beschrijvend: het ordent persoonlijkheidsverschillen, maar zegt minder direct hoe verandering gebeurt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  O[\"Openheid\"] --> P[\"Persoonlijkheidsprofiel\"]\n  C[\"Consciëntieusheid\"] --> P\n  E[\"Extraversie\"] --> P\n  V[\"Vriendelijkheid\"] --> P\n  ES[\"Emotionele stabiliteit\"] --> P\n  P --> G[\"Gezondheidsgedrag en stressregulatie\"]\n  G --> H[\"Gezondheidsuitkomsten\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "66ac777f-7e14-5c6b-a560-105daf24e33c"
+  },
+  {
+    "nameNL": "Psychoneuro-immunologie (PNI)",
+    "nameEN": "Psychoneuroimmunology (PNI)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H4 · pp. 82–111"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Psychoneuro-immunologie onderzoekt de interactie tussen psychologische processen, het zenuwstelsel, het endocriene systeem en het immuunsysteem."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stress en emoties kunnen via neurale en hormonale routes de immuunfunctie beïnvloeden. Chronische stress kan bijvoorbeeld bijdragen aan immunosuppressie of ontregeling van immuunprocessen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "PNI is belangrijk omdat het een biologisch mechanisme biedt waarmee psychologische factoren lichamelijke kwetsbaarheid kunnen beïnvloeden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: PNI verbindt psyche, zenuwstelsel en immuniteit. Het is dus een kernvoorbeeld van biopsychosociaal denken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Let op: het betekent niet simpelweg 'stress veroorzaakt elke ziekte', maar wel dat stress het afweersysteem kan moduleren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  P[\"Psychologische factoren\nstress, emoties, coping\"] --> N[\"Zenuwstelsel\"]\n  P --> E[\"Endocrien systeem\nhormonen\"]\n  N --> I[\"Immuunsysteem\"]\n  E --> I\n  I --> Z[\"Kwetsbaarheid voor ziekte of herstel\"]\n  Z --> P"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "b58cf52e-6d97-59d3-971f-a76cb2c9e817"
+  },
+  {
+    "nameNL": "Coping: emotie- vs. probleemgericht (Lazarus & Folkman)",
+    "nameEN": "Emotion-focused and problem-focused coping (Lazarus & Folkman)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 2 · H5 · pp. 112–134"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Coping verwijst naar cognitieve en gedragsmatige pogingen om met stressvolle eisen om te gaan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Probleemgerichte coping probeert de situatie zelf te veranderen, bijvoorbeeld door plannen, informatie zoeken of actie ondernemen. Emotiegerichte coping probeert vooral de emotionele reactie te reguleren, bijvoorbeeld via afleiding, acceptatie, herinterpretatie of ontkenning."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Er is geen universeel beste strategie. De passendheid hangt af van controleerbaarheid, timing, doelen en context."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: probleemgerichte coping is vaak nuttig bij controleerbare problemen; emotiegerichte coping kan nuttig zijn bij oncontroleerbare of acute emotionele belasting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vermijd de simplificatie dat emotiegerichte coping altijd slecht is. Ontkenning kan soms tijdelijk beschermen, maar problematisch worden als het hulp zoeken verhindert."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Stressor\"] --> B[\"Appraisal van controleerbaarheid\"]\n  B -- \"Controleerbaar\" --> C[\"Probleemgerichte coping\nsituatie aanpakken\"]\n  B -- \"Moeilijk controleerbaar\" --> D[\"Emotiegerichte coping\nemoties reguleren\"]\n  C --> E[\"Uitkomst afhankelijk van context\"]\n  D --> E\n  E --> B"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "9507dbcd-6473-5e5a-b7ea-335bfed4234e"
+  },
+  {
+    "nameNL": "Health Belief Model (HBM)",
+    "nameEN": "Health Belief Model (HBM)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 3 · H6 · pp. 135–166"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Health Belief Model verklaart preventief gezondheidsgedrag vanuit overtuigingen over dreiging, kosten en baten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ervaren dreiging bestaat uit ervaren ernst en ervaren vatbaarheid. Daarnaast wegen mensen ervaren voordelen af tegen ervaren barrières. Cues to action kunnen gedrag activeren en self-efficacy bepaalt of iemand denkt het gedrag te kunnen uitvoeren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een beperking is dat constructen soms vaag gemeten worden en dat gewoonten, emoties en sociale invloeden minder centraal staan."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: HBM is sterk bij preventief gedrag, zoals screening, vaccinatie of beschermend gedrag."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onthoud de formule in woorden: ik handel vooral als ik me kwetsbaar voel voor iets ernstigs, de voordelen groter lijken dan de barrières, ik een cue krijg en geloof dat ik het kan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Ervaren ernst\"] --> T[\"Ervaren dreiging\"]\n  B[\"Ervaren vatbaarheid\"] --> T\n  C[\"Ervaren voordelen\"] --> W[\"Kosten-batenafweging\"]\n  D[\"Ervaren barrières\"] --> W\n  T --> I[\"Intentie of actiebereidheid\"]\n  W --> I\n  E[\"Cues to action\"] --> I\n  F[\"Self-efficacy\"] --> I\n  I --> G[\"Preventief gezondheidsgedrag\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "71511c89-9116-5bc4-8bf4-026c58fce4f9"
+  },
+  {
+    "nameNL": "Theorie van Gepland Gedrag (Ajzen)",
+    "nameEN": "Theory of Planned Behavior (Ajzen)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 3 · H6 · pp. 135–166"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De Theorie van Gepland Gedrag verklaart gedrag vooral via gedragsintentie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Intentie wordt gevormd door attitude tegenover het gedrag, subjectieve norm en waargenomen gedragscontrole. Waargenomen gedragscontrole kan gedrag ook rechtstreeks beïnvloeden wanneer controle realistisch beperkt is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een belangrijke beperking is de intention-behavior gap: mensen kunnen een intentie hebben zonder het gedrag effectief uit te voeren."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: leer de drie voorspellers van intentie exact: attitude, subjectieve norm en waargenomen gedragscontrole."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gewoonten, automatische processen en contextbarrières verklaren waarom intentie niet altijd gedrag wordt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Attitude\nvind ik het goed of nuttig?\"] --> I[\"Intentie\"]\n  S[\"Subjectieve norm\nwat vinden belangrijke anderen?\"] --> I\n  P[\"Waargenomen gedragscontrole\nkan ik het?\"] --> I\n  I --> G[\"Gedrag\"]\n  P -. \"direct effect mogelijk\" .-> G"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "b4ee5959-90ee-5235-9bde-4dbb3d92fc0c"
+  },
+  {
+    "nameNL": "Beredeneerd Gedrag Model (Fishbein & Ajzen)",
+    "nameEN": "Reasoned Action Approach / Reasoned behavior model (Fishbein & Ajzen)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 3 · H6 · pp. 135–166"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Beredeneerd Gedrag Model is een verfijning van de theorie rond intentioneel gedrag."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gedrag wordt vooral voorspeld door intentie. Die intentie wordt gevormd door attitude, ervaren norm en waargenomen gedragscontrole."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model benadrukt dat gedrag meestal voortkomt uit beredeneerde overtuigingen over gevolgen, sociale verwachtingen en controle, maar blijft gevoelig voor dezelfde intention-behavior gap."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: verwar 'subjectieve norm' niet met 'ervaren norm'. Ervaren norm is breder en kan injunctieve normen, descriptieve normen of sociale druk omvatten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het verschil met ASE zit vooral in de uitwerking van sociale invloed en het gebruik van eigen-effectiviteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Attitude\"] --> I[\"Intentie\"]\n  N[\"Ervaren norm\"] --> I\n  C[\"Waargenomen gedragscontrole\"] --> I\n  I --> G[\"Gedrag\"]\n  C -. \"controle kan gedrag rechtstreeks beperken\" .-> G"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "d13fe5d4-0040-5921-b008-e6f4f0ed5710"
+  },
+  {
+    "nameNL": "ASE-model (De Vries)",
+    "nameEN": "ASE model (De Vries)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 3 · extra stof · pp. 106–114 (Lechner)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het ASE-model is een Nederlandse variant voor het verklaren van gezondheidsgedrag."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "ASE staat voor Attitude, Sociale invloed en Eigen-effectiviteit. Sociale invloed is breed en omvat normen, sociale steun, sociale druk en modeling. Eigen-effectiviteit verwijst naar het geloof dat men het gedrag kan uitvoeren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model lijkt op het Beredeneerd Gedrag Model, maar gebruikt een bredere invulling van sociale invloed en legt expliciet nadruk op self-efficacy."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: ASE = Attitude, Sociale invloed, Eigen-effectiviteit. Die drie bepalen vooral intentie en gedrag."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In veel toepassingen worden ook barrières en vaardigheden toegevoegd om de stap van intentie naar gedrag te verklaren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Attitude\"] --> I[\"Intentie\"]\n  S[\"Sociale invloed\nnorm, steun, modeling\"] --> I\n  E[\"Eigen-effectiviteit\"] --> I\n  I --> G[\"Gedrag\"]\n  B[\"Barrières en vaardigheden\"] -. \"beïnvloeden uitvoering\" .-> G"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "f71e58bb-368c-59bb-8244-b5b9db645a6d"
+  },
+  {
+    "nameNL": "Protectie Motivatie Theorie (Rogers)",
+    "nameEN": "Protection Motivation Theory (Rogers)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 3 · extra stof · pp. 106–114 (Lechner)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Protectie Motivatie Theorie verklaart beschermend gezondheidsgedrag via twee beoordelingsprocessen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Dreigingsinschatting gaat over ervaren ernst, ervaren kwetsbaarheid en de beloningen van ongezond gedrag. Copinginschatting gaat over responseffectiviteit, self-efficacy en responskosten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wanneer de dreiging ernstig en relevant lijkt én de coping haalbaar en effectief lijkt, ontstaat protectiemotivatie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: PMT heeft twee blokken: threat appraisal en coping appraisal. Beide moeten gunstig zijn voor beschermend gedrag."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vergelijk met HBM: PMT werkt de copingkant sterker uit en benoemt ook beloningen van ongezond gedrag."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Ernst\"] --> T[\"Dreigingsinschatting\"]\n  B[\"Kwetsbaarheid\"] --> T\n  C[\"Beloningen ongezond gedrag\"] -. \"verlagen bescherming\" .-> T\n  D[\"Responseffectiviteit\"] --> C2[\"Copinginschatting\"]\n  E[\"Self-efficacy\"] --> C2\n  F[\"Responskosten\"] -. \"verlagen coping\" .-> C2\n  T --> M[\"Protectiemotivatie\"]\n  C2 --> M\n  M --> G[\"Beschermend gedrag\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "707758d5-868b-5e72-9cc6-5a1223982ebb"
+  },
+  {
+    "nameNL": "Sociaal-Cognitieve Theorie (Bandura)",
+    "nameEN": "Social Cognitive Theory (Bandura)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 3 · H6 · pp. 135–166"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De Sociaal-Cognitieve Theorie verklaart gedrag via wederkerige beïnvloeding tussen persoon, gedrag en omgeving."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke concepten zijn reciprocal determinism, observationeel leren of modeling, situation-outcome expectations, action-outcome expectations en self-efficacy."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Self-efficacy is centraal: mensen zullen gedrag sneller starten en volhouden wanneer ze geloven dat ze het kunnen uitvoeren."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: Bandura = wederkerigheid + modeling + self-efficacy."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model is sterk voor interventies omdat het concrete aangrijpingspunten biedt: rolmodellen, vaardigheidstraining, feedback en succeservaringen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  P[\"Persoon\ncognities, verwachtingen, self-efficacy\"] <--> G[\"Gedrag\"]\n  G <--> O[\"Omgeving\nmodellen, steun, barrières\"]\n  O <--> P\n  M[\"Modeling/observationeel leren\"] --> P\n  P --> U[\"Gezondheidsgedrag\"]\n  G --> U\n  O --> U"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "67087578-452f-58de-b2d9-1c1f73b9df0c"
+  },
+  {
+    "nameNL": "Stages of Change / Transtheoretisch Model (Prochaska & DiClemente)",
+    "nameEN": "Stages of Change / Transtheoretical Model (Prochaska & DiClemente)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 3 · H6 · pp. 135–166"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Transtheoretisch Model beschrijft gedragsverandering als een proces in fasen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De vijf fasen zijn precontemplatie, contemplatie, voorbereiding, actie en behoud. Terugval is geen uitzondering, maar een normaal onderdeel van het veranderproces."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het verloop is vaak spiraalvormig: mensen kunnen vooruitgaan, terugvallen en opnieuw instappen met meer ervaring."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: ken de volgorde van de fasen en onthoud dat terugval niet betekent dat verandering mislukt is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Interventies moeten fasegericht zijn: iemand in precontemplatie heeft iets anders nodig dan iemand in de actiefase."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Precontemplatie\nniet van plan\"] --> B[\"Contemplatie\noverweegt\"]\n  B --> C[\"Voorbereiding\nplant concreet\"]\n  C --> D[\"Actie\ngedrag verandert\"]\n  D --> E[\"Behoud\nvolhouden\"]\n  E --> F[\"Stabiele verandering\"]\n  D -. \"terugval\" .-> B\n  E -. \"terugval\" .-> B"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "ba85accf-faae-5cc3-bb8d-5f7db991bd77"
+  },
+  {
+    "nameNL": "Conflict Theory (Janis)",
+    "nameEN": "Conflict Theory of decision making (Janis)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 3 · H6 · pp. 135–166"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Conflict Theory beschrijft hoe stress en onzekerheid besluitvorming beïnvloeden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wanneer keuzes belangrijk zijn en risico's hebben, kan beslissingsconflict ontstaan. De kwaliteit van de beslissing hangt af van hoe iemand met die spanning omgaat."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onder hoge druk kunnen mensen defensief vermijden, overhaast handelen of juist waakzaam en zorgvuldig beslissen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: dit model gaat niet over stress in het algemeen, maar over stress bij keuzes en besluitvorming."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het is relevant voor gezondheidsgedrag omdat medische beslissingen vaak onzeker, emotioneel en consequentierijk zijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Belangrijke keuze met risico\"] --> B[\"Beslissingsconflict\"]\n  B --> C{\"Coping met onzekerheid\"}\n  C -- \"Vermijden\" --> D[\"Defensieve vermijding\"]\n  C -- \"Paniek/druk\" --> E[\"Hypervigilantie of overhaaste keuze\"]\n  C -- \"Zorgvuldig zoeken\" --> F[\"Waakzame besluitvorming\"]\n  D --> G[\"Lagere beslissingskwaliteit\"]\n  E --> G\n  F --> H[\"Hogere beslissingskwaliteit\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "1ba85f59-21cb-51f8-b692-82cebb78649c"
+  },
+  {
+    "nameNL": "Specificiteitstheorie (pijn)",
+    "nameEN": "Specificity theory of pain",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 4 · H11 · pp. 286–315"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De specificiteitstheorie stelt dat pijn via een eigen sensorisch systeem verloopt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Volgens dit model detecteren specifieke pijnreceptoren schadelijke prikkels en sturen die via specifieke zenuwbanen naar hersengebieden waar pijn wordt ervaren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De theorie bleek te mechanistisch en kan psychologische invloed, fantoompijn en variatie in pijnbeleving onvoldoende verklaren."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: dit is een historisch belangrijk maar beperkt model. Het verklaart pijn als directe lijn van schade naar pijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik dit als contrast met de poorttheorie, waarin modulatie door zenuwvezels en hersenen centraal staat."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Schadelijke prikkel\"] --> B[\"Specifieke pijnreceptor\"]\n  B --> C[\"Specifieke pijnbaan\"]\n  C --> D[\"Hersenen\"]\n  D --> E[\"Pijnervaring\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "bd60d481-9cb6-5f95-b925-da29b5601ebd"
+  },
+  {
+    "nameNL": "Patroontheorie (pijn)",
+    "nameEN": "Pattern theory of pain",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 4 · H11 · pp. 286–315"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De patroontheorie stelt dat pijn niet via aparte pijnreceptoren ontstaat, maar door patronen van zenuwactiviteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Intense stimulatie produceert een bepaald activatiepatroon in zenuwbanen. Wanneer dat patroon sterk genoeg is, wordt het als pijn geïnterpreteerd."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De theorie verklaart sommige beperkingen van de specificiteitstheorie, maar verklaart niet alle pijnfenomenen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: specificiteit = apart pijnkanaal; patroon = pijn door intensiteit en activatiepatroon."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ook deze theorie is nog onvoldoende om psychologische modulatie van pijn volledig te verklaren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Intense stimulatie\"] --> B[\"Patroon van zenuwactiviteit\"]\n  B --> C{\"Patroon overschrijdt pijndrempel?\"}\n  C -- \"ja\" --> D[\"Pijnervaring\"]\n  C -- \"nee\" --> E[\"Geen of beperkte pijn\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "3e6feb55-eec9-52cc-b3dc-da86c09500ba"
+  },
+  {
+    "nameNL": "Gate Control Theory / Poorttheorie (Melzack & Wall, 1965)",
+    "nameEN": "Gate Control Theory of pain (Melzack & Wall, 1965)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 4 · H11 · pp. 286–315"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De poorttheorie stelt dat pijnsignalen gemoduleerd worden door een poortmechanisme in het ruggenmerg, vooral in de substantia gelatinosa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kleine pijnvezels, zoals A-delta- en C-vezels, openen de poort en versterken pijntransmissie. Grote A-bèta-vezels kunnen de poort sluiten. Afdalende signalen vanuit de hersenen kunnen de poort eveneens openen of sluiten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De theorie verklaart waarom aandacht, emoties, verwachting, aanraking en psychologische factoren pijnbeleving kunnen beïnvloeden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: drie invloeden op de poort: pijnvezels openen, tastvezels sluiten, hersenen moduleren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Praktisch voorbeeld: wrijven over een pijnlijke plek kan via A-bèta-vezels de pijnervaring verminderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  P[\"A-delta en C-vezels\npijnsignalen\"] --> O[\"Poort opent\"]\n  T[\"A-bèta-vezels\naanraking/druk\"] --> S[\"Poort sluit\"]\n  H[\"Afdalende hersensignalen\naandacht, emotie, verwachting\"] --> G[\"Poortmechanisme\nruggenmerg\"]\n  O --> G\n  S --> G\n  G --> B{\"Pijnsignaal naar hersenen?\"}\n  B -- \"meer transmissie\" --> E[\"Meer pijnervaring\"]\n  B -- \"minder transmissie\" --> M[\"Minder pijnervaring\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "f631c006-35fd-5555-bee9-d6498aa3d37b"
+  },
+  {
+    "nameNL": "Common-Sense Model of Illness (Leventhal)",
+    "nameEN": "Common-Sense Model of Illness (Leventhal)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 5 · H9 · pp. 225–262"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Common-Sense Model beschrijft hoe leken ziekte begrijpen en hoe die ziektecognities coping en hulpzoekgedrag sturen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mensen vormen ziektevoorstellingen op vijf dimensies: identiteit, oorzaak, tijdslijn, consequenties en controleerbaarheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die representaties leiden tot copingacties, waarna mensen evalueren of hun aanpak werkt. Die evaluatie kan de oorspronkelijke ziektevoorstelling opnieuw aanpassen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: ken de vijf dimensies exact. Ze komen vaak terug in casussen over hulp zoeken, therapietrouw en coping."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model verklaart waarom twee mensen met dezelfde diagnose heel verschillend kunnen reageren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Symptomen of diagnose\"] --> B[\"Ziektevoorstelling\"]\n  B --> I[\"Identiteit\nwelke ziekte/klachten?\"]\n  B --> O[\"Oorzaak\"]\n  B --> T[\"Tijdslijn\"]\n  B --> C[\"Consequenties\"]\n  B --> K[\"Controleerbaarheid\"]\n  B --> D[\"Coping en hulpzoekgedrag\"]\n  D --> E[\"Appraisal\nevalueer effect\"]\n  E --> B"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "1df2ca6e-7b30-5d77-a06b-6983f5d60a1b"
+  },
+  {
+    "nameNL": "Chronic Care Model",
+    "nameEN": "Chronic Care Model",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 5 · H9 · extra stof"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Chronic Care Model beschrijft voorwaarden voor effectieve zorg bij chronische aandoeningen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model benadrukt dat chronische zorg niet alleen episodische medische behandeling is, maar een georganiseerd systeem dat zelfmanagement en continue opvolging ondersteunt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De zes kenmerken zijn zorgorganisatie, klinische informatiesystemen, beslisondersteuning, zelfmanagementondersteuning, gemeenschapsmiddelen en zorglevering."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: onthoud dat het model op systeemniveau werkt. Het gaat dus niet enkel over de patiënt, maar over hoe zorg georganiseerd wordt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Doel: een geïnformeerde, actieve patiënt en een voorbereid, proactief zorgteam."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Zorgorganisatie\"] --> Z[\"Effectieve chronische zorg\"]\n  B[\"Informatiesystemen\"] --> Z\n  C[\"Beslisondersteuning\"] --> Z\n  D[\"Zelfmanagementondersteuning\"] --> Z\n  E[\"Gemeenschapsmiddelen\"] --> Z\n  F[\"Zorglevering\"] --> Z\n  Z --> G[\"Actieve patiënt + proactief zorgteam\"]\n  G --> H[\"Betere uitkomsten\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "6746c972-ec82-5c87-ae7b-68cb31174175"
+  },
+  {
+    "nameNL": "Kübler-Ross fasenmodel",
+    "nameEN": "Kübler-Ross stage model",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 5 · H10 · pp. 263–285"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het Kübler-Ross fasenmodel beschrijft vijf mogelijke reacties bij sterven of ernstig verlies: ontkenning, woede, onderhandelen, depressie en acceptatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De fasen zijn geen vaste, lineaire trap die iedereen op dezelfde manier doorloopt. Mensen kunnen fasen overslaan, terugkeren of meerdere reacties tegelijk ervaren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het model is vooral nuttig als taal om reacties te herkennen, maar minder geschikt als rigide voorspelling van rouw of stervensproces."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: zeg nooit dat iedereen deze fasen lineair doorloopt. De niet-lineariteit is essentieel."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik het model beschrijvend, niet normatief: iemand hoeft niet 'correct' door fasen te gaan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart LR\n  A[\"Ontkenning\"] --> B[\"Woede\"]\n  B --> C[\"Onderhandelen\"]\n  C --> D[\"Depressie\"]\n  D --> E[\"Acceptatie\"]\n  E -. \"terugbeweging mogelijk\" .-> B\n  D -. \"niet lineair\" .-> A"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "a99dee6b-9acd-5903-94f7-6081ac7f2b9a"
+  },
+  {
+    "nameNL": "Crisistheorie (chronische ziekte)",
+    "nameEN": "Crisis theory of chronic illness",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Thema 5 · H13 · pp. 339–365"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De crisistheorie ziet de diagnose van een chronische ziekte als een crisis die het bestaande evenwicht van de persoon verstoort."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Aanpassing vraagt dat iemand zowel ziekte- en behandelingsgerichte taken als psychosociale taken opneemt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De uitkomst hangt af van coping, steun, betekenisgeving, beperkingen, behandeling en de mate waarin iemand een nieuw evenwicht kan opbouwen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Examentip: chronische ziekte is niet alleen een medisch probleem, maar ook een aanpassingsopgave."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Maak het onderscheid tussen taken rond ziekte/behandeling en taken rond identiteit, relaties, werk, emoties en toekomstbeeld."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  A[\"Diagnose chronische ziekte\"] --> B[\"Crisis\nverstoring van evenwicht\"]\n  B --> C[\"Ziekte- en behandelingstaken\"]\n  B --> D[\"Psychosociale aanpassingstaken\"]\n  C --> E[\"Coping, steun en zelfmanagement\"]\n  D --> E\n  E --> F[\"Nieuw evenwicht of aanhoudende ontregeling\"]"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "d9b43b49-7d6e-5e0e-81e1-bbc5ab7c5720"
+  }
+]
