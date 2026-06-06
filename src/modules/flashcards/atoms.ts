@@ -2,6 +2,7 @@ import { atom } from 'jotai'
 
 import type {
   ChapterSelection,
+  CompendiumSelection,
   Flashcard,
   SourceSelection,
   TypeSelection,
@@ -10,6 +11,7 @@ import type {
 export const setupChapterAtom = atom<ChapterSelection>([])
 export const setupTypeAtom = atom<TypeSelection>([])
 export const setupSourceAtom = atom<SourceSelection>([])
+export const setupCompendiumAtom = atom<CompendiumSelection>([])
 /** Gekozen aantal kaarten in deze sessie (max = beschikbaar na filters). */
 export const setupCountAtom = atom<number>(10)
 

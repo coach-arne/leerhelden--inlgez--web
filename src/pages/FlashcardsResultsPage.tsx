@@ -17,6 +17,7 @@ import {
   sessionIdAtom,
   sessionScoresAtom,
   setupChapterAtom,
+  setupCompendiumAtom,
   setupCountAtom,
   setupSourceAtom,
   setupTypeAtom,
@@ -25,7 +26,12 @@ import {
   appendFlashcardResult,
   loadFlashcardResults,
 } from '@/modules/flashcards/flashcardStorage'
-import { formatChaptersLabel, formatSourcesLabel, formatTypesLabel } from '@/modules/flashcards/formatLabels'
+import {
+  formatChaptersLabel,
+  formatCompendiumsLabel,
+  formatSourcesLabel,
+  formatTypesLabel,
+} from '@/modules/flashcards/formatLabels'
 import { cn } from '@/lib/utils'
 
 export function FlashcardsResultsPage() {
@@ -34,12 +40,14 @@ export function FlashcardsResultsPage() {
   const chapters = useAtomValue(setupChapterAtom)
   const types = useAtomValue(setupTypeAtom)
   const sources = useAtomValue(setupSourceAtom)
+  const compendiums = useAtomValue(setupCompendiumAtom)
   const sessionId = useAtomValue(sessionIdAtom)
   const setDeck = useSetAtom(activeDeckAtom)
   const setSessionId = useSetAtom(sessionIdAtom)
   const setChapters = useSetAtom(setupChapterAtom)
   const setTypes = useSetAtom(setupTypeAtom)
   const setSources = useSetAtom(setupSourceAtom)
+  const setCompendiums = useSetAtom(setupCompendiumAtom)
   const setCount = useSetAtom(setupCountAtom)
 
   const total = deck?.length ?? 0
@@ -60,12 +68,13 @@ export function FlashcardsResultsPage() {
       chapters,
       types,
       sources,
+      compendiums,
       requestedCount: deck.length,
       correct: scores.correct,
       incorrect: scores.incorrect,
       unsure: scores.unsure,
     })
-  }, [chapters, deck, scores, sessionId, sources, types])
+  }, [chapters, compendiums, deck, scores, sessionId, sources, types])
 
   const clearSession = () => {
     setDeck(null)
@@ -76,6 +85,7 @@ export function FlashcardsResultsPage() {
     setChapters([])
     setTypes([])
     setSources([])
+    setCompendiums([])
     setCount(10)
     clearSession()
   }
@@ -128,6 +138,12 @@ export function FlashcardsResultsPage() {
               <p>
                 <span className="font-medium text-foreground">Bron:</span>{' '}
                 {formatSourcesLabel(sources)}
+              </p>
+            )}
+            {compendiums.length > 0 && (
+              <p>
+                <span className="font-medium text-foreground">Compendium:</span>{' '}
+                {formatCompendiumsLabel(compendiums)}
               </p>
             )}
           </div>

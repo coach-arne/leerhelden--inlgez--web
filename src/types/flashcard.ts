@@ -23,3 +23,6 @@ export type TypeSelection = string[]
 
 /** Geselecteerde bron-bestandsnamen. Lege array = geen filter (alle bronnen). */
 export type SourceSelection = string[]
+
+/** Geselecteerde compendium-slugs. Lege array = geen compendium-kaarten. */
+export type CompendiumSelection = string[]

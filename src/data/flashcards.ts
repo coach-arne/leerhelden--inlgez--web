@@ -1,4 +1,6 @@
-import type { Flashcard } from '@/types/flashcard'
+import type { CompendiumSelection, Flashcard } from '@/types/flashcard'
+
+import { buildCompendiumFlashcards } from '@/modules/flashcards/helpers/buildCompendiumFlashcards'
 
 import flashcardsH1 from './flashcards/flashcards_h1.json'
 import flashcardsH2 from './flashcards/flashcards_h2.json'
@@ -44,7 +46,45 @@ export const ALL_FLASHCARDS: Flashcard[] = SOURCE_ENTRIES.flatMap(({ source, car
   cards.map((c) => ({ ...c, source })),
 )
 
+export const ALL_COMPENDIUM_FLASHCARDS: Flashcard[] = buildCompendiumFlashcards()
+
 export const CHAPTER_NUMBERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] as const
+
+function filterTextbookFlashcards(
+  chapters: number[],
+  types: string[],
+  sources: string[],
+): Flashcard[] {
+  let pool = filterByChapters(ALL_FLASHCARDS, chapters)
+  pool = filterByTypes(pool, types)
+  pool = filterBySources(pool, sources)
+  return pool
+}
+
+function filterCompendiumFlashcards(compendiums: CompendiumSelection): Flashcard[] {
+  if (compendiums.length === 0) return []
+  const set = new Set(compendiums)
+  return ALL_COMPENDIUM_FLASHCARDS.filter((c) => set.has(c.type))
+}
+
+export function getAvailableFlashcards(
+  chapters: number[],
+  types: string[],
+  sources: string[],
+  compendiums: CompendiumSelection = [],
+): Flashcard[] {
+  const hasCompendiumSelection = compendiums.length > 0
+  const hasTextbookFilters =
+    chapters.length > 0 || types.length > 0 || sources.length > 0
+
+  const includeTextbook = !hasCompendiumSelection || hasTextbookFilters
+  const textbookPool = includeTextbook
+    ? filterTextbookFlashcards(chapters, types, sources)
+    : []
+  const compendiumPool = filterCompendiumFlashcards(compendiums)
+
+  return [...textbookPool, ...compendiumPool]
+}
 
 export function filterByChapters(
   cards: Flashcard[],
@@ -91,27 +131,22 @@ export function takeFirstN<T>(items: T[], n: number): T[] {
 }
 
 export function buildDeck(
-  cards: Flashcard[],
   chapters: number[],
   types: string[],
   count: number,
   sources: string[] = [],
+  compendiums: CompendiumSelection = [],
 ): Flashcard[] {
-  let pool = filterByChapters(cards, chapters)
-  pool = filterByTypes(pool, types)
-  pool = filterBySources(pool, sources)
+  const pool = getAvailableFlashcards(chapters, types, sources, compendiums)
   const shuffled = shuffle(pool)
   return takeFirstN(shuffled, count)
 }
 
 export function countAvailable(
-  cards: Flashcard[],
   chapters: number[],
   types: string[],
   sources: string[] = [],
+  compendiums: CompendiumSelection = [],
 ): number {
-  return filterBySources(
-    filterByTypes(filterByChapters(cards, chapters), types),
-    sources,
-  ).length
+  return getAvailableFlashcards(chapters, types, sources, compendiums).length
 }

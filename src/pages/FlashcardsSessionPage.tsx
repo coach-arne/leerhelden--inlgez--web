@@ -211,7 +211,7 @@ export function FlashcardsSessionPage() {
                 <p className="text-sm leading-snug text-foreground">{otherTermText}</p>
               </div>
               <p className="text-sm font-medium text-foreground">Definitie</p>
-              <p className="text-sm leading-relaxed">{card.definition}</p>
+              <p className="text-sm leading-relaxed whitespace-pre-line">{card.definition}</p>
               {card.additions.length > 0 && (
                 <ul className="list-inside list-disc space-y-1 text-sm text-muted-foreground">
                   {card.additions.map((line, i) => (

@@ -23,6 +23,7 @@ import {
   countAvailable,
   getTypesForChapters,
 } from '@/data/flashcards'
+import { ALL_COMPENDIUM_META } from '@/data/compendiums'
 import {
   activeDeckAtom,
   cardRevealedAtom,
@@ -33,6 +34,7 @@ import {
   sessionIndexAtom,
   sessionScoresAtom,
   setupChapterAtom,
+  setupCompendiumAtom,
   setupCountAtom,
   setupSourceAtom,
   setupTypeAtom,
@@ -42,6 +44,7 @@ import {
   formatSourcesLabel,
   formatTypesLabel,
   getChapterLabels,
+  getCompendiumLabels,
 } from '@/modules/flashcards/formatLabels'
 import { loadFlashcardResults } from '@/modules/flashcards/flashcardStorage'
 import { cn } from '@/lib/utils'
@@ -53,11 +56,17 @@ const CHAPTER_OPTIONS = CHAPTER_NUMBERS.map((n) => ({
 
 const SOURCE_OPTIONS = ALL_SOURCES.map((s) => ({ value: s, label: s }))
 
+const COMPENDIUM_OPTIONS = ALL_COMPENDIUM_META.map((meta) => ({
+  value: meta.slug,
+  label: meta.label,
+}))
+
 export function FlashcardsSetupPage() {
   const navigate = useNavigate()
   const [chapters, setChapters] = useAtom(setupChapterAtom)
   const [types, setTypes] = useAtom(setupTypeAtom)
   const [sources, setSources] = useAtom(setupSourceAtom)
+  const [compendiums, setCompendiums] = useAtom(setupCompendiumAtom)
   const [count, setCount] = useAtom(setupCountAtom)
   const [termLang, setTermLang] = useAtom(termLanguageAtom)
 
@@ -95,8 +104,8 @@ export function FlashcardsSetupPage() {
   )
 
   const available = useMemo(
-    () => countAvailable(ALL_FLASHCARDS, chapters, types, sources),
-    [chapters, types, sources],
+    () => countAvailable(chapters, types, sources, compendiums),
+    [chapters, types, sources, compendiums],
   )
 
   const [history, setHistory] = useState(() => loadFlashcardResults())
@@ -117,7 +126,7 @@ export function FlashcardsSetupPage() {
   const handleStart = () => {
     if (available === 0) return
     const n = Math.min(count, available)
-    const deck = buildDeck(ALL_FLASHCARDS, chapters, types, n, sources)
+    const deck = buildDeck(chapters, types, n, sources, compendiums)
     setSessionId(crypto.randomUUID())
     setDeck(deck)
     setIndex(0)
@@ -135,7 +144,7 @@ export function FlashcardsSetupPage() {
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Flashcards</h1>
           <p className="mt-1 text-sm text-muted-foreground">
-            Kies hoofdstuk, type en aantal, daarna start je de oefening.
+            Kies hoofdstuk, type, compendium en aantal, daarna start je de oefening.
           </p>
         </div>
         <Link to="/" className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}>
@@ -189,6 +198,19 @@ export function FlashcardsSetupPage() {
               placeholder="Alle bronbestanden"
               enableSearch
               showSelectAll={SOURCE_OPTIONS.length > 1}
+            />
+          </div>
+
+          <div className="space-y-2">
+            <Label htmlFor="compendium-multiselect">Compendium</Label>
+            <MultiSelectChips
+              id="compendium-multiselect"
+              options={COMPENDIUM_OPTIONS}
+              selected={compendiums}
+              onChange={setCompendiums}
+              placeholder="Geen compendia"
+              enableSearch={false}
+              showSelectAll={COMPENDIUM_OPTIONS.length > 1}
             />
           </div>
 
@@ -275,6 +297,11 @@ export function FlashcardsSetupPage() {
                   {h.sources.length > 0 && (
                     <Badge variant="outline">{formatSourcesLabel(h.sources)}</Badge>
                   )}
+                  {getCompendiumLabels(h.compendiums ?? []).map((label, i) => (
+                    <Badge key={`${h.id}-comp-${i}`} variant="secondary">
+                      {label}
+                    </Badge>
+                  ))}
                   <span className="tabular-nums">
                     goed {h.correct} · twijfel {h.unsure} · fout {h.incorrect}{' '}
                     ({h.requestedCount} kaarten)
