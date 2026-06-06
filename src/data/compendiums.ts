@@ -3,6 +3,7 @@ import type { CompendiumItem, CompendiumMeta } from '@/types/compendium'
 import pathologyRaw from './compendiums/pathology.compendium.json'
 import healthPsychologyModelsRaw from './compendiums/modellen.compendium.json'
 import lichaamssystemenRaw from './compendiums/lichaamssystemen.compendium.json'
+import meetinstrumentenRaw from './compendiums/meetinstrumenten.compendium.json'
 
 type RawCompendiumEntry = {
   id: string
@@ -37,6 +38,12 @@ const SOURCE_ENTRIES: SourceEntry[] = [
     label: 'Lichaamssystemen',
     description: 'Lichaamssystemen in de gezondheidspsychologie.',
     items: lichaamssystemenRaw as RawCompendiumEntry[],
+  },
+  {
+    compendium: 'meetinstrumenten',
+    label: 'Meetinstrumenten',
+    description: 'Meetinstrumenten in de gezondheidspsychologie.',
+    items: meetinstrumentenRaw as RawCompendiumEntry[],
   },
 ]
 

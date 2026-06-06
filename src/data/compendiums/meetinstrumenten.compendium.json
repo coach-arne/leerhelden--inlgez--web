@@ -1,0 +1,5639 @@
+[
+  {
+    "id": "ac507bb7-65e1-5785-8f6b-8892818d2188",
+    "nameNL": "Overzicht meetinstrumenten in de gezondheidspsychologie",
+    "nameEN": "Overview of health psychology measurement instruments",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: overzicht."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: volledige Stuvia-samenvatting PB0552, met nadruk op de hoofdstukken over stress, patiëntgedrag, ziekenhuissetting, pijn, chronische ziekten en HIV/AIDS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: de grote families van instrumenten die in de samenvatting voorkomen: fysiologische metingen, biomarkers, zelfrapportagevragenlijsten, interviews, gedragsobservatie, medische screening en psychofysiologische tests."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: helpt ordenen welke instrumenten bij welk gezondheidspsychologisch thema horen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: dit overzichtsitem is toegevoegd zodat het compendium ook een top-level kaart heeft die de rest structureert."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: niet elk item is een psychologische vragenlijst. De samenvatting gebruikt 'meten' breed: van schalen en interviews tot bloedtests, screenings en fysiologische registratie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mermaid-schema:"
+            }
+          ]
+        },
+        {
+          "type": "codeBlock",
+          "attrs": {
+            "language": "mermaid"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "flowchart TD\n  M[\"Meetinstrumenten\"] --> Stress[\"Stress & coping\"]\n  M --> Preventie[\"Preventie & leefstijl\"]\n  M --> Klinisch[\"Klinische beoordeling\"]\n  M --> Pijn[\"Pijnmeting\"]\n  M --> Chronisch[\"Chronische ziekte & HIV\"]\n  Stress --> Bio[\"Fysiologische metingen + biomarkers\"]\n  Stress --> Life[\"Life-events, hassles, support, control\"]\n  Preventie --> Screen[\"Screening: BMI, bloeddruk, mammografie, colonoscopie\"]\n  Klinisch --> Psych[\"Interview, MMPI-2, MBMD, PAIS\"]\n  Pijn --> Self[\"VAS, NRS, VRS, dagboek, MPQ, MPI\"]\n  Pijn --> Obs[\"Gedragsobservatie + UAB + Pain Behaviors Self Report\"]\n  Pijn --> Phys[\"EMG, EEG, evoked potentials, autonome activiteit\"]\n  Chronisch --> HIV[\"CD4, viral load, bloedtest\"]"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "a29b26f9-07ef-5f74-a2a7-6e99498b44ae",
+    "nameNL": "Fysiologische arousalmeting",
+    "nameEN": "Physiological arousal measurement",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress en stressreactiviteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / beknopte samenvatting: stress meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: lichamelijke activatie bij stress, zoals hartslag, bloeddruk, ademhaling en algemene arousal."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt gebruikt om de fysiologische respons op stressoren objectiever te registreren dan alleen via zelfrapportage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Fysiologische waarden zijn beïnvloedbaar door geslacht, gewicht, cafeïne, beweging, meetcontext en de stress van de meting zelf."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In onderzoek wordt vaak gewerkt met een basismeting of rustniveau, waarna reactiviteit wordt berekend als verschil tussen rust en stresssituatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is een meetmethode, geen afzonderlijke vragenlijst."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c56ae36b-4bcd-5037-95bb-7538421eb807",
+    "nameNL": "Polygraaf",
+    "nameEN": "Polygraph",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress en stressreactiviteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / leerdoel stressmeting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: hartslag, ademhaling en galvanische huidrespons / huidgeleiding."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Voorbeeld van een meetinstrument dat stressgerelateerde fysiologische reacties via sensoren registreert."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Meet arousal, niet rechtstreeks de subjectieve ervaring van stress; interpretatie vraagt voorzichtigheid."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De polygraaf is vooral een verzamelopstelling van fysiologische sensoren. In gezondheidspsychologie is hij bruikbaar als voorbeeld van objectieve arousalmeting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Galvanische huidrespons hangt samen met zweetklieractiviteit en sympathische activatie."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "09e205dd-1576-5c6c-9fe3-855f08853edf",
+    "nameNL": "Biochemische stresshormoonanalyse",
+    "nameEN": "Biochemical stress hormone analysis",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress en stressreactiviteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / stress meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: stresshormonen in speeksel, bloed of urine, vooral cortisol en catecholamines zoals adrenaline en noradrenaline."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt gebruikt om endocriene stressreacties objectief te meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Kan duur zijn, invasief aanvoelen en beïnvloed worden door tijdstip, activiteit, voeding, cafeïne en de stress van monsterafname."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Cortisol wordt vaak gebruikt als marker van HPA-asactiviteit; catecholamines sluiten nauwer aan bij sympathisch-adrenale activatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Speekselcortisol is praktisch omdat het minder invasief is dan bloedafname."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "25487d96-fe9e-561c-954a-27c28a2ee57f",
+    "nameNL": "Urine-cortisolmeting",
+    "nameEN": "Urinary cortisol measurement",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress en stressreactiviteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3: voorbeeldstudie met basisschoolleerlingen op gewone dagen versus toetsdagen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: cortisol in urine als indicator van stressgerelateerde hormonale activatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting noemt urine-cortisolmeting als voorbeeld om te tonen dat cognitieve appraisal fysiologische stressreacties beïnvloedt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Cortisol zegt niet automatisch waarom iemand stress ervaart; context en appraisal blijven nodig voor interpretatie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Cortisol kent een dagritme. Daarom is timing van afname belangrijk wanneer je resultaten vergelijkt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca8bb54b-c846-56a4-8747-d58d4f7e61a8",
+    "nameNL": "fMRI en hersenscans bij stress",
+    "nameEN": "fMRI and brain imaging for stress",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress en stressreactiviteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / stress meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: hersenactiviteit en betrokken hersengebieden bij stress, emotionele responsen en fysiologische reacties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als neurowetenschappelijk bewijs voor welke hersengebieden betrokken zijn bij stressprocessen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Duur, minder praktisch voor dagelijkse situaties en niet bedoeld als eenvoudige stressscore."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: fMRI meet indirecte veranderingen in hersenactiviteit via bloedzuurstofgerelateerde signalen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is vooral nuttig voor onderzoek, minder als routine-instrument in de gezondheidszorg."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "5a9da5e9-f2f3-5bc3-bde4-33d1374bfd1e",
+    "nameNL": "Social Readjustment Rating Scale",
+    "nameEN": "Social Readjustment Rating Scale (SRRS)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress: levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / stress meten: Holmes & Rahe, 1967."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: levensgebeurtenissen waaraan stresswaarden worden toegekend; de totaalscore geldt als maat voor stressbelasting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Respondenten vinken gebeurtenissen aan die ze in de voorbije periode meemaakten; de schaal koppelt levensveranderingen aan ziekterisico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Vage items, weinig context, geen onderscheid tussen gewenste en ongewenste gebeurtenissen, gevoelig voor recall bias; correlatie met ziekte wordt in de samenvatting als beperkt beschreven."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: SRRS. De schaal is historisch belangrijk, maar moderner onderzoek probeert meer context en subjectieve impact mee te nemen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De score drukt life-change belasting uit, niet noodzakelijk negatieve stress."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c57b77ae-44cf-5464-ba03-b03b52b6b82d",
+    "nameNL": "Life Experiences Survey",
+    "nameEN": "Life Experiences Survey (LES)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress: levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / andere schalen voor levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: levensgebeurtenissen met subjectieve impactscore van negatief tot positief."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als alternatief voor de SRRS, met duidelijkere items en aparte analyse van positieve en negatieve gebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Blijft zelfrapportage en dus gevoelig voor herinneringsfouten."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: LES."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De LES probeert een belangrijke kritiek op de SRRS op te vangen: dezelfde gebeurtenis kan voor verschillende mensen een andere betekenis hebben."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "453227b9-0b3d-577d-be39-9c2e4f4bf933",
+    "nameNL": "PERI Life-Events Scale",
+    "nameEN": "PERI Life-Events Scale",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress: levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / andere schalen voor levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: levensgebeurtenissen met verlies, winst of onduidelijke uitkomst."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als uitgebreidere schaal met 102 items voor life events."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Meer detail betekent vaak ook meer belasting voor respondent en onderzoeker."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: PERI staat voor Psychiatric Epidemiology Research Interview; de schaal wordt in de samenvatting vooral als life-events instrument gebruikt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "99173dfb-e8a8-5abb-8ab0-93ba8febbd8d",
+    "nameNL": "Unpleasant Events Schedule",
+    "nameEN": "Unpleasant Events Schedule (UES)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress: levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / andere schalen voor levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: negatieve levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als instrument met 320 items, plus een verkorte versie met 53 items."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: De lange versie vraagt relatief veel tijd; door de focus op negatieve gebeurtenissen mist ze positieve of ambivalente gebeurtenissen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: UES. Het instrument is specifieker gericht op onaangename gebeurtenissen dan brede life-event schalen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "0c75d0eb-0cdd-5c07-8fff-77fc6ac3d5fc",
+    "nameNL": "Hassles Scale",
+    "nameEN": "Hassles Scale",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress: dagelijkse stressoren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / dagelijkse stressoren: Lazarus, 1981."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: kleine dagelijkse ergernissen en hun ernst."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt gebruikt om daily hassles te meten; de samenvatting noemt 117 items beoordeeld van beperkte tot extreme hinder."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Zelfrapportage over langere periodes kan onnauwkeurig zijn."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Daily hassles kunnen soms betere voorspellers zijn van gezondheidsklachten dan grote levensgebeurtenissen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Het instrument sluit sterk aan bij het transactionele stressmodel van Lazarus: stress zit vaak in de betekenis en opeenstapeling van kleine situaties."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "efea692f-81bb-5e51-ab1b-3677a9398339",
+    "nameNL": "Uplifts Scale",
+    "nameEN": "Uplifts Scale",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress: dagelijkse ervaringen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / dagelijkse positieve ervaringen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: positieve dagelijkse ervaringen, als tegenhanger van hassles."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als schaal met 135 positieve ervaringen, bijvoorbeeld een taak afronden of goed contact met een partner."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Volgens de samenvatting blijken uplifts veel zwakker samen te hangen met gezondheid dan hassles."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De Uplifts Scale maakt het mogelijk om niet alleen belasting maar ook kleine positieve herstel- of steunmomenten te registreren."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafb8b03-fbb9-587c-bd9a-f1ca49940b04",
+    "nameNL": "Real-time elektronische rapportage",
+    "nameEN": "Real-time electronic reporting / experience sampling",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Stress: dagelijkse meting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 3 / probleem van onnauwkeurige zelfrapportage over weken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: stress, emoties of hassles op het moment zelf via smartphone of elektronische logging."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als oplossing voor recall bias bij terugblikvragenlijsten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Kan belastend zijn door herhaalde prompts; meting kan gedrag of aandacht beïnvloeden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Ook bekend als experience sampling method of ecological momentary assessment, afhankelijk van opzet."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Sterk voor fluctuaties in dagelijkse stress omdat het dichter bij de feitelijke ervaring meet."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c4ba965-ac8a-5fbe-980b-35696d974fad",
+    "nameNL": "Social Support Questionnaire",
+    "nameEN": "Social Support Questionnaire (SSQ)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Sociale steun."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 4 / sociale steun."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: hoeveelheid beschikbare sociale steun en tevredenheid met die steun."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als meetinstrument voor sociale steun."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Sociale steun is contextgevoelig: hoeveelheid steun en ervaren kwaliteit zijn niet hetzelfde."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: SSQ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Het onderscheid tussen netwerkgrootte en tevredenheid is belangrijk: veel contacten betekenen niet noodzakelijk goede steun."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "55eb40ec-dbc2-5ec8-9461-8c502e03e753",
+    "nameNL": "I-E-schaal",
+    "nameEN": "Internal-External Locus of Control Scale (I-E Scale)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Persoonlijkheid en controle."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 4 / persoonlijke controle en gezondheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: interne versus externe locus of control: de mate waarin iemand controle intern of extern situeert."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als schaal die meet of iemand een interne of externe locus of control heeft."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Algemene locus of control is niet hetzelfde als gezondheidscontrole in specifieke medische situaties."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De I-E-schaal wordt meestal verbonden met Rotters locus-of-controlconcept."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Voor gezondheidscontexten wordt vaak een specifiekere schaal gebruikt, zoals de Multidimensional Health Locus of Control."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "94c1f3a4-9778-5eb1-9076-e5a414a4f898",
+    "nameNL": "Multidimensional Health Locus of Control-schalen",
+    "nameEN": "Multidimensional Health Locus of Control Scales (MHLC)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Persoonlijkheid en controle."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 4 / meting van gezondheidscontrole."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: gezondheidscontrole via drie dimensies: interne controle, controle door krachtige anderen en toeval/luck."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als meting van gezondheidscontrole, specifiek gericht op gezondheid in plaats van algemene controle."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Hoge externe score betekent niet automatisch passiviteit; bij medische zorg kan vertrouwen in artsen soms adaptief zijn."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: MHLC."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De drie dimensies helpen om te onderscheiden of iemand gezondheid ziet als eigen invloed, invloed van zorgverleners of toeval/lot."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e0d4c76-59a2-5527-9f6d-ab4e9d2d50ae",
+    "nameNL": "Structured Interview voor Type A-gedrag",
+    "nameEN": "Structured Interview for Type A behavior",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Type A en hartziekterisico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 4 / meten van Type A-gedrag."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: Type A-gedragspatroon, inclusief competitiviteit, tijdsdruk, krachtige spreekstijl en vijandigheid/boosheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt in de samenvatting als gold standard voor Type A-meting beschreven; het observeert wat mensen zeggen en hoe ze het zeggen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Duurt langer en vraagt getrainde beoordelaars; minder schaalbaar dan zelfrapportage."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In de samenvatting wordt vermeld dat verbanden met coronaire hartziekte het sterkst waren bij gebruik van het Structured Interview."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Het instrument vangt paralinguïstische signalen, zoals spreektempo en intensiteit, die vragenlijsten vaak missen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "d32809e4-a01f-5afc-a411-77d4337eac90",
+    "nameNL": "Type A-zelfrapportagevragenlijsten",
+    "nameEN": "Type A self-report questionnaires",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Type A en hartziekterisico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 4 / gedragspatronen definiëren en meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: zelfgerapporteerde Type A-componenten, vooral tijdsdruk en competitie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Worden genoemd als praktischere maar beperktere methode om Type A-gedrag te meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Volgens de samenvatting meten zelfrapportages vaak slechts delen van Type A en zijn ze minder bruikbaar voor gezondheidsvoorspelling dan het structured interview."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is als generieke instrumentklasse toegevoegd omdat de samenvatting expliciet contrasteert tussen structured interview en zelfrapportagevragenlijsten."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c618c664-663d-528b-9e45-e9fe6e06eda2",
+    "nameNL": "Cook-Medley Hostility Scale",
+    "nameEN": "Cook-Medley Hostility Scale",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Vijandigheid en cardiovasculair risico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 4 / Type A's dodelijke emotie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: vijandigheid, waaronder boosheid, wantrouwen, cynisme en prikkelbaarheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als schaal om de gevaarlijke component binnen Type A, namelijk vijandigheid, te meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Hostility is breder dan boosheid alleen; interpretatie vraagt aandacht voor sociale context en comorbiditeit met negatieve emoties."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De schaal werd historisch vaak gebruikt in onderzoek naar vijandigheid en cardiovasculair risico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In de samenvatting wordt vijandigheid als belangrijker risicocomponent dan het brede Type A-label beschreven."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c611b461-61ef-5207-bf98-7c81320a1125",
+    "nameNL": "Coping-vragenlijsten",
+    "nameEN": "Coping questionnaires",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Coping."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 5 / copingmethoden en meting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: copingstrategieën zoals probleemoplossing, emotionele expressie, afleiding en acceptatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting vermeldt dat er honderden copingmethoden bestaan die in tientallen meetinstrumenten zijn geclassificeerd."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Veel copingvragenlijsten zijn retrospectief, soms onbetrouwbaar en voorspellen mentale of fysieke gezondheid niet altijd goed."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit item is generiek omdat de Stuvia-samenvatting hier geen specifieke schaalnaam noemt, maar wel expliciet meetinstrumenten voor coping bespreekt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Coping is situationeel: dezelfde persoon kan in verschillende contexten andere strategieën gebruiken."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "300aad47-cf9b-5eb5-8ee7-8fbc633e104e",
+    "nameNL": "Coping-dagboekmethode",
+    "nameEN": "Coping diary method",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Coping."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 5 / meting van coping."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: copingreacties dichter bij het moment waarop ze plaatsvinden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als betrouwbaarder alternatief dan brede retrospectieve vragenlijsten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Vraagt meer inspanning van deelnemers en kan door herhaalde registratie bewustzijn of gedrag veranderen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dagboekmethoden verminderen recall bias doordat mensen hun coping niet pas weken later moeten reconstrueren."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c3323268-1ac2-567a-ae41-cb2f153d061d",
+    "nameNL": "Risicoprofielvragenlijst",
+    "nameEN": "Health risk profile questionnaire",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Preventie en gezondheidsbevordering."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 6 / primaire preventie en gezondheidsrisico's in kaart brengen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: gezondheidsrisico's, gedrag en risicofactoren via vragenlijsten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als manier om risicoprofielen op te stellen en advies op maat te geven."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Zelfrapportage kan sociaal wenselijk of onnauwkeurig zijn; resultaten zijn screeningsinformatie, geen diagnose."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is een instrumentklasse, geen specifieke gestandaardiseerde vragenlijstnaam in de samenvatting."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ad3ffa4e-f202-5496-a283-e3304f0d82f7",
+    "nameNL": "Genetische screening",
+    "nameEN": "Genetic screening",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Preventie en screening."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 6 / primaire preventie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: genetische risico's vóór of tijdens zwangerschap of in preventieve context."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als preventieve medische zorg om risico's vroegtijdig in kaart te brengen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Kan psychologische en familiale gevolgen hebben; interpretatie vraagt genetische counseling en context."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Genetische screening is eerder een medische teststrategie dan een psychologische schaal, maar wordt expliciet als preventieve screening vermeld."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "685fb7ba-5226-5824-aeaa-7d7cfcd14c36",
+    "nameNL": "Genetische tests",
+    "nameEN": "Genetic tests",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Preventie en medische besluitvorming."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 6 en 7 / informatieverstrekking en middelengebruik."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: genetische kenmerken die relevant kunnen zijn voor risico of medicatiekeuze."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting vermeldt genetische tests als beschikbaar, maar weinig gebruikt door angst of familieconflicten; ook medicatiekeuze kan ermee ondersteund worden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Niet elke genetische associatie is klinisch bruikbaar; resultaat vraagt professionele interpretatie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Deze entry is apart van genetische screening omdat de samenvatting genetische tests ook buiten zwangerschap/preventiescreening vermeldt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "b6525bf2-21bd-57d4-a241-bd4e402d70e0",
+    "nameNL": "Bloeddrukmeting",
+    "nameEN": "Blood pressure measurement",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Cardiovasculaire screening."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 6 / secundaire preventie en regelmatige gezondheidscontroles."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: systolische en diastolische bloeddruk als indicator voor cardiovasculair risico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als voorbeeld van regelmatige medische controle en als objectieve lichamelijke meting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Eenmalige metingen kunnen beïnvloed worden door stress, moment van de dag, activiteit en meetomstandigheden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Voor gezondheidspsychologie is bloeddruk belangrijk omdat stress en sympathische activatie bloeddruk tijdelijk kunnen verhogen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Herhaalde of ambulante metingen geven vaak een betrouwbaarder beeld dan één losse meting."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "a4342944-220e-52fe-8432-2cffae979e2d",
+    "nameNL": "Oogtest",
+    "nameEN": "Vision screening / eye test",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Preventieve screening."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 6 / secundaire preventie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: visuele functies of oogproblemen, bijvoorbeeld in schoolcontext."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als voorbeeld van regelmatige gezondheidscontrole."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Screening spoort mogelijke problemen op, maar vervangt geen uitgebreid oogheelkundig onderzoek wanneer afwijkingen worden gevonden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit item is opgenomen omdat de samenvatting oogtesten expliciet als preventieve controle vermeldt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "d5e57afc-f00f-50ba-8d3b-3f3227ed6d67",
+    "nameNL": "Mammografie",
+    "nameEN": "Mammography",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Kankerscreening."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 6 / secundaire preventie en screenings."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: borstweefsel met röntgenbeeldvorming, gericht op vroege opsporing van borstkanker."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als aanbevolen screening op basis van leeftijd en risicofactoren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Screening verlaagt onzekerheid niet altijd; angst, risicoperceptie en persoonlijkheid kunnen deelname beïnvloeden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In de samenvatting wordt mammografie ook gebruikt als voorbeeld van gedrag dat door tailoring en angst voor borstkanker beïnvloed kan worden."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "0917ef1e-aa91-58fa-9759-f780dc913e40",
+    "nameNL": "Colonoscopie",
+    "nameEN": "Colonoscopy",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Kankerscreening."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 6 / secundaire preventie en screenings."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: darminspectie om afwijkingen zoals poliepen of colorectale kanker vroeg op te sporen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als aanbevolen screening op basis van leeftijd en risicofactoren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Invasiever dan vragenlijsten; deelname kan beïnvloed worden door angst, schaamte, kennis en toegang tot zorg."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is een medisch screeningsinstrument, maar relevant in gezondheidspsychologie omdat gedrag en risicoperceptie bepalen of mensen eraan deelnemen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "0688b134-366f-5c0f-ad63-5fd3bf482558",
+    "nameNL": "Cholesteroltest",
+    "nameEN": "Cholesterol test",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Cardiometabole screening."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 6 / informatieverstrekking rond cholesterol."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: cholesterolwaarden, vaak met onderscheid tussen LDL en HDL."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting verwijst naar weten waar mensen hun cholesterol kunnen laten testen als onderdeel van voedings- en gedragsverandering."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Cholesterolwaarden worden beïnvloed door voeding, genetica, medicatie, leeftijd en andere risicofactoren; interpretatie gebeurt best in cardiovasculair risicoprofiel."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: LDL wordt in de samenvatting gekoppeld aan atherosclerose, HDL aan bescherming tegen plaquevorming."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "72525a22-98b5-578b-935a-82f0ce7912ab",
+    "nameNL": "Body Mass Index",
+    "nameEN": "Body Mass Index (BMI)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Gewicht en obesitas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 8 / gewenst versus ongewenst gewicht."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: gewicht in verhouding tot lengte: gewicht in kilogram gedeeld door lengte in meter in het kwadraat."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als huidige standaard om overgewicht en obesitas te classificeren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: BMI zegt niet alles over vetpercentage, vetverdeling of spiermassa; medische metingen kunnen nauwkeuriger zijn."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: BMI."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In de samenvatting worden grenzen genoemd: BMI ≥ 25 overgewicht, ≥ 30 obesitas, ≥ 40 morbide obesitas."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "e2c56215-6d95-57ba-a4f4-0e1daf863fd5",
+    "nameNL": "Medische lichaamsvetmeting",
+    "nameEN": "Medical body fat assessment",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Gewicht en obesitas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 8 / BMI-nuance."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: lichaamsvet of vetverdeling nauwkeuriger dan BMI alleen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting vermeldt dat medische metingen nauwkeuriger zijn dan BMI om vetpercentage te beoordelen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Er wordt in de samenvatting geen specifieke methode genoemd; dit is daarom als generieke instrumentklasse opgenomen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Voor gezondheidsrisico is vetverdeling belangrijk: buikvet wordt in de samenvatting als risicovoller beschreven dan vet op heupen of dijen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "f5ed52be-48ec-562e-8ef3-a8159b9623d0",
+    "nameNL": "Glycemische index",
+    "nameEN": "Glycemic Index (GI)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Voeding en metabolisme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 8 / gewichtsbeheersing."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: snelheid en intensiteit waarmee koolhydraten worden omgezet naar suiker in het bloed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd bij voedingsadvies en gewichtsbeheersing, vooral rond suikers met hoge glycemische index."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: De glycemische index is een voedselmaat, geen persoonsschaal; context zoals portiegrootte blijft belangrijk."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: GI. De glycemische lading houdt naast snelheid ook rekening met hoeveelheid koolhydraten, maar die term staat niet expliciet in de samenvatting."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "74bb5301-8f84-55e4-9803-c80d0b4267c5",
+    "nameNL": "Bloedsuikermeting",
+    "nameEN": "Blood glucose measurement",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Diabetes en zelfmanagement."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 13 / diabetes en therapietrouw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: glucosewaarden, bijvoorbeeld bij diabetesmanagement."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting noemt onjuiste bloedsuikermeting als veelvoorkomende fout bij diabeteszorg."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Waarden hangen af van timing, voeding, medicatie, meetmateriaal en interpretatie door de patiënt."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is belangrijk in gezondheidspsychologie omdat zelfmonitoring, gezondheidsgeletterdheid en therapietrouw sterk bepalen hoe bruikbaar de meting is."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc4fabd1-8a4e-595d-92d2-6adb1fd1547b",
+    "nameNL": "Zelfrapportage van therapietrouw",
+    "nameEN": "Self-report adherence measurement",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Therapietrouw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 9 / therapietrouw meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: in welke mate patiënten aangeven dat ze medicatie, afspraken, oefeningen of leefstijladviezen opvolgen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als een van de methoden om adherence/compliance te meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Vaak te positief door herinneringsfouten, schaamte of sociaal wenselijke antwoorden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Zelfrapportage is goedkoop en makkelijk, maar combineer je best met objectievere methoden wanneer nauwkeurigheid cruciaal is."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "649b078b-9237-5185-818c-1fe3988d692c",
+    "nameNL": "Pillen tellen",
+    "nameEN": "Pill count",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Therapietrouw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 9 / therapietrouw meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: hoeveel medicatie overblijft in vergelijking met het voorschrift."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als methode om medicatie-inname indirect te controleren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Pillen kunnen weggegooid of verplaatst zijn; de methode bewijst niet dat medicatie correct is ingenomen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Pill count is praktischer dan biochemische tests maar minder direct dan elektronische monitoring of bloed/urinemarkers."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "7ec2c6ca-7db1-5cb3-99f5-0cfddc584dbd",
+    "nameNL": "Elektronische dispenser",
+    "nameEN": "Electronic medication dispenser",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Therapietrouw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 9 / therapietrouw meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: moment waarop medicatieverpakking of dispenser wordt geopend."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als methode die registreert wanneer medicatie wordt ingenomen of ten minste geopend."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Openen betekent niet automatisch innemen; technisch falen of gedeelde medicatie kan interpretatie verstoren."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Wordt vaak gebruikt als objectievere adherence-indicator dan zelfrapportage."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ee281f34-efda-5464-b7f7-6f62351677f8",
+    "nameNL": "Biochemische therapietrouwtest",
+    "nameEN": "Biochemical adherence test",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Therapietrouw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 9 / therapietrouw meten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: aanwezigheid van medicatie of metabolieten in bloed of urine."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als methode om aan te tonen of medicatie recent is ingenomen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Invasiever, duurder en afhankelijk van farmacokinetiek; meet vooral recente inname, niet altijd langdurige therapietrouw."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is een directe methode, maar interpretatie vereist medische kennis over dosering, halfwaardetijd en metabolisme."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "5ebe7c64-9f0b-5714-ba50-cd8b439fd493",
+    "nameNL": "Psychologisch intake-interview",
+    "nameEN": "Psychological intake interview",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Klinische beoordeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 10 / eerste stappen in het hulpverleningsproces."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: emotionele, cognitieve en gedragsmatige problemen bij medische patiënten, vaak via gesprek met patiënt en/of familie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als standaardstap na raadpleging van het medisch dossier."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Afhankelijk van gespreksvaardigheid, openheid van patiënt en kwaliteit van informatie van derden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is breder dan een DSM-interview: het verzamelt klinische context, coping, steun, klachten en hulpvraag."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "064d2da6-9710-5c54-8ea0-d5b8e2b3f06b",
+    "nameNL": "DSM-diagnostisch interview",
+    "nameEN": "DSM diagnostic interview",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Klinische beoordeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 10 / emotionele aanpassing beoordelen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: psychische stoornissen volgens DSM-criteria."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als gestructureerde maar tijdrovende meetmethode."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Diagnostiek volgens DSM is grondig, maar in medische context moet men ook rekening houden met lichamelijke aandoeningen en behandelingen die symptomen beïnvloeden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: DSM staat voor Diagnostic and Statistical Manual of Mental Disorders. De samenvatting noemt geen specifieke interviewnaam zoals SCID, dus dit item blijft generiek."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "cdae62e3-512d-5158-8138-7992e9862569",
+    "nameNL": "Probleemspecifieke vragenlijst voor depressie of angst",
+    "nameEN": "Problem-specific depression or anxiety questionnaire",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Klinische beoordeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 10 / emotionele aanpassing beoordelen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: één specifiek emotioneel probleem, bijvoorbeeld depressie of angst."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als vragenlijsttype naast multidimensionale instrumenten zoals MMPI-2."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Specifieke vragenlijsten zijn gericht, maar missen bredere persoonlijkheids- of symptoomcontext."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De samenvatting noemt hier geen specifieke depressie- of angstschaalnaam; daarom is deze entry als instrumentklasse opgenomen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "34283b03-b699-5bbb-b829-3da5994a9bd2",
+    "nameNL": "Minnesota Multiphasic Personality Inventory-2",
+    "nameEN": "Minnesota Multiphasic Personality Inventory-2 (MMPI-2)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Klinische beoordeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 10 / psychologische beoordeling van medische patiënten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: meerdere psychologische dimensies, waaronder hypochondrie, depressie en hysterie in de samenvatting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als multidimensionale vragenlijst bij medische patiënten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Breed instrument; interpretatie vraagt psychometrische expertise en normatieve context."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: MMPI-2."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In medische context is het relevant omdat lichamelijke klachten, depressie en copingstijl elkaar kunnen beïnvloeden."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "e2c55d5d-b647-5474-b359-1c15462fed3a",
+    "nameNL": "Millon Behavioral Medicine Diagnostic",
+    "nameEN": "Millon Behavioral Medicine Diagnostic (MBMD)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Klinische beoordeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 10 / gespecialiseerde tests voor medische patiënten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: psychosociale factoren, besluitvormingsproblemen, copingstijl, negatieve gewoontes, stressmoderatoren en verwachte therapietrouw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als zelfrapportagetest voor medische patiënten, toegepast in pijncentra en oncologie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Gespecialiseerd instrument; resultaten moeten in medische context en met professionele interpretatie gebruikt worden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: MBMD."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De samenvatting noemt 165 items."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "e4244e5b-1ff1-5eba-944b-51ee41db1c2b",
+    "nameNL": "Psychosocial Adjustment to Illness Scale",
+    "nameEN": "Psychosocial Adjustment to Illness Scale (PAIS)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Klinische beoordeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 10 / gespecialiseerde tests voor medische patiënten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: psychosociale aanpassing aan ziekte op zeven domeinen, zoals gezondheidszorgoriëntatie, beroepsomgeving, thuissituatie, seksuele relaties, familie, sociale omgeving en psychisch welbevinden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als schaal met 46 items en zelfrapportage- of interviewvorm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Meet aanpassing, niet alleen symptomen; interpretatie moet rekening houden met ziektetype en context."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: PAIS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In de samenvatting wordt betrouwbaarheid genoemd bij nierziekten, hypertensie en kanker."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fed27ef-3b09-5db2-87cf-4412f661d6dc",
+    "nameNL": "Pijninterview",
+    "nameEN": "Pain interview",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: zelfrapportage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / zelfrapportage bij pijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: locatie, aard, intensiteit, timing, geschiedenis, psychologische toestand, levensstijl, sociale context, impact en coping bij pijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als belangrijke methode, vooral bij chronische pijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Afhankelijk van herinnering, taalvaardigheid en bereidheid om pijn te beschrijven."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Een pijninterview is essentieel om ruwe pijnscores te interpreteren: dezelfde intensiteit kan verschillende betekenis en impact hebben."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "8910ed52-5f9f-5851-842f-56b9f34546cc",
+    "nameNL": "Visuele Analoge Schaal",
+    "nameEN": "Visual Analogue Scale (VAS)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: zelfrapportage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnbeoordelingsschalen en dagboeken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijnintensiteit door een punt te markeren op een lijn met ankers aan beide uiteinden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als eenvoudige pijnschaal die al bij kinderen vanaf ongeveer 5 jaar kan worden gebruikt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Meet vooral intensiteit; zegt weinig over soort pijn, betekenis, coping of sociale impact."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: VAS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In de beknopte samenvatting wordt een score van 75-100 op een visuele schaal als ernstige pijn beschreven."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "a59a222e-5539-50fc-b9ca-3ed1eb51165e",
+    "nameNL": "Boxschaal / numerieke beoordelingsschaal",
+    "nameEN": "Numeric Rating Scale / Box Scale (NRS)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: zelfrapportage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnbeoordelingsschalen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijnintensiteit via een cijfer, vaak 0 tot 10."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als schaal waarbij mensen een getal kiezen dat hun pijnniveau weergeeft."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Cijfers zijn subjectief; een 7 bij de ene persoon is niet automatisch hetzelfde als een 7 bij iemand anders."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting voor numerieke pijnscores: NRS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Sterk voor snelle herhaalde metingen en opvolging van verandering binnen dezelfde persoon."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "8dcc0b0a-b1e9-5962-a793-56c755bffda6",
+    "nameNL": "Verbale beoordelingsschaal",
+    "nameEN": "Verbal Rating Scale (VRS)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: zelfrapportage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnbeoordelingsschalen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijnintensiteit via beschrijvende woorden zoals mild, hevig of ondraaglijk."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als schaal waarbij patiënten een woord of zin kiezen uit gegeven categorieën."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Taal- en cultuurgevoelig; woorden kunnen voor mensen verschillende intensiteit betekenen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: VRS. Handig wanneer een cijfer of lijn minder begrijpelijk is."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "187e6485-c320-58bd-b003-ba58e4a0f578",
+    "nameNL": "Pijndagboek",
+    "nameEN": "Pain diary",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: zelfrapportage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnbeoordelingsschalen en dagboeken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: tijdstip, situatie, medicatiegebruik, reacties op pijn en effectiviteit van hulp."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als gedetailleerd verslag van pijnervaringen en patronen doorheen de dag."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Vraagt discipline; registratie kan de aandacht voor pijn verhogen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Pijndagboeken zijn nuttig om triggers, fluctuaties en respons op medicatie of copingstrategieën te zien."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1c4dd236-8eae-5b24-a4fd-d98cfed67dd3",
+    "nameNL": "McGill Pain Questionnaire",
+    "nameEN": "McGill Pain Questionnaire (MPQ)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: vragenlijsten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnvragenlijsten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: sensorische, affectieve en evaluatieve dimensies van pijn via woordgroepen; resultaat omvat Pain Rating Index en Present Pain Intensity."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als bekendste en meest gebruikte pijnvragenlijst."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Taalgevoelig; moeilijker bij kinderen onder ongeveer 12 jaar of bij beperkte taalvaardigheid."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: MPQ."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Sterk omdat het pijn multidimensionaal benadert, niet alleen als intensiteitsscore."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c74cd182-72f7-56b9-ba46-e92a724ab8cf",
+    "nameNL": "Multidimensional Pain Inventory",
+    "nameEN": "Multidimensional Pain Inventory (MPI)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: vragenlijsten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / alternatieve pijnvragenlijsten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijn en psychosociale effecten van pijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als alternatief voor de MPQ dat pijn en psychosociale impact nauwkeurig beoordeelt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Breder dan pijnintensiteit; interpretatie vraagt zicht op functioneren en sociale context."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: MPI."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In onderzoek wordt vaak de West Haven-Yale Multidimensional Pain Inventory bedoeld, maar de samenvatting noemt alleen Multidimensional Pain Inventory."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "dd8f10c5-23e4-58fd-96c2-aeb81ee80dab",
+    "nameNL": "Gedragsbeoordeling van pijn",
+    "nameEN": "Behavioral pain assessment",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: gedragsobservatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / gedragsbeoordelingsmethoden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: observeerbaar pijngedrag zoals grimassen, zuchten, kreunen, voorzichtig bewegen, hulp vragen of activiteit vermijden."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als methode om pijn in gestructureerde klinische sessies of dagelijkse situaties te beoordelen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Pijngedrag wordt beïnvloed door context, sociale bekrachtiging en coping; afwezig pijngedrag betekent niet geen pijn."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gedragsbeoordeling vult zelfrapportage aan, vooral wanneer communicatie moeilijk is of sociale factoren belangrijk zijn."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "5b498888-fdaf-5a14-8c39-9d264e6ee601",
+    "nameNL": "UAB Pain Behavior Scale",
+    "nameEN": "UAB Pain Behavior Scale",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: gedragsobservatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijn gedrag beoordelen in gestructureerde klinische sessies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijngedrag tijdens routines zoals lopen, schoenen uittrekken en buigen; gedragingen zoals grimassen, zuchten en voorzichtig bewegen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als schaal afgenomen door verpleegkundigen tijdens routines, met scoring van geen tot frequent."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Afhankelijk van observatortraining en situatie; meet gedrag, niet rechtstreeks de volledige pijnervaring."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: UAB verwijst naar University of Alabama at Birmingham, waar dit type pijn-gedragsschaal historisch aan gekoppeld is."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "f7a2f10f-ae30-5341-8442-cce0a0ba3e80",
+    "nameNL": "Pain Behaviors Self Report",
+    "nameEN": "Pain Behaviors Self Report",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: gedragsobservatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijngedrag beoordelen in alledaagse activiteiten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: frequentie van pijngedragingen door zelfrapportage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als vragenlijst waarin patiënten de frequentie van 20 pijngedragingen beoordelen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Zelfrapportage van gedrag kan vertekening bevatten; combinatie met observatie kan sterker zijn."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit instrument helpt de sociale instandhouding van pijnklachten zichtbaar maken, bijvoorbeeld reacties van partner of familie."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "26a90963-4f42-5fd8-b48f-0fbfd00224d6",
+    "nameNL": "Elektromyografie",
+    "nameEN": "Electromyography (EMG)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: psychofysiologie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / psychofysiologische pijnmetingen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: elektrische activiteit van spieren als indicator van spierspanning."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als relevant bij spanningshoofdpijn en rugpijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Correlatie met pijn is vooral bruikbaar bij metingen over langere tijd; spierspanning is niet hetzelfde als pijnervaring."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: EMG."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: EMG is objectiever dan zelfrapportage, maar blijft gevoelig voor beweging, houding en context."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "83936b93-94c7-505a-a9f4-7066d62e3364",
+    "nameNL": "Autonome activiteitsmetingen bij pijn",
+    "nameEN": "Autonomic activity measures for pain",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: psychofysiologie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / psychofysiologische pijnmetingen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: hartslag en huidgeleiding als autonome reacties bij pijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Worden genoemd als psychofysiologische metingen, maar minder betrouwbaar omdat ze sterk samenhangen met stress en aandacht."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Sterker gekoppeld aan pijnperceptie dan aan de fysieke stimulus; beïnvloedbaar door dieet, stress en aandacht."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Autonome metingen zijn aanvullend, niet voldoende als enige pijnmaat."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "1984e394-0a42-5bc2-9434-45bb433adf11",
+    "nameNL": "Elektro-encefalografie",
+    "nameEN": "Electroencephalography (EEG)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: psychofysiologie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / hersenactiviteit bij pijn."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: elektrische activiteit van de hersenen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als onderzoek waarbij hersenactiviteit wordt gemeten en dat kan samenhangen met pijnstimuli."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: EEG-signalen worden beïnvloed door aandacht, arousal, medicatie en technische factoren."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: EEG."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In de samenvatting wordt EEG ook als 'hersenfilmpje' omschreven."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "85652cdf-64ea-5df1-90a9-c2a8aaba3d17",
+    "nameNL": "Evoked potentials",
+    "nameEN": "Evoked potentials",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: psychofysiologie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / EEG en evoked potentials."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: veranderingen in EEG na een stimulus."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als maat waarbij pijnstimuli grotere pieken veroorzaken naarmate intensiteit toeneemt; er is ook verband met medicatiegebruik en zelfgerapporteerde pijnintensiteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Niet pijnspecifiek: responsen kunnen ook door aandacht, verwachting en andere stimuluskenmerken veranderen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Evoked potentials zijn vooral onderzoeks- en specialistische maten, nuttig als aanvulling op subjectieve pijnscores."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ba9e1e62-17e7-58f4-9818-d4856d827c8a",
+    "nameNL": "Cold-pressor test",
+    "nameEN": "Cold pressor test",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn: experimentele meting."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / geslacht en pijnervaring."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijnreactie of pijnervaring bij blootstelling aan koude stimulus."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als voorbeeld waarbij vrouwen hogere pijnscores rapporteren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Laboratoriumtest; resultaten zijn niet automatisch gelijk aan klinische pijn in het dagelijks leven."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De cold-pressor test wordt vaak gebruikt in pijnonderzoek om pijntolerantie, pijnintensiteit of fysiologische responsen te bestuderen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c3f5c75b-ece8-5080-ba26-0a8045102023",
+    "nameNL": "Gezichtjesschaal / visuele pijnschaal voor kinderen",
+    "nameEN": "Faces pain scale / pediatric visual pain scale",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnmeting bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijnintensiteit bij kinderen via visuele gezichten of eenvoudige visuele categorieën."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als leeftijdsspecifieke zelfrapportagemethode voor kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Jonge kinderen kunnen gezichten interpreteren als emotie in plaats van pijn; uitleg en leeftijdsaanpassing zijn belangrijk."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De samenvatting noemt visuele schalen zoals gezichtjes, zonder één specifieke officiële faces-schaal te noemen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "f19d84b6-399c-5ce7-a5d6-13ef3aa61c3e",
+    "nameNL": "Pediatric Pain Questionnaire",
+    "nameEN": "Pediatric Pain Questionnaire (PPQ)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnmeting bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijn bij kinderen en de psychosociale impact ervan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als meerdimensionale vragenlijst voor kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Moet afgestemd worden op leeftijd, taalontwikkeling en betrokkenheid van ouders of zorgverleners."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: PPQ. De samenvatting benadrukt dat pijnmeting bij kinderen ontwikkelingssensitief moet zijn."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "30744966-5515-51f0-a566-06c5788849ed",
+    "nameNL": "Children’s Comprehensive Pain Questionnaire",
+    "nameEN": "Children’s Comprehensive Pain Questionnaire (CCPQ)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnmeting bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: pijn bij kinderen en psychosociale impact, inclusief gezinsreacties."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als meerdimensionale vragenlijst voor kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Vraagt aandacht voor ontwikkelingsniveau, begrip van vragen en de rol van ouders in rapportage."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Gebruikelijke afkorting: CCPQ. De samenvatting noemt dit naast de Pediatric Pain Questionnaire."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "d1d22c4a-17f3-58a6-a3c4-b3d4b6247407",
+    "nameNL": "Pediatrische gedragsobservatie van pijn",
+    "nameEN": "Pediatric behavioral pain observation",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnmeting bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: non-verbale pijnsignalen zoals huilen, wrijven, gezichtsuitdrukking, kaakspanning en gedrag tijdens routines of sessies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als methode via pijn-dagboeken of gestructureerde sessies; pediatrisch verpleegkundigen worden als vaak betrouwbaarder dan ouders beschreven."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Ouders en observatoren kunnen beïnvloed worden door angst, verwachtingen of eerdere ervaringen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit item is opgenomen als instrumentklasse omdat de samenvatting naast specifieke vragenlijsten ook gedragsobservatie expliciet vermeldt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "a7befc12-8c2e-59f2-ba65-e6c0a266a503",
+    "nameNL": "Pediatrische fysiologische pijnmeting",
+    "nameEN": "Pediatric physiological pain measurement",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Pijn bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 11 / pijnmeting bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: fysiologische signalen zoals hartslag en bloeddruk bij kinderen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als vergelijkbaar met metingen bij volwassenen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Fysiologische stressreacties zijn niet pijnspecifiek; angst, beweging en context kunnen dezelfde signalen beïnvloeden."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Bij jonge kinderen zijn fysiologische en gedragsmaten belangrijk omdat taalontwikkeling pijnrapportage beperkt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c55ad059-85b1-5802-8037-44023e4e63e6",
+    "nameNL": "CD4-celtelling",
+    "nameEN": "CD4 cell count",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: HIV/AIDS en immuunfunctie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / van HIV naar AIDS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: aantal CD4- of T-helpercellen als indicator van immuunfunctie bij HIV."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als criterium in de AIDS-diagnose wanneer CD4-aantal laag is."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: CD4 is een medische biomarker; psychologische factoren kunnen indirect relevant zijn via stress, coping en therapietrouw."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: CD4-cellen coördineren immuunreacties. Bij HIV worden ze aangetast, waardoor opportunistische infecties kunnen optreden."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "b645cb0e-7ece-5f28-9c35-5bd5ccaefbc6",
+    "nameNL": "Viral load-test",
+    "nameEN": "Viral load test",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: HIV/AIDS en therapietrouw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / HIV en AIDS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: hoeveelheid HIV in het bloed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als test die de hoeveelheid HIV in bloed meet en als maat voor effectiviteit van ART."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Viral load hangt sterk samen met therapietrouw en behandeling; interpretatie gebeurt medisch."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In gezondheidspsychologie is viral load relevant omdat psychosociale interventies therapietrouw en soms virale belasting kunnen beïnvloeden."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "909be1d5-095f-5fd9-bb96-3668953bcc3f",
+    "nameNL": "HIV-bloedtest / detecteerbaarheid in bloed",
+    "nameEN": "HIV blood test / detectability in blood",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: HIV/AIDS en therapietrouw."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / effectiviteit van antiretrovirale therapie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: detecteerbaarheid van HIV in bloedtests."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting vermeldt dat bij goede therapietrouw geen HIV detecteerbaar is in bloedtests."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: De samenvatting noemt geen specifieke assaynaam; daarom is dit als generieke medische testcategorie opgenomen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Niet-detecteerbaar betekent in de medische context dat de virale belasting onder de detectiegrens van de gebruikte test ligt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "c01c9fe5-b1aa-558a-be18-d5a7e062cd40",
+    "nameNL": "Urinetest als biochemische verificatie",
+    "nameEN": "Urine test for biochemical verification",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Middelengebruik en behandeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 7 / middelengebruik en behandeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: aanwezigheid van middelen of metabolieten in urine als controle op zelfrapportage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als biochemische verificatie van zelfrapportages bij behandeling van middelengebruik."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Meet vooral recente inname of blootstelling; timing, metabolisme en testgevoeligheid bepalen interpretatie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit verschilt van biochemische therapietrouwtests: hier gaat het vooral om middelengebruik of abstinentie, niet om voorgeschreven medicatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Urinetests zijn objectiever dan zelfrapportage, maar vragen duidelijke afspraken rond privacy en vertrouwen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfd1b221-cd2f-568f-b527-1425e012ee96",
+    "nameNL": "Medische test voor medicatiekeuze",
+    "nameEN": "Medical test for medication selection",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Middelengebruik en behandeling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 7 / behandeling van tabaks- en middelengebruik."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: biologische of genetische informatie die kan helpen bij keuze of effectiviteit van medicatie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting vermeldt dat medische tests kunnen helpen bij medicatiekeuze omdat genetica een rol kan spelen in effectiviteit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: De samenvatting specificeert geen testnaam; daarom is dit als generieke testcategorie opgenomen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In moderne zorg valt dit vaak onder farmacogenetisch of medisch gepersonaliseerd voorschrijven, maar de samenvatting houdt het algemeen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "5f287209-fa71-5f98-ad20-655d2697614d",
+    "nameNL": "Pre-exercise medische screening",
+    "nameEN": "Pre-exercise medical screening",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Beweging en veiligheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 8 / risico's van lichaamsbeweging."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: medische risico's voorafgaand aan lichaamsbeweging, vooral bij bestaande hartproblemen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd in verband met zeldzame plotse hartstilstand bij inspanning en medische screening."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Screening verlaagt risico niet tot nul en moet afgestemd worden op leeftijd, klachten en risicoprofiel."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is relevant omdat gezondheidsbevordering rond beweging ook veiligheid en risicobeoordeling vraagt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "2485d12a-7fa7-5ffb-86fd-ac04fe18cf63",
+    "nameNL": "Milieublootstellingstest",
+    "nameEN": "Environmental exposure test",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Milieu en gezondheid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 8 / veiligheid en blootstelling aan giftige stoffen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: mogelijke blootstelling aan chemische stoffen of vervuiling."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: De samenvatting vermeldt dat mensen voorzorgsmaatregelen kunnen nemen en testen kunnen aanvragen bij zorgen over gevaarlijke stoffen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Er wordt geen specifieke test genoemd; interpretatie hangt sterk af van stof, dosis, duur en meetmethode."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit is opgenomen als generieke meetcategorie omdat de tekst expliciet over testen aanvragen spreekt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "cadf87f4-bc19-5e21-8c47-19eaa827b34e",
+    "nameNL": "Cognitieve tests bij dementie/Alzheimer",
+    "nameEN": "Cognitive tests for dementia/Alzheimer's disease",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Chronische neurologische aandoeningen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 13 / ziekte van Alzheimer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: cognitief functioneren en tekenen van achteruitgang."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Worden genoemd als onderdeel van diagnose, samen met medische tekenen en vaak in gespecialiseerde centra."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Cognitieve tests geven geen volledige diagnose op zichzelf; medische evaluatie en differentiaaldiagnose blijven nodig."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: In gezondheidspsychologie zijn cognitieve tests relevant omdat ziekteprogressie, zelfstandigheid en coping ermee samenhangen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ac49bcb1-2ffb-5c40-b04a-dfeb74c00070",
+    "nameNL": "Kankergerelateerde bloed- en urinetests",
+    "nameEN": "Cancer-related blood and urine tests",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Kankerdiagnostiek."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / diagnose en behandeling van kanker."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: afwijkende stoffen in bloed of urine die kunnen wijzen op ziekteprocessen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Worden genoemd als diagnostische tests die afwijkende stoffen detecteren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Niet alle kankers geven duidelijke bloed- of urineafwijkingen; vaak aanvullend op beeldvorming, biopsie en klinisch onderzoek."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit item is breed geformuleerd omdat de samenvatting geen specifieke tumormarkers noemt."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "a31f8ecd-96b0-5fda-a1aa-e58e3c83ab56",
+    "nameNL": "Radiologische beeldvorming",
+    "nameEN": "Radiological imaging",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Kankerdiagnostiek."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / diagnose en behandeling van kanker."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: zichtbare afwijkingen of tumoren via beeldvorming, zoals X-ray of MRI."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als manier om tumoren zichtbaar te maken."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Beeldvorming moet worden geïnterpreteerd door specialisten en toont niet altijd zeker of een afwijking kwaadaardig is."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: De samenvatting noemt X-ray en MRI als voorbeelden binnen radiologische beeldvorming."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "09354439-d6c5-5eeb-b91d-ea11e876b64f",
+    "nameNL": "Röntgenonderzoek",
+    "nameEN": "X-ray imaging",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Medische beeldvorming."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / diagnose kanker en secundaire preventie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: interne structuren via röntgenstraling; in de samenvatting ook bij mammografie als röntgen van de borsten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als vorm van beeldvorming en als basisprincipe bij mammografie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Gebruikt ioniserende straling; keuze hangt af van klinische indicatie."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Omdat X-ray afzonderlijk genoemd wordt naast MRI, is het als apart item toegevoegd."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "b1850c5f-4a5a-56cc-8487-29d8d06d7ed4",
+    "nameNL": "MRI",
+    "nameEN": "Magnetic Resonance Imaging (MRI)",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Medische beeldvorming."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / diagnose kanker."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: lichaamsstructuren en mogelijke tumoren via magnetische resonantiebeeldvorming."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als voorbeeld van radiologische beeldvorming."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Niet elke afwijking is met MRI zichtbaar of eenduidig; contra-indicaties en beschikbaarheid spelen mee."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: MRI gebruikt magnetische velden en radiogolven, geen ioniserende straling zoals röntgen."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "2d5fe740-3473-54e5-a8a3-ad190f9276cd",
+    "nameNL": "Biopsie",
+    "nameEN": "Biopsy",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Kankerdiagnostiek."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / diagnose kanker."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: weefselmateriaal voor analyse."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als weefselafname om afwijkend weefsel te analyseren."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Invasiever dan beeldvorming; vaak nodig om aard van een afwijking definitief te bepalen."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Biopsie is vaak cruciaal om te bevestigen of cellen kwaadaardig zijn, maar de samenvatting houdt het bij 'weefselafname voor analyse'."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb65e237-7c56-5cd0-9fe4-c783cf8115c9",
+    "nameNL": "Regelmatige kankercontroles",
+    "nameEN": "Regular cancer check-ups",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: Kankerscreening."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 14 / vroege opsporing en waarschuwingstekens."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: controle van borsten, huid, darmen, testes en baarmoederhals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Worden genoemd als onderdeel van vroege opsporing."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: Controle kan zelfonderzoek, professionele screening of medisch onderzoek omvatten; de samenvatting specificeert dit niet verder."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Dit item bundelt meerdere expliciet genoemde controlelocaties uit tabel 14.5 in één compendiumkaart."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ae791bfb-e910-51cb-a69d-73cf7a6e723d",
+    "nameNL": "HIV-test vóór zwangerschap",
+    "nameEN": "HIV test before pregnancy",
+    "description": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Categorie: HIV/AIDS en preventie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Broncontext: Hoofdstuk 7 / HIV-preventie."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Meet / beoordeelt: HIV-status bij vrouwen vóór zwangerschap om overdracht naar baby te voorkomen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Gebruik in de samenvatting: Wordt genoemd als preventiestrategie bij HIV-overdracht van moeder op kind."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Belangrijke nuance of beperking: De samenvatting noemt geen specifieke testmethode; het item is daarom generiek."
+            }
+          ]
+        }
+      ]
+    },
+    "additions": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Extra: Deze test is relevant omdat tijdige detectie behandeling en preventie van verticale transmissie mogelijk maakt."
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
