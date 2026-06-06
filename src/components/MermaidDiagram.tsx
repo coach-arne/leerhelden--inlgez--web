@@ -1,6 +1,16 @@
-import { useEffect, useId, useState } from 'react'
+import { Maximize2 } from 'lucide-react'
 
-import { loadMermaid } from '@/modules/compendiums/helpers/mermaidConfig'
+import { MermaidSvgDisplay } from '@/components/MermaidSvgDisplay'
+import { Button } from '@/components/ui/button'
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from '@/components/ui/dialog'
+import { ScrollArea } from '@/components/ui/scroll-area'
+import { useMermaidRender } from '@/modules/compendiums/helpers/useMermaidRender'
 import { cn } from '@/lib/utils'
 
 type MermaidDiagramProps = {
@@ -9,42 +19,7 @@ type MermaidDiagramProps = {
 }
 
 export function MermaidDiagram({ code, className }: MermaidDiagramProps) {
-  const reactId = useId().replace(/:/g, '')
-  const [svg, setSvg] = useState<string | null>(null)
-  const [error, setError] = useState<string | null>(null)
-
-  useEffect(() => {
-    let cancelled = false
-
-    setSvg(null)
-    setError(null)
-
-    async function render() {
-      try {
-        const mermaid = await loadMermaid()
-        const { svg: rendered } = await mermaid.render(
-          `mermaid-${reactId}`,
-          code.trim(),
-        )
-
-        if (!cancelled) {
-          setSvg(rendered)
-        }
-      } catch (err) {
-        if (!cancelled) {
-          setError(
-            err instanceof Error ? err.message : 'Kon diagram niet renderen',
-          )
-        }
-      }
-    }
-
-    void render()
-
-    return () => {
-      cancelled = true
-    }
-  }, [code, reactId])
+  const { svg, error, isLoading } = useMermaidRender(code)
 
   if (error) {
     return (
@@ -62,7 +37,7 @@ export function MermaidDiagram({ code, className }: MermaidDiagramProps) {
     )
   }
 
-  if (!svg) {
+  if (isLoading || !svg) {
     return (
       <div
         className={cn('h-24 animate-pulse rounded-md bg-muted', className)}
@@ -72,13 +47,30 @@ export function MermaidDiagram({ code, className }: MermaidDiagramProps) {
   }
 
   return (
-    <div
-      className={cn(
-        'overflow-x-auto rounded-md border border-border bg-card p-4',
-        '[&_svg]:mx-auto [&_svg]:max-w-none',
-        className,
-      )}
-      dangerouslySetInnerHTML={{ __html: svg }}
-    />
+    <div className={cn('group relative', className)}>
+      <MermaidSvgDisplay svg={svg} variant="inline" />
+      <Dialog>
+        <DialogTrigger
+          render={
+            <Button
+              variant="outline"
+              size="icon-sm"
+              className="absolute top-2 right-2 bg-background/90 shadow-sm backdrop-blur-sm"
+              aria-label="Diagram vergroten"
+            />
+          }
+        >
+          <Maximize2 />
+        </DialogTrigger>
+        <DialogContent className="max-w-[95vw] sm:max-w-4xl">
+          <DialogHeader>
+            <DialogTitle>Modelschema</DialogTitle>
+          </DialogHeader>
+          <ScrollArea className="max-h-[80vh] w-full">
+            <MermaidSvgDisplay svg={svg} variant="expanded" />
+          </ScrollArea>
+        </DialogContent>
+      </Dialog>
+    </div>
   )
 }
