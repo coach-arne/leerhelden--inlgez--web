@@ -1,5 +1,8 @@
+import { useEffect } from 'react'
 import { Link, Navigate, useParams } from 'react-router-dom'
+import { useAtomValue } from 'jotai'
 
+import { CompendiumItemNav } from '@/components/CompendiumItemNav'
 import { RichTextViewer } from '@/components/RichTextViewer'
 import {
   Breadcrumb,
@@ -19,10 +22,16 @@ import {
 } from '@/components/ui/card'
 import { Separator } from '@/components/ui/separator'
 import { getCompendiumItemById, getCompendiumMeta } from '@/data/compendiums'
+import { compendiumSearchAtom } from '@/modules/compendiums/atoms'
 import { cn } from '@/lib/utils'
 
 export function CompendiumDetailPage() {
   const { compendium: slug, id } = useParams<{ compendium: string; id: string }>()
+  const searchQuery = useAtomValue(compendiumSearchAtom)
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'instant' })
+  }, [id])
 
   const meta = slug ? getCompendiumMeta(slug) : undefined
   const item = slug && id ? getCompendiumItemById(slug, id) : undefined
@@ -97,6 +106,14 @@ export function CompendiumDetailPage() {
             <RichTextViewer doc={item.additions} />
           </CardContent>
         </Card>
+      )}
+
+      {slug && id && (
+        <CompendiumItemNav
+          slug={slug}
+          currentId={id}
+          searchQuery={searchQuery}
+        />
       )}
     </div>
   )

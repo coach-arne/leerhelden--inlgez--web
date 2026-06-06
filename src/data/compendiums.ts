@@ -2,6 +2,7 @@ import type { CompendiumItem, CompendiumMeta } from '@/types/compendium'
 
 import pathologyRaw from './compendiums/pathology.compendium.json'
 import healthPsychologyModelsRaw from './compendiums/modellen.compendium.json'
+import lichaamssystemenRaw from './compendiums/lichaamssystemen.compendium.json'
 
 type RawCompendiumEntry = {
   id: string
@@ -30,7 +31,13 @@ const SOURCE_ENTRIES: SourceEntry[] = [
     label: 'Gezondheidspsychologie modellen',
     description: 'Modellen in de gezondheidspsychologie.',
     items: healthPsychologyModelsRaw as RawCompendiumEntry[],
-  }
+  },
+  {
+    compendium: 'lichaamssystemen',
+    label: 'Lichaamssystemen',
+    description: 'Lichaamssystemen in de gezondheidspsychologie.',
+    items: lichaamssystemenRaw as RawCompendiumEntry[],
+  },
 ]
 
 export const ALL_COMPENDIUM_META: CompendiumMeta[] = SOURCE_ENTRIES.map(
