@@ -6,6 +6,7 @@ import oefenvragenThema2Raw from './exams/oefenvragen_thema2.json'
 import oefenvragenThema3Raw from './exams/oefenvragen_thema3.json'
 import oefenvragenThema4Raw from './exams/oefenvragen_thema4.json'
 import oefenvragenThema5Raw from './exams/oefenvragen_thema5.json'
+import oefenexamenInstinkersRaw from './exams/oefenexamen_instinkers.json'
 
 type RawExamQuestion = Omit<ExamQuestion, 'source'>
 
@@ -42,6 +43,11 @@ const SOURCE_ENTRIES: ExamSourceEntry[] = [
     source: 'oefenvragen_thema5.json',
     label: 'Oefenvragen Thema 5',
     questions: oefenvragenThema5Raw as RawExamQuestion[],
+  },
+  {
+    source: 'oefenexamen_instinkers.json',
+    label: 'Oefenexamen Instinkers',
+    questions: oefenexamenInstinkersRaw as RawExamQuestion[],
   },
 ]
 

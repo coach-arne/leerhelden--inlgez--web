@@ -1,0 +1,977 @@
+[
+  {
+    "id": "t1-01",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over het biomedisch model is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het gaat ervan uit dat biologische, psychologische en sociale factoren altijd gelijktijdig meespelen."
+      },
+      {
+        "id": "b",
+        "text": "Het verklaart ziekte vanuit fysiologische verstoringen zoals virussen, bacteriën en genetische afwijkingen."
+      },
+      {
+        "id": "c",
+        "text": "Het beschouwt lichaam en geest als gescheiden entiteiten (dualisme)."
+      },
+      {
+        "id": "d",
+        "text": "Het was lange tijd het dominante verklaringsmodel in de westerse geneeskunde."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Biomedisch vs. biopsychosociaal model",
+    "explanation": "Valkuil: NEGATIEVRAAG. b, c en d gelden VOOR het biomedisch model. a beschrijft juist het biopsychosociaal model (Engel, 1977) en geldt dus NIET voor het biomedisch model — dat is het gevraagde antwoord. Wie de 'niet' over het hoofd ziet, kiest een ware uitspraak (b/c/d).",
+    "reference": "Thema 1 (H1)"
+  },
+  {
+    "id": "t1-02",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over gezondheidsdefinities is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Volgens de continuümbenadering van Antonovsky is iemand óf volledig gezond óf volledig ziek."
+      },
+      {
+        "id": "b",
+        "text": "Gezondheid en ziekte zijn volgens Antonovsky twee elkaar uitsluitende categorieën."
+      },
+      {
+        "id": "c",
+        "text": "De WHO omschrijft gezondheid uitsluitend als de afwezigheid van ziekte of gebrek."
+      },
+      {
+        "id": "d",
+        "text": "De WHO omschrijft gezondheid als een toestand van volledig lichamelijk, geestelijk en sociaal welbevinden."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Gezondheidsdefinities (WHO, Antonovsky)",
+    "explanation": "Valkuil: ABSOLUTE TERM + omkering. c bevat 'uitsluitend' en is precies de misvatting die de WHO-definitie verwerpt. a en b spreken het continuüm-idee tegen (een glijdende schaal is geen óf/óf). d is correct.",
+    "reference": "Thema 1 (H1)"
+  },
+  {
+    "id": "t1-03",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de volgende twee stellingen.\n\nI  Het sympathische zenuwstelsel bereidt het lichaam voor op actie (fight-or-flight).\nII  Het parasympathische zenuwstelsel verhoogt de hartslag en verwijdt de pupillen tijdens acute stress."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "I en II zijn juist."
+      },
+      {
+        "id": "b",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "c",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn onjuist."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Sympathisch vs. parasympatisch zenuwstelsel",
+    "explanation": "Valkuil: CLOSE WORDING (verwisseling). I klopt. II beschrijft sympathische activiteit, niet parasympatische — het parasympatische deel doet juist het tegenovergestelde ('rest and digest'). Dus alleen I is juist.",
+    "reference": "Thema 1 (H2)"
+  },
+  {
+    "id": "t2-04",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In het tekstboek wordt besproken of alle stressoren dezelfde fysiologische reacties veroorzaken. Welke uitspraak is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Alle stressoren veroorzaken exact dezelfde fysiologische reactie."
+      },
+      {
+        "id": "b",
+        "text": "De fysiologische reactie wordt uitsluitend bepaald door de intensiteit van de stressor."
+      },
+      {
+        "id": "c",
+        "text": "Er bestaat nog discussie over de vraag of stressreacties algemeen dan wel deels stressor-specifiek zijn."
+      },
+      {
+        "id": "d",
+        "text": "Psychosociale factoren spelen geen enkele rol bij de fysiologische stressreactie."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Algemene vs. specifieke stressreacties",
+    "explanation": "Valkuil: ABSOLUTE TERMEN. a ('exact dezelfde'), b ('uitsluitend') en d ('geen enkele') zijn alle drie te absoluut en daarom fout. c is de genuanceerde — en juiste — uitspraak. Dit is precies het type vraag waar je vorige keer (vraag 7) in liep.",
+    "reference": "Thema 2 (H3)"
+  },
+  {
+    "id": "t2-05",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Volgens het transactionele stressmodel (Lazarus) ontstaat stress wanneer:"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "de objectieve eisen van de situatie de feitelijk beschikbare middelen overstijgen."
+      },
+      {
+        "id": "b",
+        "text": "een persoon de eisen van de situatie als groter inschat dan zijn waargenomen mogelijkheden om ermee om te gaan."
+      },
+      {
+        "id": "c",
+        "text": "de primaire beoordeling (primary appraisal) uitwijst dat er voldoende copingmogelijkheden zijn."
+      },
+      {
+        "id": "d",
+        "text": "er een fysiologische discrepantie is tussen de werkelijke en de gewenste lichaamstoestand."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Transactioneel stressmodel (appraisal)",
+    "explanation": "Valkuil: CLOSE WORDING (objectief vs. waargenomen). a klinkt bijna identiek aan b, maar het transactionele model draait om de SUBJECTIEVE inschatting, niet om objectieve eisen — daarom is b juist en a fout. c beschrijft de tegenovergestelde uitkomst; d is een ander concept.",
+    "reference": "Thema 2 (H3)"
+  },
+  {
+    "id": "t2-06",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over sociale steun is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Volgens de bufferhypothese beschermt sociale steun vooral wanneer iemand onder hoge stress staat."
+      },
+      {
+        "id": "b",
+        "text": "Volgens de directe-effectenhypothese is sociale steun gunstig, ongeacht het stressniveau."
+      },
+      {
+        "id": "c",
+        "text": "Ontvangen steun en waargenomen beschikbare steun zijn niet altijd even sterk met welbevinden verbonden."
+      },
+      {
+        "id": "d",
+        "text": "Volgens de bufferhypothese werkt sociale steun het sterkst bij mensen die weinig of geen stress ervaren."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Buffer- vs. directe-effectenhypothese",
+    "explanation": "Valkuil: NEGATIEVRAAG + omkering. a, b en c kloppen. d draait de bufferhypothese om: die werkt juist het sterkst bij HOGE stress, niet bij lage. d is dus de NIET-juiste uitspraak (= het gevraagde antwoord).",
+    "reference": "Thema 2 (H4)"
+  },
+  {
+    "id": "t2-07",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk kenmerk van het Type A-gedragspatroon hangt volgens onderzoek het sterkst samen met een verhoogd risico op hart- en vaatziekten?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Tijdsdruk en een voortdurend gevoel van haast."
+      },
+      {
+        "id": "b",
+        "text": "Ambitie en competitiviteit."
+      },
+      {
+        "id": "c",
+        "text": "Vijandigheid (hostility)."
+      },
+      {
+        "id": "d",
+        "text": "Een sterke prestatiegerichtheid."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Type A-gedrag en hostility",
+    "explanation": "Valkuil: CLOSE WORDING — alle opties zijn op het eerste gezicht typische Type A-kenmerken. Maar de gezondheidsrelevante kerncomponent is de VIJANDIGHEID (c), niet de drive/haast/ambitie. Die laatste klinken plausibel maar zijn de afleiders.",
+    "reference": "Thema 2 (H4)"
+  },
+  {
+    "id": "t3-08",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Iemand sport momenteel niet, maar heeft zich voorgenomen om binnen twee weken te beginnen en heeft daarvoor al sportkleding gekocht. In welke fase van het Stages of Change-model bevindt deze persoon zich?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De voorbereidingsfase (preparation)."
+      },
+      {
+        "id": "b",
+        "text": "De contemplatiefase."
+      },
+      {
+        "id": "c",
+        "text": "De precontemplatiefase."
+      },
+      {
+        "id": "d",
+        "text": "De actiefase."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Stages of Change: preparatie vs. contemplatie",
+    "explanation": "Valkuil: 'voornemen' klinkt als contemplatie, maar twee signalen wijzen op VOORBEREIDING: (1) concrete actie binnen ~1 maand en (2) al een eerste stap gezet (sportkleding gekocht). Contemplatie = overwegen binnen ~6 maanden zónder concreet plan. Actie pas wanneer het gedrag daadwerkelijk is gestart. Zelfde valkuil als vraag 16 vorige keer.",
+    "reference": "Thema 3 (H6)"
+  },
+  {
+    "id": "t3-09",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende stappen maakt GEEN deel uit van de terugvalpreventiemethode (relapse prevention) van Marlatt?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het leren herkennen van hoog-risicosituaties."
+      },
+      {
+        "id": "b",
+        "text": "Het aanleren van coping-vaardigheden voor risicosituaties."
+      },
+      {
+        "id": "c",
+        "text": "Het oefenen met die coping-vaardigheden in risicosituaties."
+      },
+      {
+        "id": "d",
+        "text": "Het vervangen van het middel door een farmacologisch alternatief (zoals nicotinepleisters of methadon)."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Terugvalpreventie (Marlatt)",
+    "explanation": "Valkuil: NEGATIEVRAAG. a, b en c ZIJN de stappen van Marlatts terugvalpreventie. d (farmacologische vervanging) is een aparte aanpak (substitutie), geen onderdeel van de methode — dat is het gevraagde antwoord. Zelfde val als vraag 22 vorige keer: wie de 'geen' mist, kiest een echte stap.",
+    "reference": "Thema 3 (H7)"
+  },
+  {
+    "id": "t3-10",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat houdt het 'abstinence violation effect' in?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Onthouding van een middel leidt tot lichamelijke ontwenningsverschijnselen."
+      },
+      {
+        "id": "b",
+        "text": "Eén misstap (bv. één sigaret) leidt tot ontmoediging en daarmee tot volledige terugval."
+      },
+      {
+        "id": "c",
+        "text": "Het lichaam ontwikkelt tolerantie, waardoor steeds meer van het middel nodig is."
+      },
+      {
+        "id": "d",
+        "text": "Een persoon ontkent hardnekkig dat hij een verslavingsprobleem heeft."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Abstinence violation effect",
+    "explanation": "Valkuil: CLOSE WORDING — a (ontwenning), b (tolerantie) en c (ontkenning) zijn allemaal bestaande verslavingsbegrippen die hier als afleider dienen. Het abstinence violation effect (d) gaat specifiek over de ontmoediging ná één misstap, die de volledige terugval inluidt.",
+    "reference": "Thema 3 (H7)"
+  },
+  {
+    "id": "t3-11",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de set-point-theorie is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het set-point kan eenvoudig en blijvend verlaagd worden met een caloriearm dieet."
+      },
+      {
+        "id": "b",
+        "text": "Het set-point wordt grotendeels bepaald door erfelijke aanleg."
+      },
+      {
+        "id": "c",
+        "text": "Lichaamsbeweging heeft geen enkele invloed op het lichaamsgewicht."
+      },
+      {
+        "id": "d",
+        "text": "Het set-point verschuift mee met de hoeveelheid koolhydraten die iemand eet."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Set-point-theorie",
+    "explanation": "Valkuil: a en c zijn afleiders (c bevat bovendien 'geen enkele' = absolute term). De set-point-theorie verklaart juist waarom het lichaam zich tegen blijvende gewichtsverandering verzet, en legt de nadruk op erfelijke aanleg (b). d verwart het mechanisme.",
+    "reference": "Thema 3 (H8)"
+  },
+  {
+    "id": "t3-12",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over voedingsvetten en vitaminen is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Transvetten worden algemeen beschouwd als het meest schadelijke type vet voor de bloedvaten."
+      },
+      {
+        "id": "b",
+        "text": "Onverzadigde vetten verhogen het risico op hart- en vaatziekten sterker dan verzadigde vetten."
+      },
+      {
+        "id": "c",
+        "text": "Vitamine A en D zijn in water oplosbare vitaminen."
+      },
+      {
+        "id": "d",
+        "text": "Verzadigd vet verlaagt het LDL-cholesterolgehalte."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Vetten en vitaminen",
+    "explanation": "LET OP — anti-reflex: hier is de uitspraak met een sterke claim ('het meest schadelijke', b) JUIST. Niet elke krachtige formulering is fout. a draait de risico's om (verzadigd is schadelijker), c klopt niet (A en D zijn vetoplosbaar, niet wateroplosbaar — B en C wél), d klopt niet (verzadigd vet verhóógt LDL).",
+    "reference": "Thema 3 (H8)"
+  },
+  {
+    "id": "t3-13",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over methoden voor gezondheidsbevordering is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Angstaanjagende boodschappen (fear appeals) hebben meestal een blijvend, langdurig effect op gedrag."
+      },
+      {
+        "id": "b",
+        "text": "Tailoring (persoonlijke afstemming) verhoogt de effectiviteit van voorlichting."
+      },
+      {
+        "id": "c",
+        "text": "Motiverende gespreksvoering laat de cliënt zelf de argumenten voor verandering formuleren."
+      },
+      {
+        "id": "d",
+        "text": "Massamediale voorlichting werkt vooral in combinatie met andere strategieën."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Gezondheidsbevordering: methoden",
+    "explanation": "Valkuil: NEGATIEVRAAG. b, c en d kloppen. a is onjuist: fear appeals werken vaak maar TIJDELIJK, niet blijvend — dat is de gevraagde (NIET-juiste) uitspraak.",
+    "reference": "Thema 3 (H7)"
+  },
+  {
+    "id": "t3-14",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het begrip 'waargenomen vatbaarheid' (perceived susceptibility) — het idee dat men risico loopt op een ziekte — is een kerncomponent van welk(e) model(len)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Uitsluitend het Health Belief Model."
+      },
+      {
+        "id": "b",
+        "text": "Zowel het Health Belief Model als de Protectie Motivatie Theorie."
+      },
+      {
+        "id": "c",
+        "text": "De Theorie van Gepland Gedrag."
+      },
+      {
+        "id": "d",
+        "text": "Het ASE-model."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Gezondheidsmodellen: vatbaarheid",
+    "explanation": "Valkuil: ABSOLUTE TERM + modelverwarring. a bevat 'uitsluitend' en is daarom te eng: waargenomen vatbaarheid zit óók in de dreigingsinschatting van de PMT. b is juist. c en d gebruiken attitude/sociale invloed/eigen-effectiviteit, niet vatbaarheid.",
+    "reference": "Thema 3 (H6)"
+  },
+  {
+    "id": "t4-15",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de duur van pijn is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Chronische pijn wordt gedefinieerd als pijn die korter dan een maand duurt."
+      },
+      {
+        "id": "b",
+        "text": "Acute pijn verliest na verloop van tijd haar signaalfunctie."
+      },
+      {
+        "id": "c",
+        "text": "Acute pijn duurt doorgaans niet langer dan ongeveer drie maanden."
+      },
+      {
+        "id": "d",
+        "text": "Chronische pijn heeft altijd een duidelijke organische oorzaak."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Acute vs. chronische pijn (duur)",
+    "explanation": "Valkuil: meerdere vallen tegelijk. a draait de duur om; b verwisselt acuut/chronisch (juist CHRONISCHE pijn verliest de signaalfunctie); d bevat 'altijd' (absolute term — chronische pijn kan ook psychogeen zijn). c is correct.",
+    "reference": "Thema 4 (H11)"
+  },
+  {
+    "id": "t4-16",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over endorfinen en enkefalinen is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het zijn de enige lichaamseigen (endogene) stoffen die pijn kunnen onderdrukken."
+      },
+      {
+        "id": "b",
+        "text": "Het zijn endogene opioïden die een rol spelen bij stimulation-produced analgesia (SPA)."
+      },
+      {
+        "id": "c",
+        "text": "Het zijn synthetische (exogene) pijnstillers, vergelijkbaar met morfine."
+      },
+      {
+        "id": "d",
+        "text": "Ze versterken de afgifte van substantie P."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Endogene opioïden (endorfine, enkefaline)",
+    "explanation": "Valkuil: ABSOLUTE TERM. a bevat 'enige' en is daarom fout (ook bv. serotonine speelt een rol bij pijndemping). b is juist. c verwart endogeen/exogeen; d draait de werking om (ze REMMEN substantie P). Zelfde val als vraag 28 vorige keer.",
+    "reference": "Thema 4 (H11)"
+  },
+  {
+    "id": "t4-17",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de poorttheorie (gate-control theory) van Melzack en Wall is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Psychologische factoren zoals afleiding en angst kunnen de 'poort' beïnvloeden."
+      },
+      {
+        "id": "b",
+        "text": "De poort bevindt zich in het ruggenmerg."
+      },
+      {
+        "id": "c",
+        "text": "Afdalende signalen vanuit de hersenen kunnen de poort openen of sluiten."
+      },
+      {
+        "id": "d",
+        "text": "De theorie stelt dat pijn een directe één-op-één afspiegeling is van de mate van weefselschade."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Poorttheorie vs. specificiteitstheorie",
+    "explanation": "Valkuil: NEGATIEVRAAG + theorieverwisseling. a, b en c kloppen voor de poorttheorie. d beschrijft juist de SPECIFICITEITSTHEORIE (directe weerspiegeling van weefselschade) en geldt NIET voor de poorttheorie — dat is het gevraagde antwoord.",
+    "reference": "Thema 4 (H11)"
+  },
+  {
+    "id": "t4-18",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende pijnmeetmethoden is een gedragsmatige (behavioral) methode?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De McGill Pain Questionnaire."
+      },
+      {
+        "id": "b",
+        "text": "De Visueel Analoge Schaal (VAS)."
+      },
+      {
+        "id": "c",
+        "text": "De UAB Pain Behavior Scale."
+      },
+      {
+        "id": "d",
+        "text": "Elektromyografie (EMG)."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Pijnmeting: meetcategorieën",
+    "explanation": "Valkuil: CLOSE CATEGORIES. a en b zijn zelfrapportage; d is een psychofysiologische maat. Alleen de UAB Pain Behavior Scale (c) is gedragsmatig (observatie van pijngedrag). Zelfde val als vraag 29 vorige keer.",
+    "reference": "Thema 4 (H11)"
+  },
+  {
+    "id": "t4-19",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende is een voorbeeld van PASSIEVE coping bij pijn?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Sociale activiteiten en beweging verminderen en zich terugtrekken."
+      },
+      {
+        "id": "b",
+        "text": "Afleiding zoeken door een film te kijken."
+      },
+      {
+        "id": "c",
+        "text": "Ontspanningsoefeningen doen ondanks de pijn."
+      },
+      {
+        "id": "d",
+        "text": "Informatie zoeken over de aandoening."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Passieve vs. actieve coping bij pijn",
+    "explanation": "Valkuil: a, c en d zijn allemaal ACTIEVE copingvormen die plausibel klinken als 'omgaan met pijn'. Passieve coping betekent terugtrekken en activiteit verminderen (b). Zelfde val als vraag 31 vorige keer.",
+    "reference": "Thema 4 (H11)"
+  },
+  {
+    "id": "t5-20",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende factoren draagt doorgaans NIET bij aan het ontstaan van massapsychogene ziekte (mass psychogenic illness)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Hoge stress en negatieve emoties binnen de groep."
+      },
+      {
+        "id": "b",
+        "text": "Het waarnemen van symptomen bij anderen (modelling)."
+      },
+      {
+        "id": "c",
+        "text": "Een aantoonbare lichamelijke (toxische) oorzaak die door medische tests wordt bevestigd."
+      },
+      {
+        "id": "d",
+        "text": "Cognitieve interpretatie van vage, algemene klachten."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Massapsychogene ziekte",
+    "explanation": "Valkuil: NEGATIEVRAAG. a, b en d zijn bijdragende factoren. c is per definitie afwezig bij massapsychogene ziekte: er is juist GEEN aantoonbare fysieke oorzaak. c is dus de NIET-bijdragende factor (= het gevraagde antwoord). Zelfde val als vraag 33 vorige keer.",
+    "reference": "Thema 5 (H9)"
+  },
+  {
+    "id": "t5-21",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak geldt NIET voor patiënten met veel angst vóór een operatie, vergeleken met patiënten met weinig angst?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Zij rapporteren na de operatie meer pijn."
+      },
+      {
+        "id": "b",
+        "text": "Zij gebruiken meer pijnmedicatie."
+      },
+      {
+        "id": "c",
+        "text": "Zij zijn tijdens het herstel vaker neerslachtig."
+      },
+      {
+        "id": "d",
+        "text": "Zij verblijven gemiddeld korter in het ziekenhuis."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Preoperatieve angst",
+    "explanation": "Valkuil: NEGATIEVRAAG + omkering. a, b en c kloppen. d is onjuist: hoge preoperatieve angst hangt samen met een LANGERE (niet kortere) opname. d is dus de gevraagde NIET-juiste uitspraak. Zelfde val als vraag 36 vorige keer.",
+    "reference": "Thema 5 (H10)"
+  },
+  {
+    "id": "t5-22",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over vermijdingsstrategieën (avoidance) bij het omgaan met een chronische aandoening is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Vermijding bevordert altijd een rationele besluitvorming over behandelopties."
+      },
+      {
+        "id": "b",
+        "text": "Vermijding leidt steevast tot een betere informatiepositie over de aandoening."
+      },
+      {
+        "id": "c",
+        "text": "Vermijding zorgt er altijd voor dat patiënten hun leefstijl tijdig aanpassen."
+      },
+      {
+        "id": "d",
+        "text": "Vermijding kan in de beginfase van het copingproces psychologische voordelen hebben."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Vermijdingsstrategieën bij chronische ziekte",
+    "explanation": "Valkuil: ABSOLUTE TERMEN. a ('altijd'), b ('steevast') en c ('altijd') zijn alle drie te absoluut — en bovendien inhoudelijk fout (vermijding leidt juist vaak tot minder informatie en geen leefstijlaanpassing). d is de genuanceerde, juiste uitspraak. Zelfde val als vraag 37 vorige keer.",
+    "reference": "Thema 5 (H13-14)"
+  },
+  {
+    "id": "t5-23",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een patiënt die vóór een operatie juist zo veel mogelijk gedetailleerde informatie wil over wat er gaat gebeuren, past bij welke copingstijl?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Monitor (aandachtsgerichte stijl)."
+      },
+      {
+        "id": "b",
+        "text": "Blunter (vermijdingsgerichte stijl)."
+      },
+      {
+        "id": "c",
+        "text": "Reactant (verzet tegen vrijheidsbeperking)."
+      },
+      {
+        "id": "d",
+        "text": "Repressor (onderdrukker van emoties)."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Copingstijlen: monitors vs. blunters",
+    "explanation": "Valkuil: richting verwisselen. Een monitor (b) zoekt actief veel informatie; een blunter (a) wil juist weinig info en liever geruststelling. c en d zijn andere begrippen die als afleider dienen.",
+    "reference": "Thema 5 (H10)"
+  },
+  {
+    "id": "t5-24",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat blijkt uit onderzoek naar therapietrouw (compliance/adherence)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Artsen onderschatten doorgaans de therapietrouw van hun patiënten."
+      },
+      {
+        "id": "b",
+        "text": "Patiënten schatten hun eigen therapietrouw zeer nauwkeurig in."
+      },
+      {
+        "id": "c",
+        "text": "Artsen overschatten doorgaans de therapietrouw van hun patiënten."
+      },
+      {
+        "id": "d",
+        "text": "De gemiddelde therapietrouw ligt rond de negentig procent."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Therapietrouw (compliance/adherence)",
+    "explanation": "Valkuil: CLOSE WORDING — a en c verschillen maar in één woord (onderschatten vs. overschatten). Artsen OVERschatten de therapietrouw (c). b en d kloppen niet (patiënten schatten slecht in; gemiddelde trouw ligt veel lager). Dit is precies het type minimaal verschil dat het echte examen gebruikt.",
+    "reference": "Thema 5 (H9)"
+  },
+  {
+    "id": "t5-25",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de aanpassing aan een chronische of levensbedreigende ziekte is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Sociale steun bevordert een betere aanpassing aan de ziekte."
+      },
+      {
+        "id": "b",
+        "text": "Patiënten worden aangemoedigd om plannen te maken en deze uit te voeren."
+      },
+      {
+        "id": "c",
+        "text": "Weinig pijn hangt samen met een betere aanpassing dan veel pijn."
+      },
+      {
+        "id": "d",
+        "text": "De mate van ervaren sociale steun is van ondergeschikt belang voor een succesvolle aanpassing."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Aanpassing aan chronische/levensbedreigende ziekte",
+    "explanation": "Valkuil: NEGATIEVRAAG. a, b en c kloppen. d is onjuist: sociale steun is juist BELANGRIJK (niet ondergeschikt) voor een goede aanpassing. d is dus de gevraagde NIET-juiste uitspraak. Zelfde 'ondergeschikt belang'-afleider als vraag 39 vorige keer.",
+    "reference": "Thema 5 (H13-14)"
+  }
+]
