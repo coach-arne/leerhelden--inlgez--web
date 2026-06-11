@@ -269,7 +269,15 @@ export function FlashcardsSetupPage() {
       </Card>
 
       <div>
-        <h2 className="mb-3 text-lg font-medium">Eerdere resultaten</h2>
+        <div className="mb-3 flex items-center justify-between gap-2">
+          <h2 className="text-lg font-medium">Eerdere resultaten</h2>
+          <Link
+            to="/flashcards/stats"
+            className={cn(buttonVariants({ variant: 'ghost', size: 'sm' }))}
+          >
+            Statistieken
+          </Link>
+        </div>
         {history.length === 0 ? (
           <p className="text-sm text-muted-foreground">
             Nog geen opgeslagen sessies. Na een ronde verschijnen ze hier.

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ex-001",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk model verklaart ziekte uitsluitend vanuit biologische processen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      { "id": "a", "text": "Biopsychosociaal model" },
+      { "id": "b", "text": "Biomedisch model" },
+      { "id": "c", "text": "Transactioneel stressmodel" },
+      { "id": "d", "text": "Health Belief Model" }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Biomedisch model",
+    "explanation": "Het biomedisch model verklaart ziekte en gezondheid uitsluitend vanuit lichamelijke processen zoals pathogenen, genetica en fysiologische ontregeling.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "ex-002",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke drie dimensies vormen de kern van het biopsychosociale model van Engel?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      { "id": "a", "text": "Biologisch, psychologisch en sociaal" },
+      { "id": "b", "text": "Genetisch, gedragsmatig en omgevingsgericht" },
+      { "id": "c", "text": "Fysiek, mentaal en spiritueel" },
+      { "id": "d", "text": "Neurofysiologisch, cognitief en cultureel" }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Biopsychosociaal model",
+    "explanation": "Engel (1977) stelde dat gezondheid en ziekte bepaald worden door biologische, psychologische én sociale factoren die voortdurend op elkaar inwerken.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "ex-003",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bij het transactioneel stressmodel van Lazarus & Folkman verwijst 'primaire appraisal' naar:"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      { "id": "a", "text": "De beoordeling van beschikbare copingmiddelen" },
+      { "id": "b", "text": "De beoordeling of een situatie relevant en bedreigend is" },
+      { "id": "c", "text": "De fysiologische stressreactie" },
+      { "id": "d", "text": "De terugkoppeling na de copingpoging" }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Transactioneel stressmodel (Lazarus)",
+    "explanation": "Primaire appraisal is de eerste beoordeling waarbij iemand inschat of een situatie irrelevant, positief of bedreigend/schadelijk is. Pas daarna volgt de secundaire appraisal over de beschikbare middelen.",
+    "reference": "H3, pp. 57–81"
+  },
+  {
+    "id": "ex-004",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende uitspraken over het Health Belief Model (HBM) is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      { "id": "a", "text": "Het HBM voorspelt alleen gedrag bij chronische ziekten" },
+      { "id": "b", "text": "Sociale normen zijn de centrale determinant in het HBM" },
+      { "id": "c", "text": "Perceived severity en perceived susceptibility bepalen samen de ervaren dreiging" },
+      { "id": "d", "text": "Self-efficacy maakt geen deel uit van het originele HBM" }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Health Belief Model",
+    "explanation": "Volgens het HBM is de ervaren dreiging (perceived threat) de combinatie van vatbaarheid (susceptibility) en ernst (severity). Self-efficacy werd later toegevoegd door Rosenstock e.a.",
+    "reference": "H6, pp. 136–165"
+  },
+  {
+    "id": "ex-005",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke fase van het Algemeen Aanpassingssyndroom (GAS) van Selye wordt gekenmerkt door 'fight-or-flight'?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      { "id": "a", "text": "Weerstandsfase" },
+      { "id": "b", "text": "Uitputtingsfase" },
+      { "id": "c", "text": "Alarmfase" },
+      { "id": "d", "text": "Herstelfase" }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Algemeen Aanpassingssyndroom (GAS)",
+    "explanation": "De alarmfase is de eerste reactie op een stressor: het lichaam mobiliseert via de fight-or-flight-respons (activatie van het sympathisch zenuwstelsel en adrenalineafgifte).",
+    "reference": "H3, pp. 57–81"
+  }
+]

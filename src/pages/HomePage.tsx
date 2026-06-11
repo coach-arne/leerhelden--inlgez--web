@@ -49,6 +49,20 @@ export function HomePage() {
           </Link>
         </CardContent>
       </Card>
+      <Card>
+        <CardHeader>
+          <CardTitle>Oefenexamens</CardTitle>
+          <CardDescription>
+            Oefen meerkeuze-examenvragen per set, met directe feedback,
+            uitleg en een overzicht van foute antwoorden.
+          </CardDescription>
+        </CardHeader>
+        <CardContent>
+          <Link to="/exams" className={cn(buttonVariants())}>
+            Naar oefenexamens
+          </Link>
+        </CardContent>
+      </Card>
     </div>
   )
 }
