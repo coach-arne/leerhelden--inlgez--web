@@ -1,0 +1,626 @@
+[
+  {
+    "id": "t2-001",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de definitie van stress in het transactionele model (Lazarus & Folkman) is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Stress is een waargenomen discrepantie tussen de eisen van de situatie en de middelen van het biologische, psychologische en sociale systeem van de persoon."
+      },
+      {
+        "id": "b",
+        "text": "Stress is een puur fysiologische reactie op een stressor, onafhankelijk van cognitieve beoordeling."
+      },
+      {
+        "id": "c",
+        "text": "Stress is de som van alle levensgebeurtenissen die iemand in een jaar heeft meegemaakt."
+      },
+      {
+        "id": "d",
+        "text": "Stress ontstaat uitsluitend door de aanwezigheid van objectief gevaarlijke externe situaties."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Definitie stress (transactioneel model)",
+    "explanation": "In het transactionele model van Lazarus & Folkman is stress het resultaat van een subjectieve beoordeling (appraisal): stress treedt op wanneer iemand ervaart dat de eisen de beschikbare middelen overtreffen. Objectieve kenmerken van de situatie zijn minder bepalend dan de perceptie ervan.",
+    "reference": "H3, pp. 57–81"
+  },
+  {
+    "id": "t2-002",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een student denkt bij het ontvangen van een laag cijfer: 'Ik kan dit vak sowieso niet — ik heb er geen verstand van en ook geen tijd.' Welk type appraisal illustreert dit?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Primaire appraisal als 'harm/loss'"
+      },
+      {
+        "id": "b",
+        "text": "Secundaire appraisal"
+      },
+      {
+        "id": "c",
+        "text": "Primaire appraisal als 'challenge'"
+      },
+      {
+        "id": "d",
+        "text": "Primaire appraisal als irrelevant"
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Secundaire appraisal",
+    "explanation": "Secundaire appraisal is de beoordeling van beschikbare middelen om met een situatie om te gaan ('Kan ik het aan?'). De uitspraak gaat over het inschatten van eigen capaciteiten en tijd — dat is secundaire appraisal. Primaire appraisal gaat over de vraag of de situatie bedreigend is.",
+    "reference": "H3, pp. 57–81"
+  },
+  {
+    "id": "t2-003",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen.\n\nI  Dagelijkse irritaties (daily hassles) hangen sterker samen met gezondheidsklachten dan grote levensgebeurtenissen.\nII  Dagelijkse opkikkers (daily uplifts) hebben een sterke beschermende werking op gezondheid, vergelijkbaar met de schadelijke werking van hassles."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "I en II zijn onjuist."
+      },
+      {
+        "id": "b",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "c",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn juist."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Hassles en uplifts",
+    "explanation": "Onderzoek toont dat hassles sterker samenhangen met gezondheidsklachten dan grote levensgebeurtenissen. Uplifts hebben echter nauwelijks aantoonbaar effect op gezondheid — de relatie is asymmetrisch.",
+    "reference": "H3, pp. 57–81"
+  },
+  {
+    "id": "t2-004",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke fase van het Algemeen Aanpassingssyndroom (GAS) van Selye wordt gekenmerkt door verhoogde vatbaarheid voor ziekten doordat de lichamelijke reserves uitgeput raken?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De uitputtingsfase"
+      },
+      {
+        "id": "b",
+        "text": "De alarmfase"
+      },
+      {
+        "id": "c",
+        "text": "De weerstandsfase"
+      },
+      {
+        "id": "d",
+        "text": "De herstelreactiefase"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "GAS – uitputtingsfase",
+    "explanation": "In de uitputtingsfase (derde fase van het GAS) raken de lichamelijke reserves op door aanhoudende stress. Dit maakt het lichaam kwetsbaar voor aanpassingsziekten zoals maagzweren en hoge bloeddruk. In de weerstandsfase probeert het lichaam zich juist nog aan te passen.",
+    "reference": "H3, pp. 57–81"
+  },
+  {
+    "id": "t2-005",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is het kenmerkende verschil tussen de bufferhypothese en de directe-effecthypothese van sociale steun?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De directe-effecthypothese stelt dat sociale steun altijd gunstig is, ongeacht de aanwezigheid van stress. De bufferhypothese stelt dat de gunstige effecten pas merkbaar zijn bij blootstelling aan stressoren."
+      },
+      {
+        "id": "b",
+        "text": "Beide hypothesen stellen dat sociale steun alleen effectief is in combinatie met probleemgerichte coping."
+      },
+      {
+        "id": "c",
+        "text": "De bufferhypothese betreft instrumentele steun; de directe-effecthypothese betreft emotionele steun."
+      },
+      {
+        "id": "d",
+        "text": "De bufferhypothese stelt dat sociale steun altijd gunstig is, terwijl de directe-effecthypothese stelt dat steun alleen helpt bij zware stress."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Bufferhypothese vs. directe-effecthypothese",
+    "explanation": "De directe-effecthypothese stelt dat sociale steun de gezondheid bevordert ongeacht het stressniveau. De bufferhypothese stelt dat de gunstige effecten van sociale steun pas zichtbaar worden wanneer iemand aan stressoren blootstaat — steun buffert het schadelijke effect van stress.",
+    "reference": "H4, pp. 82–111"
+  },
+  {
+    "id": "t2-006",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke drie dimensies vormen het concept 'hardiness' (gehardheid) van Kobasa?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Zelfeffectiviteit, betrokkenheid en uitdaging"
+      },
+      {
+        "id": "b",
+        "text": "Beheersbaarheid, zingeving en sociale steun"
+      },
+      {
+        "id": "c",
+        "text": "Flexibiliteit, veerkracht en controlelocus"
+      },
+      {
+        "id": "d",
+        "text": "Betrokkenheid (commitment), beheersbaarheid (control) en uitdaging (challenge)"
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Hardiness (gehardheid)",
+    "explanation": "Hardiness bestaat uit drie C's: Commitment (betrokkenheid bij activiteiten en het leven), Control (gevoel van controle over uitkomsten) en Challenge (stressors zien als uitdaging in plaats van bedreiging). Zelfeffectiviteit en sociale steun zijn aparte concepten.",
+    "reference": "H4, pp. 82–111"
+  },
+  {
+    "id": "t2-007",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke component van het Type A-gedragspatroon wordt het meest in verband gebracht met cardiovasculaire aandoeningen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Vijandigheid (hostility)"
+      },
+      {
+        "id": "b",
+        "text": "Tijdsdruk en urgentiegevoel"
+      },
+      {
+        "id": "c",
+        "text": "Doelgerichtheid en ambitie"
+      },
+      {
+        "id": "d",
+        "text": "Competitiedrang en perfectionisme"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Type A gedragspatroon",
+    "explanation": "Hoewel Type A-gedrag meerdere componenten kent (tijdsdruk, ambitie, competitiedrang), is vijandigheid (hostility) de component die het sterkst en meest consistent in verband wordt gebracht met cardiovasculaire aandoeningen. Ambitie en doelgerichtheid zijn gezondheidskundig minder relevant.",
+    "reference": "H4, pp. 82–111"
+  },
+  {
+    "id": "t2-008",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de 'directe route' waarlangs stress ziekte kan veroorzaken, is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De directe route werkt via psychobiologische of fysiologische mechanismen die het immuunsysteem, het cardiovasculaire stelsel en het hormonale stelsel aantasten."
+      },
+      {
+        "id": "b",
+        "text": "De directe route is de enige manier waarop stress ziekte veroorzaakt."
+      },
+      {
+        "id": "c",
+        "text": "De directe route werkt via ongezond gedrag zoals roken en weinig bewegen als reactie op stress."
+      },
+      {
+        "id": "d",
+        "text": "De directe route werkt via de appraisal van de stressor als bedreigend."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Directe route stress-ziekte",
+    "explanation": "De directe route loopt via fysiologische en psychobiologische mechanismen: stress activeert het SAM- en HPA-systeem, wat leidt tot hormonale veranderingen die het immuunsysteem onderdrukken en cardiovasculaire schade kunnen veroorzaken. De indirecte route loopt via gedrag (roken, weinig slapen etc.).",
+    "reference": "H4, pp. 82–111"
+  },
+  {
+    "id": "t2-009",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is de allostatische belasting (allostatic load)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het maximale stressniveau dat een persoon aankan voordat psychosociale klachten optreden."
+      },
+      {
+        "id": "b",
+        "text": "De hoeveelheid sociale steun die nodig is om de effecten van stress te bufferen."
+      },
+      {
+        "id": "c",
+        "text": "De cumulatieve fysiologische belasting die optreedt als gevolg van herhaalde of chronische stressreacties."
+      },
+      {
+        "id": "d",
+        "text": "De derde fase van het GAS waarbij het lichaam zijn reserves uitput."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Allostatische belasting",
+    "explanation": "Allostatische belasting is de cumulatieve fysiologische slijtage die optreedt door herhaalde stressreacties. Ze wordt bepaald door frequentie van blootstelling, reactiviteit, herstelsnelheid en herstelvermogen. Ze verschilt van de uitputtingsfase van het GAS, hoewel beide over langdurige gevolgen van stress gaan.",
+    "reference": "H3, pp. 57–81"
+  },
+  {
+    "id": "t2-010",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen.\n\nI  Bij de fight-or-flight respons van Cannon worden het SAM-systeem en de bijnierschors geactiveerd.\nII  Het GAS van Selye en de fight-or-flight theorie van Cannon definiëren stress beide als een biologische respons op een stressor."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "b",
+        "text": "I en II zijn onjuist."
+      },
+      {
+        "id": "c",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn juist."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "SAM vs. HPA / Cannon vs. Selye",
+    "explanation": "Stelling II is juist: zowel Cannon als Selye definiëren stress als een biologische respons. Stelling I is onjuist: bij de fight-or-flight respons wordt het SAM-systeem (sympathisch-adreno-medullaire as) geactiveerd, maar de bijnierschors hoort bij de HPA-as (hypothalamus-hypofyse-bijnierschors), die meer bij het GAS van Selye past.",
+    "reference": "H3–4"
+  },
+  {
+    "id": "t2-011",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke copingstijl is gericht op het verminderen van de emotionele spanning die door een stressor wordt veroorzaakt, zonder de stressor zelf aan te pakken?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Emotiegerichte coping"
+      },
+      {
+        "id": "b",
+        "text": "Instrumentele coping"
+      },
+      {
+        "id": "c",
+        "text": "Primaire coping"
+      },
+      {
+        "id": "d",
+        "text": "Probleemgerichte coping"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Emotiegerichte coping",
+    "explanation": "Emotiegerichte coping richt zich op het reguleren van de emotionele respons op de stressor (bijv. afleiding zoeken, relativeren, emotionele steun zoeken). Probleemgerichte coping richt zich op het veranderen of oplossen van de stressor zelf.",
+    "reference": "H5"
+  },
+  {
+    "id": "t2-012",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke bewering over de Social Readjustment Rating Scale (SRRS) van Holmes en Rahe is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De SRRS is ontwikkeld als alternatief voor de Hassles Scale vanwege de betere meting van dagelijkse stress."
+      },
+      {
+        "id": "b",
+        "text": "De SRRS houdt geen rekening met de persoonlijke betekenis die iemand geeft aan een levensgebeurtenis."
+      },
+      {
+        "id": "c",
+        "text": "De correlatie tussen SRRS-scores en ziekte is sterk (r ≈ 0.80), wat de schaal tot een betrouwbare voorspeller maakt."
+      },
+      {
+        "id": "d",
+        "text": "De SRRS meet uitsluitend negatieve levensgebeurtenissen, omdat positieve gebeurtenissen geen stress veroorzaken."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "SRRS beperkingen",
+    "explanation": "Een belangrijk bezwaar van de SRRS is dat dezelfde gebeurtenis (bijv. scheiding) voor verschillende mensen een heel andere betekenis en impact heeft. De schaal negeert deze subjectieve component. Bovendien is de correlatie met ziekte relatief laag (≈0.30), niet 0.80.",
+    "reference": "H3, pp. 57–81"
+  },
+  {
+    "id": "t2-013",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke interventie bij stressmanagement is gericht op het bewust leren ontspannen van spiergroepen door ze eerst aan te spannen en daarna los te laten?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Systematische desensitisatie"
+      },
+      {
+        "id": "b",
+        "text": "Cognitieve herstructurering"
+      },
+      {
+        "id": "c",
+        "text": "Biofeedback"
+      },
+      {
+        "id": "d",
+        "text": "Progressieve spierontspanning"
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Progressieve spierontspanning",
+    "explanation": "Progressieve spierontspanning (progressive muscle relaxation) houdt in dat spiergroepen systematisch worden aangespannen en ontspannen om het lichaam te leren wat ontspanning aanvoelt. Biofeedback geeft fysiologische feedback; cognitieve herstructurering richt zich op disfunctionele gedachten.",
+    "reference": "H5"
+  },
+  {
+    "id": "t2-014",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de relatie tussen stress en het immuunsysteem (psychoneuro-immunologie) is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Chronische stress kan de immuunfunctie onderdrukken, wat de vatbaarheid voor infecties en aandoeningen vergroot."
+      },
+      {
+        "id": "b",
+        "text": "Alleen acute stress (korter dan een week) heeft een remmend effect op het immuunsysteem."
+      },
+      {
+        "id": "c",
+        "text": "Chronische stress heeft geen bewezen invloed op het immuunsysteem."
+      },
+      {
+        "id": "d",
+        "text": "Chronische stress versterkt het immuunsysteem doordat het lichaam zich aanpast aan de aanhoudende belasting."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Psychoneuro-immunologie",
+    "explanation": "Psychoneuro-immunologie bestudeert de wisselwerking tussen psychologische processen, het zenuwstelsel en het immuunsysteem. Chronische stress onderdrukt het immuunsysteem via cortisolafgifte, waardoor mensen vatbaarder worden voor infecties en bij sommigen auto-immuunziekten kunnen optreden.",
+    "reference": "H4, pp. 82–111"
+  },
+  {
+    "id": "t2-015",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke bewering over het gebruik van sociale netwerken is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Mannen en vrouwen hebben doorgaans even grote sociale netwerken, maar vrouwen benutten die effectiever."
+      },
+      {
+        "id": "b",
+        "text": "Ouderen hebben over het algemeen een klein sociaal netwerk dat weinig betrouwbare contacten bevat."
+      },
+      {
+        "id": "c",
+        "text": "Vrouwen maken over het algemeen effectiever gebruik van hun sociale netwerken dan mannen."
+      },
+      {
+        "id": "d",
+        "text": "Sociale netwerken van mensen met een lage sociaaleconomische status zijn doorgaans gevarieerder dan die van mensen met een hoge status."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Sociale netwerken – geslachtsverschillen",
+    "explanation": "Onderzoek toont dat vrouwen over het algemeen effectiever gebruik maken van hun sociale netwerken dan mannen — zij zoeken sneller steun, delen problemen meer en putten zo meer voordeel uit hun netwerk.",
+    "reference": "H4, pp. 82–111"
+  },
+  {
+    "id": "t2-016",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over 'learned helplessness' (aangeleerde hulpeloosheid) is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Aangeleerde hulpeloosheid is hetzelfde als een externe locus of control."
+      },
+      {
+        "id": "b",
+        "text": "Aangeleerde hulpeloosheid treedt op wanneer iemand te weinig sociale steun heeft ontvangen in de jeugd."
+      },
+      {
+        "id": "c",
+        "text": "Aangeleerde hulpeloosheid is een copingstijl waarbij iemand problemen ontwijkt in plaats van oplost."
+      },
+      {
+        "id": "d",
+        "text": "Aangeleerde hulpeloosheid treedt op wanneer iemand herhaaldelijk ervaart dat zijn gedrag de uitkomst niet beïnvloedt, wat leidt tot passiviteit ook in situaties waar controle wél mogelijk is."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Learned helplessness",
+    "explanation": "Aangeleerde hulpeloosheid (Seligman) ontstaat wanneer iemand herhaaldelijk ervaart dat zijn acties geen invloed hebben op uitkomsten. Dit leidt tot passiviteit en het opgeven van controle, ook in situaties waar controle wél mogelijk zou zijn. Het is gerelateerd aan, maar niet identiek aan, een externe locus of control.",
+    "reference": "H4, pp. 82–111"
+  }
+]

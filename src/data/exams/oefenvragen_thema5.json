@@ -1,0 +1,626 @@
+[
+  {
+    "id": "t5-001",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De kosten van de gezondheidszorg in Nederland bedroegen in 2019 ongeveer:"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "97 miljard euro"
+      },
+      {
+        "id": "b",
+        "text": "187 miljard euro"
+      },
+      {
+        "id": "c",
+        "text": "143 miljard euro"
+      },
+      {
+        "id": "d",
+        "text": "52 miljard euro"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Zorgkosten Nederland 2019",
+    "explanation": "De zorgkosten in Nederland bedroegen in 2019 circa 97 miljard euro. Dit getal wordt in de cursus gehanteerd om de omvang van de financiële druk op het zorgstelsel te illustreren.",
+    "reference": "H9/10, Brightspace"
+  },
+  {
+    "id": "t5-002",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk component maakt GEEN deel uit van het common-sense model of illness perception (Leventhal)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Ziekte-identiteit (illness identity)"
+      },
+      {
+        "id": "b",
+        "text": "Tijdslijn (timeline)"
+      },
+      {
+        "id": "c",
+        "text": "Esthetische kenmerken van de ziekte"
+      },
+      {
+        "id": "d",
+        "text": "Emotionele representatie"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Common-sense model",
+    "explanation": "Het common-sense model omvat: (1) identiteit (label en symptomen), (2) oorzaak, (3) tijdslijn/prognose, (4) consequenties, (5) controleerbaarheid/behandelbaarheid, en later ook (6) emotionele representatie. Esthetische kenmerken zijn geen onderdeel van het model.",
+    "reference": "H9"
+  },
+  {
+    "id": "t5-003",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat wordt bedoeld met 'somatoforme stoornis'?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Een chronische aandoening waarbij uitsluitend organische processen een rol spelen."
+      },
+      {
+        "id": "b",
+        "text": "Het bewust simuleren van lichamelijke klachten voor persoonlijk gewin."
+      },
+      {
+        "id": "c",
+        "text": "Een aandoening waarbij iemand lichamelijke klachten ervaart die reëel zijn, maar waarvoor een psychogene oorzaak wordt aangenomen in plaats van een organische."
+      },
+      {
+        "id": "d",
+        "text": "Buitensporige bezorgdheid over de eigen gezondheid ondanks geruststelling door de arts."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Somatoforme stoornis",
+    "explanation": "Bij een somatoforme stoornis ervaart iemand reële lichamelijke klachten, maar een organische oorzaak kan niet worden aangetoond — de oorzaak is psychogeen. De klachten worden dus niet gesimuleerd (dat is malingeren), en het gaat niet alleen om bezorgdheid (dat is hypochondrie).",
+    "reference": "H9, H11"
+  },
+  {
+    "id": "t5-004",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke fase volgt volgens Shontz als eerste op de diagnose van een invaliderende ziekte?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Encounter reaction (confrontatie)"
+      },
+      {
+        "id": "b",
+        "text": "Shock"
+      },
+      {
+        "id": "c",
+        "text": "Retreat (terugtrekken)"
+      },
+      {
+        "id": "d",
+        "text": "Ontkenning"
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Shontz – stadia bij invaliderende ziekte",
+    "explanation": "Shontz beschrijft drie stadia na de diagnose van een invaliderende ziekte: (1) shock, (2) encounter reaction (confrontatie met de realiteit van de ziekte), (3) retreat (terugtrekken/ontkennen). Shock is dus het eerste stadium, niet ontkenning — dat hoort bij het derde stadium (retreat).",
+    "reference": "H13"
+  },
+  {
+    "id": "t5-005",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen.\n\nI  Artsen schatten de mate van therapietrouw (compliance) van hun patiënten doorgaans te hoog in.\nII  De gemiddelde therapietrouw bij chronische aandoeningen bedraagt ongeveer 60 procent."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "I en II zijn juist."
+      },
+      {
+        "id": "b",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "c",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn onjuist."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Therapietrouw – compliance",
+    "explanation": "Beide stellingen zijn correct. Artsen overschatten doorgaans de mate van therapietrouw van hun patiënten. Onderzoek toont dat de gemiddelde compliance bij chronische aandoeningen rond de 60% ligt — patiënten volgen dus slechts gedeeltelijk de medische adviezen op.",
+    "reference": "H9"
+  },
+  {
+    "id": "t5-006",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over patiënten die door ziekenhuispersoneel als 'probleempatiënten' worden bestempeld, is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Probleempatiënten kunnen opstandig worden door een gevoel van controleverlies."
+      },
+      {
+        "id": "b",
+        "text": "Patiënten met ernstige complicaties of een slechte prognose worden vaker door het personeel vergeven voor hun moeilijke gedrag."
+      },
+      {
+        "id": "c",
+        "text": "Probleempatiënten worden soms eerder ontslagen dan medisch voorgeschreven."
+      },
+      {
+        "id": "d",
+        "text": "Probleempatiënten hebben doorgaans de overtuiging dat zij zich passief moeten opstellen."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Probleempatiënten",
+    "explanation": "Probleempatiënten worden juist gekenmerkt door een actieve, eisende houding — ze maken aanspraken op informatie, keuzevrijheid en controle. De overtuiging dat men zich passief moet opstellen past bij patiënten die depersonalisatie accepteren, niet bij probleempatiënten.",
+    "reference": "H10"
+  },
+  {
+    "id": "t5-007",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een arts spreekt niet rechtstreeks met de patiënt maar richt alle vragen aan de aanwezige familieleden terwijl hij de patiënt negeert. Welk concept beschrijft dit het best?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Reactance"
+      },
+      {
+        "id": "b",
+        "text": "Non-compliance"
+      },
+      {
+        "id": "c",
+        "text": "Depersonalisatie"
+      },
+      {
+        "id": "d",
+        "text": "Separation distress"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Depersonalisatie",
+    "explanation": "Depersonalisatie in de zorgcontext verwijst naar het behandelen van de patiënt als object of niet-persoon — de arts richt zich tot de familie en negeert de patiënt als individu. Reactance is weerstand bij autonomiebperking; separation distress is scheiding van naasten.",
+    "reference": "H10"
+  },
+  {
+    "id": "t5-008",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende is het voornaamste doel van gezondheidsbevorderingsprogramma's gericht op zwangere vrouwen en vrouwen die net een baby hebben gekregen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het vergroten van kennis en vaardigheden waarmee ouders kunnen voldoen aan de fysieke, emotionele en sociale behoeften van de baby."
+      },
+      {
+        "id": "b",
+        "text": "Het voorkomen van postpartumdepressie bij de moeder."
+      },
+      {
+        "id": "c",
+        "text": "Het bewaken van de moederlijke voeding om borstvoeding mogelijk te maken."
+      },
+      {
+        "id": "d",
+        "text": "Het zoveel mogelijk reduceren van medicatiegebruik tijdens de zwangerschap."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Gezondheidsbevorderingsprogramma's perinatale zorg",
+    "explanation": "Het primaire doel van gezondheidsbevorderingsprogramma's voor zwangere vrouwen en nieuwe moeders is het vergroten van kennis en vaardigheden om aan de brede behoeften van de baby te voldoen: fysiek, emotioneel én sociaal.",
+    "reference": "H6/Brightspace"
+  },
+  {
+    "id": "t5-009",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk type aanpassing aan een levensbedreigende ziekte is op termijn contraproductief?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het proberen zoveel mogelijk controle over de ziekte te behouden"
+      },
+      {
+        "id": "b",
+        "text": "Het herstellen van self-esteem na de diagnose"
+      },
+      {
+        "id": "c",
+        "text": "Het ontkennen van de ziekte"
+      },
+      {
+        "id": "d",
+        "text": "Het zoeken naar betekenis in de ziekte"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Aanpassing aan levensbedreigende ziekte",
+    "explanation": "Ontkenning kan in de acute fase soms tijdelijk beschermend zijn, maar op termijn is het contraproductief: het belemmert behandeltrouw, informatiezoeking en het maken van belangrijke beslissingen. Betekenis geven, controle behouden en self-esteem herstellen zijn adaptieve strategieën.",
+    "reference": "H13"
+  },
+  {
+    "id": "t5-010",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over de indeling van de Nederlandse gezondheidszorg naar behandelingsniveau.\n\nI  Tweedelijns zorg vereist een verwijzing van de huisarts en wordt geleverd door medisch specialisten.\nII  Nuldelijns zorg omvat het werk van fysiotherapeuten en andere eerstelijns paramedici."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "b",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "c",
+        "text": "I en II zijn onjuist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn juist."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Zorglijnen Nederland",
+    "explanation": "Stelling I is juist: tweedelijns zorg vereist een verwijzing en omvat specialistische zorg in ziekenhuizen. Stelling II is onjuist: nuldelijns zorg omvat zelfzorg en preventie. Fysiotherapeuten zijn eerstelijns zorg — direct toegankelijk voor de burger zonder verwijzing.",
+    "reference": "H10, Brightspace"
+  },
+  {
+    "id": "t5-011",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke stelling over medische compliance is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Duidelijke communicatie door de arts verhoogt de kans op therapietrouw."
+      },
+      {
+        "id": "b",
+        "text": "Patiënten die zelf afspraken plannen met de arts, houden zich beter aan die afspraken."
+      },
+      {
+        "id": "c",
+        "text": "Complexe medicatieschema's verlagen de therapietrouw."
+      },
+      {
+        "id": "d",
+        "text": "Patiënten kunnen hun eigen therapietrouw nauwkeurig en betrouwbaar inschatten en rapporteren."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Therapietrouw – zelfrapportage",
+    "explanation": "Patiënten overschatten doorgaans hun eigen therapietrouw — ze rapporteren hogere compliance dan objectieve meting (bijv. via pillentellingen of bloedwaarden) aantoont. Zelfrapportage van compliance is dus onbetrouwbaar.",
+    "reference": "H9"
+  },
+  {
+    "id": "t5-012",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke Wet regelt de rechten en plichten van de patiënt en de zorgverlener, waaronder het recht op informatie, het toestemmingsvereiste en het dossierrecht?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Wet langdurige zorg (Wlz)"
+      },
+      {
+        "id": "b",
+        "text": "Zorgverzekeringswet (Zvw)"
+      },
+      {
+        "id": "c",
+        "text": "Wet Geneeskundige Behandelingsovereenkomst (WGBO)"
+      },
+      {
+        "id": "d",
+        "text": "Wet BIG (Beroepen in de Individuele Gezondheidszorg)"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "WGBO",
+    "explanation": "De WGBO regelt de rechten en plichten in de arts-patiëntrelatie: recht op informatie, toestemmingsvereiste (informed consent) en inzagerecht in het dossier. De Wet BIG regelt titelbescherming en tuchtrecht; de Wlz betreft langdurige zorg; de Zvw is de basisverzekering.",
+    "reference": "H10, Brightspace"
+  },
+  {
+    "id": "t5-013",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De vijf fasen van Kübler-Ross beschrijven het stervensproces. In welke volgorde treden deze fasen typisch op?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Woede – Ontkenning – Onderhandelen – Depressie – Acceptatie"
+      },
+      {
+        "id": "b",
+        "text": "Ontkenning – Depressie – Woede – Onderhandelen – Acceptatie"
+      },
+      {
+        "id": "c",
+        "text": "Ontkenning – Woede – Onderhandelen – Depressie – Acceptatie"
+      },
+      {
+        "id": "d",
+        "text": "Onderhandelen – Ontkenning – Woede – Depressie – Acceptatie"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Fasen Kübler-Ross",
+    "explanation": "De vijf fasen van Kübler-Ross zijn in volgorde: (1) Ontkenning, (2) Woede, (3) Onderhandelen, (4) Depressie, (5) Acceptatie. Kübler-Ross benadrukte dat de fasen niet strikt achtereenvolgens hoeven te verlopen.",
+    "reference": "H14"
+  },
+  {
+    "id": "t5-014",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende bronnen van stress is volgens Hinton NIET typisch voor terminale patiënten?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De fysieke effecten van de voortschrijdende ziekte"
+      },
+      {
+        "id": "b",
+        "text": "Depersonalisatie door artsen"
+      },
+      {
+        "id": "c",
+        "text": "Het besef dat het einde van het leven nadert"
+      },
+      {
+        "id": "d",
+        "text": "De beperkingen in leefstijl en de daaraan gekoppelde afhankelijkheid"
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Stressbronnen terminale patiënten (Hinton)",
+    "explanation": "Hinton noemt als typische stressbronnen voor terminale patiënten: (1) de fysieke effecten van de ziekte, (2) beperkingen en afhankelijkheid, en (3) het besef van de naderende dood. Depersonalisatie door artsen is een communicatieprobleem dat ook bij niet-terminale patiënten voorkomt en valt niet onder Hintons typische stressbronnen voor terminale zorg.",
+    "reference": "H14"
+  },
+  {
+    "id": "t5-015",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke wet regelt titelbescherming en tuchtrecht voor zorgverleners, en bevat bepalingen over voorbehouden handelingen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Wet publieke gezondheid (Wpg)"
+      },
+      {
+        "id": "b",
+        "text": "Wet maatschappelijke ondersteuning (Wmo)"
+      },
+      {
+        "id": "c",
+        "text": "Wet kwaliteit, klachten en geschillen zorg (Wkkgz)"
+      },
+      {
+        "id": "d",
+        "text": "Wet BIG (Beroepen in de Individuele Gezondheidszorg)"
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Wet BIG",
+    "explanation": "De Wet BIG biedt titelbescherming (alleen bevoegde zorgverleners mogen bepaalde titels voeren), regelt tuchtrecht, en bepaalt welke handelingen voorbehouden zijn aan specifieke beroepsgroepen. De Wkkgz regelt klachtenafhandeling en kwaliteit; de Wpg betreft infectieziektebestrijding en preventie.",
+    "reference": "H10, Brightspace"
+  },
+  {
+    "id": "t5-016",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over de reactie op ziekenhuisopname.\n\nI  Reactance is de emotionele reactie op scheiding van naasten, die vooral bij jonge kinderen sterk is.\nII  Depersonalisatie treedt op wanneer een patiënt het gevoel heeft zijn identiteit en uniekheid als persoon te verliezen in een ziekenhuisomgeving."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "I en II zijn juist."
+      },
+      {
+        "id": "b",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "c",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn onjuist."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Reactance en depersonalisatie in het ziekenhuis",
+    "explanation": "Stelling I is onjuist: de reactie op scheiding van naasten heet 'separation distress', niet reactance. Reactance is de weerstand die ontstaat wanneer iemand het gevoel heeft dat zijn vrijheid of autonomie wordt beperkt. Stelling II is juist: depersonalisatie verwijst naar het verlies van identiteit en individualiteit als patiënt.",
+    "reference": "H10"
+  }
+]

@@ -1,6 +1,11 @@
 import type { ExamQuestion } from '@/types/exam'
 
-import voorbeeldRaw from './exams/oefenexamen_voorbeeld.json'
+
+import oefenvragenThema1Raw from './exams/oefenvragen_thema1.json'
+import oefenvragenThema2Raw from './exams/oefenvragen_thema2.json'
+import oefenvragenThema3Raw from './exams/oefenvragen_thema3.json'
+import oefenvragenThema4Raw from './exams/oefenvragen_thema4.json'
+import oefenvragenThema5Raw from './exams/oefenvragen_thema5.json'
 
 type RawExamQuestion = Omit<ExamQuestion, 'source'>
 
@@ -14,9 +19,29 @@ export const MAX_EXAM_COUNT = 50
 
 const SOURCE_ENTRIES: ExamSourceEntry[] = [
   {
-    source: 'oefenexamen_voorbeeld.json',
-    label: 'Oefenexamen (voorbeeld)',
-    questions: voorbeeldRaw as RawExamQuestion[],
+    source: 'oefenvragen_thema1.json',
+    label: 'Oefenvragen Thema 1',
+    questions: oefenvragenThema1Raw as RawExamQuestion[],
+  },
+  {
+    source: 'oefenvragen_thema2.json',
+    label: 'Oefenvragen Thema 2',
+    questions: oefenvragenThema2Raw as RawExamQuestion[],
+  },
+  {
+    source: 'oefenvragen_thema3.json',
+    label: 'Oefenvragen Thema 3',
+    questions: oefenvragenThema3Raw as RawExamQuestion[],
+  },
+  {
+    source: 'oefenvragen_thema4.json',
+    label: 'Oefenvragen Thema 4',
+    questions: oefenvragenThema4Raw as RawExamQuestion[],
+  },
+  {
+    source: 'oefenvragen_thema5.json',
+    label: 'Oefenvragen Thema 5',
+    questions: oefenvragenThema5Raw as RawExamQuestion[],
   },
 ]
 

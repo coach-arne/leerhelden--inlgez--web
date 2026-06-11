@@ -48,22 +48,22 @@ import { cn } from '@/lib/utils'
 const barChartConfig = {
   correct: {
     label: 'Goed',
-    color: 'var(--chart-1)',
+    color: 'hsl(var(--chart-1))',
   },
   unsure: {
     label: 'Twijfel',
-    color: 'var(--chart-2)',
+    color: 'hsl(var(--chart-2))',
   },
   incorrect: {
     label: 'Fout',
-    color: 'var(--chart-3)',
+    color: 'hsl(var(--chart-3))',
   },
 } satisfies ChartConfig
 
 const lineChartConfig = {
   pct: {
     label: 'Score (%)',
-    color: 'var(--chart-1)',
+    color: 'hsl(var(--chart-1))',
   },
 } satisfies ChartConfig
 

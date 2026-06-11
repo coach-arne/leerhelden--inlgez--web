@@ -1,0 +1,626 @@
+[
+  {
+    "id": "t4-001",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over A-delta vezels is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "A-delta vezels geleiden snelle, scherpe, goed gelokaliseerde pijn naar motorische en sensorische hersengebieden."
+      },
+      {
+        "id": "b",
+        "text": "A-delta vezels zijn ongemyeliniseerd en geleiden pijnsignalen langzamer dan C-vezels."
+      },
+      {
+        "id": "c",
+        "text": "A-delta vezels zijn verantwoordelijk voor referred pain (gerefereerde pijn)."
+      },
+      {
+        "id": "d",
+        "text": "A-delta vezels geleiden trage, doffe, brandende pijn en projecteren naar de hersenstam en voorhersenen."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Pijnvezels A-delta vs. C",
+    "explanation": "A-delta vezels zijn gemyeliniseerd, geleiden pijnsignalen snel en veroorzaken scherpe, goed gelokaliseerde pijn. Ze projecteren naar motorische en sensorische hersengebieden. C-vezels zijn ongemyeliniseerd, langzamer, en veroorzaken doffe, brandende of zeurende pijn die naar de hersenstam en voorhersenen gaat.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-002",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over de poorttheorie (gate control theory).\n\nI  Psychologische factoren zoals angst en depressie kunnen de pijnpoort openen en zo pijn verergeren.\nII  De poorttheorie stelt dat pijnsignalen uitsluitend door fysiologische prikkels beïnvloed kunnen worden."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "b",
+        "text": "I en II zijn onjuist."
+      },
+      {
+        "id": "c",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn juist."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Gate control theory",
+    "explanation": "Stelling I is juist: angst, depressie en stress kunnen de poort openen, waardoor meer pijnsignalen de hersenen bereiken. Stelling II is onjuist: een kernpunt van de gate-control theorie is juist dat psychologische factoren (cognitie, emotie) via dalende signalen uit de hersenen de poort kunnen beïnvloeden.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-003",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende pijnvormen valt NIET te verklaren met de specificiteitstheorie?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Pijn bij een brandwond"
+      },
+      {
+        "id": "b",
+        "text": "Pijn bij een gebroken been"
+      },
+      {
+        "id": "c",
+        "text": "Fantoompijn (pijn in een geamputeerd ledemaat)"
+      },
+      {
+        "id": "d",
+        "text": "Pijn bij een snijwond"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Beperkingen specificiteitstheorie",
+    "explanation": "De specificiteitstheorie stelt dat pijn een directe afspiegeling is van weefselschade via specifieke pijnbanen. Fantoompijn — pijn in een geamputeerd ledemaat — is een klassiek voorbeeld dat deze theorie niet kan verklaren, omdat er geen weefsel en dus geen prikkel meer aanwezig is. De neuromatrix-theorie verklaart dit beter.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-004",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke methode voor pijnmeting is een zelfrapportagemethode?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "UAB Pain Behavior Scale"
+      },
+      {
+        "id": "b",
+        "text": "Elektro-encefalografie (EEG)"
+      },
+      {
+        "id": "c",
+        "text": "Electromyografie (EMG)"
+      },
+      {
+        "id": "d",
+        "text": "McGill Pain Questionnaire"
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Pijnmeting – zelfrapportage",
+    "explanation": "De McGill Pain Questionnaire is een gevalideerde vragenlijst waarbij patiënten zelf hun pijn beschrijven — een zelfrapportagemethode. De UAB Pain Behavior Scale is een gedragsobservatie-instrument. EMG en EEG zijn fysiologische meetmethoden.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-005",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoe lang duurt pijn minimaal om als 'chronisch' te worden beschouwd?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Meer dan 2 weken"
+      },
+      {
+        "id": "b",
+        "text": "Meer dan 3 tot 6 maanden"
+      },
+      {
+        "id": "c",
+        "text": "Meer dan 1 jaar"
+      },
+      {
+        "id": "d",
+        "text": "Meer dan 1 maand"
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Definitie chronische pijn",
+    "explanation": "Chronische pijn wordt gedefinieerd als pijn die langer duurt dan 3 tot 6 maanden. Acute pijn verdwijnt doorgaans na genezing van de oorzakelijke aandoening. Chronische pijn verliest zijn signaalfunctie en wordt een aandoening op zichzelf.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-006",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Stimulation-Produced Analgesia (SPA) wordt geactiveerd door elektrische stimulatie van de periaqueductale grijze stof. Via welke neurochemische route werkt dit pijnremmende effect?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Vrijkomen van serotonine en endorfine, waarbij endorfine de afgifte van substantie P remt"
+      },
+      {
+        "id": "b",
+        "text": "Remming van dopamine-afgifte in het limbisch systeem"
+      },
+      {
+        "id": "c",
+        "text": "Activering van de bijnierschors die adrenaline uitstoot"
+      },
+      {
+        "id": "d",
+        "text": "Vrijkomen van corticosteroïden die het zenuwstelsel onderdrukken"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "SPA en endogene opioïden",
+    "explanation": "SPA werkt via een neurochemische keten: stimulatie activeert serotonine en endorfine (endogene opioïden). Endorfine remt vervolgens de afgifte van substantie P, een neurotransmitter die pijnsignalen activeert. Naloxon blokkeert dit effect, wat de rol van endogene opioïden bevestigt.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-007",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke bewering over endogene opioïden is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Mensen met chronische pijn hebben doorgaans een ongestoord endogeen opioïdensysteem."
+      },
+      {
+        "id": "b",
+        "text": "Endogene opioïden werken vergelijkbaar als synthetische pijnstillers zoals morfine."
+      },
+      {
+        "id": "c",
+        "text": "Endorfine en enkefaline zijn voorbeelden van endogene opioïden."
+      },
+      {
+        "id": "d",
+        "text": "Endogene opioïden spelen een rol bij Stimulation-Produced Analgesia (SPA)."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Endogene opioïden",
+    "explanation": "Mensen met chronische pijn hebben juist vaak een verstoord (beperkt) endogeen opioïdensysteem, waardoor pijnsignalen intenser worden ervaren. Endorfine en enkefaline zijn echte endogene opioïden; ze werken vergelijkbaar met morfine en spelen een rol bij SPA.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-008",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat wordt bedoeld met 'referred pain' (gerefereerde pijn)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Pijn die door de arts wordt doorverwezen naar een specialist."
+      },
+      {
+        "id": "b",
+        "text": "Pijn die wordt versterkt door aandacht van de omgeving."
+      },
+      {
+        "id": "c",
+        "text": "Pijn die iemand ervaart maar die door anderen niet als reëel wordt erkend."
+      },
+      {
+        "id": "d",
+        "text": "Pijn die voortkomt uit een orgaan maar wordt ervaren op een andere plek in het lichaam."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Referred pain",
+    "explanation": "Gerefereerde pijn (referred pain) treedt op wanneer pijn afkomstig uit een orgaan op een andere plek wordt gevoeld. Klassiek voorbeeld: bij een hartaanval wordt pijn soms ervaren in de linkerarm of kaak, omdat zenuwbanen van hart en huid dezelfde ruggenmerggebieden gebruiken.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-009",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke pijnbehandeling is gebaseerd op het principe van de operante conditionering?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het geven van opioïden op vaste tijdstippen (time-contingent), ongeacht pijngedrag"
+      },
+      {
+        "id": "b",
+        "text": "Transcutane elektrische zenuwstimulatie (TENS)"
+      },
+      {
+        "id": "c",
+        "text": "Het versterken van gezond gedrag en het negeren (uitdoven) van pijngedrag"
+      },
+      {
+        "id": "d",
+        "text": "Progressieve spierontspanning gecombineerd met biofeedback"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Operante pijnbenadering",
+    "explanation": "De operante benadering van pijnbehandeling (Fordyce) is gebaseerd op operante conditionering: pijngedrag (klagen, vermijden) wordt genegeerd (uitgedoofd) terwijl gezond gedrag beloond wordt. Zo worden pijngedragingen afgebouwd. TENS werkt via de poorttheorie; medicatie op vaste tijden elimineert juist de operante koppeling.",
+    "reference": "H12"
+  },
+  {
+    "id": "t4-010",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de volgende gedragingen van verpleegkundigen is GEEN voorbeeld van de operante benadering bij de behandeling van pijngedrag?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Straf geven zoals het onthouden van televisie bij pijngedrag"
+      },
+      {
+        "id": "b",
+        "text": "Complimenten geven bij het zelfstandig uitvoeren van oefeningen"
+      },
+      {
+        "id": "c",
+        "text": "Belonen van deelname aan fysiotherapie met extra bezoektijd"
+      },
+      {
+        "id": "d",
+        "text": "Negeren van klagen en jammeren over pijn"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Operante pijnbenadering – geen straf",
+    "explanation": "De operante benadering bij pijn werkt via bekrachtiging van gezond gedrag en uitdoving (negeren) van pijngedrag. Straf toepassen maakt geen deel uit van deze aanpak — het kan zelfs contraproductief zijn. De focus ligt op positieve bekrachtiging en extinctie, niet op bestraffing.",
+    "reference": "H12"
+  },
+  {
+    "id": "t4-011",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke bewering over klinische pijn is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Klinische pijn is pijn die alleen in een ziekenhuissetting (kliniek) wordt ervaren."
+      },
+      {
+        "id": "b",
+        "text": "Klinische pijn is pijn die professionele aandacht vereist, ongeacht of het acuut of chronisch is en of de oorzaak bekend is."
+      },
+      {
+        "id": "c",
+        "text": "Klinische pijn is pijn met een organische oorzaak, in tegenstelling tot psychogene pijn."
+      },
+      {
+        "id": "d",
+        "text": "Klinische pijn is uitsluitend chronische pijn die langer dan zes maanden aanhoudt."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Klinische pijn",
+    "explanation": "Klinische pijn verwijst naar pijn die professionele zorg vereist — dit kan zowel acuut als chronisch zijn, en de oorzaak kan bekend of onbekend zijn. Het begrip slaat niet op pijn die uitsluitend in een kliniek optreedt.",
+    "reference": "H12"
+  },
+  {
+    "id": "t4-012",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bij welke van de volgende situaties staat de pijnpoort GESLOTEN (verminderde pijntransmissie)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Iemand maakt zich voortdurend zorgen over de betekenis van zijn pijn."
+      },
+      {
+        "id": "b",
+        "text": "Iemand is volledig geabsorbeerd in een spannende film tijdens een pijnlijke wondverzorging."
+      },
+      {
+        "id": "c",
+        "text": "Iemand heeft ernstige depressie en lage levenskwaliteit."
+      },
+      {
+        "id": "d",
+        "text": "Iemand is angstig en gespannen voor een medische ingreep."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Poorttheorie – sluiting van de poort",
+    "explanation": "Afleiding, positieve emoties en ontspanning sluiten de poort, waardoor minder pijnsignalen de hersenen bereiken. Een persoon die volledig opgaat in een film ervaart minder pijn — een klassiek voorbeeld van cognitieve modulatie via dalende hersensignalen. Angst, depressie en zorgen openen juist de poort.",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-013",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over acupunctuur als pijnbehandeling klopt het beste met de beschikbare onderzoeksresultaten?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Acupunctuur is bewezen effectief voor migraine en spanningshoofdpijn."
+      },
+      {
+        "id": "b",
+        "text": "Acupunctuur heeft geen enkel effect op pijn; het werkt volledig via suggestie."
+      },
+      {
+        "id": "c",
+        "text": "Acupunctuur is even effectief als pijnmedicatie en wordt aanbevolen als eerstekeuzebehandeling bij chronische pijn."
+      },
+      {
+        "id": "d",
+        "text": "Acupunctuur biedt bij de meeste mensen milde pijndemping, maar is bij sommige aandoeningen niet effectiever dan nep-acupunctuur."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Acupunctuur – bewijs",
+    "explanation": "Onderzoek toont dat acupunctuur bij de meeste mensen milde pijnverlichting geeft, maar dat het effect bij sommige aandoeningen niet groter is dan bij sham (nep)-acupunctuur. Het is niet effectief voor migraine, spanningshoofdpijn of kniepijn. De gate-control theorie biedt een plausibele biologische verklaring (sluiting via perifere vezels, endorfine).",
+    "reference": "H12"
+  },
+  {
+    "id": "t4-014",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over chronische pijn en psychosociale gevolgen is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Depressie is een gevolg van chronische pijn, maar chronische pijn kan nooit het gevolg zijn van depressie."
+      },
+      {
+        "id": "b",
+        "text": "Psychosociale gevolgen van chronische pijn beperken zich tot werkverzuim."
+      },
+      {
+        "id": "c",
+        "text": "Chronische pijn kan leiden tot depressie, sociale isolatie en de zogenaamde 'neurotische triade' (hypochondrie, depressie, hysterie)."
+      },
+      {
+        "id": "d",
+        "text": "Chronische pijn leidt zelden tot psychische klachten omdat mensen er in de loop van de tijd aan wennen."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Psychosociale gevolgen chronische pijn",
+    "explanation": "Chronische pijn gaat vaak gepaard met ernstige psychosociale gevolgen: depressie, angst, sociale isolatie, relatieproblemen en soms de neurotische triade (hypochondrie, depressie, hysterie). De relatie is bovendien bidirectioneel: depressie kan op zijn beurt pijn verergeren.",
+    "reference": "H12"
+  },
+  {
+    "id": "t4-015",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk chronisch pijntype wordt ook wel 'chronic-intractable-benign pain' genoemd?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Chronisch-terugkerende pijn zoals migraine"
+      },
+      {
+        "id": "b",
+        "text": "Chronisch-progressieve pijn zoals bij kanker"
+      },
+      {
+        "id": "c",
+        "text": "Aanhoudende pijn zonder duidelijke progressieve oorzaak, zoals chronische rugpijn"
+      },
+      {
+        "id": "d",
+        "text": "Pijn na traumatisch letsel die volledig verdwijnt na herstel"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Types chronische pijn",
+    "explanation": "Chronisch-oncontroleerbare pijn (chronic-intractable-benign pain) is pijn die aanhoudt zonder progressieve onderliggende aandoening — het klassieke voorbeeld is chronische lage rugpijn zonder duidelijke anatomische oorzaak. Dit onderscheidt het van chronisch-progressieve pijn (bijv. kanker) en chronisch-terugkerende pijn (bijv. migraine).",
+    "reference": "H11"
+  },
+  {
+    "id": "t4-016",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Biofeedback als pijnbehandeling heeft als voornaamste doel:"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het verschaffen van inzicht in lichamelijke veranderingen zodat de patiënt deze bewust kan leren reguleren."
+      },
+      {
+        "id": "b",
+        "text": "Het direct blokkeren van pijnsignalen in het ruggenmerg via elektrische impulsen."
+      },
+      {
+        "id": "c",
+        "text": "Het veranderen van onjuiste overtuigingen over de oorzaak van pijn."
+      },
+      {
+        "id": "d",
+        "text": "Het aanleren van probleemoplossende strategieën voor dagelijkse pijnproblemen."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Biofeedback",
+    "explanation": "Biofeedback geeft de patiënt real-time informatie over fysiologische processen (spierspanning, hartslag, huidtemperatuur) zodat hij/zij leert deze bewust te beïnvloeden. Het doel is inzicht in én controle over lichamelijke veranderingen. Het veranderen van cognities is cognitieve herstructurering; probleemoplossing hoort bij CGT.",
+    "reference": "H12"
+  }
+]

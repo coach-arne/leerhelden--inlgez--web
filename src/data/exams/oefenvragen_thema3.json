@@ -1,0 +1,626 @@
+[
+  {
+    "id": "t3-001",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een huisarts controleert bij een patiënt zonder klachten de bloeddruk als onderdeel van een jaarlijks screeningsprogramma.\n\nWelk type preventie illustreert dit?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Secundaire preventie"
+      },
+      {
+        "id": "b",
+        "text": "Primaire preventie"
+      },
+      {
+        "id": "c",
+        "text": "Curatieve zorg"
+      },
+      {
+        "id": "d",
+        "text": "Tertiaire preventie"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Secundaire preventie",
+    "explanation": "Secundaire preventie richt zich op vroege opsporing en behandeling van een aandoening voordat symptomen optreden of erger worden. Screening bij iemand zonder klachten is een klassiek voorbeeld. Primaire preventie voorkomt het ontstaan van ziekte; tertiaire preventie beperkt de gevolgen van een bestaande ziekte.",
+    "reference": "H6"
+  },
+  {
+    "id": "t3-002",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk concept maakt géén deel uit van het originele Health Belief Model (vóór de latere aanvullingen)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Cues to action (aanleiding tot actie)"
+      },
+      {
+        "id": "b",
+        "text": "Perceived benefits (ervaren voordelen)"
+      },
+      {
+        "id": "c",
+        "text": "Perceived severity (ervaren ernst)"
+      },
+      {
+        "id": "d",
+        "text": "Self-efficacy (eigen effectiviteit)"
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Health Belief Model",
+    "explanation": "Het originele HBM bevat: perceived susceptibility, perceived severity, perceived benefits, perceived barriers en cues to action. Self-efficacy werd later toegevoegd door Rosenstock en collega's. Dit is een veelgestelde examenvalkuil.",
+    "reference": "H6"
+  },
+  {
+    "id": "t3-003",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In welk opzicht verschilt het ASE-model van het Beredeneerd Gedrag Model (Theory of Planned Behavior) wat betreft de omgang met sociale invloeden?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het BGM maakt geen onderscheid tussen sociale invloeden; het ASE-model onderscheidt subjectieve normen, sociale steun/druk én modelling."
+      },
+      {
+        "id": "b",
+        "text": "Het ASE-model vervangt sociale normen volledig door modelling."
+      },
+      {
+        "id": "c",
+        "text": "Beide modellen gebruiken identieke concepten voor sociale invloeden, maar het ASE-model voegt zelfeffectiviteit toe."
+      },
+      {
+        "id": "d",
+        "text": "Het ASE-model gebruikt alleen subjectieve normen, terwijl het BGM ook modelling en sociale steun meeneemt."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "ASE-model vs. BGM",
+    "explanation": "Het BGM gebruikt één concept voor sociale invloeden: de subjectieve norm. Het ASE-model is specifieker en onderscheidt drie soorten: (1) subjectieve normen, (2) sociale steun/druk, en (3) modelling (leren door observatie). Verder gebruikt het ASE-model self-efficacy in plaats van waargenomen gedragscontrole.",
+    "reference": "H6, Lechner et al."
+  },
+  {
+    "id": "t3-004",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Iemand zegt: 'Ik weet dat roken slecht voor me is, maar ik denk dat ik zelf nooit echt longkanker zal krijgen — dat overkomt andere mensen.' Dit is een voorbeeld van:"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Onrealistisch optimisme (unrealistic optimism)"
+      },
+      {
+        "id": "b",
+        "text": "Precontemplatie in het Stages of Change model"
+      },
+      {
+        "id": "c",
+        "text": "Cognitieve dissonantie"
+      },
+      {
+        "id": "d",
+        "text": "Lage perceived severity"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Onrealistisch optimisme",
+    "explanation": "Onrealistisch optimisme (ook wel optimisme-bias) houdt in dat mensen de kans dat iets negatiefs hen persoonlijk overkomt systematisch onderschatten ten opzichte van anderen. De persoon kent het risico wél, maar denkt dat hij/zij een uitzondering is — dat is niet hetzelfde als een lage perceived severity.",
+    "reference": "H6"
+  },
+  {
+    "id": "t3-005",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over het Stages of Change model.\n\nI  Iemand in de voorbereidingsfase (preparation) heeft concreet de intentie om binnen één maand te beginnen met gedragsverandering en heeft mogelijk al kleine stappen gezet.\nII  Terugval (relapse) wordt in het Stages of Change model beschouwd als het definitieve einde van het veranderingsproces."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "b",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "c",
+        "text": "I en II zijn onjuist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn juist."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Stages of Change – voorbereiding en relapse",
+    "explanation": "Stelling I is correct: in de voorbereidingsfase is de intentie concreet (binnen een maand) en zijn er mogelijk al kleine stappen gezet. Stelling II is onjuist: terugval wordt in het model gezien als een normaal onderdeel van een spiraalvormig veranderingsproces, niet als het einde ervan. De persoon kan daarna opnieuw een hogere fase bereiken.",
+    "reference": "H6"
+  },
+  {
+    "id": "t3-006",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke bewering over het 'abstinence-violation effect' bij terugval is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het effect beschrijft de neiging om na een periode van onthouden meer te gaan gebruiken dan vóór de stoging."
+      },
+      {
+        "id": "b",
+        "text": "Het effect beschrijft dat onthouding automatisch leidt tot verhoogde fysiologische afhankelijkheid."
+      },
+      {
+        "id": "c",
+        "text": "Het effect treedt op wanneer iemand onthouding als een straf ervaart in plaats van een voordeel."
+      },
+      {
+        "id": "d",
+        "text": "Het effect beschrijft dat iemand na één kleine terugval (bijv. één sigaret) zichzelf als mislukt beschouwt en daardoor volledig terugvalt."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Abstinence-violation effect (Marlatt)",
+    "explanation": "Het abstinence-violation effect (Marlatt) houdt in dat iemand die één keer in de fout gaat (bijv. één sigaret na weken stoppen) dit ervaart als persoonlijk falen, wat leidt tot schaamte en ontmoediging, waarna volledig terugvallen waarschijnlijker wordt. Het gaat over de cognitieve interpretatie van de terugval.",
+    "reference": "H6–7"
+  },
+  {
+    "id": "t3-007",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de onderstaande stoffen geeft bij stoppping de lichamelijke ontwenningsverschijnselen zoals angst, rillingen en spierpijn?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Nicotine en cafeïne"
+      },
+      {
+        "id": "b",
+        "text": "Cannabis en MDMA (xtc)"
+      },
+      {
+        "id": "c",
+        "text": "Alcohol en opioïden (zoals heroïne)"
+      },
+      {
+        "id": "d",
+        "text": "Cocaïne en amfetamine"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Lichamelijke afhankelijkheid en ontwenning",
+    "explanation": "Alcohol en opioïden (zoals heroïne en morfine) veroorzaken sterke fysieke afhankelijkheid met ernstige lichamelijke ontwenningsverschijnselen (angst, rillingen, misselijkheid, spierpijn). Cannabis, MDMA, cocaïne en amfetamine geven hoofdzakelijk psychologische afhankelijkheid bij stoppping.",
+    "reference": "H7"
+  },
+  {
+    "id": "t3-008",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de effecten van lichaamsbeweging is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Lichaamsbeweging verlaagt de bloeddruk niet bij mensen die al normotonisch zijn."
+      },
+      {
+        "id": "b",
+        "text": "Lichaamsbeweging heeft uitsluitend bewezen effecten op fysieke uitkomsten, niet op psychologische."
+      },
+      {
+        "id": "c",
+        "text": "Gewichtsverlies, stressreductie en toename van self-esteem zijn allemaal bewezen effecten van regelmatige lichaamsbeweging."
+      },
+      {
+        "id": "d",
+        "text": "Stressreductie door lichaamsbeweging is aangetoond, maar toename van self-esteem niet."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Effecten lichaamsbeweging",
+    "explanation": "Gewichtsverlies, stressreductie én toename van self-esteem zijn alle drie bewezen effecten van regelmatige lichaamsbeweging. Lichaamsbeweging heeft zowel lichamelijke als psychologische voordelen.",
+    "reference": "H8"
+  },
+  {
+    "id": "t3-009",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over obesitas.\n\nI  Het voedingspatroon van mensen met obesitas bevat gemiddeld meer vet dan dat van mensen met een normaal gewicht.\nII  Mensen die nauwe relaties hebben met obese personen, hebben een grotere kans op overgewicht dan mensen zonder dergelijke relaties."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "I en II zijn juist."
+      },
+      {
+        "id": "b",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "c",
+        "text": "I en II zijn onjuist."
+      },
+      {
+        "id": "d",
+        "text": "Alleen I is juist."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Obesitas – voeding en sociaal netwerk",
+    "explanation": "Stelling I is onjuist: onderzoek toont dat het voedingspatroon van mensen met obesitas niet noodzakelijk meer vet bevat dan dat van mensen met normaal gewicht — de totale calorie-inname en andere factoren spelen een grotere rol. Stelling II is juist: sociaal netwerk beïnvloedt gewicht via normen en modelling.",
+    "reference": "H8"
+  },
+  {
+    "id": "t3-010",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de Sociaal Cognitieve Theorie van Bandura is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Mensen kunnen gedrag leren door anderen te observeren, zonder dat ze het gedrag zelf hebben uitgevoerd."
+      },
+      {
+        "id": "b",
+        "text": "Wederzijds determinisme betekent dat gedrag uitsluitend de omgeving beïnvloedt, maar niet de persoon."
+      },
+      {
+        "id": "c",
+        "text": "Gedrag wordt uitsluitend bepaald door omgevingsfactoren; persoonlijke cognities spelen geen rol."
+      },
+      {
+        "id": "d",
+        "text": "Self-efficacy is de enige determinant van gedrag in Bandura's theorie."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Sociaal cognitieve theorie – modelling",
+    "explanation": "Een kernidee van Bandura is observationeel leren (modelling/vicarious learning): mensen kunnen gedrag aanleren door anderen te observeren, zonder het zelf te hebben uitgevoerd. Wederzijds determinisme stelt dat gedrag, persoon én omgeving elkaar wederzijds beïnvloeden.",
+    "reference": "H6, Lechner et al."
+  },
+  {
+    "id": "t3-011",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke bewering over de effectiviteit van massamedia bij gezondheidsbevordering is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Bij rokers die willen stoppen is massamedia-voorlichting een effectieve methode gebleken om een eerste stoppoging te bewerkstelligen."
+      },
+      {
+        "id": "b",
+        "text": "Massamedia zijn ineffectief gebleken voor rookstopprogramma's bij gemotiveerde rokers."
+      },
+      {
+        "id": "c",
+        "text": "Massamedia werken niet bij verslavingsproblematiek omdat ze te weinig mensen bereiken."
+      },
+      {
+        "id": "d",
+        "text": "Massamedia zijn het effectiefst voor het bereiken van langdurige gedragsverandering bij alle doelgroepen."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Massamedia en gezondheidsbevordering",
+    "explanation": "Massamedia zijn effectief gebleken als aanzet tot een eerste stoppoging bij rokers die al gemotiveerd zijn om te stoppen. Ze zijn echter minder effectief voor het bewerkstelligen van blijvende gedragsverandering — daarvoor zijn intensievere interventies nodig.",
+    "reference": "H6"
+  },
+  {
+    "id": "t3-012",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In de Protectie Motivatie Theorie (PMT) speelt 'responseffectiviteit' een centrale rol. Wat houdt dit concept in?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De kans die iemand inschat om daadwerkelijk ziek te worden zonder beschermend gedrag."
+      },
+      {
+        "id": "b",
+        "text": "De inschatting of het aanbevolen beschermende gedrag daadwerkelijk het risico vermindert."
+      },
+      {
+        "id": "c",
+        "text": "Het vertrouwen dat iemand het beschermende gedrag daadwerkelijk kan uitvoeren."
+      },
+      {
+        "id": "d",
+        "text": "De inschatting van hoe ernstig de gezondheidsgevolgen zijn als iemand geen actie onderneemt."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "PMT – responseffectiviteit",
+    "explanation": "Responseffectiviteit = de inschatting of het aanbevolen gedrag effectief is in het verminderen van het risico ('Helpt stoppen met roken écht?'). Dit moet niet verward worden met self-efficacy (vertrouwen in eigen kunnen) of perceived susceptibility (inschatting van de kans om ziek te worden).",
+    "reference": "H6, Lechner et al."
+  },
+  {
+    "id": "t3-013",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke van de onderstaande typen vet verhoogt het risico op hart- en vaatziekten het sterkst?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Transvetten en verzadigde vetten verhogen het risico beide, maar onverzadigde vetten niet."
+      },
+      {
+        "id": "b",
+        "text": "Meervoudig onverzadigde vetten"
+      },
+      {
+        "id": "c",
+        "text": "Onverzadigde vetten (zoals in olijfolie en vis)"
+      },
+      {
+        "id": "d",
+        "text": "Verzadigde vetten (zoals in vlees en zuivel)"
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Vetten en cardiovasculair risico",
+    "explanation": "Verzadigde vetten (vlees, zuivel) en transvetten verhogen LDL-cholesterol en daarmee het risico op hart- en vaatziekten. Onverzadigde vetten (olijfolie, vis, noten) zijn neutraal tot beschermend. Beide schadelijke typen noemen is de meest correcte en complete antwoordoptie.",
+    "reference": "H8"
+  },
+  {
+    "id": "t3-014",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de set-point theorie bij gewichtsregulatie is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De set-point theorie stelt dat een eenmaal bereikte gewichtsafname permanent behouden blijft."
+      },
+      {
+        "id": "b",
+        "text": "De set-point theorie verklaart waarom iedereen die een dieet volgt permanent gewicht verliest."
+      },
+      {
+        "id": "c",
+        "text": "De set-point theorie stelt dat gewicht uitsluitend bepaald wordt door calorie-inname en -verbruik."
+      },
+      {
+        "id": "d",
+        "text": "De set-point theorie stelt dat ieder mens een genetisch bepaald gewichtssetpunt heeft waaromheen het lichaam het gewicht reguleert."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Set-point theorie",
+    "explanation": "De set-point theorie stelt dat ieder lichaam streeft naar een biologisch bepaald gewichtssetpunt via hormonale en metabole aanpassingen. Als gewicht daalt, vertraagt het metabolisme en neemt de eetlust toe — wat terugkeren naar het setpunt bevordert en lange-termijn gewichtsbeheersing bemoeilijkt.",
+    "reference": "H8"
+  },
+  {
+    "id": "t3-015",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over preventieprogramma's bij genotmiddelengebruik onder jongeren.\n\nI  Preventieprogramma's moeten rekening houden met individuele psychosociale risicofactoren voor genotmiddelengebruik.\nII  Het betrekken van ouders en familie bij preventieprogramma's heeft een averechts effect op de preventie van genotmiddelengebruik onder jongeren."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "I en II zijn juist."
+      },
+      {
+        "id": "b",
+        "text": "I en II zijn onjuist."
+      },
+      {
+        "id": "c",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "d",
+        "text": "Alleen II is juist."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Preventieprogramma's genotmiddelen",
+    "explanation": "Stelling I is juist: effectieve preventieprogramma's houden rekening met individuele psychosociale risicofactoren. Stelling II is onjuist: het betrekken van ouders en familie heeft juist een positief effect op preventie — ouderlijke betrokkenheid vermindert het risico op middelengebruik.",
+    "reference": "H7"
+  },
+  {
+    "id": "t3-016",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke bewering over motivational interviewing is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Motivational interviewing is uitsluitend toepasbaar bij verslavingsproblematiek."
+      },
+      {
+        "id": "b",
+        "text": "Motivational interviewing is een confronterende techniek waarbij de therapeut de cliënt wijst op de schadelijkheid van zijn gedrag."
+      },
+      {
+        "id": "c",
+        "text": "Motivational interviewing is een cliëntgerichte benadering die intrinsieke motivatie voor gedragsverandering bevordert door om te gaan met ambivalentie."
+      },
+      {
+        "id": "d",
+        "text": "Motivational interviewing is geschikt om grote groepen tegelijkertijd te bereiken via massamedia."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Motivational interviewing",
+    "explanation": "Motivational interviewing (Miller & Rollnick) is een empathische, niet-oordelende gespreksvoering die intrinsieke motivatie bevordert door ambivalentie te exploreren. Het is individueel/klein-groepsgericht (niet geschikt voor massamedia) en toepasbaar bij diverse gedragsveranderingen, niet alleen verslaving.",
+    "reference": "H6"
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "id": "t1-001",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over het biomedisch model is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het biomedisch model werd pas in de 20e eeuw ontwikkeld als reactie op chronische ziekten."
+      },
+      {
+        "id": "b",
+        "text": "Het biomedisch model beschouwt ziekte als het gevolg van fysiologische verstoring, los van psychische en sociale processen."
+      },
+      {
+        "id": "c",
+        "text": "Het biomedisch model stelt dat gezondheid een continuüm is van volledig ziek tot volledig gezond."
+      },
+      {
+        "id": "d",
+        "text": "Het biomedisch model erkent de wisselwerking tussen biologische, psychologische en sociale factoren."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Biomedisch model",
+    "explanation": "Het biomedisch model verklaart ziekte uitsluitend vanuit fysiologische processen (bacteriën, virussen, genetica) en laat psychologische en sociale factoren buiten beschouwing. Het biopsychosociaal model (Engel, 1977) is de reactie op deze beperking.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-002",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen.\n\nI  De WHO-definitie van gezondheid omschrijft gezondheid als de afwezigheid van ziekte of lichamelijke gebreken.\nII  Volgens de continuüm-benadering van Antonovsky bevinden gezondheid en ziekte zich op een glijdende schaal."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "b",
+        "text": "I en II zijn onjuist."
+      },
+      {
+        "id": "c",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn juist."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Gezondheidsdefinities",
+    "explanation": "De WHO-definitie omschrijft gezondheid als 'een toestand van volledig lichamelijk, geestelijk en sociaal welbevinden' — dus uitdrukkelijk meer dan de afwezigheid van ziekte. Stelling I is daarmee onjuist. De continuüm-benadering van Antonovsky is correct: iedereen beweegt zich ergens tussen volledig ziek en volledig gezond.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-003",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk van de volgende begrippen verwijst naar het aantal nieuwe gevallen van een aandoening dat in een bepaalde periode optreedt in een populatie?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Morbiditeit"
+      },
+      {
+        "id": "b",
+        "text": "Incidentie"
+      },
+      {
+        "id": "c",
+        "text": "Mortaliteit"
+      },
+      {
+        "id": "d",
+        "text": "Prevalentie"
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Epidemiologische begrippen",
+    "explanation": "Incidentie = het aantal nieuwe gevallen in een bepaalde periode. Prevalentie = het totale aantal bestaande gevallen op een bepaald moment. Morbiditeit = het algemene ziektecijfer in een populatie.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-004",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk van de volgende wetenschapsgebieden richt zich specifiek op de distributie van ziekten in populaties en de identificatie van risicofactoren?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Gezondheidseconomie"
+      },
+      {
+        "id": "b",
+        "text": "Epidemiologie"
+      },
+      {
+        "id": "c",
+        "text": "Medische sociologie"
+      },
+      {
+        "id": "d",
+        "text": "Psychosomatische geneeskunde"
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Verwante disciplines",
+    "explanation": "Epidemiologie bestudeert mortaliteit, morbiditeit, prevalentie, incidentie en epidemieën in populaties. Medische sociologie richt zich op sociale structuren en gezondheid; gezondheidseconomie op kosten en baten van zorg.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-005",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De definitie van gezondheidspsychologie omvat vier aandachtsgebieden. Welk van de volgende is daar GEEN onderdeel van?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Analyse en verbetering van gezondheidszorg en gezondheidsbeleid"
+      },
+      {
+        "id": "b",
+        "text": "Ontwikkeling van farmacologische geneesmiddelen"
+      },
+      {
+        "id": "c",
+        "text": "Identificatie van etiologische en diagnostische factoren"
+      },
+      {
+        "id": "d",
+        "text": "Preventie en behandeling van ziekte"
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Definitie gezondheidspsychologie",
+    "explanation": "De vier aandachtsgebieden van gezondheidspsychologie zijn: (1) bevorderen en handhaven van gezondheid, (2) preventie, behandeling en verwerking van ziekte, (3) identificatie van etiologische en diagnostische factoren, (4) analyse en verbetering van gezondheidszorg en -beleid. Farmacologische geneesmiddelontwikkeling is farmacologie, niet gezondheidspsychologie.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-006",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke historische verandering verklaart waarom chronische aandoeningen nu de belangrijkste gezondheidsproblematiek vormen in ontwikkelde landen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De toename van luchtvervuiling heeft geleid tot meer ademhalingsziekten."
+      },
+      {
+        "id": "b",
+        "text": "Chronische ziekten zijn besmettelijk geworden door globalisering."
+      },
+      {
+        "id": "c",
+        "text": "De afname van infectieziekten door verbeterde hygiëne, voeding en vaccinaties heeft de gemiddelde levensduur verlengd, waardoor ouderdomsgerelateerde chronische ziekten prominenter zijn geworden."
+      },
+      {
+        "id": "d",
+        "text": "De opkomst van het biopsychosociaal model heeft artsen bewust gemaakt van gedragsfactoren."
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Historische ontwikkeling ziektepatronen",
+    "explanation": "Door verbeterde hygiëne, riolering, voeding en vaccinaties daalden infectieziekten sterk. Mensen leven langer, waardoor chronische aandoeningen zoals hartziekten, kanker en diabetes nu de grootste doodsoorzaken zijn.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-007",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De interventiecyclus bestaat uit vier fasen. In welke fase worden de doelgroep geanalyseerd en de determinanten van het gedrag in kaart gebracht?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De voorbereidingsfase"
+      },
+      {
+        "id": "b",
+        "text": "De implementatiefase"
+      },
+      {
+        "id": "c",
+        "text": "De evaluatiefase"
+      },
+      {
+        "id": "d",
+        "text": "De diagnosefase"
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Interventiecyclus",
+    "explanation": "In de diagnosefase wordt het probleem geanalyseerd en worden determinanten van het gedrag (zoals gedragsanalyse) in kaart gebracht. Dit is de basis voor de overige fasen.",
+    "reference": "H1, Brightspace studietaak 1.3"
+  },
+  {
+    "id": "t1-008",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de relatie tussen persoonlijkheid en ziekte is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Mensen met minder gewetensvolheid (consciëntieusheid) hebben een hoger risico op vroegtijdig overlijden."
+      },
+      {
+        "id": "b",
+        "text": "Persoonlijkheid is irrelevant voor gezondheid omdat genetica de enige determinant is."
+      },
+      {
+        "id": "c",
+        "text": "Persoonlijkheid beïnvloedt gezondheid, maar ziekte beïnvloedt de persoonlijkheid nooit terug."
+      },
+      {
+        "id": "d",
+        "text": "Positieve emoties hebben geen bewezen effect op levensduur."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Persoonlijkheid en gezondheid",
+    "explanation": "Onderzoek toont dat minder gewetensvolle (consciëntieuze) mensen een hoger risico hebben op vroegtijdige dood, onder meer door cardiovasculaire ziekten. De relatie is bovendien bidirectioneel: ziekte kan ook de gemoedstoestand beïnvloeden.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-009",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk zenuwstelsel is verantwoordelijk voor het aansturen van organen en regelt onder andere hartslag, spijsvertering en ademhaling zonder bewuste controle?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het somatische zenuwstelsel"
+      },
+      {
+        "id": "b",
+        "text": "Het centraal zenuwstelsel"
+      },
+      {
+        "id": "c",
+        "text": "Het autonome zenuwstelsel"
+      },
+      {
+        "id": "d",
+        "text": "Het parasympatische zenuwstelsel alleen"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Zenuwstelsel",
+    "explanation": "Het autonome zenuwstelsel (onderdeel van het perifere zenuwstelsel) regelt onbewust orgaanfuncties zoals hartslag, ademhaling en spijsvertering. Het bestaat uit het sympathische en parasympatische deel.",
+    "reference": "H2"
+  },
+  {
+    "id": "t1-010",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen.\n\nI  Het sympathische zenuwstelsel activeert de fight-or-flight respons bij stress.\nII  Het parasympatische zenuwstelsel vergroot de pupillen en verhoogt de hartslag tijdens acute stress."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Alleen I is juist."
+      },
+      {
+        "id": "b",
+        "text": "Alleen II is juist."
+      },
+      {
+        "id": "c",
+        "text": "I en II zijn juist."
+      },
+      {
+        "id": "d",
+        "text": "I en II zijn onjuist."
+      }
+    ],
+    "correctAnswerId": "a",
+    "relatedConcept": "Sympathisch vs. parasympatisch",
+    "explanation": "Het sympathische zenuwstelsel activeert de fight-or-flight respons (verhoogt hartslag, verwijdt pupillen). Het parasympatische zenuwstelsel heeft het tegenovergestelde effect: het zorgt voor rust en herstel ('rest and digest'). Stelling II beschrijft sympathische activiteit, niet parasympatische.",
+    "reference": "H2"
+  },
+  {
+    "id": "t1-011",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Fagocyten spelen een belangrijke rol in het immuunsysteem. Tot welk onderdeel van het immuunsysteem behoren zij?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "De humorale immuniteit"
+      },
+      {
+        "id": "b",
+        "text": "De cellulaire immuniteit"
+      },
+      {
+        "id": "c",
+        "text": "De niet-specifieke afweer"
+      },
+      {
+        "id": "d",
+        "text": "De specifieke afweer"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Immuunsysteem",
+    "explanation": "Fagocyten zijn witte bloedcellen die deel uitmaken van de niet-specifieke afweer: ze vernietigen indringers zonder onderscheid te maken tussen specifieke antigenen. De specifieke afweer bestaat uit B- en T-lymfocyten die gericht reageren op specifieke antigenen.",
+    "reference": "H2"
+  },
+  {
+    "id": "t1-012",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de evaluatiefase van de interventiecyclus is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "In de evaluatiefase wordt de gedragsanalyse herhaald om de diagnosefase te valideren."
+      },
+      {
+        "id": "b",
+        "text": "In de evaluatiefase worden zowel de effecten (effectevaluatie) als het verloop van de interventie (procesevaluatie) beoordeeld."
+      },
+      {
+        "id": "c",
+        "text": "In de evaluatiefase worden alleen de kosten van de interventie beoordeeld."
+      },
+      {
+        "id": "d",
+        "text": "In de evaluatiefase wordt de interventie voor het eerst uitgevoerd bij de doelgroep."
+      }
+    ],
+    "correctAnswerId": "b",
+    "relatedConcept": "Interventiecyclus",
+    "explanation": "De evaluatiefase omvat twee typen evaluatie: de effectevaluatie (zijn de doelen bereikt?) en de procesevaluatie (is de interventie uitgevoerd zoals bedoeld?).",
+    "reference": "H1, Brightspace studietaak 1.3"
+  },
+  {
+    "id": "t1-013",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk begrip verwijst naar de totale ziektelast in een populatie — het geheel aan ziekten en gezondheidsproblemen aanwezig op een bepaald moment?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Mortaliteit"
+      },
+      {
+        "id": "b",
+        "text": "Epidemie"
+      },
+      {
+        "id": "c",
+        "text": "Incidentie"
+      },
+      {
+        "id": "d",
+        "text": "Morbiditeit"
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Ziektematen",
+    "explanation": "Morbiditeit verwijst naar het ziektecijfer in een populatie — de totale aanwezigheid van ziekten en aandoeningen. Mortaliteit is het sterftecijfer. Incidentie is het aantal nieuwe gevallen per tijdseenheid.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-014",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk van de onderstaande begrippen past bij 'psychosomatische geneeskunde'?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het bewust simuleren van ziektesymptomen voor persoonlijk gewin."
+      },
+      {
+        "id": "b",
+        "text": "De studie van infectieziekten en hun verspreiding in populaties."
+      },
+      {
+        "id": "c",
+        "text": "Aandoeningen waarbij uitsluitend biologische processen een rol spelen."
+      },
+      {
+        "id": "d",
+        "text": "Lichamelijke klachten waarbij psychische factoren een rol spelen, maar de ervaren symptomen zijn reëel en niet ingebeeld."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Psychosomatische geneeskunde",
+    "explanation": "Psychosomatische geneeskunde richt zich op lichamelijke klachten waarbij psychische processen een rol spelen. De klachten zijn reëel (niet ingebeeld), maar hebben een psychologische component. Dit onderscheidt het van malingeren (bewust simuleren).",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-015",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over het biopsychosociaal model van Engel (1977) is NIET juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het model erkent dat biologische, psychologische en sociale factoren gezamenlijk gezondheid en ziekte bepalen."
+      },
+      {
+        "id": "b",
+        "text": "Het model verving het biomedisch model als leidend paradigma in de gezondheidspsychologie."
+      },
+      {
+        "id": "c",
+        "text": "Het model biedt een kader voor een multidisciplinaire benadering van gezondheid."
+      },
+      {
+        "id": "d",
+        "text": "Het model stelt dat psychologische factoren pas relevant worden als er geen biologische oorzaak voor een ziekte gevonden kan worden."
+      }
+    ],
+    "correctAnswerId": "d",
+    "relatedConcept": "Biopsychosociaal model",
+    "explanation": "Het biopsychosociaal model stelt dat biologische, psychologische én sociale factoren altijd en gelijktijdig een rol spelen bij gezondheid en ziekte — niet pas als er geen biologische verklaring is. Die beperkte opvatting past juist bij het biomedisch model.",
+    "reference": "H1, pp. 1–18"
+  },
+  {
+    "id": "t1-016",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welk deel van het zenuwstelsel verwerkt zintuiglijke informatie en stuurt willekeurige spierbewegingen aan?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a",
+        "text": "Het limbisch systeem"
+      },
+      {
+        "id": "b",
+        "text": "Het autonome zenuwstelsel"
+      },
+      {
+        "id": "c",
+        "text": "Het somatische zenuwstelsel"
+      },
+      {
+        "id": "d",
+        "text": "Het endocriene stelsel"
+      }
+    ],
+    "correctAnswerId": "c",
+    "relatedConcept": "Somatisch zenuwstelsel",
+    "explanation": "Het somatische zenuwstelsel (onderdeel van het perifere zenuwstelsel) verwerkt zintuiglijke informatie en stuurt willekeurige bewegingen aan via de skeletspieren. Het autonome zenuwstelsel regelt onbewuste orgaanfuncties.",
+    "reference": "H2"
+  }
+]
