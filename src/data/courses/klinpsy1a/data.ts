@@ -27,7 +27,7 @@ const flashcards: Flashcard[] = FLASHCARD_SOURCE_ENTRIES.flatMap(({ source, card
   cards.map((c) => ({ ...c, source })),
 )
 const flashcardSources: string[] = FLASHCARD_SOURCE_ENTRIES.map((e) => e.source)
-const chapterNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] as const
+const chapterNumbers = [1] as const
 
 // ---- Exams setup ----
 
