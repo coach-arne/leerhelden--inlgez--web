@@ -6,6 +6,7 @@ import { CheckIcon, XIcon } from 'lucide-react'
 import { RichTextViewer } from '@/components/RichTextViewer'
 import { Badge } from '@/components/ui/badge'
 import { Button, buttonVariants } from '@/components/ui/button'
+import { useCourseRoutes } from '@/hooks/useCourseData'
 import {
   Card,
   CardContent,
@@ -26,6 +27,7 @@ import { cn } from '@/lib/utils'
 
 export function ExamSessionPage() {
   const navigate = useNavigate()
+  const routes = useCourseRoutes()
   const deck = useAtomValue(examDeckAtom)
   const setDeck = useSetAtom(examDeckAtom)
   const setSessionId = useSetAtom(examSessionIdAtom)
@@ -35,9 +37,9 @@ export function ExamSessionPage() {
 
   useEffect(() => {
     if (!deck || deck.length === 0) {
-      navigate('/exams', { replace: true })
+      navigate(routes.exams, { replace: true })
     }
-  }, [deck, navigate])
+  }, [deck, navigate, routes.exams])
 
   const selectedAnswerId = question ? (answers.get(question.id) ?? null) : null
   const isAnswered = selectedAnswerId !== null
@@ -54,7 +56,7 @@ export function ExamSessionPage() {
   const handleNext = useCallback(() => {
     if (!deck) return
     if (index + 1 >= deck.length) {
-      navigate('/exams/results')
+      navigate(routes.examsResults)
       return
     }
     setIndex(index + 1)
@@ -74,7 +76,7 @@ export function ExamSessionPage() {
           Vraag {index + 1} van {deck.length}
         </p>
         <Link
-          to="/exams"
+          to={routes.exams}
           className={cn(buttonVariants({ variant: 'ghost', size: 'sm' }))}
           onClick={() => {
             setDeck(null)

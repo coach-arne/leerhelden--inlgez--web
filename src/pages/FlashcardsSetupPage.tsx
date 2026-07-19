@@ -16,14 +16,10 @@ import { Label } from '@/components/ui/label'
 import { Separator } from '@/components/ui/separator'
 import { Slider } from '@/components/ui/slider'
 import {
-  ALL_FLASHCARDS,
-  ALL_SOURCES,
   buildDeck,
-  CHAPTER_NUMBERS,
   countAvailable,
   getTypesForChapters,
-} from '@/data/flashcards'
-import { ALL_COMPENDIUM_META } from '@/data/compendiums'
+} from '@/data/helpers/flashcardHelpers'
 import {
   activeDeckAtom,
   cardRevealedAtom,
@@ -47,22 +43,22 @@ import {
   getCompendiumLabels,
 } from '@/modules/flashcards/formatLabels'
 import { loadFlashcardResults } from '@/modules/flashcards/flashcardStorage'
+import { useCourseData, useCourseRoutes, useCourseSlug } from '@/hooks/useCourseData'
 import { cn } from '@/lib/utils'
-
-const CHAPTER_OPTIONS = CHAPTER_NUMBERS.map((n) => ({
-  value: String(n),
-  label: `Hoofdstuk ${n}`,
-}))
-
-const SOURCE_OPTIONS = ALL_SOURCES.map((s) => ({ value: s, label: s }))
-
-const COMPENDIUM_OPTIONS = ALL_COMPENDIUM_META.map((meta) => ({
-  value: meta.slug,
-  label: meta.label,
-}))
 
 export function FlashcardsSetupPage() {
   const navigate = useNavigate()
+  const courseSlug = useCourseSlug()
+  const routes = useCourseRoutes()
+  const {
+    flashcards,
+    compendiumFlashcards,
+    flashcardSources,
+    chapterNumbers,
+    compendiumMeta,
+    customComponents,
+  } = useCourseData()
+
   const [chapters, setChapters] = useAtom(setupChapterAtom)
   const [types, setTypes] = useAtom(setupTypeAtom)
   const [sources, setSources] = useAtom(setupSourceAtom)
@@ -79,23 +75,35 @@ export function FlashcardsSetupPage() {
   const setHintLoading = useSetAtom(hintLoadingAtom)
   const setHintError = useSetAtom(hintErrorAtom)
 
-  const chapterStrings = useMemo(
-    () => chapters.map(String),
-    [chapters],
+  const chapterOptions = useMemo(
+    () => chapterNumbers.map((n) => ({ value: String(n), label: `Hoofdstuk ${n}` })),
+    [chapterNumbers],
   )
+
+  const sourceOptions = useMemo(
+    () => flashcardSources.map((s) => ({ value: s, label: s })),
+    [flashcardSources],
+  )
+
+  const compendiumOptions = useMemo(
+    () => compendiumMeta.map((meta) => ({ value: meta.slug, label: meta.label })),
+    [compendiumMeta],
+  )
+
+  const chapterStrings = useMemo(() => chapters.map(String), [chapters])
 
   const setChapterStrings = (next: string[]) => {
     const nums = next
       .map((s) => Number(s))
-      .filter((n): n is 1 | 2 | 3 =>
-        CHAPTER_NUMBERS.includes(n as (typeof CHAPTER_NUMBERS)[number]),
+      .filter((n): n is (typeof chapterNumbers)[number] =>
+        (chapterNumbers as readonly number[]).includes(n),
       )
     setChapters([...new Set(nums)].sort((a, b) => a - b))
   }
 
   const availableTypes = useMemo(
-    () => getTypesForChapters(ALL_FLASHCARDS, chapters),
-    [chapters],
+    () => getTypesForChapters(flashcards, chapters),
+    [flashcards, chapters],
   )
 
   const typeOptions = useMemo(
@@ -104,11 +112,11 @@ export function FlashcardsSetupPage() {
   )
 
   const available = useMemo(
-    () => countAvailable(chapters, types, sources, compendiums),
-    [chapters, types, sources, compendiums],
+    () => countAvailable(flashcards, compendiumFlashcards, chapters, types, sources, compendiums),
+    [flashcards, compendiumFlashcards, chapters, types, sources, compendiums],
   )
 
-  const [history, setHistory] = useState(() => loadFlashcardResults())
+  const [history, setHistory] = useState(() => loadFlashcardResults(courseSlug))
 
   useEffect(() => {
     const allowed = new Set(availableTypes)
@@ -126,7 +134,7 @@ export function FlashcardsSetupPage() {
   const handleStart = () => {
     if (available === 0) return
     const n = Math.min(count, available)
-    const deck = buildDeck(chapters, types, n, sources, compendiums)
+    const deck = buildDeck(flashcards, compendiumFlashcards, chapters, types, n, sources, compendiums)
     setSessionId(crypto.randomUUID())
     setDeck(deck)
     setIndex(0)
@@ -135,7 +143,7 @@ export function FlashcardsSetupPage() {
     setHintText(null)
     setHintLoading(false)
     setHintError(null)
-    navigate('/flashcards/session')
+    navigate(routes.flashcardsSession)
   }
 
   return (
@@ -147,7 +155,7 @@ export function FlashcardsSetupPage() {
             Kies hoofdstuk, type, compendium en aantal, daarna start je de oefening.
           </p>
         </div>
-        <Link to="/" className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}>
+        <Link to={routes.home} className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}>
           Home
         </Link>
       </div>
@@ -166,7 +174,7 @@ export function FlashcardsSetupPage() {
             <Label htmlFor="chapter-multiselect">Hoofdstuk</Label>
             <MultiSelectChips
               id="chapter-multiselect"
-              options={CHAPTER_OPTIONS}
+              options={chapterOptions}
               selected={chapterStrings}
               onChange={setChapterStrings}
               placeholder="Alle hoofdstukken"
@@ -192,27 +200,29 @@ export function FlashcardsSetupPage() {
             <Label htmlFor="source-multiselect">Bronbestand</Label>
             <MultiSelectChips
               id="source-multiselect"
-              options={SOURCE_OPTIONS}
+              options={sourceOptions}
               selected={sources}
               onChange={setSources}
               placeholder="Alle bronbestanden"
               enableSearch
-              showSelectAll={SOURCE_OPTIONS.length > 1}
+              showSelectAll={sourceOptions.length > 1}
             />
           </div>
 
-          <div className="space-y-2">
-            <Label htmlFor="compendium-multiselect">Compendium</Label>
-            <MultiSelectChips
-              id="compendium-multiselect"
-              options={COMPENDIUM_OPTIONS}
-              selected={compendiums}
-              onChange={setCompendiums}
-              placeholder="Geen compendia"
-              enableSearch={false}
-              showSelectAll={COMPENDIUM_OPTIONS.length > 1}
-            />
-          </div>
+          {compendiumOptions.length > 0 && (
+            <div className="space-y-2">
+              <Label htmlFor="compendium-multiselect">Compendium</Label>
+              <MultiSelectChips
+                id="compendium-multiselect"
+                options={compendiumOptions}
+                selected={compendiums}
+                onChange={setCompendiums}
+                placeholder="Geen compendia"
+                enableSearch={false}
+                showSelectAll={compendiumOptions.length > 1}
+              />
+            </div>
+          )}
 
           <div className="space-y-3">
             <div className="flex items-center justify-between gap-2">
@@ -268,11 +278,13 @@ export function FlashcardsSetupPage() {
         </CardContent>
       </Card>
 
+      {customComponents?.FlashcardSetupExtra && <customComponents.FlashcardSetupExtra />}
+
       <div>
         <div className="mb-3 flex items-center justify-between gap-2">
           <h2 className="text-lg font-medium">Eerdere resultaten</h2>
           <Link
-            to="/flashcards/stats"
+            to={routes.flashcardsStats}
             className={cn(buttonVariants({ variant: 'ghost', size: 'sm' }))}
           >
             Statistieken
@@ -305,7 +317,7 @@ export function FlashcardsSetupPage() {
                   {h.sources.length > 0 && (
                     <Badge variant="outline">{formatSourcesLabel(h.sources)}</Badge>
                   )}
-                  {getCompendiumLabels(h.compendiums ?? []).map((label, i) => (
+                  {getCompendiumLabels(h.compendiums ?? [], compendiumMeta).map((label, i) => (
                     <Badge key={`${h.id}-comp-${i}`} variant="secondary">
                       {label}
                     </Badge>
@@ -323,7 +335,7 @@ export function FlashcardsSetupPage() {
         <Button
           variant="ghost"
           size="sm"
-          onClick={() => setHistory(loadFlashcardResults())}
+          onClick={() => setHistory(loadFlashcardResults(courseSlug))}
         >
           Vernieuwen
         </Button>

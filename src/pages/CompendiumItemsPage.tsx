@@ -15,20 +15,23 @@ import {
 import { Button, buttonVariants } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { ScrollArea } from '@/components/ui/scroll-area'
-import { getCompendiumMeta, getItemsByCompendium } from '@/data/compendiums'
 import { compendiumSearchAtom } from '@/modules/compendiums/atoms'
 import { searchCompendiumItems } from '@/modules/compendiums/helpers/searchCompendiums'
+import { useCourseData, useCourseRoutes } from '@/hooks/useCourseData'
 import { cn } from '@/lib/utils'
 
 export function CompendiumItemsPage() {
   const { compendium: slug } = useParams<{ compendium: string }>()
-  const meta = slug ? getCompendiumMeta(slug) : undefined
+  const { compendiumMeta, compendiumItems } = useCourseData()
+  const routes = useCourseRoutes()
+
+  const meta = slug ? compendiumMeta.find((m) => m.slug === slug) : undefined
 
   if (!meta) {
-    return <Navigate to="/compendiums" replace />
+    return <Navigate to={routes.compendiums} replace />
   }
 
-  const items = getItemsByCompendium(meta.slug)
+  const items = compendiumItems.filter((item) => item.compendium === meta.slug)
   const [search, setSearch] = useAtom(compendiumSearchAtom)
 
   const filtered = useMemo(
@@ -42,11 +45,11 @@ export function CompendiumItemsPage() {
         <Breadcrumb>
           <BreadcrumbList>
             <BreadcrumbItem>
-              <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
+              <BreadcrumbLink render={<Link to={routes.home} />}>Home</BreadcrumbLink>
             </BreadcrumbItem>
             <BreadcrumbSeparator />
             <BreadcrumbItem>
-              <BreadcrumbLink render={<Link to="/compendiums" />}>
+              <BreadcrumbLink render={<Link to={routes.compendiums} />}>
                 Compendia
               </BreadcrumbLink>
             </BreadcrumbItem>
@@ -57,7 +60,7 @@ export function CompendiumItemsPage() {
           </BreadcrumbList>
         </Breadcrumb>
         <Link
-          to="/compendiums"
+          to={routes.compendiums}
           className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}
         >
           ← Terug
@@ -105,7 +108,7 @@ export function CompendiumItemsPage() {
               <CompendiumListItem
                 key={item.id}
                 item={item}
-                basePath={`/compendiums/${meta.slug}`}
+                basePath={routes.compendium(meta.slug)}
               />
             ))}
           </div>

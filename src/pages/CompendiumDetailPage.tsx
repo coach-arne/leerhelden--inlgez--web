@@ -21,24 +21,28 @@ import {
   CardTitle,
 } from '@/components/ui/card'
 import { Separator } from '@/components/ui/separator'
-import { getCompendiumItemById, getCompendiumMeta } from '@/data/compendiums'
 import { compendiumSearchAtom } from '@/modules/compendiums/atoms'
+import { useCourseData, useCourseRoutes } from '@/hooks/useCourseData'
 import { cn } from '@/lib/utils'
 
 export function CompendiumDetailPage() {
   const { compendium: slug, id } = useParams<{ compendium: string; id: string }>()
   const searchQuery = useAtomValue(compendiumSearchAtom)
+  const { compendiumMeta, compendiumItems } = useCourseData()
+  const routes = useCourseRoutes()
 
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: 'instant' })
   }, [id])
 
-  const meta = slug ? getCompendiumMeta(slug) : undefined
-  const item = slug && id ? getCompendiumItemById(slug, id) : undefined
+  const meta = slug ? compendiumMeta.find((m) => m.slug === slug) : undefined
+  const item = slug && id ? compendiumItems.find((i) => i.compendium === slug && i.id === id) : undefined
 
-  if (!meta || !item) {
-    return <Navigate to="/compendiums" replace />
+  if (!meta || !item || !slug) {
+    return <Navigate to={routes.compendiums} replace />
   }
+
+  const itemsForSlug = compendiumItems.filter((i) => i.compendium === slug)
 
   const hasAdditions =
     Array.isArray(item.additions.content) && item.additions.content.length > 0
@@ -49,17 +53,17 @@ export function CompendiumDetailPage() {
         <Breadcrumb>
           <BreadcrumbList>
             <BreadcrumbItem>
-              <BreadcrumbLink render={<Link to="/" />}>Home</BreadcrumbLink>
+              <BreadcrumbLink render={<Link to={routes.home} />}>Home</BreadcrumbLink>
             </BreadcrumbItem>
             <BreadcrumbSeparator />
             <BreadcrumbItem>
-              <BreadcrumbLink render={<Link to="/compendiums" />}>
+              <BreadcrumbLink render={<Link to={routes.compendiums} />}>
                 Compendia
               </BreadcrumbLink>
             </BreadcrumbItem>
             <BreadcrumbSeparator />
             <BreadcrumbItem>
-              <BreadcrumbLink render={<Link to={`/compendiums/${slug}`} />}>
+              <BreadcrumbLink render={<Link to={routes.compendium(slug)} />}>
                 {meta.label}
               </BreadcrumbLink>
             </BreadcrumbItem>
@@ -72,7 +76,7 @@ export function CompendiumDetailPage() {
           </BreadcrumbList>
         </Breadcrumb>
         <Link
-          to={`/compendiums/${slug}`}
+          to={routes.compendium(slug)}
           className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}
         >
           ← Terug naar lijst
@@ -110,9 +114,10 @@ export function CompendiumDetailPage() {
 
       {slug && id && (
         <CompendiumItemNav
-          slug={slug}
+          items={itemsForSlug}
           currentId={id}
           searchQuery={searchQuery}
+          basePath={routes.compendium(slug)}
         />
       )}
     </div>

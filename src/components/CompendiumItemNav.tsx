@@ -3,28 +3,29 @@ import { ChevronLeft, ChevronRight } from 'lucide-react'
 
 import { Button } from '@/components/ui/button'
 import { getAdjacentCompendiumItems } from '@/modules/compendiums/helpers/getAdjacentCompendiumItems'
+import type { CompendiumItem } from '@/types/compendium'
 import { cn } from '@/lib/utils'
 
 type CompendiumItemNavProps = {
-  slug: string
+  items: CompendiumItem[]
   currentId: string
   searchQuery: string
+  basePath: string
   className?: string
 }
 
 export function CompendiumItemNav({
-  slug,
+  items,
   currentId,
   searchQuery,
+  basePath,
   className,
 }: CompendiumItemNavProps) {
   const { prev, next, index, total } = getAdjacentCompendiumItems(
-    slug,
+    items,
     currentId,
     searchQuery,
   )
-
-  const basePath = `/compendiums/${slug}`
 
   return (
     <nav

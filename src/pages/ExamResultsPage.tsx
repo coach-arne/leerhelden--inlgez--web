@@ -26,9 +26,13 @@ import {
   appendExamResult,
   loadExamResults,
 } from '@/modules/exams/examStorage'
+import { useCourseRoutes, useCourseSlug } from '@/hooks/useCourseData'
 import { cn } from '@/lib/utils'
 
 export function ExamResultsPage() {
+  const courseSlug = useCourseSlug()
+  const routes = useCourseRoutes()
+
   const deck = useAtomValue(examDeckAtom)
   const answers = useAtomValue(examAnswersAtom)
   const sources = useAtomValue(examSourcesAtom)
@@ -47,9 +51,9 @@ export function ExamResultsPage() {
 
   useEffect(() => {
     if (!deck || deck.length === 0 || !sessionId) return
-    const existing = loadExamResults()
+    const existing = loadExamResults(courseSlug)
     if (existing.some((r) => r.id === sessionId)) return
-    appendExamResult({
+    appendExamResult(courseSlug, {
       id: sessionId,
       finishedAt: new Date().toISOString(),
       sources,
@@ -57,7 +61,7 @@ export function ExamResultsPage() {
       correct,
       incorrect,
     })
-  }, [correct, deck, incorrect, sessionId, sources])
+  }, [correct, courseSlug, deck, incorrect, sessionId, sources])
 
   const clearSession = () => {
     setDeck(null)
@@ -75,7 +79,7 @@ export function ExamResultsPage() {
     return (
       <div className="mx-auto max-w-lg p-6">
         <p className="text-muted-foreground">Geen sessie om te tonen.</p>
-        <Link to="/exams" className={cn(buttonVariants({ className: 'mt-4' }))}>
+        <Link to={routes.exams} className={cn(buttonVariants({ className: 'mt-4' }))}>
           Naar oefenexamens
         </Link>
       </div>
@@ -174,14 +178,14 @@ export function ExamResultsPage() {
 
       <div className="flex flex-col gap-2 sm:flex-row">
         <Link
-          to="/exams"
+          to={routes.exams}
           className={cn(buttonVariants({ variant: 'secondary' }), 'sm:flex-1')}
           onClick={clearSession}
         >
           Opnieuw (zelfde set)
         </Link>
         <Link
-          to="/exams"
+          to={routes.exams}
           className={cn(buttonVariants(), 'sm:flex-1')}
           onClick={resetFiltersAndGo}
         >

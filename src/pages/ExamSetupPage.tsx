@@ -16,11 +16,10 @@ import { Label } from '@/components/ui/label'
 import { Separator } from '@/components/ui/separator'
 import { Slider } from '@/components/ui/slider'
 import {
-  ALL_EXAM_SOURCE_OPTIONS,
   buildExamDeck,
   countExamAvailable,
   MAX_EXAM_COUNT,
-} from '@/data/exams'
+} from '@/data/helpers/examHelpers'
 import {
   examAnswersAtom,
   examCountAtom,
@@ -30,10 +29,15 @@ import {
   examSourcesAtom,
 } from '@/modules/exams/atoms'
 import { loadExamResults } from '@/modules/exams/examStorage'
+import { useCourseData, useCourseRoutes, useCourseSlug } from '@/hooks/useCourseData'
 import { cn } from '@/lib/utils'
 
 export function ExamSetupPage() {
   const navigate = useNavigate()
+  const courseSlug = useCourseSlug()
+  const routes = useCourseRoutes()
+  const { exams, examSourceOptions } = useCourseData()
+
   const [sources, setSources] = useAtom(examSourcesAtom)
   const [count, setCount] = useAtom(examCountAtom)
 
@@ -43,8 +47,8 @@ export function ExamSetupPage() {
   const setAnswers = useSetAtom(examAnswersAtom)
 
   const available = useMemo(
-    () => countExamAvailable(sources),
-    [sources],
+    () => countExamAvailable(exams, sources),
+    [exams, sources],
   )
 
   const effectiveMax = Math.min(available, MAX_EXAM_COUNT)
@@ -55,17 +59,17 @@ export function ExamSetupPage() {
     }
   }, [effectiveMax, setCount])
 
-  const [history, setHistory] = useState(() => loadExamResults())
+  const [history, setHistory] = useState(() => loadExamResults(courseSlug))
 
   const handleStart = () => {
     if (available === 0) return
     const n = Math.min(count, effectiveMax)
-    const deck = buildExamDeck(sources, n)
+    const deck = buildExamDeck(exams, sources, n)
     setSessionId(crypto.randomUUID())
     setDeck(deck)
     setIndex(0)
     setAnswers(new Map())
-    navigate('/exams/session')
+    navigate(routes.examsSession)
   }
 
   return (
@@ -77,7 +81,7 @@ export function ExamSetupPage() {
             Kies een examenset en aantal vragen, daarna start je het examen.
           </p>
         </div>
-        <Link to="/" className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}>
+        <Link to={routes.home} className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}>
           Home
         </Link>
       </div>
@@ -96,12 +100,12 @@ export function ExamSetupPage() {
             <Label htmlFor="exam-source-multiselect">Examenset</Label>
             <MultiSelectChips
               id="exam-source-multiselect"
-              options={ALL_EXAM_SOURCE_OPTIONS}
+              options={examSourceOptions}
               selected={sources}
               onChange={setSources}
               placeholder="Alle examens"
               enableSearch={false}
-              showSelectAll={ALL_EXAM_SOURCE_OPTIONS.length > 1}
+              showSelectAll={examSourceOptions.length > 1}
             />
           </div>
 
@@ -159,7 +163,7 @@ export function ExamSetupPage() {
                 <span className="flex flex-wrap items-center gap-2">
                   {h.sources.map((src) => (
                     <Badge key={src} variant="secondary">
-                      {ALL_EXAM_SOURCE_OPTIONS.find((o) => o.value === src)?.label ?? src}
+                      {examSourceOptions.find((o) => o.value === src)?.label ?? src}
                     </Badge>
                   ))}
                   <span className="tabular-nums">
@@ -174,7 +178,7 @@ export function ExamSetupPage() {
         <Button
           variant="ghost"
           size="sm"
-          onClick={() => setHistory(loadExamResults())}
+          onClick={() => setHistory(loadExamResults(courseSlug))}
         >
           Vernieuwen
         </Button>

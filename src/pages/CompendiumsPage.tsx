@@ -8,10 +8,13 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card'
-import { ALL_COMPENDIUM_META } from '@/data/compendiums'
+import { useCourseData, useCourseRoutes } from '@/hooks/useCourseData'
 import { cn } from '@/lib/utils'
 
 export function CompendiumsPage() {
+  const { compendiumMeta } = useCourseData()
+  const routes = useCourseRoutes()
+
   return (
     <div className="mx-auto flex min-h-svh max-w-lg flex-col justify-center gap-6 p-6">
       <div className="flex items-start justify-between gap-4">
@@ -22,7 +25,7 @@ export function CompendiumsPage() {
           </p>
         </div>
         <Link
-          to="/"
+          to={routes.home}
           className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}
         >
           Home
@@ -30,7 +33,7 @@ export function CompendiumsPage() {
       </div>
 
       <div className="flex flex-col gap-4">
-        {ALL_COMPENDIUM_META.map((meta) => (
+        {compendiumMeta.map((meta) => (
           <Card key={meta.slug}>
             <CardHeader>
               <CardTitle>{meta.label}</CardTitle>
@@ -41,7 +44,7 @@ export function CompendiumsPage() {
                 {meta.itemCount} items
               </span>
               <Link
-                to={`/compendiums/${meta.slug}`}
+                to={routes.compendium(meta.slug)}
                 className={cn(buttonVariants())}
               >
                 Bekijk inhoud

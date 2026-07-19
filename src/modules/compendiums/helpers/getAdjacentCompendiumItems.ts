@@ -1,4 +1,3 @@
-import { getItemsByCompendium } from '@/data/compendiums'
 import { searchCompendiumItems } from '@/modules/compendiums/helpers/searchCompendiums'
 import type { CompendiumItem } from '@/types/compendium'
 
@@ -29,11 +28,10 @@ function resolveAdjacent(
 }
 
 export function getAdjacentCompendiumItems(
-  slug: string,
+  allItems: CompendiumItem[],
   currentId: string,
   searchQuery: string,
 ): AdjacentCompendiumItems {
-  const allItems = getItemsByCompendium(slug)
   const filteredItems = searchCompendiumItems(allItems, searchQuery)
   const adjacent = resolveAdjacent(filteredItems, currentId)
 

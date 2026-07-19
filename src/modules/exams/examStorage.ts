@@ -7,7 +7,9 @@ export type StoredExamResult = {
   incorrect: number
 }
 
-export const EXAM_RESULTS_STORAGE_KEY = 'inlgezp-exam-results'
+export function getExamStorageKey(courseSlug: string): string {
+  return `${courseSlug}-exam-results`
+}
 
 function isStringArray(x: unknown): x is string[] {
   return Array.isArray(x) && x.every((s) => typeof s === 'string')
@@ -48,14 +50,14 @@ function parseResults(raw: string | null): StoredExamResult[] {
   }
 }
 
-export function loadExamResults(): StoredExamResult[] {
+export function loadExamResults(courseSlug: string): StoredExamResult[] {
   if (typeof window === 'undefined') return []
-  return parseResults(localStorage.getItem(EXAM_RESULTS_STORAGE_KEY))
+  return parseResults(localStorage.getItem(getExamStorageKey(courseSlug)))
 }
 
-export function appendExamResult(result: StoredExamResult): void {
+export function appendExamResult(courseSlug: string, result: StoredExamResult): void {
   if (typeof window === 'undefined') return
-  const prev = loadExamResults()
+  const prev = loadExamResults(courseSlug)
   const next = [result, ...prev]
-  localStorage.setItem(EXAM_RESULTS_STORAGE_KEY, JSON.stringify(next))
+  localStorage.setItem(getExamStorageKey(courseSlug), JSON.stringify(next))
 }

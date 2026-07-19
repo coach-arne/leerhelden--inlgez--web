@@ -12,6 +12,7 @@ import {
   CardTitle,
 } from '@/components/ui/card'
 import { Progress } from '@/components/ui/progress'
+import { useCourseRoutes } from '@/hooks/useCourseData'
 import {
   activeDeckAtom,
   cardRevealedAtom,
@@ -30,6 +31,7 @@ import { CheckIcon, HelpCircleIcon, XIcon } from 'lucide-react'
 
 export function FlashcardsSessionPage() {
   const navigate = useNavigate()
+  const routes = useCourseRoutes()
   const deck = useAtomValue(activeDeckAtom)
   const setDeck = useSetAtom(activeDeckAtom)
   const setSessionId = useSetAtom(sessionIdAtom)
@@ -44,9 +46,9 @@ export function FlashcardsSessionPage() {
 
   useEffect(() => {
     if (!deck || deck.length === 0) {
-      navigate('/flashcards', { replace: true })
+      navigate(routes.flashcards, { replace: true })
     }
-  }, [deck, navigate])
+  }, [deck, navigate, routes.flashcards])
 
   const advance = useCallback(
     (delta: { correct: number; incorrect: number; unsure: number }) => {
@@ -57,7 +59,7 @@ export function FlashcardsSessionPage() {
         unsure: s.unsure + delta.unsure,
       }))
       if (index + 1 >= deck.length) {
-        navigate('/flashcards/results')
+        navigate(routes.flashcardsResults)
         return
       }
       setIndex(index + 1)
@@ -135,7 +137,7 @@ export function FlashcardsSessionPage() {
           Kaart {index + 1} van {deck.length}
         </p>
         <Link
-          to="/flashcards"
+          to={routes.flashcards}
           className={cn(buttonVariants({ variant: 'ghost', size: 'sm' }))}
           onClick={() => {
             setDeck(null)

@@ -1,5 +1,5 @@
+import type { CompendiumMeta } from '@/types/compendium'
 import type { ChapterSelection, CompendiumSelection, SourceSelection, TypeSelection } from '@/types/flashcard'
-import { ALL_COMPENDIUM_META } from '@/data/compendiums'
 
 export function getChapterLabels(chapters: ChapterSelection): string[] {
   if (chapters.length === 0) return ['Alle hoofdstukken']
@@ -22,19 +22,22 @@ export function formatSourcesLabel(sources: SourceSelection): string {
   return [...sources].sort((a, b) => a.localeCompare(b, 'nl')).join(', ')
 }
 
-const COMPENDIUM_LABELS = new Map(
-  ALL_COMPENDIUM_META.map((meta) => [meta.slug, meta.label]),
-)
-
-export function getCompendiumLabels(compendiums: CompendiumSelection): string[] {
+export function getCompendiumLabels(
+  compendiums: CompendiumSelection,
+  compendiumMeta: CompendiumMeta[],
+): string[] {
   if (compendiums.length === 0) return []
+  const labelMap = new Map(compendiumMeta.map((meta) => [meta.slug, meta.label]))
   return [...compendiums]
     .sort((a, b) => a.localeCompare(b, 'nl'))
-    .map((slug) => COMPENDIUM_LABELS.get(slug) ?? slug)
+    .map((slug) => labelMap.get(slug) ?? slug)
 }
 
-export function formatCompendiumsLabel(compendiums: CompendiumSelection): string {
-  const labels = getCompendiumLabels(compendiums)
+export function formatCompendiumsLabel(
+  compendiums: CompendiumSelection,
+  compendiumMeta: CompendiumMeta[],
+): string {
+  const labels = getCompendiumLabels(compendiums, compendiumMeta)
   if (labels.length === 0) return 'Geen compendia'
   return labels.join(', ')
 }

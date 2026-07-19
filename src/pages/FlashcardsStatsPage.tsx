@@ -43,6 +43,7 @@ import {
   getWeakChapters,
 } from '@/modules/flashcards/helpers/computeFlashcardStats'
 import { loadFlashcardResults } from '@/modules/flashcards/flashcardStorage'
+import { useCourseRoutes, useCourseSlug } from '@/hooks/useCourseData'
 import { cn } from '@/lib/utils'
 
 const barChartConfig = {
@@ -72,6 +73,8 @@ const REMEDIATION_COUNT = 15
 
 export function FlashcardsStatsPage() {
   const navigate = useNavigate()
+  const courseSlug = useCourseSlug()
+  const routes = useCourseRoutes()
 
   const setChapters = useSetAtom(setupChapterAtom)
   const setTypes = useSetAtom(setupTypeAtom)
@@ -79,7 +82,7 @@ export function FlashcardsStatsPage() {
   const setCompendiums = useSetAtom(setupCompendiumAtom)
   const setCount = useSetAtom(setupCountAtom)
 
-  const [results] = useState(() => loadFlashcardResults())
+  const [results] = useState(() => loadFlashcardResults(courseSlug))
 
   const overall = useMemo(() => getOverallStats(results), [results])
   const scoreOverTime = useMemo(() => getScoreOverTime(results), [results])
@@ -95,7 +98,7 @@ export function FlashcardsStatsPage() {
     setSources([])
     setCompendiums([])
     setCount(REMEDIATION_COUNT)
-    navigate('/flashcards')
+    navigate(routes.flashcards)
   }
 
   return (
@@ -108,7 +111,7 @@ export function FlashcardsStatsPage() {
           </p>
         </div>
         <Link
-          to="/flashcards"
+          to={routes.flashcards}
           className={cn(buttonVariants({ variant: 'outline', size: 'sm' }))}
         >
           Terug
@@ -119,7 +122,7 @@ export function FlashcardsStatsPage() {
         <Card>
           <CardContent className="py-8 text-center text-muted-foreground">
             <p>Nog geen opgeslagen sessies.</p>
-            <Link to="/flashcards" className={cn(buttonVariants({ className: 'mt-4' }))}>
+            <Link to={routes.flashcards} className={cn(buttonVariants({ className: 'mt-4' }))}>
               Start een sessie
             </Link>
           </CardContent>

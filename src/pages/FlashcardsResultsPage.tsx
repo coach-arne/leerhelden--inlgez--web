@@ -32,9 +32,14 @@ import {
   formatSourcesLabel,
   formatTypesLabel,
 } from '@/modules/flashcards/formatLabels'
+import { useCourseData, useCourseRoutes, useCourseSlug } from '@/hooks/useCourseData'
 import { cn } from '@/lib/utils'
 
 export function FlashcardsResultsPage() {
+  const courseSlug = useCourseSlug()
+  const routes = useCourseRoutes()
+  const { compendiumMeta } = useCourseData()
+
   const deck = useAtomValue(activeDeckAtom)
   const scores = useAtomValue(sessionScoresAtom)
   const chapters = useAtomValue(setupChapterAtom)
@@ -53,16 +58,14 @@ export function FlashcardsResultsPage() {
   const total = deck?.length ?? 0
   const weightedPct =
     total > 0
-      ? Math.round(
-          ((scores.correct + 0.5 * scores.unsure) / total) * 100,
-        )
+      ? Math.round(((scores.correct + 0.5 * scores.unsure) / total) * 100)
       : 0
 
   useEffect(() => {
     if (!deck || deck.length === 0 || !sessionId) return
-    const existing = loadFlashcardResults()
+    const existing = loadFlashcardResults(courseSlug)
     if (existing.some((r) => r.id === sessionId)) return
-    appendFlashcardResult({
+    appendFlashcardResult(courseSlug, {
       id: sessionId,
       finishedAt: new Date().toISOString(),
       chapters,
@@ -74,7 +77,7 @@ export function FlashcardsResultsPage() {
       incorrect: scores.incorrect,
       unsure: scores.unsure,
     })
-  }, [chapters, compendiums, deck, scores, sessionId, sources, types])
+  }, [chapters, compendiums, courseSlug, deck, scores, sessionId, sources, types])
 
   const clearSession = () => {
     setDeck(null)
@@ -94,7 +97,7 @@ export function FlashcardsResultsPage() {
     return (
       <div className="mx-auto max-w-lg p-6">
         <p className="text-muted-foreground">Geen sessie om te tonen.</p>
-        <Link to="/flashcards" className={cn(buttonVariants({ className: 'mt-4' }))}>
+        <Link to={routes.flashcards} className={cn(buttonVariants({ className: 'mt-4' }))}>
           Naar instellingen
         </Link>
       </div>
@@ -143,7 +146,7 @@ export function FlashcardsResultsPage() {
             {compendiums.length > 0 && (
               <p>
                 <span className="font-medium text-foreground">Compendium:</span>{' '}
-                {formatCompendiumsLabel(compendiums)}
+                {formatCompendiumsLabel(compendiums, compendiumMeta)}
               </p>
             )}
           </div>
@@ -152,14 +155,14 @@ export function FlashcardsResultsPage() {
 
       <div className="flex flex-col gap-2 sm:flex-row">
         <Link
-          to="/flashcards"
+          to={routes.flashcards}
           className={cn(buttonVariants({ variant: 'secondary' }), 'sm:flex-1')}
           onClick={clearSession}
         >
           Opnieuw (zelfde filters)
         </Link>
         <Link
-          to="/flashcards"
+          to={routes.flashcards}
           className={cn(buttonVariants(), 'sm:flex-1')}
           onClick={resetFiltersAndGo}
         >

@@ -1,8 +1,9 @@
 import type { StoredSessionResult } from '@/types/sessionResult'
 
-export const FLASHCARD_RESULTS_STORAGE_KEY = 'inlgezp-flashcard-results'
+export function getFlashcardStorageKey(courseSlug: string): string {
+  return `${courseSlug}-flashcard-results`
+}
 
-/** Legacy vorm vóór multiselect (één waarde of 'all'). */
 type LegacyStoredSessionResult = {
   id: string
   finishedAt: string
@@ -90,14 +91,17 @@ function parseResults(raw: string | null): StoredSessionResult[] {
   }
 }
 
-export function loadFlashcardResults(): StoredSessionResult[] {
+export function loadFlashcardResults(courseSlug: string): StoredSessionResult[] {
   if (typeof window === 'undefined') return []
-  return parseResults(localStorage.getItem(FLASHCARD_RESULTS_STORAGE_KEY))
+  return parseResults(localStorage.getItem(getFlashcardStorageKey(courseSlug)))
 }
 
-export function appendFlashcardResult(result: StoredSessionResult): void {
+export function appendFlashcardResult(
+  courseSlug: string,
+  result: StoredSessionResult,
+): void {
   if (typeof window === 'undefined') return
-  const prev = loadFlashcardResults()
+  const prev = loadFlashcardResults(courseSlug)
   const next = [result, ...prev]
-  localStorage.setItem(FLASHCARD_RESULTS_STORAGE_KEY, JSON.stringify(next))
+  localStorage.setItem(getFlashcardStorageKey(courseSlug), JSON.stringify(next))
 }
