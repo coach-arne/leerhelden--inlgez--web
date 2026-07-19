@@ -1,0 +1,555 @@
+[
+  {
+    "id": "3d362ddc-ef4d-4018-9a57-052f95082045",
+    "term": {
+      "nl": "Klinische psychologie",
+      "en": "Clinical psychology"
+    },
+    "definition": "Tak van de psychologie die zich bezighoudt met het ontstaan, de diagnostiek en de behandeling van psychische aandoeningen.",
+    "chapter": 1,
+    "additions": [
+      "Definitie Reber (2004): het gebied dat zich bezighoudt met afwijkend, slecht-aangepast en abnormaal menselijk gedrag, inclusief diagnose, classificatie, behandeling, preventie en onderzoek.",
+      "Richt zich op afwijking in zowel individueel functioneren (dwanggedachten, extreme angst) als sociaal functioneren (partnergeweld, sociale terugtrekking).",
+      "Positieve afwijkingen zoals hoogbegaafdheid vallen erbuiten, tenzij ze problemen veroorzaken (bv. sociaal isolement)."
+    ],
+    "importance": 5,
+    "type": "vakgebied",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "eab742a2-2499-4144-9f22-badf01dfa0cb",
+    "term": {
+      "nl": "Basisdisciplines (Duijker, 1959)",
+      "en": "Basic disciplines (Duijker, 1959)"
+    },
+    "definition": "De vijf fundamentele deelgebieden van de psychologie: functieleer, ontwikkelingspsychologie, sociale psychologie, persoonlijkheidspsychologie en methodenleer.",
+    "chapter": 1,
+    "additions": [
+      "Zonder kennis van normale processen kun je afwijkingen niet begrijpen of onderscheiden — dat is de reden dat een klinisch psycholoog deze disciplines moet beheersen.",
+      "Ontwikkelingspsychologie levert de normale ontwikkelingslijnen; methodenleer de wetenschappelijke methoden voor onderzoek en diagnostiek."
+    ],
+    "importance": 4,
+    "type": "vakgebied",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "edfda62c-2971-42ad-9b82-799f77d119e9",
+    "term": {
+      "nl": "Functieleer",
+      "en": "Cognitive psychology (functional psychology)"
+    },
+    "definition": "Basisdiscipline die zich richt op psychische functies zoals geheugen, aandacht en waarneming; tegenwoordig meestal cognitieve psychologie genoemd.",
+    "chapter": 1,
+    "additions": [
+      "Duijker rekende de functieleer tot de vijf basisdisciplines."
+    ],
+    "importance": 3,
+    "type": "vakgebied",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "5035602e-4c01-4edf-98a1-ea4263e6e1d4",
+    "term": {
+      "nl": "Toepassingsgerichte discipline",
+      "en": "Applied discipline"
+    },
+    "definition": "Deelgebied van de psychologie dat kennis uit de basisdisciplines toepast in de praktijk; klinische psychologie hoort hiertoe.",
+    "chapter": 1,
+    "additions": [
+      "Andere voorbeelden: gezondheidspsychologie, arbeids- en organisatiepsychologie, onderwijspsychologie.",
+      "Veelgemaakte tentamenfout: klinische psychologie is géén basisdiscipline."
+    ],
+    "importance": 3,
+    "type": "vakgebied",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "5967b774-f53b-4795-b74d-3c52199146e7",
+    "term": {
+      "nl": "Klinisch psycholoog versus psychiater",
+      "en": "Clinical psychologist versus psychiatrist"
+    },
+    "definition": "Beiden behandelen psychische stoornissen, maar alleen de psychiater (arts) mag psychofarmaca voorschrijven.",
+    "chapter": 1,
+    "additions": [
+      "In de praktijk overlappen de werkzaamheden sterk, vooral binnen GGZ-instellingen."
+    ],
+    "importance": 3,
+    "type": "vakgebied",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "48d0b387-1b0f-41da-aaf2-63608cb45ca2",
+    "term": {
+      "nl": "Psychopathologie",
+      "en": "Psychopathology"
+    },
+    "definition": "Verzamelterm voor psychisch disfunctioneren; in deze cursus gebruikt naast 'psychische aandoening' in plaats van de term 'stoornis'.",
+    "chapter": 1,
+    "additions": [
+      "De term 'stoornis' wordt wél gebruikt in DSM-context, bijvoorbeeld 'angststoornis'."
+    ],
+    "importance": 2,
+    "type": "begrip",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "2e3a7d8e-972b-459b-a107-fdc044d163dc",
+    "term": {
+      "nl": "Psychische stoornis (DSM-5-TR / APA)",
+      "en": "Mental disorder (DSM-5-TR / APA)"
+    },
+    "definition": "Een syndroom met cognitieve, affectieve of conatieve symptomen die wijzen op een disfunctie in psychologische, biologische of ontwikkelingsprocessen, meestal gepaard gaand met lijdensdruk of beperkingen in het functioneren.",
+    "chapter": 1,
+    "additions": [
+      "Drie bouwstenen om te onthouden: syndroom + disfunctie + lijdensdruk/beperking.",
+      "De DSM-5-TR probeert gezond en ziek te scheiden, maar de grenzen blijven discutabel."
+    ],
+    "importance": 5,
+    "type": "definitie",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "aae3e821-9ac0-4248-9b43-d62734e28c4e",
+    "term": {
+      "nl": "Syndroom",
+      "en": "Syndrome"
+    },
+    "definition": "Een samenhangend geheel van symptomen dat samen optreedt en als eenheid herkend wordt.",
+    "chapter": 1,
+    "additions": [
+      "Vormt het eerste element van de DSM-definitie van een psychische stoornis."
+    ],
+    "importance": 3,
+    "type": "definitie",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "4391e1ea-5dbd-442d-83ad-a43fc1657c89",
+    "term": {
+      "nl": "Conatief",
+      "en": "Conative"
+    },
+    "definition": "Betrekking hebbend op wil, streven en gedrag; de derde symptoomcategorie in de DSM-definitie naast cognitief en affectief.",
+    "chapter": 1,
+    "additions": [
+      "In de beknopte samenvatting ook weergegeven als 'gedragsmatige symptomen'."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "8961a0d9-5f6e-4c16-ae05-6d81d5cc89f2",
+    "term": {
+      "nl": "Lijdensdruk",
+      "en": "Distress"
+    },
+    "definition": "Significant persoonlijk leed of beperking in het functioneren op sociaal of beroepsmatig gebied of bij andere belangrijke bezigheden.",
+    "chapter": 1,
+    "additions": [
+      "Gaat 'vaak' — niet altijd — samen met een psychische stoornis; het is dus geen absolute voorwaarde."
+    ],
+    "importance": 4,
+    "type": "definitie",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "f0100a55-14af-422c-9391-7ab09e4b6cdc",
+    "term": {
+      "nl": "Uitsluitingscriteria van de DSM-5-TR",
+      "en": "DSM-5-TR exclusion criteria"
+    },
+    "definition": "Gedrag dat volgens de DSM-5-TR géén psychische stoornis is: te verwachten of cultureel aanvaarde reacties (zoals rouw), gedrag vanuit religieuze of politieke overtuiging, en conflicten tussen individu en maatschappij.",
+    "chapter": 1,
+    "additions": [
+      "Uitzondering: sociaal deviant gedrag of een conflict met de maatschappij is wél een stoornis wanneer het voortkomt uit disfunctioneren van de persoon zelf.",
+      "Rouw die na langere tijd niet verandert, kan alsnog op een stoornis wijzen.",
+      "Voorbeeld van uitgesloten gedrag: protest (politiek) of controversiële kunst (conflict met maatschappij)."
+    ],
+    "importance": 4,
+    "type": "definitie",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "371ac67b-6f08-4a1e-9d20-fed7eb1cafe7",
+    "term": {
+      "nl": "Persoonlijk lijden",
+      "en": "Suffering / personal distress"
+    },
+    "definition": "Factor 1 van Seligman: innerlijk leed, zoals de leegte, futloosheid en uitzichtloosheid bij een depressie.",
+    "chapter": 1,
+    "additions": [
+      "Niet voldoende: ook normale gebeurtenissen zoals verlies veroorzaken lijden.",
+      "Niet noodzakelijk: iemand met een waanstoornis (denkt Napoleon te zijn) kan zich er juist prettig bij voelen."
+    ],
+    "importance": 4,
+    "type": "criterium",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "13a96ccf-dd31-45fb-a7d9-1effa469b6a5",
+    "term": {
+      "nl": "(Dis)functionaliteit van gedrag",
+      "en": "Maladaptiveness"
+    },
+    "definition": "Factor 2 van Seligman: gedrag dat het dagelijks, beroepsmatig of relationeel functioneren belemmert — van het individu zelf of van anderen.",
+    "chapter": 1,
+    "additions": [
+      "Voorbeelden: angst waardoor iemand het huis niet uit durft; alcoholisme dat gezinsproblemen veroorzaakt; nachtelijk geschreeuw dat anderen stoort.",
+      "Let op: niet elk normafwijkend gedrag is een stoornis — inbraak is crimineel, niet per se ziek."
+    ],
+    "importance": 4,
+    "type": "criterium",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "5d0906f5-af93-469d-970a-094ccd03ed62",
+    "term": {
+      "nl": "Irrationeel en onbegrijpelijk gedrag",
+      "en": "Irrationality and incomprehensibility"
+    },
+    "definition": "Factor 3 van Seligman: gedrag waarin buitenstaanders geen logica of zin kunnen ontdekken.",
+    "chapter": 1,
+    "additions": [
+      "Voorbeelden: psychotisch denken, boulimia.",
+      "Context bepaalt het oordeel: als de aanleiding bekend wordt, blijkt gedrag vaak alsnog begrijpelijk."
+    ],
+    "importance": 3,
+    "type": "criterium",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "1a3ce53b-73a8-445f-bc24-220fdec6bd6c",
+    "term": {
+      "nl": "Onvoorspelbaarheid en controleverlies",
+      "en": "Unpredictability and loss of control"
+    },
+    "definition": "Factor 4 van Seligman: gedrag in situaties waarin de normaal sturende regels niet meer werken, of waarvan de toeschouwer de aanleiding niet kent.",
+    "chapter": 1,
+    "additions": [
+      "Voorbeeld: een vrouw die schreeuwend in de kou door de stad rent.",
+      "Op zichzelf onvoldoende reden om een psychische stoornis te veronderstellen."
+    ],
+    "importance": 3,
+    "type": "criterium",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "59871657-e47e-4d2d-a14c-9a136b1e7aae",
+    "term": {
+      "nl": "Opvallend en onconventioneel gedrag",
+      "en": "Vividness and unconventionality"
+    },
+    "definition": "Factor 5 van Seligman: gedrag dat sterk afwijkt van het gangbare en sociaal onwenselijk is.",
+    "chapter": 1,
+    "additions": [
+      "Sterk omgevingsafhankelijk: groen haar en piercings vallen meer op in een dorp dan in een stad.",
+      "Zeldzaam gedrag is geen probleemgedrag, tenzij het ook sociaal ongewenst is; positief afwijkend gedrag (uitmuntend toneelspel) geldt niet als pathologisch."
+    ],
+    "importance": 3,
+    "type": "criterium",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "7fd0fc0a-18c7-4a60-ba0e-84327dd7d751",
+    "term": {
+      "nl": "Observer discomfort",
+      "en": "Observer discomfort"
+    },
+    "definition": "Factor 6 van Seligman: het gevoel van ongemak dat bij de waarnemer ontstaat wanneer impliciete sociale verwachtingen worden geschonden.",
+    "chapter": 1,
+    "additions": [
+      "Nederlandse omschrijving: ongemak bij de observeerder.",
+      "Voorbeelden: iemand die tijdens een gesprek naar je oor kijkt in plaats van je ogen, een ruziënd stel in het openbaar, een loslopende pitbull."
+    ],
+    "importance": 4,
+    "type": "criterium",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "f78df778-d17a-483b-a44c-123d2fbda10a",
+    "term": {
+      "nl": "Restregels (Scheff, 1966)",
+      "en": "Residual rules (Scheff, 1966)"
+    },
+    "definition": "Impliciete, ongeschreven sociale regels waarvan men zich pas bewust wordt wanneer iemand ze overschrijdt.",
+    "chapter": 1,
+    "additions": [
+      "Voorbeelden van restregels: elkaar aankijken tijdens een gesprek, een bepaalde fysieke afstand bewaren.",
+      "Overtreding leidt tot observer discomfort en daarmee sneller tot een oordeel van abnormaliteit."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "bc244463-8b1c-4e26-9c23-8fbdcbbb08a4",
+    "term": {
+      "nl": "Overtreden van morele normen",
+      "en": "Violation of moral and ideal standards"
+    },
+    "definition": "Factor 7 van Seligman: gedrag dat ingaat tegen opvattingen over goed en slecht of over optimaal functioneren.",
+    "chapter": 1,
+    "additions": [
+      "Voorbeeld: dreigmails aan politici; ook agressief of extreem teruggetrokken gedrag wordt negatief beoordeeld.",
+      "Hoe minder gedrag overeenkomt met iemands eigen ideeën over optimaal functioneren, hoe abnormaler men het vindt."
+    ],
+    "importance": 3,
+    "type": "criterium",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "7b5da1a8-5afc-4463-9898-e3bdbbd1771e",
+    "term": {
+      "nl": "Zeven factoren van abnormaliteit (Seligman e.a., 2001)",
+      "en": "Seven elements of abnormality (Seligman et al., 2001)"
+    },
+    "definition": "Persoonlijk lijden, (dis)functionaliteit, irrationaliteit/onbegrijpelijkheid, onvoorspelbaarheid en controleverlies, opvallendheid/onconventionaliteit, ongemak bij anderen, en overtreding van morele normen.",
+    "chapter": 1,
+    "additions": [
+      "Beslisregel: minimaal één factor is vereist; hoe méér factoren aanwezig zijn, hoe groter de kans dat gedrag als pathologisch wordt beoordeeld.",
+      "Abnormaal gedrag is niet per definitie een psychische stoornis."
+    ],
+    "importance": 5,
+    "type": "criterium",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "b3f48bec-74e7-40bc-8304-c8565bbc4714",
+    "term": {
+      "nl": "Statistisch model",
+      "en": "Statistical model"
+    },
+    "definition": "Model dat ervan uitgaat dat menselijke eigenschappen min of meer normaal verdeeld zijn in de bevolking; extreem hoge of lage scores gelden als abnormaal.",
+    "chapter": 1,
+    "additions": [
+      "Voordelen: objectief en goed aansluitend bij veel psychologische tests (bv. IQ, angst).",
+      "Nadelen: arbitraire grens; specificeert niet hóé ongewoon gedrag moet zijn; ongeschikt voor zeldzame aandoeningen (bv. genderdysforie); maakt geen onderscheid tussen afwijkingen mét en zónder lijden.",
+      "Voorbeeld van dat laatste: een westerse man van 2 meter 10 wijkt extreem af, maar hoeft daar niet onder te lijden."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "d4202437-381c-460d-8a4e-761479f58c9c",
+    "term": {
+      "nl": "Normaalverdeling",
+      "en": "Normal distribution"
+    },
+    "definition": "Klokvormige verdeling van een eigenschap in de populatie; vormt de rekenkundige basis van het statistisch model.",
+    "chapter": 1,
+    "additions": [
+      "De keuze van de afkapwaarde waarboven of waaronder een score 'abnormaal' heet, blijft arbitrair."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "787146e8-bd08-4a97-ad4a-950bac5e435b",
+    "term": {
+      "nl": "Medisch of ziektemodel",
+      "en": "Medical or disease model"
+    },
+    "definition": "Model dat psychische stoornissen opvat als ziekten met een somatogene of psychogene oorzaak: de therapeut stelt als expert een diagnose en behandelt gericht op genezing.",
+    "chapter": 1,
+    "additions": [
+      "Werkwijze: abnormaliteit/ziekte → diagnose door therapeut → therapie → genezing, met een expertrol voor de therapeut en een passieve, afhankelijke rol voor de patiënt.",
+      "Bezwaren: niet altijd een organische oorzaak aantoonbaar, verwarring tussen sociale normen en medische termen, en stigmatisering via labels.",
+      "Past het best bij ernstige problematiek met duidelijke oorzaak (psychose, dementie)."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "7a8a6204-7dcb-4b22-81eb-35927f12b9f9",
+    "term": {
+      "nl": "Somatogeen",
+      "en": "Somatogenic"
+    },
+    "definition": "Een lichamelijke aandoening ligt ten grondslag aan de psychische stoornis.",
+    "chapter": 1,
+    "additions": [
+      "Klassiek voorbeeld: dementia paralytica als gevolg van een syfilisinfectie."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "b2b18fe8-8d46-4921-a7cb-edd1ba7c4a1b",
+    "term": {
+      "nl": "Psychogeen",
+      "en": "Psychogenic"
+    },
+    "definition": "Een psychologisch mechanisme ligt ten grondslag aan de psychische stoornis.",
+    "chapter": 1,
+    "additions": [
+      "Vormt samen met 'somatogeen' het oorzakenpaar binnen het medisch model."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "cafb2837-1d56-4a26-b04a-c18e956e3859",
+    "term": {
+      "nl": "Dementia paralytica",
+      "en": "General paresis (of the insane)"
+    },
+    "definition": "Psychische en neurologische aftakeling veroorzaakt door een gevorderde syfilisinfectie; het schoolvoorbeeld van een somatogene stoornis.",
+    "chapter": 1,
+    "additions": [
+      "Historisch belangrijk: de ontdekking van deze oorzaak versterkte het vertrouwen in het medisch model."
+    ],
+    "importance": 3,
+    "type": "ziekte",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "b66c8750-c27f-4e0d-ba26-89943df610d8",
+    "term": {
+      "nl": "Labelingtheorie",
+      "en": "Labeling theory"
+    },
+    "definition": "Opvatting dat het toekennen van een psychiatrisch etiket zelf bijdraagt aan de afwijking en tot blijvende stigmatisering leidt.",
+    "chapter": 1,
+    "additions": [
+      "Verbonden aan Szasz, Goffman en Rosenhan (Scheff leverde het begrip restregels).",
+      "Kernkritiek op het medisch model: 'eens gek, altijd gek' — men komt moeilijk van een label af."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "811a4163-0cef-4b4b-b715-2b727583961f",
+    "term": {
+      "nl": "Stigmatisering",
+      "en": "Stigmatisation"
+    },
+    "definition": "Het maatschappelijk brandmerken van iemand op grond van een psychiatrisch label, waardoor de persoon anders bejegend wordt.",
+    "chapter": 1,
+    "additions": [
+      "Actueel: er is meer openheid over psychische problemen, maar het stigma bestaat nog en belemmert hulpzoekgedrag."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "c712c330-df17-4196-b571-1a1f417d0470",
+    "term": {
+      "nl": "Zelfvervullende voorspelling",
+      "en": "Self-fulfilling prophecy"
+    },
+    "definition": "Mechanisme waarbij de verwachting die het label oproept het gedrag en de interpretatie daarvan zo stuurt dat de verwachting uitkomt.",
+    "chapter": 1,
+    "additions": [
+      "Verklaart waarom een eenmaal gegeven diagnose zichzelf in stand kan houden."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "656631a5-8647-4b25-9b24-e45d84e8a6b2",
+    "term": {
+      "nl": "Rosenhan-experiment",
+      "en": "Rosenhan experiment"
+    },
+    "definition": "Onderzoek waarin gezonde pseudopatiënten zich in psychiatrische ziekenhuizen lieten opnemen, als psychotisch werden gediagnosticeerd en hun normale gedrag vervolgens als pathologisch werd geïnterpreteerd.",
+    "chapter": 1,
+    "additions": [
+      "Illustreert de labelingtheorie: het label kleurt de interpretatie van alle latere observaties.",
+      "Wordt aangehaald als bezwaar tegen het medisch model."
+    ],
+    "importance": 5,
+    "type": "experiment",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "d5f81ff7-ad93-4d43-b8b7-bf692e0d340b",
+    "term": {
+      "nl": "Leer- of onderwijsmodel",
+      "en": "Learning or educational model"
+    },
+    "definition": "Model dat psychische problemen opvat als verkeerd aangeleerde patronen: de hulpverlener is leraar, de cliënt leerling, er is geen diagnose maar een leerdoel en geen therapie maar een onderwijsprogramma.",
+    "chapter": 1,
+    "additions": [
+      "Voordelen: vermijdt in alle fasen de nadelige bijbetekenissen van het medisch model, dus minder stigmatisering; benadrukt eigen verantwoordelijkheid en een actieve rol van de cliënt; terminologie sluit beter aan bij de praktijk.",
+      "Geldt vooral voor stoornissen zonder duidelijke organische oorzaak en voor mildere problematiek en levensproblemen.",
+      "Ziektebegrip: pas 'ziek' wanneer de persoon niet langer verantwoordelijk of aanspreekbaar is voor eigen gedrag — anders dan bij Szasz telt dus niet alleen een organische oorzaak, en ernstige psychosen zonder organische basis kunnen wél ziekte zijn."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "79e0413d-bcc1-456e-902e-e28fad4714cf",
+    "term": {
+      "nl": "Leerdoel (in plaats van diagnose)",
+      "en": "Learning goal (instead of diagnosis)"
+    },
+    "definition": "In het onderwijsmodel wordt het probleem geformuleerd als een te verwerven vaardigheid in plaats van als een te stellen diagnose.",
+    "chapter": 1,
+    "additions": [
+      "De leraar draagt kennis en vaardigheden over die de tekorten bij de leerling verminderen of opheffen."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "ffd51285-ee86-4b57-a0b8-b17c1c711d71",
+    "term": {
+      "nl": "Toepasbaarheid van de drie modellen",
+      "en": "Applicability of the three models"
+    },
+    "definition": "Statistisch model bij normaal verdeelde eigenschappen (IQ-extremen), medisch model bij een duidelijke somatogene of psychogene oorzaak en ernstige problematiek, onderwijsmodel bij vaardigheidstekorten en levensproblemen zonder organische basis.",
+    "chapter": 1,
+    "additions": [
+      "Elk model heeft voor- en nadelen; welk model passend is, hangt af van de situatie.",
+      "Voorbeelden uit de oefenvragen: IQ-extremen → statistisch; dementia paralytica → medisch; sociale vaardigheden, coping en zelfmanagement → onderwijs."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "0337d340-72c6-4627-8aef-07195b6754f3",
+    "term": {
+      "nl": "Continuümbenadering",
+      "en": "Continuum approach"
+    },
+    "definition": "Visie dat er geen strikte grens bestaat tussen psychisch gezond en ziek, maar een glijdende schaal in ernst en duur.",
+    "chapter": 1,
+    "additions": [
+      "Sluit aan bij het statistisch model en wint terrein.",
+      "Voorbeeld: somberheid kan bij toename in ernst of duur verschuiven naar depressie; klachten kunnen ook weer afnemen.",
+      "De behoefte aan hulp hangt af van de ernst en duur van de klachten."
+    ],
+    "importance": 4,
+    "type": "visie",
+    "source": "flashcards_h1.json"
+  },
+  {
+    "id": "9fd66818-0a75-4285-baa3-e48c4abd3332",
+    "term": {
+      "nl": "Samen beslissen",
+      "en": "Shared decision-making"
+    },
+    "definition": "Moderne werkwijze in de GGZ waarbij hulpverlener en patiënt samen de hulpverleningsstappen kiezen.",
+    "chapter": 1,
+    "additions": [
+      "Rolverdeling: de hulpverlener is expert in diagnostiek en behandeling, de patiënt is expert in de eigen behoeften, voorkeuren en waarden.",
+      "Contrast: het medisch model kent een autoritaire verhouding, het onderwijsmodel een gelijkwaardiger relatie."
+    ],
+    "importance": 4,
+    "type": "visie",
+    "source": "flashcards_h1.json"
+  }
+]
