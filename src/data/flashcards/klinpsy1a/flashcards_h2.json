@@ -1,0 +1,680 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "term": { "nl": "Neurobiologische benadering", "en": "Neurobiological approach" },
+    "definition": "Benadering die psychopathologie verklaart via de interactie tussen genen, hersenstructuren, neurotransmitters en hormonen, steeds in wisselwerking met de omgeving.",
+    "chapter": 2,
+    "additions": [
+      "Psychopathologie is multifactorieel: geen enkel onderdeel verklaart het volledig.",
+      "Valt onder de deterministische en reductionistische benaderingen samen met de leertheoretische en cognitieve benadering."
+    ],
+    "importance": 10,
+    "type": "theorie",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "b2c3d4e5",
+    "term": { "nl": "Hippocrates", "en": "Hippocrates" },
+    "definition": "Griekse arts uit de oudheid die stelde dat afwijkend gedrag voortkomt uit de hersenen, niet uit bovennatuurlijke oorzaken. Wordt gezien als een vroege voorloper van de neurobiologische benadering.",
+    "chapter": 2,
+    "additions": [
+      "Ondanks Hippocrates' ideeën bleef eeuwenlang het geloof in geesten en demonen overheersen, wat leidde tot marteling en executie van mensen met psychische stoornissen."
+    ],
+    "importance": 6,
+    "type": "persoon",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "c3d4e5f6",
+    "term": { "nl": "Frenologie", "en": "Phrenology" },
+    "definition": "Onwetenschappelijke leer van Franz Joseph Gall die stelde dat de schedelvorm de persoonlijkheid bepaalt. Hoewel onjuist, legde frenologie wel een vroege koppeling tussen hersenen en afwijkend gedrag.",
+    "chapter": 2,
+    "additions": [
+      "Gall ging ervan uit dat hersenen 'mentale organen' bevatten in de grijze stof."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "d4e5f6g7",
+    "term": { "nl": "René Descartes", "en": "René Descartes" },
+    "definition": "17e-eeuwse filosoof die het lichaam-geest dualisme formuleerde en stelde dat de ziel zich in de pijnappelklier (epifyse) bevindt. Startte de discussie over de relatie tussen lichaam en geest.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 4,
+    "type": "persoon",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "e5f6g7h8",
+    "term": { "nl": "Broca's afasie", "en": "Broca's aphasia" },
+    "definition": "Een taalstoornis waarbij de persoon langzaam, slecht articulerend en in telegramstijl spreekt, veroorzaakt door letsel in de linker frontaalkwab. Ontdekt door Paul Broca in 1861.",
+    "chapter": 2,
+    "additions": [
+      "Broca's ontdekking bewees voor het eerst een direct verband tussen een specifiek hersengebied en een specifieke cognitieve functie."
+    ],
+    "importance": 7,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "f6g7h8i9",
+    "term": { "nl": "Wilhelm Griesinger", "en": "Wilhelm Griesinger" },
+    "definition": "19e-eeuwse arts die stelde dat 'geestesziekten hersenziekten zijn', maar ook oog had voor psychologie en antropologie.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 4,
+    "type": "persoon",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "g7h8i9j0",
+    "term": { "nl": "Frontale lobotomie", "en": "Frontal lobotomy" },
+    "definition": "Chirurgische verwijdering of doorsnijding van de frontale kwab. Gebaseerd op onderzoek bij apen, massaal toegepast in de jaren '30-'50, zonder empirische basis en met desastreuze gevolgen voor tienduizenden patiënten.",
+    "chapter": 2,
+    "additions": [
+      "Ontwikkeld door Monitz.",
+      "Illustreert de risico's van onbewezen neurobiologische ingrepen."
+    ],
+    "importance": 6,
+    "type": "behandeling",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "h8i9j0k1",
+    "term": { "nl": "Neuroleptica / antipsychotica", "en": "Neuroleptics / antipsychotics" },
+    "definition": "Medicatie die psychotische symptomen vermindert. Eerste generatie (jaren '50): chloorpromazine, haloperidol. Tweede generatie / atypische antipsychotica (jaren '80): minder bijwerkingen.",
+    "chapter": 2,
+    "additions": [
+      "Nadelen van medicatie: gewenning, afbouw vereist begeleiding, risico's bij polyfarmacie (vooral ouderen)."
+    ],
+    "importance": 7,
+    "type": "behandeling",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "i9j0k1l2",
+    "term": { "nl": "Wouter Buikhuisen", "en": "Wouter Buikhuisen" },
+    "definition": "Nederlandse criminoloog die in 1978 voorstelde neurobiologische factoren te onderzoeken bij jonge delinquenten. Kreeg veel kritiek omdat destijds de nurture-benadering (maakbare samenleving) dominant was. In 2009 gerehabiliteerd.",
+    "chapter": 2,
+    "additions": [
+      "Zijn casus toont dat wetenschappelijke ideeën tijd- en contextafhankelijk zijn."
+    ],
+    "importance": 5,
+    "type": "persoon",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "j0k1l2m3",
+    "term": { "nl": "Familiestudies", "en": "Family studies" },
+    "definition": "Onderzoeksmethode die families met en zonder stoornissen vergelijkt om genetische invloeden op psychopathologie vast te stellen. Beperking: gedeelde omgeving maakt onderscheid tussen genetische en omgevingsinvloeden moeilijk.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 6,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "k1l2m3n4",
+    "term": { "nl": "Tweelingstudies", "en": "Twin studies" },
+    "definition": "Onderzoeksmethode die eeneiige tweelingen (100% genen gedeeld) vergelijkt met twee-eiige tweelingen (±50% genen gedeeld) om de genetische bijdrage aan stoornissen te schatten.",
+    "chapter": 2,
+    "additions": [
+      "Beperking: de aanname dat eeneiige en twee-eiige tweelingen dezelfde omgeving delen (equal environments assumption) is vaak onrealistisch.",
+      "Resultaten zijn gemiddelden, geen voorspellingen op individueel niveau."
+    ],
+    "importance": 8,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "l2m3n4o5",
+    "term": { "nl": "Concordantie(coëfficiënt)", "en": "Concordance (coefficient)" },
+    "definition": "De mate waarin een eigenschap (zoals een psychische stoornis) bij beide leden van een tweelingpaar voorkomt. Uitgedrukt als een coëfficiënt van 0 tot 1: hoe hoger, hoe meer genetische invloed.",
+    "chapter": 2,
+    "additions": [
+      "Erfelijkheidsformule: h² ≈ 2 × (concordantie eeneiig − concordantie twee-eiig)."
+    ],
+    "importance": 8,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "m3n4o5p6",
+    "term": { "nl": "Adoptiestudies", "en": "Adoption studies" },
+    "definition": "Onderzoeksmethode waarbij geadopteerde kinderen worden vergeleken met biologische en adoptieouders. Overeenkomst met biologische ouders wijst op genetische invloed; overeenkomst met adoptieouders op omgevingsinvloed.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 6,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "n4o5p6q7",
+    "term": { "nl": "Genotype", "en": "Genotype" },
+    "definition": "De totale genetische informatie (het DNA) van een individu. Het genotype bepaalt de mogelijkheden, maar niet direct het uiterlijk of gedrag.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 9,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "o5p6q7r8",
+    "term": { "nl": "Fenotype", "en": "Phenotype" },
+    "definition": "De observeerbare eigenschappen van een individu, als resultaat van de interactie tussen genen (genotype) en omgeving. Voorbeeld: huidskleur is genetisch bepaald maar wordt beïnvloed door zonlicht.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 9,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "p6q7r8s9",
+    "term": { "nl": "Epigenetica", "en": "Epigenetics" },
+    "definition": "Studie van het aan- of uitschakelen van genen door omgevingsfactoren zoals stress, voeding en leefstijl, zonder verandering van het DNA zelf. Verklaart waarom identieke genen tot verschillende uitkomsten kunnen leiden.",
+    "chapter": 2,
+    "additions": [
+      "Praktisch voorbeeld: leefstijlprogramma's (bv. wwfingers.com) onderzoeken of interventies het risico op dementie verminderen.",
+      "Epigenetica toont dat omgeving en leefstijl genexpressie kunnen beïnvloeden."
+    ],
+    "importance": 9,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "q7r8s9t0",
+    "term": { "nl": "Limbisch systeem", "en": "Limbic system" },
+    "definition": "Hersenstructuur die betrokken is bij emotie, motivatie en emotioneel geheugen. Bestaat onder andere uit de amygdala, hippocampus en hypothalamus.",
+    "chapter": 2,
+    "additions": [
+      "Werkt nauw samen met de prefrontale cortex voor emotieregulatie."
+    ],
+    "importance": 10,
+    "type": "hersenstructuur",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "r8s9t0u1",
+    "term": { "nl": "Amygdala", "en": "Amygdala" },
+    "definition": "Onderdeel van het limbisch systeem dat emoties en motivatie reguleert en beloning, gevaar, pijn en bedreiging detecteert. Onderdeel van het saillantie-netwerk.",
+    "chapter": 2,
+    "additions": [
+      "Hyperactiviteit van de amygdala is betrokken bij angststoornissen, PTSS, borderline, OCD en sociale-angststoornis.",
+      "Onderactiviteit kan leiden tot verminderde gevoeligheid voor angst, waardoor correctie van gedrag door bestraffing niet goed werkt.",
+      "Verlegen baby's hebben een actiever amygdala, waardoor zij gevoeliger zijn voor stress."
+    ],
+    "importance": 10,
+    "type": "hersenstructuur",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "s9t0u1v2",
+    "term": { "nl": "Hippocampus", "en": "Hippocampus" },
+    "definition": "Hersenstructuur binnen het limbisch systeem die betrokken is bij geheugen en stressregulatie.",
+    "chapter": 2,
+    "additions": [
+      "Chronisch verhoogde cortisolniveaus kunnen neurotoxisch zijn voor hippocampusweefsel (hippocampale atrofie).",
+      "Ernst en duur van ziekte correleren met hippocampale atrofie."
+    ],
+    "importance": 7,
+    "type": "hersenstructuur",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "t0u1v2w3",
+    "term": { "nl": "Hypothalamus", "en": "Hypothalamus" },
+    "definition": "Hersenstructuur binnen het limbisch systeem met een centrale rol in de hormonale aansturing. Reguleert onder andere de HPA-as.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 6,
+    "type": "hersenstructuur",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "u1v2w3x4",
+    "term": { "nl": "Prefrontale cortex (PFC)", "en": "Prefrontal cortex (PFC)" },
+    "definition": "Hersengebied dat verantwoordelijk is voor executieve functies: planning, besluitvorming, gedragsinhibitie en evaluatie van handelingen. Reguleert emoties door samenwerking met het limbisch systeem.",
+    "chapter": 2,
+    "additions": [
+      "Schade aan de PFC kan leiden tot persoonlijkheidsveranderingen, apathie, ontremming en pseudo-depressief syndroom.",
+      "Bij depressie is er volumevermindering en verlaagde activiteit van de PFC.",
+      "Een persoon met PFC-beschadiging (bv. door een tumor) kan voor een psychiatrische patiënt worden gehouden."
+    ],
+    "importance": 10,
+    "type": "hersenstructuur",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "v2w3x4y5",
+    "term": { "nl": "Neurotransmitters", "en": "Neurotransmitters" },
+    "definition": "Chemische boodschappers ('sleutels') die in de synaptische spleet vrijkomen en binden aan specifieke receptoren ('sloten') op het postsynaptische neuron, waardoor een nieuw signaal ontstaat. Belangrijke neurotransmitters: glutamaat, GABA, dopamine, serotonine, noradrenaline.",
+    "chapter": 2,
+    "additions": [
+      "Werkt als een sleutel-slotmechanisme.",
+      "De hoeveelheid neurotransmitter in de synaptische spleet wordt beïnvloed door productie, katabolisme (afbraak door enzymen zoals MAO) en heropname."
+    ],
+    "importance": 10,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "w3x4y5z6",
+    "term": { "nl": "Synaptische spleet", "en": "Synaptic cleft" },
+    "definition": "De ruimte tussen twee neuronen waar chemische overdracht plaatsvindt. Neurotransmitters worden hier vrijgegeven door het presynaptische neuron en binden aan receptoren van het postsynaptische neuron.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 7,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "x4y5z6a1",
+    "term": { "nl": "Dendrieten", "en": "Dendrites" },
+    "definition": "Vertakkingen van een neuron die signalen vanuit andere neuronen ontvangen.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "y5z6a1b2",
+    "term": { "nl": "Axon", "en": "Axon" },
+    "definition": "Vertakking van een neuron die een elektrisch signaal overdraagt naar andere neuronen.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "z6a1b2c3",
+    "term": { "nl": "Katabolisme (van neurotransmitters)", "en": "Catabolism (of neurotransmitters)" },
+    "definition": "Chemische afbraak van neurotransmitters door enzymen (zoals MAO) die aanwezig zijn in de synaptische spleet, waardoor de hoeveelheid beschikbare neurotransmitter vermindert.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 6,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "a2b3c4d5",
+    "term": { "nl": "Heropname (reuptake)", "en": "Reuptake" },
+    "definition": "Het proces waarbij neurotransmitters via autoreceptoren worden teruggenomen in het presynaptische neuron, waardoor de hoeveelheid in de synaptische spleet vermindert. Bij depressie kan te veel heropname van serotonine een tekort aan stimulatie veroorzaken.",
+    "chapter": 2,
+    "additions": [
+      "Heropnameremmers (zoals SSRI's) zijn een veelgebruikt werkingsmechanisme van antidepressiva."
+    ],
+    "importance": 8,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "b3c4d5e6",
+    "term": { "nl": "Blokkeermiddelen (blocking agents)", "en": "Blocking agents" },
+    "definition": "Chemische stoffen die op receptoren passen maar het neuron niet stimuleren ('ze passen op het slot maar openen de deur niet'). Ze voorkomen dat het postsynaptische neuron vuurt, waardoor synaptische overdracht stopt.",
+    "chapter": 2,
+    "additions": [
+      "Voorbeeld: antipsychotica blokkeren dopaminereceptoren om psychotische symptomen te verminderen."
+    ],
+    "importance": 7,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "c4d5e6f7",
+    "term": { "nl": "Dopamine", "en": "Dopamine" },
+    "definition": "Neurotransmitter betrokken bij beloning en motoriek. Verhoogde dopamineactiviteit is geassocieerd met psychose (hallucinaties, wanen); verlaagde dopamine met motorische problemen (bv. ziekte van Parkinson).",
+    "chapter": 2,
+    "additions": [
+      "Dopaminehypothese: overactiviteit leidt tot psychose door excessieve reactie op irrelevante stimuli. Niet volledig sluitend: niet alle schizofreniepatiënten reageren op dopamineblokkers.",
+      "Drugs die dopamine verhogen (amfetamine, cocaïne) kunnen psychotische symptomen veroorzaken.",
+      "Bij sommige schizofrene patiënten is het aantal dopaminereceptoren verhoogd."
+    ],
+    "importance": 10,
+    "type": "neurotransmitter",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "d5e6f7g8",
+    "term": { "nl": "Serotonine", "en": "Serotonin" },
+    "definition": "Neurotransmitter waarvan een verlaagd niveau geassocieerd is met depressie. Speelt ook een rol bij angst en agressieregulatie.",
+    "chapter": 2,
+    "additions": [
+      "Laag serotonine in combinatie met hoog testosteron kan agressie versterken."
+    ],
+    "importance": 9,
+    "type": "neurotransmitter",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "e6f7g8h9",
+    "term": { "nl": "Noradrenaline", "en": "Noradrenaline" },
+    "definition": "Stof die zowel neurotransmitter als hormoon is. Verlaagd bij depressie, verhoogd bij angststoornissen. Werkt samen met serotonine, dopamine en GABA in complexe netwerken.",
+    "chapter": 2,
+    "additions": [
+      "Middelen die GABA verhogen (zoals alcohol) verminderen angst door noradrenaline-regulatie."
+    ],
+    "importance": 8,
+    "type": "neurotransmitter",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "f7g8h9i0",
+    "term": { "nl": "GABA (gamma-aminoboterzuur)", "en": "GABA (gamma-aminobutyric acid)" },
+    "definition": "Remmende neurotransmitter die betrokken is bij angstregulatie. Vermindert overmatige prikkeling in de hersenen.",
+    "chapter": 2,
+    "additions": [
+      "Middelen die GABA verhogen (bv. alcohol, benzodiazepinen) hebben een angstverminderd effect."
+    ],
+    "importance": 7,
+    "type": "neurotransmitter",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "g8h9i0j1",
+    "term": { "nl": "Glutamaat", "en": "Glutamate" },
+    "definition": "Stimulerende neurotransmitter in de hersenen. Is een van de belangrijke neurotransmitters in de klinische praktijk.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 5,
+    "type": "neurotransmitter",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "h9i0j1k2",
+    "term": { "nl": "Hormonen", "en": "Hormones" },
+    "definition": "Signaalstoffen geproduceerd door endocriene klieren die via de bloedbaan door het lichaam reizen. Ze werken trager en diffuser dan neurotransmitters en alleen op cellen met een specifieke receptor.",
+    "chapter": 2,
+    "additions": [
+      "Belangrijke endocriene klieren: epifyse, hypothalamus, hypofyse, schildklier, bijnieren, alvleesklier, eierstokken, teelballen.",
+      "Eenzelfde hormoon kan verschillende effecten hebben, afhankelijk van de receptor."
+    ],
+    "importance": 8,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "i0j1k2l3",
+    "term": { "nl": "Cortisol", "en": "Cortisol" },
+    "definition": "Stresshormoon geproduceerd in de bijnierschors, gereguleerd via de HPA-as. Chronisch verhoogde niveaus zijn geassocieerd met depressie en kunnen neurotoxisch zijn voor hippocampusweefsel. Lage cortisolactiviteit kan samenhangen met ongevoeligheid voor straf en normoverschrijdend gedrag.",
+    "chapter": 2,
+    "additions": [
+      "Kinderen met hoge cortisolreactiviteit vertonen variërend gedrag afhankelijk van omgeving: minder prosociaal bij stress, juist meer bij gunstige omstandigheden."
+    ],
+    "importance": 9,
+    "type": "hormoon",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "j1k2l3m4",
+    "term": { "nl": "Testosteron", "en": "Testosterone" },
+    "definition": "Geslachtshormoon dat bij dieren een duidelijk verband toont met agressie; bij mensen is dit verband minder eenduidig. Mogelijke relatie met antisociaal gedrag, vooral in combinatie met verstoorde neurotransmittersystemen.",
+    "chapter": 2,
+    "additions": [
+      "Laag serotonine + hoog testosteron kan agressie versterken."
+    ],
+    "importance": 6,
+    "type": "hormoon",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "k2l3m4n5",
+    "term": { "nl": "HPA-as", "en": "HPA axis (Hypothalamic-Pituitary-Adrenal axis)" },
+    "definition": "Het hormonale systeem dat de stressrespons reguleert via de hypothalamus, hypofyse en bijnieren. Reguleert de afgifte van cortisol.",
+    "chapter": 2,
+    "additions": [
+      "Chronische stress kan de werking van de HPA-as verstoren."
+    ],
+    "importance": 7,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "l3m4n5o6",
+    "term": { "nl": "Stressimmunisatie", "en": "Stress inoculation" },
+    "definition": "Het fenomeen dat matige stress in de vroege jeugd kan leiden tot betere stressverwerking later in het leven.",
+    "chapter": 2,
+    "additions": [
+      "Dierproeven tonen aan dat matige stress jonge dieren beter laat omgaan met stress in volwassenheid.",
+      "Langdurige of zware vroege stress heeft daarentegen een ontregelend effect."
+    ],
+    "importance": 6,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "m4n5o6p7",
+    "term": { "nl": "Gen-omgevingsinteractie", "en": "Gene-environment interaction" },
+    "definition": "Het principe dat genetische kwetsbaarheid het risico op stoornissen vergroot, maar dat de omgeving bepaalt of die kwetsbaarheid daadwerkelijk leidt tot een stoornis. Genen coderen geen stoornis, maar een algemene kwetsbaarheid.",
+    "chapter": 2,
+    "additions": [
+      "Voorbeeld: negatieve levensgebeurtenissen verhogen de kans op depressie bij genetisch kwetsbare personen."
+    ],
+    "importance": 9,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "n5o6p7q8",
+    "term": { "nl": "MAO-A (monoamineoxidase A)", "en": "MAO-A (monoamine oxidase A)" },
+    "definition": "Enzym dat neurotransmitters afbreekt in de synaptische spleet. Genetische variatie in MAO-A kan de impact van mishandeling op antisociaal gedrag modereren: laag MAO-A + mishandeling verhoogt het risico op antisociaal gedrag.",
+    "chapter": 2,
+    "additions": [
+      "Voorbeeld van gen-omgevingsinteractie: het gen bepaalt niet het gedrag, maar modereert het effect van de omgeving."
+    ],
+    "importance": 8,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "o6p7q8r9",
+    "term": { "nl": "Dopaminehypothese", "en": "Dopamine hypothesis" },
+    "definition": "Hypothese dat overactiviteit van het dopaminesysteem leidt tot psychose, doordat de persoon excessief reageert op irrelevante stimuli. Niet volledig sluitend, want niet alle schizofreniepatiënten reageren op dopamineblokkers.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 8,
+    "type": "theorie",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "p7q8r9s0",
+    "term": { "nl": "CT-scan (Computed Tomography)", "en": "CT scan (Computed Tomography)" },
+    "definition": "Beeldvormende techniek die röntgenstraling gebruikt om tweedimensionale dwarsdoorsneden van de hersenen te maken. Goed voor het opsporen van structuurschade, tumoren of bloedingen, maar beperkt in functionele informatie.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "q8r9s0t1",
+    "term": { "nl": "PET-scan (Positron Emission Tomography)", "en": "PET scan (Positron Emission Tomography)" },
+    "definition": "Beeldvormende techniek op basis van radioactieve tracers die metabolische activiteit en bloedstroom in de hersenen meet. Kan bij depressie verminderde stofwisseling in de prefrontale cortex laten zien.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "r9s0t1u2",
+    "term": { "nl": "fMRI (functional MRI)", "en": "fMRI (functional MRI)" },
+    "definition": "De belangrijkste beeldvormende techniek in de psychopathologie. Meet veranderingen in bloedtoevoer via het BOLD-signaal (Blood Oxygen Level Dependent). Veronderstelling: meer bloedtoevoer = meer neurale activiteit. Niet-invasief.",
+    "chapter": 2,
+    "additions": [
+      "Beperkingen: indirecte meting (bloedtoevoer i.p.v. neuronale activiteit), beperkte temporale en spatiële resolutie, duur.",
+      "Toepassing: toont bij angststoornissen verhoogde activiteit in de amygdala bij dreigingsprikkels."
+    ],
+    "importance": 9,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "s0t1u2v3",
+    "term": { "nl": "BOLD-signaal", "en": "BOLD signal (Blood Oxygen Level Dependent)" },
+    "definition": "Het signaal dat fMRI meet: veranderingen in zuurstofrijk bloed als index voor neurale activiteit. Meer bloedtoevoer naar een hersengebied wijst op meer activiteit.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 6,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "t1u2v3w4",
+    "term": { "nl": "MRI (Magnetic Resonance Imaging)", "en": "MRI (Magnetic Resonance Imaging)" },
+    "definition": "Beeldvormende techniek die sterke magnetische velden en radiogolven gebruikt voor gedetailleerde beelden van hersenstructuur (grijze/witte stof, hersenvocht).",
+    "chapter": 2,
+    "additions": [
+      "Varianten: DTI (Diffusion Tensor Imaging) toont witte-stofbanen; MRS (Magnetische Resonantie Spectroscopie) meet moleculaire concentraties."
+    ],
+    "importance": 6,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "u2v3w4x5",
+    "term": { "nl": "DTI (Diffusion Tensor Imaging)", "en": "DTI (Diffusion Tensor Imaging)" },
+    "definition": "Variant van MRI die witte-stofbanen (connectiviteit tussen hersengebieden) zichtbaar maakt. Bij schizofrenie zijn afwijkingen in deze banen waargenomen.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "v3w4x5y6",
+    "term": { "nl": "Pseudo-depressief syndroom", "en": "Pseudo-depressive syndrome" },
+    "definition": "Syndroom veroorzaakt door beschadiging van de prefrontale cortex, gekenmerkt door initiatiefverlies, affectieve vervlakking en sociale teruggetrokkenheid. Kan ertoe leiden dat de persoon ten onrechte als psychiatrische patiënt wordt behandeld.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "w4x5y6z7",
+    "term": { "nl": "ECT (electroconvulsietherapie)", "en": "ECT (electroconvulsive therapy)" },
+    "definition": "Behandeling waarbij elektrische schokken onder anesthesie worden toegediend. Vergroot responsiviteit op dopamine en noradrenaline, stimuleert neurogenese in de hippocampus. Effectiviteit: 70-90% vermindering van depressieve en manische klachten. Gebruikt bij ernstige, therapieresistente depressie.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 8,
+    "type": "behandeling",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "x5y6z7a2",
+    "term": { "nl": "rTMS (repetitieve transcraniële magnetische stimulatie)", "en": "rTMS (repetitive transcranial magnetic stimulation)" },
+    "definition": "Niet-invasieve behandeling waarbij magnetische pulsen hersencellen stimuleren en hersennetwerken beïnvloeden om klachten te verminderen. Veelbelovend alternatief voor ECT, vooral bij therapieresistente depressie.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 7,
+    "type": "behandeling",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "y6z7a2b3",
+    "term": { "nl": "DBS (diepe hersenstimulatie)", "en": "DBS (deep brain stimulation)" },
+    "definition": "Chirurgische implantatie van elektrodes in specifieke hersengebieden. Effectief bij de ziekte van Parkinson en ernstige dwangstoornissen (vermindert dwang, angst en somberheid). Bij depressie nog vooral experimenteel.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 7,
+    "type": "behandeling",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "z7a2b3c4",
+    "term": { "nl": "Antidepressiva", "en": "Antidepressants" },
+    "definition": "Medicatie die neurotransmitters (vooral serotonine en noradrenaline) beïnvloedt ter behandeling van depressie. Werkingsmechanismen: remming van afbraak, remming van heropname, of stimulatie/blokkade van receptoren.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 7,
+    "type": "behandeling",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "a3b4c5d6",
+    "term": { "nl": "Anxiolytica", "en": "Anxiolytics" },
+    "definition": "Medicatie ter vermindering van angst. Beïnvloedt neurotransmitters om angstklachten te verlichten.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 5,
+    "type": "behandeling",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "b4c5d6e7",
+    "term": { "nl": "Arousal", "en": "Arousal" },
+    "definition": "Het basisniveau van spanning en alertheid in het zenuwstelsel. Regulatie van arousal (niveau 1 van therapie) richt zich op het verminderen van spanning via ademhalings- en ontspanningsoefeningen.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 6,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "c5d6e7f8",
+    "term": { "nl": "RDoC (Research Domain Criteria)", "en": "RDoC (Research Domain Criteria)" },
+    "definition": "Nieuw model als alternatief voor de DSM dat focust op domeinen van functioneren (emotie, cognitie) in plaats van traditionele stoornisclassificaties. Werkt op een continuüm van normaal naar abnormaal gedrag en herleidt symptomen naar neurobiologische oorsprong.",
+    "chapter": 2,
+    "additions": [
+      "Integreert fenomenologie, gedrag, neurobiologie en genetica.",
+      "Stimuleert multidisciplinaire samenwerking en kan de DSM mogelijk vervangen."
+    ],
+    "importance": 7,
+    "type": "model",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "d6e7f8g9",
+    "term": { "nl": "Polyfarmacie", "en": "Polypharmacy" },
+    "definition": "Het gelijktijdig gebruik van meerdere medicijnen, wat risico's met zich meebrengt door interacties en bijwerkingen, vooral bij ouderen.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "e7f8g9h0",
+    "term": { "nl": "Polygeen", "en": "Polygenic" },
+    "definition": "Eigenschap die door meerdere genen samen wordt beïnvloed. Bij psychopathologie verhogen meestal meerdere genen samen de kwetsbaarheid, zonder dat één gen de stoornis veroorzaakt.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 7,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "f8g9h0i1",
+    "term": { "nl": "SPECT (Single Photon Emission Computed Tomography)", "en": "SPECT (Single Photon Emission Computed Tomography)" },
+    "definition": "Beeldvormende techniek vergelijkbaar met PET, maar met gebruik van andere radioactieve stoffen en meting van enkele fotonen. Goedkoper maar lagere resolutie dan PET.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 3,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "g9h0i1j2",
+    "term": { "nl": "Endocriene klieren", "en": "Endocrine glands" },
+    "definition": "Klieren die hormonen produceren en afgeven aan de bloedbaan. Belangrijkste: epifyse (biologische ritmes), hypothalamus en hypofyse (hormonale aansturing), schildklier (stofwisseling), bijnieren (stresshormonen), alvleesklier (bloedsuiker), eierstokken en teelballen (geslachtshormonen).",
+    "chapter": 2,
+    "additions": [],
+    "importance": 6,
+    "type": "begrip",
+    "source": "flashcards_h2.json"
+  },
+  {
+    "id": "h0i1j2k3",
+    "term": { "nl": "Fritsch & Hitzig", "en": "Fritsch & Hitzig" },
+    "definition": "Onderzoekers die in 1870 aantoonden dat elektrische stimulatie van de hersenen gecoördineerde bewegingen van ledematen bij dieren veroorzaakte. Bewijs dat specifieke hersengebieden specifieke functies aansturen.",
+    "chapter": 2,
+    "additions": [],
+    "importance": 3,
+    "type": "persoon",
+    "source": "flashcards_h2.json"
+  }
+]
