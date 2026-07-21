@@ -1,0 +1,517 @@
+[
+  {
+    "id": "bb3c8e3d-aea0-447a-8351-b81d09a50ef3",
+    "term": { "nl": "Systeembenadering", "en": "Systems approach" },
+    "definition": "Benadering binnen de klinische psychologie die psychische stoornissen niet alleen verklaart door interne processen van het individu, maar ook door interacties met de sociale omgeving. Problemen ontstaan en blijven bestaan binnen relationele contexten zoals gezin, partnerrelatie of teams.",
+    "chapter": 7,
+    "additions": [
+      "Kernidee: problemen worden begrepen vanuit de context, niet enkel vanuit het individu",
+      "Holistische kijk: individu is altijd deel van een groter geheel"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "8afdc987-98c9-4893-afd6-60ee4c1255b3",
+    "term": { "nl": "Algemene systeemtheorie", "en": "General systems theory" },
+    "definition": "Door Von Bertalanffy (1920–1960) ontwikkelde theorie waarin een systeem wordt gedefinieerd als een samenhangend geheel van objecten en hun onderlinge relaties. De theorie ontstond als reactie op lineaire causaliteit en introduceerde circulaire causaliteit.",
+    "chapter": 7,
+    "additions": [
+      "Von Bertalanffy is de grondlegger",
+      "Systeem = samenhangend geheel van objecten en hun onderlinge relaties"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "26f8860b-4ae0-4992-b062-cf90e61f95b4",
+    "term": { "nl": "Lineaire causaliteit", "en": "Linear causality" },
+    "definition": "Een rechtstreeks verband tussen oorzaak en gevolg (eenrichtingsverkeer). De systeembenadering ontstond als reactie op dit denken, omdat het te simpel werd geacht om menselijk gedrag en relaties te verklaren.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: 'slechte opvoeding veroorzaakt probleemgedrag' zonder rekening te houden met wederzijdse beïnvloeding"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "e5413610-ebb1-459b-b93d-8c3af9806605",
+    "term": { "nl": "Circulaire causaliteit", "en": "Circular causality" },
+    "definition": "Oorzaak en gevolg beïnvloeden elkaar wederzijds, in tegenstelling tot lineaire causaliteit. Binnen een systeem versterken gedragingen elkaar in vicieuze cirkels, waardoor oorzaak en gevolg niet meer duidelijk te onderscheiden zijn.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: strenge ouder → andere ouder wordt toegeeflijk → strenge ouder wordt nog strenger",
+      "Hoe meer leden in het systeem, hoe complexer de interactieketens"
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "f36bf988-37d1-4d59-83b8-5121ab583ff6",
+    "term": { "nl": "Feedback", "en": "Feedback" },
+    "definition": "Terugkoppeling binnen een systeem die kan leiden tot verandering of behoud van de status quo. Feedback is het mechanisme waarmee circulaire causaliteit werkt binnen gezinnen en andere systemen.",
+    "chapter": 7,
+    "additions": [
+      "Kan positief (versterkend) of negatief (corrigerend/stabiliserend) zijn"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "04e0a908-acde-490a-a38d-3f43ca73b169",
+    "term": { "nl": "Homeostase", "en": "Homeostasis" },
+    "definition": "Het streven van systemen naar evenwicht tussen zichzelf en de omgeving. Binnen gezinnen betekent dit dat het gezin probeert de balans te herstellen na verstoringen, soms door ongezonde patronen te herhalen. Geïntroduceerd door Jackson (1957).",
+    "chapter": 7,
+    "additions": [
+      "Gezonde systemen: flexibel evenwicht → aanpassen zonder verstarren of in chaos vervallen",
+      "Jackson (1957) introduceerde dit concept in de systeembenadering"
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "7cb67fbd-dcf6-4908-bdb9-c048ddb5ec1b",
+    "term": { "nl": "Homeostatische mechanismen", "en": "Homeostatic mechanisms" },
+    "definition": "Processen waarmee een systeem de balans probeert te herstellen bij verstoring. Problemen ontstaan wanneer deze mechanismen te rigide (vastgeroest, geen ruimte voor verandering) of te zwak/flexibel (grenzen te vaag, chaos) functioneren.",
+    "chapter": 7,
+    "additions": [
+      "Rigide voorbeeld: gezin laat nauwelijks afwijkingen toe → vastgeroest in patronen",
+      "Te flexibel voorbeeld: grenzen te vaag → chaos, moeilijk herstel",
+      "Disfunctioneel voorbeeld: buitenechtelijke relatie maar doorgaan alsof niets is veranderd"
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "d42e8ae5-2104-4612-9401-6b887e0c1bd1",
+    "term": { "nl": "Patiëntsubstitutie", "en": "Patient substitution" },
+    "definition": "Fenomeen waarbij, als één gezinslid herstelt van psychische klachten, een ander gezinslid klachten ontwikkelt. Dit toont aan dat klachten een functie kunnen hebben binnen het gezinssysteem.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: kind stopt met probleemgedrag, vader krijgt plots depressieve klachten",
+      "Was een belangrijke klinische observatie die leidde tot het betrekken van het hele gezin bij behandeling"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "226a9587-6380-4663-bdc1-6ea5e9bac161",
+    "term": { "nl": "Triade", "en": "Triad" },
+    "definition": "Een driehoeksrelatie tussen drie personen. Hoffman (1981) benadrukte het belang hiervan: de betekenis en lading van uitspraken tussen twee personen verandert afhankelijk van de aanwezigheid van een derde persoon.",
+    "chapter": 7,
+    "additions": [
+      "Hoffman (1981) is de sleutelfiguur bij triades",
+      "Twee typen: evenwichtige en onevenwichtige triades"
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "5a5b1143-4018-4b14-b99d-e018e57b215d",
+    "term": { "nl": "Evenwichtige triade", "en": "Balanced triad" },
+    "definition": "Een driehoeksrelatie zonder spanning (homeostase). Twee vormen: (1) alle drie positief verbonden ('vriend van mijn vriend is mijn vriend'), of (2) twee personen delen een negatieve houding tegenover de derde (stabiele coalitie).",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: ouders samen tegenover kind (stabiele coalitie)",
+      "Geen sprake van spanning → sprake van homeostase"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "d51bbcfc-d4b9-48a9-a4b9-5e4db72f7395",
+    "term": { "nl": "Onevenwichtige triade", "en": "Unbalanced triad" },
+    "definition": "Een driehoeksrelatie met ongelijke relatiepatronen die tot spanning leidt en druk om nieuw evenwicht te vinden. De triade met de meeste spanning: ouders hebben een goede band, maar slechts één ouder heeft een slechte relatie met het kind.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: 'mijn vriend is bevriend met mijn vijand'",
+      "Meest interessant voor therapie vanwege de hoge spanning"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "a530233a-f78f-40dc-b191-4886b2995daa",
+    "term": { "nl": "Coalitie vs. alliantie", "en": "Coalition vs. alliance" },
+    "definition": "Een alliantie is samenwerking zonder tegenstander. Een coalitie is een samenwerking die gericht is tegen iemand. Coalities zijn een normaal mechanisme, maar worden problematisch als ze rigide zijn of generatiegrenzen overschrijden (perverse triade).",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld perverse triade: moeder en dochter samen tegen vader → hiërarchie verstoord",
+      "Problematisch bij rigiditeit en cross-generationele patronen"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "8e15444b-147f-4f40-8b8e-b2b52d74003f",
+    "term": { "nl": "Cohesie", "en": "Cohesion" },
+    "definition": "De mate van emotionele verbondenheid tussen gezinsleden. Er zijn vier gradaties: verstrengeld – verbonden – afstandelijk – ontkoppeld. Vaak vereenvoudigd tot kluwen-gezinnen (te hecht) versus los-zand-gezinnen (te weinig verbondenheid).",
+    "chapter": 7,
+    "additions": [
+      "Goede gezinnen zijn flexibel in de balans tussen nabijheid en autonomie",
+      "Vier gradaties: verstrengeld – verbonden – afstandelijk – ontkoppeld"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "1e0e174d-b8d8-4239-8be1-facf78b6b0b6",
+    "term": { "nl": "Kluwen-gezin vs. los-zand-gezin", "en": "Enmeshed family vs. disengaged family" },
+    "definition": "Kluwen-gezin: te hechte verbondenheid, weinig autonomie voor individuele gezinsleden. Los-zand-gezin: te weinig verbondenheid, gezinsleden leven los van elkaar. Beide uitersten zijn disfunctioneel; gezonde gezinnen vinden een flexibele balans.",
+    "chapter": 7,
+    "additions": [
+      "Afgeleid van de vier gradaties van cohesie (verstrengeld t/m ontkoppeld)"
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "19a361b0-dac2-4227-b249-1bfa651a8de8",
+    "term": { "nl": "Intergenerationeel perspectief (Nagy)", "en": "Intergenerational perspective (Nagy)" },
+    "definition": "Perspectief van Nagy dat stelt dat de balans in geven en nemen tussen generaties belangrijk is voor gezond functioneren. Loyaliteit tussen generaties kan ook destructief zijn wanneer deze balans verstoord raakt.",
+    "chapter": 7,
+    "additions": [
+      "Ook wel transgenerationeel perspectief genoemd",
+      "Nagy is een van de grondleggers van de systeemtherapie"
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "5d8f3f8f-93a2-402e-8e34-f4818f18d2f0",
+    "term": { "nl": "Communicatietheorie (Watzlawick)", "en": "Communication theory (Watzlawick)" },
+    "definition": "Theorie van Watzlawick die stelt dat alle gedrag communicatie is (verbaal, vocaal, visueel, non-verbaal). Communicatie heeft altijd een inhouds- en een betrekkingsniveau en is circulair van aard, niet lineair.",
+    "chapter": 7,
+    "additions": [
+      "Watzlawick is een van de grondleggers van de systeemtherapie",
+      "Kernbegrippen: congruent/incongruent, inhoud/betrekking, interpunctie"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "d2b6cee0-4ac7-48b6-a38b-80a1f8782b68",
+    "term": { "nl": "Congruente communicatie", "en": "Congruent communication" },
+    "definition": "Communicatie waarbij verbale, vocale, visuele en non-verbale signalen elkaar ondersteunen, waardoor de boodschap duidelijk overkomt.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: vrouw zegt enthousiast blij te zijn (verbaal), toont dat met stem (vocaal), mimiek en gebaren (visueel)"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "6d1e9ebc-5b8b-4c2c-9fb8-73ccd3cc2a9d",
+    "term": { "nl": "Incongruente communicatie", "en": "Incongruent communication" },
+    "definition": "Communicatie waarbij verbale en non-verbale signalen elkaar tegenspreken, waardoor de boodschap onduidelijk of verwarrend wordt. Dit is een bron van conflicten binnen systemen.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: vrouw zegt blij te zijn, maar doet dit mompelend, kijkt afwezig en leest verder"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "18c2b341-7719-4bc9-b040-99dc0882db7c",
+    "term": { "nl": "Inhoud vs. betrekking", "en": "Content vs. relationship level" },
+    "definition": "Twee niveaus van communicatie: inhoud is de feitelijke boodschap (bv. 'de tuin is een troep'), betrekking is hoe de boodschap bedoeld is en de relatie tussen zender en ontvanger (bv. boos verwijt vs. neutrale constatering).",
+    "chapter": 7,
+    "additions": [
+      "Veel conflicten draaien om het betrekkingsniveau, niet om de inhoud",
+      "Therapeut vertraagt tempo: bespreekt eerst de relatie, daarna de inhoud"
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "1ec985de-9cd5-42fe-8d61-d3d68843e028",
+    "term": { "nl": "Interpunctieproblematiek", "en": "Punctuation problem" },
+    "definition": "Verschil in interpretatie van oorzaak en gevolg tussen systeemleden: ieder ervaart het eigen gedrag als reactie op de ander en ziet de ander als oorzaak. Dit leidt tot vicieuze cirkels.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: Man: 'ik doe weinig omdat jij het leuk vindt.' Vrouw: 'ik doe veel omdat jij niks doet.'",
+      "Gedrag van de één versterkt dat van de ander"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "3e85778b-859e-4cac-a8d5-a18caf3d9ba8",
+    "term": { "nl": "Loyaliteitsconflict", "en": "Loyalty conflict" },
+    "definition": "Ontstaat wanneer een kind klem komt te zitten tussen strijdende ouders. Het kind ervaart druk om partij te kiezen, wat kan leiden tot angst, triangulatie of geparentificeerd gedrag.",
+    "chapter": 7,
+    "additions": [
+      "Belangrijk aspect van verstoorde gezinsrelaties",
+      "Kan leiden tot triangulatie of geparentificeerd kind"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "1447def3-16ba-4423-b8c5-99a29f8566c9",
+    "term": { "nl": "Ouder-kindcoalitie (perverse triade)", "en": "Parent-child coalition (perverse triad)" },
+    "definition": "Een coalitie waarbij een ouder en kind samenspannen tegen de andere ouder, waardoor de gezinshiërarchie verstoord raakt. Wordt een perverse triade genoemd wanneer dit patroon rigide is en generatiegrenzen overschrijdt.",
+    "chapter": 7,
+    "additions": [
+      "Schadelijk bij rigiditeit → hiërarchie in het gezin wordt ondermijnd",
+      "Voorbeeld: moeder en dochter tegen vader"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "a163ec37-5c1e-4141-8252-20bcc4d76d2f",
+    "term": { "nl": "Toegedekt conflict (detouring)", "en": "Detouring" },
+    "definition": "Ouders vermijden openlijke strijd en de spanning wordt afgeleid via het kind. Drie vormen: (1) bliksemafleider (detouring-attacking): kind met probleemgedrag leidt af, (2) zorgenkind (detouring-supportive): kind wordt object van zorg, (3) bufferen: derde gezinslid dempt spanning maar lost niets op.",
+    "chapter": 7,
+    "additions": [
+      "Detouring-attacking = bliksemafleider",
+      "Detouring-supportive = zorgenkind",
+      "Bufferen = derde persoon dempt de spanning zonder oplossing"
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "22c8a929-81a9-4ce7-9a1e-6259b4707f8b",
+    "term": { "nl": "Avoid-pursue patroon", "en": "Avoid-pursue pattern" },
+    "definition": "Een disfunctioneel interactiepatroon waarbij de ene partner zich terugtrekt (avoid) en de andere partner gaat najagen (pursue). Dit leidt tot escalatie in een vicieuze cirkel.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld van een circulair disfunctioneel interactiepatroon"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "04b5f96b-e014-45a5-aa8f-33ad94c7b2dc",
+    "term": { "nl": "Paradoxale communicatie", "en": "Paradoxical communication" },
+    "definition": "Tegenstrijdige opdrachten die onmogelijk correct op te volgen zijn, ook wel een paradoxaal bevel genoemd. Voorbeeld: 'wees spontaan!' – als je het opvolgt, ben je niet spontaan.",
+    "chapter": 7,
+    "additions": [
+      "In therapie worden paradoxale opdrachten ook bewust ingezet om automatismen te doorbreken",
+      "Therapeut kan ongewenst gedrag juist voorschrijven om bewustzijn te vergroten"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "879d4bd0-ccb7-454a-9064-eb7ed0fe7137",
+    "term": { "nl": "Dubbele binding (double bind)", "en": "Double bind" },
+    "definition": "Een situatie met drie kenmerken: (1) een belangrijke relatie, (2) paradoxale/tegenstrijdige boodschappen (verbaal en non-verbaal in tegenspraak), en (3) geen mogelijkheid om te ontsnappen of de tegenspraak te benoemen.",
+    "chapter": 7,
+    "additions": [
+      "Verschil met paradoxale communicatie: bij double bind is er geen ontsnapping mogelijk én het speelt zich af in een belangrijke relatie"
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "30f49fdc-2d7a-4149-8b55-a1a34c1a11b4",
+    "term": { "nl": "Expressed Emotion (EE)", "en": "Expressed Emotion (EE)" },
+    "definition": "De mate van kritiek, vijandigheid of emotionele overbetrokkenheid die gezinsleden uiten richting een familielid met een psychische stoornis. Hoge EE is een voorspeller van terugval bij onder meer schizofrenie, bipolaire stoornis en PTSS.",
+    "chapter": 7,
+    "additions": [
+      "Drie componenten: kritiek, vijandigheid, overbetrokkenheid",
+      "Voorspeller van terugval bij diverse stoornissen"
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "1fa0a91c-e1f1-4c70-bc2a-3e53ef1e1384",
+    "term": { "nl": "Genogram", "en": "Genogram" },
+    "definition": "Een visuele weergave van een gezin en de onderlinge relaties, inclusief symbolen voor scheiding, overlijden, conflicten en hechte banden. Wordt door de therapeut getekend en maakt gezinsdynamiek concreet en inzichtelijk.",
+    "chapter": 7,
+    "additions": [
+      "Functie: patronen zichtbaar maken, interactie stimuleren tussen gezin en therapeut",
+      "Thema's: gezin van herkomst, kernrelaties, psychische stoornissen in de familie"
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "76bd5a19-ca27-4919-ab48-fa148c30a120",
+    "term": { "nl": "Narratieve benadering / narratieve therapie", "en": "Narrative approach / narrative therapy" },
+    "definition": "Therapeutische benadering die stelt dat mensen levensverhalen (narratieven) hebben over wie ze zijn en hoe ze in het leven staan. Problemen ontstaan wanneer iemand een 'probleemverzadigd verhaal' heeft, waarbij de identiteit te sterk verbonden is aan klachten.",
+    "chapter": 7,
+    "additions": [
+      "Doel: ruimere identiteit, meer regie en eigen kracht",
+      "Therapeutische houding: respect, bondgenootschap, democratisch"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "fee6e292-a73d-49a8-ba4b-fa5defa0b161",
+    "term": { "nl": "Probleemverzadigd verhaal", "en": "Problem-saturated story" },
+    "definition": "Een levensverhaal waarin iemand enkel de pijnlijke gebeurtenissen of kenmerken kan benoemen, waardoor de identiteit te sterk verbonden raakt aan de klachten. Dit leidt tot gevoelens van machteloosheid en gebrek aan regie.",
+    "chapter": 7,
+    "additions": [
+      "Centraal concept in de narratieve benadering",
+      "Therapie richt zich op het verbreden van dit verhaal"
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "ed8e34d9-b054-4885-8bf0-916d3d119898",
+    "term": { "nl": "Externaliseren", "en": "Externalizing" },
+    "definition": "Techniek uit de narratieve therapie waarbij het probleem wordt losgekoppeld van de identiteit van de persoon. In plaats van 'ik ben depressief' zegt men 'ik heb een depressie', waardoor er meer ruimte komt om verantwoordelijkheid te nemen.",
+    "chapter": 7,
+    "additions": [
+      "Probleem ≠ identiteit",
+      "Geeft verlichting van verantwoordelijkheid: probleem is iets buiten de persoon"
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "1ca0fe8a-e0b5-4a6f-817f-5b3bca8bd103",
+    "term": { "nl": "Zoeken naar uitzonderingen", "en": "Searching for exceptions" },
+    "definition": "Techniek uit de narratieve therapie waarbij momenten worden geïdentificeerd waarop het probleem minder aanwezig was. Deze uitzonderingen worden versterkt en uitgebreid om een positiever verhaal te construeren.",
+    "chapter": 7,
+    "additions": [
+      "Versterk wat al (even) werkt",
+      "Helpt bij het doorbreken van het probleemverzadigde verhaal"
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "653396f1-520c-4498-8a33-3934934b46f2",
+    "term": { "nl": "Deconstructie (narratieve therapie)", "en": "Deconstruction (narrative therapy)" },
+    "definition": "Techniek waarbij eerdere etiketten, diagnoses en psycho-educatie kritisch worden bekeken om terug te keren naar de authentieke ervaringen van de cliënt, los van opgelegde labels.",
+    "chapter": 7,
+    "additions": [
+      "Helpt de cliënt om te zien dat hij méér is dan de diagnose"
+    ],
+    "importance": 3,
+    "type": "methode",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "bd4a10a5-faed-484d-b242-ccd7438331d0",
+    "term": { "nl": "Wondervraag", "en": "Miracle question" },
+    "definition": "Techniek waarbij de cliënt de gewenste situatie beschrijft na een denkbeeldig wonder. De focus verschuift hierdoor naar de toekomst en naar oplossingen in plaats van naar het probleem.",
+    "chapter": 7,
+    "additions": [
+      "Toekomstgericht nadenken over wat de cliënt wil bereiken",
+      "Onderdeel van de narratieve benadering"
+    ],
+    "importance": 3,
+    "type": "methode",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "a49814ed-3d4d-493d-8375-f2ae79898f49",
+    "term": { "nl": "Paradoxale interventie / opdracht", "en": "Paradoxical intervention" },
+    "definition": "Therapeutische techniek waarbij de therapeut het ongewenste gedrag bewust voorschrijft om het automatisme te doorbreken en de cliënt bewust te maken van het patroon.",
+    "chapter": 7,
+    "additions": [
+      "Voorbeeld: cliënt die constant kritiek levert → therapeut vraagt om juist dóór te gaan met kritiek",
+      "Onderdeel van de communicatie-aanpak in systeemtherapie"
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "6870c7a6-35df-4a32-8221-5006ff2d8a73",
+    "term": { "nl": "MST (Multisysteemtherapie)", "en": "Multisystemic Therapy (MST)" },
+    "definition": "Protocollaire systeemtherapie die het gezin, school/werk en vrienden/vrije tijd betrekt bij de behandeling. Bewezen effectief bij adolescenten met gedragsstoornissen en verslavingsproblematiek, met duurzaam effect en langetermijnvoordeel voor alle gezinsleden.",
+    "chapter": 7,
+    "additions": [
+      "Betrekt meerdere systemen: gezin, school, vrije tijd",
+      "Duurzaam effect bij disruptieve gedragsstoornissen en middelenmisbruik"
+    ],
+    "importance": 4,
+    "type": "therapie",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "ff084e7a-8997-4ca5-8643-cb065b9e4b35",
+    "term": { "nl": "FFT (Functionele Familietherapie)", "en": "Functional Family Therapy (FFT)" },
+    "definition": "Protocollaire systeemtherapie gericht op het verbeteren van gezinsrelaties om gedragsproblemen te verminderen. Bewezen effectief bij adolescenten met disruptieve gedragsstoornissen.",
+    "chapter": 7,
+    "additions": [
+      "Richt zich specifiek op het verbeteren van gezinsrelaties",
+      "Samen met MST een goed onderzochte systeemtherapievorm"
+    ],
+    "importance": 3,
+    "type": "therapie",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "06a097df-ce01-4671-83c4-c5488f789e4a",
+    "term": { "nl": "MFBT (Maudsley Family-Based Treatment)", "en": "Maudsley Family-Based Treatment (MFBT)" },
+    "definition": "Gezinstherapeutische behandeling voor eetstoornissen bij jongeren. Op de langere termijn vaak effectiever dan andere therapieën. Biedt een ondersteunende context en is bewezen effectief.",
+    "chapter": 7,
+    "additions": [
+      "Specifiek ontwikkeld voor voedings- en eetstoornissen bij jongeren",
+      "Langetermijn effectiever dan alternatieven"
+    ],
+    "importance": 3,
+    "type": "therapie",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "5284ea6b-ef8c-4bbc-b5fe-70e38530f462",
+    "term": { "nl": "Grondleggers systeemtherapie", "en": "Founders of systems therapy" },
+    "definition": "De belangrijkste grondleggers van de systeemtherapie zijn Watzlawick (communicatietheorie), Hoffman (triades), Nagy (intergenerationeel perspectief) en Minuchin (structurele gezinstherapie). Allen hadden veelal een psychoanalytische achtergrond.",
+    "chapter": 7,
+    "additions": [
+      "Von Bertalanffy is grondlegger van de algemene systeemtheorie (het theoretisch kader), niet van de therapie zelf",
+      "Jackson (1957) introduceerde homeostase in de systeembenadering"
+    ],
+    "importance": 4,
+    "type": "persoon",
+    "source": "flashcards_h7.json"
+  },
+  {
+    "id": "91a3e3f5-8ca3-4111-9494-a12cbf3008d9",
+    "term": { "nl": "Effectiviteit systeemtherapie", "en": "Effectiveness of systems therapy" },
+    "definition": "Systeemtherapie is bewezen effectief bij meerdere stoornissen, maar de mate van bewijs verschilt per stoornis. Algemeen geldt: effectief bij schizofrenie (terugvalpreventie), depressie (relatietherapie), angst bij kinderen, gedragsstoornissen bij adolescenten en middelenmisbruik. Na 2017 meer aandacht voor diversiteit en inclusiviteit.",
+    "chapter": 7,
+    "additions": [
+      "Schizofrenie: effectief voor terugvalpreventie, functioneren en medicatietrouw, niet voor negatieve symptomen",
+      "Middelenmisbruik: langetermijn effectiever dan individuele therapie",
+      "Nieuwe accenten: lhbtq+, interculturele gezinnen, online-gezinstherapie"
+    ],
+    "importance": 5,
+    "type": "onderzoek",
+    "source": "flashcards_h7.json"
+  }
+]

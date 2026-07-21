@@ -1,0 +1,641 @@
+[
+  {
+    "id": "f5a1b2c3-0001-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Psychoanalyse",
+      "en": "Psychoanalysis"
+    },
+    "definition": "De oudste vorm van psychotherapie, opgericht door Freud. Gericht op het bewust maken van onbewuste conflicten om klachten te verminderen. Klassiek beeld: patiënt op de bank, analyticus luistert en spreekt weinig.",
+    "chapter": 5,
+    "additions": [
+      "Wordt ook wel de 'grootmoeder van de psychotherapie' genoemd.",
+      "Tegenwoordig vaker psychodynamische psychotherapie genoemd (moderner imago)."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0002-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Psychodynamiek",
+      "en": "Psychodynamics"
+    },
+    "definition": "Het principe dat psychische krachten (gedachten, emoties, verlangens) beweeglijk zijn en met elkaar in conflict kunnen zijn. Dit vormt de basis van de psychodynamische benadering.",
+    "chapter": 5,
+    "additions": [
+      "Het woord 'dynamiek' verwijst naar de beweeglijkheid en het samenspel van psychische krachten."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0003-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Vrije associatie",
+      "en": "Free association"
+    },
+    "definition": "Therapeutische techniek van Freud waarbij de patiënt alles zegt wat in hem/haar opkomt, zonder censuur. Hierdoor worden onbewuste conflicten zichtbaar. Verving hypnose als methode.",
+    "chapter": 5,
+    "additions": [
+      "Freud stapte over van hypnose naar vrije associatie als beslissend moment in de psychoanalyse.",
+      "Therapeut luistert naar de vrije associaties en ontdekt daarin lijnen."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0004-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Het onbewuste",
+      "en": "The unconscious"
+    },
+    "definition": "Verdrongen verlangens en emoties die niet bewust toegankelijk zijn, maar wel gedrag en klachten beïnvloeden. Centraal concept in de psychoanalyse.",
+    "chapter": 5,
+    "additions": [
+      "IJsbergmetafoor: klachten = zichtbaar topje; echte problematiek = verborgen onder water."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0005-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Weerstand",
+      "en": "Resistance"
+    },
+    "definition": "Het verzet van de patiënt tegen bewustwording van pijnlijke inzichten. Veroorzaakt angst, schaamte of schuld wanneer verdrongen materiaal dreigt naar boven te komen.",
+    "chapter": 5,
+    "additions": [
+      "Bijv: patiënt ontwijkt gesprekken over ouders uit angst voor oude pijn.",
+      "Weerstand is nu breed aanwezig in evidence-based modellen buiten de psychoanalyse."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0006-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Overdracht",
+      "en": "Transference"
+    },
+    "definition": "Manifestatie van onbewuste processen waarbij gevoelens/ervaringen die bij eerdere belangrijke personen horen, geprojecteerd worden op nieuwe relaties (bijv. de therapeut). Eerst door Freud gezien als storend, later als kern van therapie.",
+    "chapter": 5,
+    "additions": [
+      "Kan zich manifesteren via impliciete geheugenprocessen (innerlijke werkmodellen) of via verdrongen expliciete herinneringen.",
+      "Klinische aanwijzing: automatische, disproportionele emoties richting de therapeut."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0007-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Overdracht via impliciete geheugenprocessen",
+      "en": "Transference via implicit memory processes"
+    },
+    "definition": "Vroege, vaak niet-bewuste ervaringen worden opgeslagen als innerlijke werkmodellen (blauwdrukken voor relaties en emotieregulatie). Deze bepalen automatisch hoe iemand emoties reguleert en relaties ervaart, vergelijkbaar met een Pavlovreactie.",
+    "chapter": 5,
+    "additions": [
+      "Bijv: paniek bij het zien van een groengele vrachtauto, gebaseerd op vroeg trauma zonder bewuste herinnering."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0008-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Overdracht via expliciet geheugen (verdrongen herinneringen)",
+      "en": "Transference via explicit memory (repressed memories)"
+    },
+    "definition": "Pijnlijke herinneringen worden weggedrukt door afweermechanismen. Bij nieuwe relaties (zoals met de therapeut) worden oude patronen herhaald; de therapeut wordt beleefd alsof deze iemand uit het verleden is.",
+    "chapter": 5,
+    "additions": [
+      "Bijv: therapeut wordt ervaren als dwingend → doet onbewust denken aan een autoritaire ouder."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0009-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Tegenoverdracht",
+      "en": "Countertransference"
+    },
+    "definition": "De gevoelens die de therapeut zelf ervaart ten opzichte van de patiënt. Wordt gebruikt als diagnostisch signaal: de emotionele reacties van de therapeut kunnen iets onthullen over het onbewuste functioneren van de patiënt.",
+    "chapter": 5,
+    "additions": [
+      "Kerninterventie volgens Shedler (2010): tegenoverdracht gebruiken als diagnostisch instrument.",
+      "Niet per se onprofessioneel; het verkennen ervan kan therapeutisch informatief zijn."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0010-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Afweermechanismen",
+      "en": "Defense mechanisms"
+    },
+    "definition": "Strategieën van de psyche om pijnlijke gevoelens, verlangens of herinneringen buiten het bewustzijn te houden. Beïnvloeden gedrag sterk. Helpen tijdelijk, maar leiden op lange termijn tot star en onvrij functioneren.",
+    "chapter": 5,
+    "additions": [
+      "Empirisch onderbouwd door onderzoek van Perry en Henry & Cramer.",
+      "Drie genoemde soorten: vermijden, loochenen en projectie."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0011-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Vermijden (afweermechanisme)",
+      "en": "Avoidance (defense mechanism)"
+    },
+    "definition": "Het ontwijken van situaties, gevoelens of gedachten die te pijnlijk of bedreigend zijn. De persoon erkent wel dat iets bestaat, maar gaat er niet mee om.",
+    "chapter": 5,
+    "additions": [
+      "Bijv: iemand die een traumatische gebeurtenis heeft meegemaakt en daarna bepaalde plaatsen of mensen niet meer opzoekt die herinneringen oproepen."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0012-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Loochenen (afweermechanisme)",
+      "en": "Denial (defense mechanism)"
+    },
+    "definition": "Het ontkennen of niet willen erkennen van een pijnlijke of bedreigende realiteit, emotie of herinnering. In tegenstelling tot vermijden wordt het bestaan ervan ontkend.",
+    "chapter": 5,
+    "additions": [
+      "Bijv: 'Het heeft me niet geraakt, ik ben er alleen maar sterker door geworden', terwijl er eigenlijk veel pijn en verdriet is."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0013-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Projectie (afweermechanisme)",
+      "en": "Projection (defense mechanism)"
+    },
+    "definition": "Het toeschrijven van eigen ongewenste gevoelens, gedachten of impulsen aan een ander, die daarop bekritiseerd wordt.",
+    "chapter": 5,
+    "additions": [
+      "Bijv: een student die onzeker is, zegt dat de docent hem niet serieus neemt of geen vertrouwen in hem heeft."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0014-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Driften",
+      "en": "Drives"
+    },
+    "definition": "Aangeboren psychische krachten die gedrag motiveren. Freud legde nadruk op seksuele driften; Melanie Klein benadrukte later ook agressieve driften en de doodsdrift.",
+    "chapter": 5,
+    "additions": [
+      "Sinds Freud wordt erkend dat mensen ook gemotiveerd worden door biologische affectieve systemen: nieuwsgierigheid, behoefte om te spelen, hechtingsbehoefte, verlatingsangst."
+    ],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0015-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Oedipuscomplex",
+      "en": "Oedipus complex"
+    },
+    "definition": "Freudiaans concept: de wens van het kind om de ouder van het andere geslacht te bezitten en rivaliteit met de ouder van hetzelfde geslacht. Jongetjes 'willen trouwen' met moeder, meisjes met vader.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0016-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Regel van abstinentie",
+      "en": "Rule of abstinence"
+    },
+    "definition": "Principe in de klassieke psychoanalyse waarbij de therapeut terughoudend, neutraal en bijna onzichtbaar is. Soms doorgeschoten in de praktijk: sessies waarin de therapeut vrijwel niets zei, wat soms hertraumatiserend was.",
+    "chapter": 5,
+    "additions": [
+      "Reactie hierop: Kohut (zelfpsychologie) en Rogers (client-centered therapy) pleitten voor meer empathie."
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0017-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Zelfpsychologie (Kohut)",
+      "en": "Self psychology (Kohut)"
+    },
+    "definition": "Stroming binnen de psychoanalyse, ontwikkeld door Heinz Kohut, met nadruk op empathisch reageren in plaats van de klassieke afstandelijkheid. Een reactie op de strenge regel van abstinentie.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0018-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Innerlijke werkmodellen",
+      "en": "Internal working models"
+    },
+    "definition": "Blauwdrukken voor relaties en emotieregulatie die ontstaan uit vroege ervaringen en worden opgeslagen in het impliciete geheugen. Ze bepalen automatisch hoe iemand emoties reguleert en relaties ervaart.",
+    "chapter": 5,
+    "additions": [
+      "Sluit aan bij Bowlby's hechtingstheorie.",
+      "Oude innerlijke werkmodellen blijven bestaan maar worden door therapie beter herkenbaar (Mikulincer & Shaver, 2016)."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0019-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Conflictpathologie",
+      "en": "Conflict pathology"
+    },
+    "definition": "Psychische klachten die ontstaan door innerlijke conflicten tussen gevoelens, gedachten of fantasieën die niet samengaan. Schaamtevolle of schuldige gevoelens worden verdrongen en leiden tot klachten zoals spanning, somberheid of lichamelijke klachten.",
+    "chapter": 5,
+    "additions": [
+      "Veelvoorkomende conflicten: seksuele gevoelens ↔ schuld/schaamte; afhankelijkheidsverlangen ↔ angst voor verlating; verlangen naar autonomie ↔ angst voor afwijzing.",
+      "Relatief goed behandelbaar via het opsporen van afweermechanismen en activeren/interpreteren van onbewuste gevoelens."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0020-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Ontwikkelingspathologie",
+      "en": "Developmental pathology"
+    },
+    "definition": "Onvoldoende ontwikkeling van basisfuncties zoals emotieregulatie, mentaliseren en epistemisch vertrouwen, vaak als gevolg van afwezige, onvoldoende responsieve of traumatiserende ouders in de vroege kindertijd.",
+    "chapter": 5,
+    "additions": [
+      "Volwassene functioneert cognitief normaal maar emotioneel op een laag niveau; hevige innerlijke chaos.",
+      "Klachten vaak vaag of onsamenhangend → pseudo-mentaliseren.",
+      "Sluit aan bij Bowlby's hechtingstheorie: hier is wel veel empirisch bewijs voor."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0021-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Onbewuste fantasiewereld (psychisch toevluchtsoord)",
+      "en": "Unconscious fantasy world (psychic retreat)"
+    },
+    "definition": "Een psychisch toevluchtsoord waarin iemand zich terugtrekt om pijnlijke relaties of teleurstellingen draaglijk te maken. Ontstaat door teleurstellende vroege relaties. Geeft gevoel van veiligheid maar verhindert echte relaties.",
+    "chapter": 5,
+    "additions": [
+      "Vaak bij narcistische problematiek: geloof in eigen uitzonderlijkheid, afwijzing van afhankelijkheid.",
+      "Lastig te behandelen: fantasiewereld is onbewust en moet in stand gehouden worden; kleine doorbrekingen aangrijpen."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0022-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Ontwikkeling van affecten → emoties → gevoelens",
+      "en": "Development from affects → emotions → feelings"
+    },
+    "definition": "Normaal ontwikkelingspad: baby ervaart lichamelijke signalen (affecten: honger, pijn, onrust); ouders geven woorden en betekenis → affecten worden emoties; peuter/kleuter leert erover denken en praten → emoties worden gevoelens, wat leidt tot emotieregulatie.",
+    "chapter": 5,
+    "additions": [
+      "Bij verstoring (onvoldoende responsieve of traumatiserende ouders) stokt dit proces: heftige lichamelijke toestanden kunnen niet vertaald worden naar gevoelens of woorden.",
+      "Kind leert niet dat emoties regulier en deelbaar zijn."
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0023-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Pseudo-mentaliseren",
+      "en": "Pseudo-mentalizing"
+    },
+    "definition": "Oppervlakkige verklaringen zonder emotionele kern. De patiënt lijkt te reflecteren op gevoelens, maar doet dit niet vanuit echte emotionele betrokkenheid. Wijst op onvoldoende integratie van emotionele ontwikkeling.",
+    "chapter": 5,
+    "additions": [
+      "Kenmerkend voor ontwikkelingspathologie.",
+      "Onsamenhangende verklaringen zijn een aanwijzing voor stokkende emotionele ontwikkeling."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0024-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Disfunctionele emotionele netwerken",
+      "en": "Dysfunctional emotional networks"
+    },
+    "definition": "Een opeenstapeling van negatieve ervaringen en emoties die in de loop van het leven met elkaar verbonden zijn geraakt. Liggen vaak in het onbewuste en beïnvloeden hoe iemand zichzelf en anderen beleeft.",
+    "chapter": 5,
+    "additions": [
+      "Het opsporen van deze netwerken is een kerndoel van psychodynamische therapie."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0025-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Impliciet zelf",
+      "en": "Implicit self"
+    },
+    "definition": "Ontstaat in de vroege kindertijd, gebaseerd op innerlijke werkmodellen uit het impliciete geheugen. Vormt een blauwdruk voor hoe iemand relaties aangaat.",
+    "chapter": 5,
+    "additions": [
+      "Onderdeel van het drieledige zelf in de psychoanalyse: impliciet zelf, subjectief zelf, objectiverend zelf."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0026-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Subjectief zelf",
+      "en": "Subjective self"
+    },
+    "definition": "Ontwikkelt vanaf ca. 3-4 jaar wanneer ervaringen bewust worden opgeslagen. Heeft een narratief karakter: 'Dit heb ik meegemaakt, daarom ben ik wie ik ben.'",
+    "chapter": 5,
+    "additions": [],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0027-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Objectiverend zelf",
+      "en": "Objectifying self"
+    },
+    "definition": "Het vermogen om op afstand naar zichzelf te kijken. Ontwikkelt parallel aan het subjectief zelf. Belangrijk bij emoties als schaamte, trots en schuld.",
+    "chapter": 5,
+    "additions": [
+      "Herstel van een milder objectiverend zelf is een belangrijk therapiedoel in de psychodynamische behandeling."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0028-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Intersubjectieve psychoanalyse",
+      "en": "Intersubjective psychoanalysis"
+    },
+    "definition": "Reactie op het klassieke idee van een objectieve, afstandelijke therapeut. Uitgangspunt: therapeut en patiënt beïnvloeden elkaar wederzijds (veelal onbewust). Bij relatiebreuken neemt de therapeut de eerste verantwoordelijkheid voor herstel.",
+    "chapter": 5,
+    "additions": [
+      "Niet alles is overdracht; de therapeut kan zelf ook onbewust processen beïnvloeden.",
+      "Nederlandse stroming: nadruk op gezamenlijke beleving en emoties en ervaringen samen onder woorden brengen."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0029-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Kleiniaanse benadering",
+      "en": "Kleinian approach"
+    },
+    "definition": "Psychoanalytische stroming van Melanie Klein met nadruk op agressie en fantasieën in de vroege kindertijd, inclusief de doodsdrift. Aanvankelijk taboe in de Nederlandse psychoanalyse.",
+    "chapter": 5,
+    "additions": [
+      "Na 2017 meer ruimte voor variatie in Nederland door oprichting van de NPaV."
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0030-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Mentalization-Based Therapy (MBT)",
+      "en": "Mentalization-Based Therapy (MBT)"
+    },
+    "definition": "Hedendaagse evidence-based psychodynamische therapie gericht op het verbeteren van het vermogen om eigen en andermans gevoelens en gedachten te begrijpen (mentaliseren).",
+    "chapter": 5,
+    "additions": [
+      "Erkend als evidence-based behandeling in de GGZ."
+    ],
+    "importance": 5,
+    "type": "therapie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0031-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Transference-Focused Psychotherapy (TFP)",
+      "en": "Transference-Focused Psychotherapy (TFP)"
+    },
+    "definition": "Hedendaagse evidence-based psychodynamische therapie gericht op het werken met overdracht in de relatie tussen patiënt en therapeut.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 4,
+    "type": "therapie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0032-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Affectfobie-therapie (AFT)",
+      "en": "Affect Phobia Therapy (APT)"
+    },
+    "definition": "Evidence-based psychodynamische therapie gericht op het leren herkennen en uiten van verdrongen emoties. Gebaseerd op het idee dat patiënten een 'fobie' hebben voor hun eigen emoties.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 3,
+    "type": "therapie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0033-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Intensive Short-Term Dynamic Psychotherapy (ISTDP)",
+      "en": "Intensive Short-Term Dynamic Psychotherapy (ISTDP)"
+    },
+    "definition": "Intensieve, kortdurende psychodynamische therapie met focus op het doorbreken van afweermechanismen.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 3,
+    "type": "therapie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0034-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Dynamic Interpersonal Therapy (DIT)",
+      "en": "Dynamic Interpersonal Therapy (DIT)"
+    },
+    "definition": "Kortdurende psychodynamische therapievariant gericht op relatieproblemen.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 3,
+    "type": "therapie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0035-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Kortdurende psychoanalytische steungevende psychotherapie (KPSP)",
+      "en": "Brief psychoanalytic supportive psychotherapy (KPSP)"
+    },
+    "definition": "Minder intensieve psychodynamische therapie met een steunend karakter. Evidence-based variant van de klassieke psychoanalyse.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 3,
+    "type": "therapie",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0036-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Kerninterventies psychodynamische behandeling (Shedler, 2010)",
+      "en": "Core interventions in psychodynamic treatment (Shedler, 2010)"
+    },
+    "definition": "Acht empirisch onderbouwde interventies: (1) emoties centraal stellen, (2) afweermechanismen analyseren, (3) thema's en patronen opsporen, (4) relaties en herhalende patronen bespreken, (5) therapeutische relatie en overdracht onderzoeken, (6) onbewuste processen exploreren, (7) lichamelijke signalen interpreteren, (8) tegenoverdracht gebruiken.",
+    "chapter": 5,
+    "additions": [
+      "Bij breuken in de relatie neemt de therapeut als eerste de verantwoordelijkheid voor herstel."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0037-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Symptoomgerichte therapie vs. psychodynamische therapie",
+      "en": "Symptom-focused therapy vs. psychodynamic therapy"
+    },
+    "definition": "Symptoomgericht: klachtenvermindering zonder diepgaand onderzoek naar oorzaak; effectief bij concrete klachten. Psychodynamisch: onderzoekt disfunctionele emotionele netwerken, koppelt verleden aan heden, creëert nieuwe relationele ervaringen binnen de therapie.",
+    "chapter": 5,
+    "additions": [
+      "Symptoomgerichte therapie is minder effectief bij langdurige klachten zoals leegte, eenzaamheid of terugkerende relatieproblemen."
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0038-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Rouwverwerking (psychodynamisch)",
+      "en": "Grief processing (psychodynamic)"
+    },
+    "definition": "Kernopgave: verlies accepteren en illusies loslaten. Therapie kan gemis niet vervangen, maar helpt betekenis te geven aan het levensverhaal. De fantasie van een 'perfect leven' moet doorbroken worden.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0039-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Behandeling van de teruggetrokken patiënt",
+      "en": "Treatment of the withdrawn patient"
+    },
+    "definition": "Patiënt leeft in een fantasietoevluchtsoord en is beperkt emotioneel toegankelijk. Therapie vereist geduld: wachten op kleine momenten van doorbraak, voorzichtig benoemen van echte emotionele beleving, en te directe focus op de therapeut vermijden.",
+    "chapter": 5,
+    "additions": [
+      "Tijdrovend en veeleisend proces; moeilijk om tegelijk compassie en afstand te bewaren."
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0040-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Biologische affectieve systemen",
+      "en": "Biological affective systems"
+    },
+    "definition": "Naast seksuele lust en agressie worden mensen ook gemotiveerd door aangeboren affecttoestanden: nieuwsgierigheid, behoefte om te spelen, hechtingsbehoefte en zorg voor anderen, en verlatingsangst en paniek.",
+    "chapter": 5,
+    "additions": [
+      "Betekenisgeving bepaalt welke emoties worden ervaren: veilige hechting → zorg geven is plezierig; onveilige hechting → zorg geven veroorzaakt angst."
+    ],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0041-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Leertherapie",
+      "en": "Training therapy / personal therapy"
+    },
+    "definition": "Therapie die therapeuten zelf ondergaan om persoonlijke conflicten te verwerken, zodat deze de therapeutische relatie met patiënten niet belemmeren.",
+    "chapter": 5,
+    "additions": [
+      "Onderzoek (Wampold & Imel, 2015; Norcross, 2002): effectiviteit psychotherapie hangt vooral af van kwaliteit van de relatie en persoonlijkheidskenmerken van zowel patiënt als therapeut."
+    ],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0042-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "IJsbergmetafoor",
+      "en": "Iceberg metaphor"
+    },
+    "definition": "Metafoor van Freud voor het onbewuste: psychische klachten zijn het zichtbare topje van de ijsberg, terwijl de echte problematiek (onbewuste conflicten, verdrongen verlangens) verborgen is onder water.",
+    "chapter": 5,
+    "additions": [],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h5.json"
+  },
+  {
+    "id": "f5a1b2c3-0043-4d5e-8f6a-7b8c9d0e1f2a",
+    "term": {
+      "nl": "Psychoanalyse in Nederland",
+      "en": "Psychoanalysis in the Netherlands"
+    },
+    "definition": "Historisch sterk beïnvloed door de klassiek-Freudiaanse traditie (o.a. door Jeanne Lampl-De Groot). Afwijkingen waren aanvankelijk taboe. Na 2017 oprichting NPaV → meer ruimte voor variatie (Klein, intersubjectief).",
+    "chapter": 5,
+    "additions": [
+      "Huidige stromingen: Kleiniaanse benadering (agressie/fantasieën vroege kindertijd) en intersubjectieve psychoanalyse (gezamenlijke beleving)."
+    ],
+    "importance": 3,
+    "type": "geschiedenis",
+    "source": "flashcards_h5.json"
+  }
+]

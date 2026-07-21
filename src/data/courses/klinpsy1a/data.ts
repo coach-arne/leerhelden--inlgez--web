@@ -11,6 +11,10 @@ import { klinpsy1aConfig } from './config'
 import flashcardsH1 from '../../flashcards/klinpsy1a/flashcards_h1.json'
 import flashcardsH2 from '../../flashcards/klinpsy1a/flashcards_h2.json'
 import flashcardsH3 from '../../flashcards/klinpsy1a/flashcards_h3.json'
+import flashcardsH4 from '../../flashcards/klinpsy1a/flashcards_h4.json'
+import flashcardsH5 from '../../flashcards/klinpsy1a/flashcards_h5.json'
+import flashcardsH6 from '../../flashcards/klinpsy1a/flashcards_h6.json'
+import flashcardsH7 from '../../flashcards/klinpsy1a/flashcards_h7.json'
 
 // --- Exams ---
 
@@ -25,13 +29,17 @@ const FLASHCARD_SOURCE_ENTRIES: FlashcardSourceEntry[] = [
   { source: 'flashcards_h1.json', cards: flashcardsH1 as RawFlashcard[] },
   { source: 'flashcards_h2.json', cards: flashcardsH2 as RawFlashcard[] },
   { source: 'flashcards_h3.json', cards: flashcardsH3 as RawFlashcard[] },
+  { source: 'flashcards_h4.json', cards: flashcardsH4 as RawFlashcard[] },
+  { source: 'flashcards_h5.json', cards: flashcardsH5 as RawFlashcard[] },
+  { source: 'flashcards_h6.json', cards: flashcardsH6 as RawFlashcard[] },
+  { source: 'flashcards_h7.json', cards: flashcardsH7 as RawFlashcard[] },
 ]
 
 const flashcards: Flashcard[] = FLASHCARD_SOURCE_ENTRIES.flatMap(({ source, cards }) =>
   cards.map((c) => ({ ...c, source })),
 )
 const flashcardSources: string[] = FLASHCARD_SOURCE_ENTRIES.map((e) => e.source)
-const chapterNumbers = [1, 2, 3] as const
+const chapterNumbers = [1, 2, 3, 4, 5, 6, 7] as const
 
 // ---- Exams setup ----
 

@@ -1,0 +1,430 @@
+[
+  {
+    "id": "f3d00bae-5351-4d4a-8588-53c84ca83fca",
+    "term": { "nl": "Cognitieve benadering", "en": "Cognitive approach" },
+    "definition": "Benadering die psychopathologie verklaart vanuit verstoringen in informatieverwerking. Gedrag wordt niet alleen bepaald door leerervaringen, maar ook door de manier waarop individuen informatie selecteren en verwerken via cognitieve schema's.",
+    "chapter": 4,
+    "additions": [
+      "Ontstaan als reactie op het behaviorisme, dat interne mentale processen negeerde",
+      "Het brein wordt vergeleken met een computer: informatie-invoer, verwerking en uitvoer"
+    ],
+    "importance": 10,
+    "type": "theorie",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "d863366a-eff8-4d8c-bbbd-3c5e052bcd80",
+    "term": { "nl": "Schema", "en": "Schema" },
+    "definition": "Een georganiseerde kenniseenheid (structuur) over de wereld, het zelf en de interactie daartussen, die informatie selecteert, interpreteert, transformeert en herinnert. Schema's werken grotendeels automatisch en zijn vaak onbewust actief.",
+    "chapter": 4,
+    "additions": [
+      "Vergelijking: schema's zijn als software voor een computer — ze bepalen mogelijkheden en sturen gedrag",
+      "Schema's zijn modellen, geen tastbare structuren, maar nuttig om cognitie te begrijpen",
+      "Voorbeeld: 'Jan bekeek het menu' activeert automatisch een restaurantschema (eten, obers, betalen)"
+    ],
+    "importance": 10,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "f54d4123-d9a2-4e81-8df6-27975286244e",
+    "term": { "nl": "Cognitie", "en": "Cognition" },
+    "definition": "Kennis die ontstaat uit zintuiglijke ervaring en denken. Omvat processen van waarneming, verwerking, opslag en ophalen van informatie.",
+    "chapter": 4,
+    "additions": [],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "34e8356d-40ec-4c03-9a52-adb74a94e4fe",
+    "term": { "nl": "Informatieverwerking", "en": "Information processing" },
+    "definition": "Het geheel van processen waarmee informatie wordt waargenomen, verwerkt, opgeslagen en opgehaald. Schema's sturen deze verwerkingsketen en verstoringen erin dragen bij aan psychopathologie.",
+    "chapter": 4,
+    "additions": [
+      "Omvat vier stappen: waarnemen, verwerken, opslaan, ophalen",
+      "Het brein functioneert als een computer (informatie-invoer, verwerking, uitvoer)"
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "4709ffa5-c875-404c-a3a2-965844c7d41d",
+    "term": { "nl": "Albert Ellis", "en": "Albert Ellis" },
+    "definition": "Grondlegger van cognitieve psychotherapie (1962). Legde nadruk op irrationele ideeën die neurotische problemen veroorzaken. Stelde dat er universele irrationele opvattingen zijn die alle vormen van neurotische psychopathologie onderbouwen.",
+    "chapter": 4,
+    "additions": [
+      "Therapie richt zich op het filosofisch herstructureren, uitdagen en vervangen van irrationele ideeën",
+      "Minder stoornisspecifiek dan Beck — Ellis ging uit van brede, universele irrationele overtuigingen"
+    ],
+    "importance": 9,
+    "type": "onderzoeker",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "d30b4a3c-e911-4d26-a4f3-dc912964d470",
+    "term": { "nl": "Aaron Beck", "en": "Aaron Beck" },
+    "definition": "Grondlegger van cognitieve psychotherapie (1976). Stelde dat verschillende stoornissen specifieke cognitieve kenmerken/schema-inhouden hebben. Had grotere invloed op empirisch onderzoek en ontwikkeling van therapieën dan Ellis.",
+    "chapter": 4,
+    "additions": [
+      "Ontwikkelde effectieve protocollen voor o.a. depressie, angststoornissen, relatieproblemen, verslaving en persoonlijkheidsstoornissen",
+      "Kernidee: psychopathologie ontstaat en wordt in stand gehouden door disfunctionele schema's"
+    ],
+    "importance": 10,
+    "type": "onderzoeker",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "b267a1c6-df0b-42f4-b857-26401d84cced",
+    "term": { "nl": "Meichenbaum", "en": "Meichenbaum" },
+    "definition": "Onderzoeker (1977) die nadruk legde op zelfspraak, ervan uitgaande dat gedrag gestuurd wordt door (interne) spraak. Therapie: negatieve zelfspraak vervangen door positieve zelfinstructies.",
+    "chapter": 4,
+    "additions": [
+      "Toepassing: o.a. bij angst en depressie"
+    ],
+    "importance": 7,
+    "type": "onderzoeker",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "6f54f76d-c224-4ba2-a5dd-9ba7bad5c8f6",
+    "term": { "nl": "Seligman – Attributiestijlen", "en": "Seligman – Attribution styles" },
+    "definition": "Theorie van Seligman (1992) over attributiestijlen: de manier waarop mensen oorzaken toeschrijven aan gebeurtenissen beïnvloedt hun depressierisico. Mislukking verklaren als persoonlijk, stabiel en globaal verhoogt de kans op depressie.",
+    "chapter": 4,
+    "additions": [
+      "Persoonlijk = 'het ligt aan mij', stabiel = 'het is altijd zo', globaal = 'het geldt voor alles'"
+    ],
+    "importance": 8,
+    "type": "theorie",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "b588b434-7e1b-4b5d-8697-855dd060ac88",
+    "term": { "nl": "Lazarus – Stresscopingtheorie", "en": "Lazarus – Stress-coping theory" },
+    "definition": "Stresscopingtheorie van Lazarus (1966) met twee stappen: (1) primary appraisal — inschatting van de mate van bedreiging, en (2) secondary appraisal — beoordeling van beschikbare mogelijkheden om de bedreiging het hoofd te bieden.",
+    "chapter": 4,
+    "additions": [
+      "Toepassing: inzicht in mechanismen bij angststoornissen"
+    ],
+    "importance": 8,
+    "type": "theorie",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "9e0742aa-940f-4b4a-9a43-1d1ef4199cc6",
+    "term": { "nl": "Primary appraisal", "en": "Primary appraisal" },
+    "definition": "Eerste stap in de stresscopingtheorie van Lazarus: de inschatting van de mate van bedreiging bij confrontatie met een potentiële stressfactor.",
+    "chapter": 4,
+    "additions": [],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "b6bcd907-ef1e-4316-8cdd-8449685dc891",
+    "term": { "nl": "Secondary appraisal", "en": "Secondary appraisal" },
+    "definition": "Tweede stap in de stresscopingtheorie van Lazarus: de beoordeling van beschikbare mogelijkheden om de bedreiging succesvol het hoofd te bieden.",
+    "chapter": 4,
+    "additions": [],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "43859e57-64e8-420a-87b4-283383dde70e",
+    "term": { "nl": "Impliciete kennis", "en": "Implicit knowledge" },
+    "definition": "Kennis die moeilijk in woorden uit te drukken is en berust op ervaring en vaardigheden (bijv. fietsen). Niet hetzelfde als psychoanalytisch 'onbewust'; het is niet-motivationeel.",
+    "chapter": 4,
+    "additions": [
+      "Klinisch belang: klachten kunnen voortbestaan door impliciete, moeilijk-toegankelijke associaties, terwijl expliciete overtuigingen al aangepast lijken",
+      "Behandeling moet daarom ervaringen creëren die impliciete netwerken raken"
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "d7f144d4-e0db-436c-bb71-8ad57c2f52d3",
+    "term": { "nl": "Expliciete kennis", "en": "Explicit knowledge" },
+    "definition": "Kennis die in woorden benoembaar en verwoordbaar is. Verschilt van impliciete kennis die ervaringsgebonden is.",
+    "chapter": 4,
+    "additions": [
+      "Het onderscheid impliciet/expliciet gaat over de inhoud van kennis, niet over het verwerkingsproces (dat is automatisch/gecontroleerd)"
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "0eb32970-ad85-42c9-9738-417eede07bda",
+    "term": { "nl": "Automatische verwerking", "en": "Automatic processing" },
+    "definition": "Informatieverwerking die snel, parallel en met grote capaciteit verloopt, zonder bewuste aandacht. Efficiënt bij voorspelbare, vertrouwde input. Meerdere zaken kunnen tegelijk verwerkt worden.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeeld: ervaren automobilist bestuurt auto, volgt route, luistert muziek en voert gesprek tegelijk",
+      "Werkt niet bij onverwachte of nieuwe situaties — dan schakelt men over naar gecontroleerde verwerking"
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "6522b895-6a69-4821-ad99-53f1611eb873",
+    "term": { "nl": "Gecontroleerde verwerking", "en": "Controlled processing" },
+    "definition": "Informatieverwerking die bewust, serieel en met beperkte capaciteit verloopt. Sterk afhankelijk van het werkgeheugen (beperkt tot 5–7 chunks). Nodig bij onverwachte of complexe input.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeeld: automobilist die plotseling moet uitwijken voor een onverwachte situatie",
+      "Chunks = kenniselementen die tegelijk in het werkgeheugen gehouden kunnen worden"
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "ba473b68-8d69-4cc3-a5cf-e4bc71c9fd3a",
+    "term": { "nl": "Schema-activering", "en": "Schema activation" },
+    "definition": "Schema's beïnvloeden informatieverwerking pas na activering. Activering gebeurt door relevante input (woorden, beelden, ervaringen). Meerdere schema's kunnen gelijktijdig actief zijn.",
+    "chapter": 4,
+    "additions": [
+      "Factoren die activering beïnvloeden: recente ervaringen en stemming",
+      "Depressieve stemming activeert sneller negatieve schema's"
+    ],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "6dcb33c2-64f3-4e63-9f51-e2646774b155",
+    "term": { "nl": "Assimilatie", "en": "Assimilation" },
+    "definition": "Proces (Piaget) waarbij nieuwe informatie wordt aangepast zodat het past binnen een bestaand schema. Het schema zelf verandert niet.",
+    "chapter": 4,
+    "additions": [
+      "Tegenovergesteld aan accommodatie, waarbij het schema juist wél wordt aangepast"
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "2e4edd97-1a25-4eb7-a6d3-71620d0ee778",
+    "term": { "nl": "Accommodatie", "en": "Accommodation" },
+    "definition": "Proces (Piaget) waarbij een schema wordt aangepast zodat het aansluit bij nieuwe, niet-passende informatie. Het schema zelf verandert dus wél.",
+    "chapter": 4,
+    "additions": [
+      "Oude en nieuwe schema's kunnen naast elkaar blijven bestaan"
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "8de5c42b-18f9-47ac-99cb-b87c1068b45f",
+    "term": { "nl": "Disconfirmerende ervaring", "en": "Disconfirming experience" },
+    "definition": "Een ervaring die niet overeenkomt met wat iemand al denkt, verwacht of in een schema heeft opgeslagen. Disconfirmerende ervaringen ondermijnen bestaande overtuigingen en vormen een mogelijkheid tot schemawijziging.",
+    "chapter": 4,
+    "additions": [
+      "Persoonlijke, emotioneel geladen ervaringen overtuigen sterker dan onpersoonlijke statistische gegevens",
+      "Een alternatief schema (eigen of aangereikt) bevordert verandering"
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "32ffe8f3-907e-49f1-8a66-345f3484037e",
+    "term": { "nl": "Cognitieve vertekening (bias)", "en": "Cognitive bias" },
+    "definition": "Systematische vertekening in informatieverwerking. Psychopathologie wordt mede in stand gehouden door cognitieve biases in aandacht, interpretatie en geheugen. Schema's die eenzijdig functioneren leiden tot foutieve of vertekende verwerking.",
+    "chapter": 4,
+    "additions": [
+      "Vaak werken meerdere vertekeningen samen en versterken ze elkaar (combined cognitive bias hypothesis)"
+    ],
+    "importance": 10,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "b9bd813f-de1b-4eda-87c9-f5f0354ab638",
+    "term": { "nl": "Aandachtsbias", "en": "Attentional bias" },
+    "definition": "Vroege, vaak automatische en selectieve focus op schema-congruente (bijv. bedreigende) stimuli, waarbij andere informatie wordt genegeerd. Vooral kenmerkend voor angststoornissen.",
+    "chapter": 4,
+    "additions": [
+      "Gevolg: sneller vermijden of ontsnappen aan bedreiging, maar geen kans om angstschema's te corrigeren met nieuwe informatie",
+      "Kan ook subliminaal optreden (zonder bewuste waarneming)",
+      "Effecten van aandachtstraining zijn wisselend"
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "4150ca6b-d90c-488a-88df-2092e3356668",
+    "term": { "nl": "Interpretatiebias", "en": "Interpretation bias" },
+    "definition": "Selectieve interpretatie van informatie op een manier die bestaande schema's bevestigt. Ambigue situaties worden zo geduid dat ze passen bij de stoornis (bijv. negatief bij depressie, bedreigend bij angst).",
+    "chapter": 4,
+    "additions": [
+      "Bij sociale angst: alleen sociale situaties worden negatief geïnterpreteerd",
+      "Denkfouten zijn vertekeningen van de realiteit die stoornissen in stand houden"
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "20e7c47b-5295-4809-abaa-936a89968f0f",
+    "term": { "nl": "Geheugenbias", "en": "Memory bias" },
+    "definition": "Systematische vertekening in wat men herinnert en hoe. Vooral kenmerkend voor depressieve stoornissen: vasthouden aan globale, negatieve herinneringen (negatieve triade: zelf–wereld–toekomst).",
+    "chapter": 4,
+    "additions": [
+      "Bij angststoornissen juist neiging tot vermijden van negatieve herinneringen; bias vooral bij actieve angsttoestand",
+      "Bevestigende informatie wordt beter onthouden dan tegensprekende (herinneringsbias als instandhoudingsmechanisme)"
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "6efe0cc9-ab7a-42bf-83ee-18127c5973b4",
+    "term": { "nl": "Combined cognitive bias hypothesis", "en": "Combined cognitive bias hypothesis" },
+    "definition": "Hypothese dat de combinatie van meerdere cognitieve biases (aandacht + interpretatie + geheugen) synergetisch werkt en stoornissen krachtiger in stand houdt dan afzonderlijke biases.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeeld bij depressie: schema 'Ik ben waardeloos' → aandachtsbias (focus op afwijzing) → interpretatiebias (ambigue situatie als afwijzing) → geheugenbias (negatieve interacties sterker onthouden)",
+      "Computertrainingen gericht op verminderen van biases laten zwakke effecten zien; focus moet op onderliggende schema's"
+    ],
+    "importance": 8,
+    "type": "theorie",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "a7f45923-7063-42ce-a2d1-aa1429c2fc05",
+    "term": { "nl": "Cognitieve triade (Beck)", "en": "Cognitive triad (Beck)" },
+    "definition": "Drie domeinen van negatieve gedachten die kenmerkend zijn voor depressie volgens Beck: (1) negatief over zichzelf ('Ik ben niets waard'), (2) negatief over anderen/wereld ('Mensen zijn koud en liefdeloos'), (3) negatief over de toekomst ('Het wordt nooit beter').",
+    "chapter": 4,
+    "additions": [
+      "Past bij depressogene schema's met thema's als waardeloosheid, schuld, liefdeloosheid, onrechtvaardigheid en hopeloosheid"
+    ],
+    "importance": 10,
+    "type": "theorie",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "782524e4-d713-4e92-bebd-c74c20055468",
+    "term": { "nl": "Depressogene schema's", "en": "Depressogenic schemas" },
+    "definition": "Disfunctionele cognitieve schema's met thema's als waardeloosheid, schuld, liefdeloosheid, onrechtvaardigheid en hopeloosheid, die kenmerkend zijn voor depressie.",
+    "chapter": 4,
+    "additions": [
+      "Geheugenbias houdt deze schema's in stand: globale, negatieve herinneringen domineren"
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "2f24c58c-fb4c-4202-8597-cc0a1ea0ba69",
+    "term": { "nl": "Gevaarschema's (angststoornissen)", "en": "Danger schemas (anxiety disorders)" },
+    "definition": "Schema's gekenmerkt door een hoge verwachting van gevaar, gecombineerd met een lage verwachting van de eigen mogelijkheden om de gevaarlijke situatie het hoofd te bieden.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeeld tandarts (Box 4.1): angstige patiënten verwachten veel meer pijn dan realistisch; zelfs na positieve ervaringen blijft verwachting vertekend",
+      "Herinnering aan pijn wordt ook vertekend: men herinnert méér pijn dan feitelijk ervaren"
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "58142708-5dc4-46b1-b992-02d7bbc3b8a5",
+    "term": { "nl": "Paniekstoornis (cognitief schema)", "en": "Panic disorder (cognitive schema)" },
+    "definition": "Overactief schema waarin lichamelijke sensaties (die o.a. bij angst optreden) worden geïnterpreteerd als signalen van een onmiddellijke catastrofe. Bijv. hartkloppingen → hartaanval; duizeligheid → flauwvallen; derealisatie → 'gek worden'.",
+    "chapter": 4,
+    "additions": [
+      "Beschikbaarheidsheuristiek speelt mee: levendige catastrofescenario's wegen zwaarder dan statistiek"
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "d8202d0b-054f-4a7f-93e2-be60d90928a6",
+    "term": { "nl": "Sociale angststoornis (cognitief schema)", "en": "Social anxiety disorder (cognitive schema)" },
+    "definition": "Overtuiging dat men in sociale interacties negatief beoordeeld zal worden. Ambigue sociale signalen worden verkeerd geïnterpreteerd (bijv. frons = afkeuring). Sociale onhandigheden worden gezien als bewijs voor ernstige negatieve oordelen.",
+    "chapter": 4,
+    "additions": [
+      "Zelfonderschatting: men denkt sociale standaarden niet te halen",
+      "Cruciaal: hoe ernstig men verwachte negatieve oordelen vindt, beïnvloedt het behandelsucces"
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "c3ec0e2e-f2de-4f5f-837b-5a416c8a314e",
+    "term": { "nl": "Beschikbaarheidsheuristiek", "en": "Availability heuristic" },
+    "definition": "Automatische mentale regel waarbij een oordeel gebaseerd wordt op wat het eerst in gedachten komt. Levendige scenario's wegen zwaarder dan statistische waarschijnlijkheid (bijv. paniek → hartaanvalscenario).",
+    "chapter": 4,
+    "additions": [],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "bac382f4-f6df-4ee3-b4ed-d9934b8cabc3",
+    "term": { "nl": "Representativiteitsheuristiek", "en": "Representativeness heuristic" },
+    "definition": "Denkstrategie waarbij mensen de waarschijnlijkheid van een gebeurtenis inschatten op basis van hoe goed deze past bij een bepaald prototype of stereotype, in plaats van op basis van statistische waarschijnlijkheid.",
+    "chapter": 4,
+    "additions": [
+      "Voorbeeld: klachten lijken op prototype van 'hartprobleem' → overschatting van risico"
+    ],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "a4f57743-0d90-471a-9b79-aa773dec8de8",
+    "term": { "nl": "Cognitieve therapie (CT)", "en": "Cognitive therapy (CT)" },
+    "definition": "Behandelingsvorm gebaseerd op het idee dat psychopathologie voortkomt uit de wijze waarop mensen informatie selecteren en verwerken. Doel: automatische denkpatronen bewustmaken, toetsen aan de werkelijkheid en corrigeren via kritische reflectie. Einddoel: blijvende schemawijziging.",
+    "chapter": 4,
+    "additions": [
+      "Typisch CT-proces: automatische gedachte → hypothese → toetsing in gedrag → herwaardering",
+      "CT heeft model gestaan voor schematherapie en EMDR"
+    ],
+    "importance": 10,
+    "type": "therapie",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "ef6cc0ef-8d17-4306-b161-4f6f39171a56",
+    "term": { "nl": "Cognitieve gedragstherapie (CGT)", "en": "Cognitive behavioural therapy (CBT)" },
+    "definition": "Integratie van cognitieve therapie en gedragstherapie: aanpakken van zowel gedachten (cognities) als gedrag. Meest toegepaste en bewezen effectieve behandelmethode in de GGZ.",
+    "chapter": 4,
+    "additions": [
+      "Drie integratiefactoren (Korrelboom & Ten Broeke): (1) klinische praktijk — therapeuten gebruiken elkaars technieken, (2) theorievorming — leertheorie en cognitieve benadering erkennen elkaars bijdrage, (3) effectonderzoek — CT en gedragstherapie zijn even effectief",
+      "Succesvolle therapie leidt tot wederzijdse verandering: effectieve CT → gedragsverandering; effectieve gedragstherapie → cognitieve verandering"
+    ],
+    "importance": 10,
+    "type": "therapie",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "576e9e4a-9535-4145-b621-fd0292cb6d32",
+    "term": { "nl": "Schematherapie", "en": "Schema therapy" },
+    "definition": "Therapievorm voortgekomen uit cognitieve therapie die focust op vroegkinderlijke onaangepaste schema's.",
+    "chapter": 4,
+    "additions": [],
+    "importance": 6,
+    "type": "therapie",
+    "source": "flashcards_h4.json"
+  },
+  {
+    "id": "f7fbf93b-78cc-4892-86ac-c932f3fa8741",
+    "term": { "nl": "Derealisatie", "en": "Derealization" },
+    "definition": "Een vervormde waarneming van de buitenwereld, als op afstand of als in een film, waardoor het gevoel verloren gaat dat de omgeving echt is. Bij paniekstoornis wordt dit geïnterpreteerd als teken van 'gek worden'.",
+    "chapter": 4,
+    "additions": [],
+    "importance": 6,
+    "type": "symptoom",
+    "source": "flashcards_h4.json"
+  }
+]

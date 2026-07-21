@@ -1,0 +1,552 @@
+[
+  {
+    "id": "f6a1b2c3-0001-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Humanistische psychologie", "en": "Humanistic psychology" },
+    "definition": "Stroming binnen de psychologie die ontstond als reactie op psychoanalyse en behaviorisme. Benadrukt menselijke waardigheid, vrijheid, uniciteit en subjectieve beleving. Focus op zelfactualisatie en het hier-en-nu.",
+    "chapter": 6,
+    "additions": [
+      "Ontstond in de tweede helft van de 20e eeuw",
+      "Wordt ook wel de 'derde stroming' genoemd naast psychoanalyse en behaviorisme",
+      "Geesteswetenschappelijk karakter: gericht op betekenis en waarden"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0002-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Zelfactualisatie", "en": "Self-actualization" },
+    "definition": "De natuurlijke, aangeboren neiging van de mens om zichzelf te ontwikkelen en zijn volledige potentieel te realiseren. Centraal concept in zowel Rogers' als Maslows theorie.",
+    "chapter": 6,
+    "additions": [
+      "Rogers noemt dit de 'zelfverwerkelijkingstendens' (self-actualizing tendency), verankerd in fysiologische processen",
+      "Vergelijking: een boom die groeit naar zijn unieke vorm",
+      "Maslow stelde dat minder dan 1% van de mensen dit niveau volledig bereikt"
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0003-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Fenomenologische benadering", "en": "Phenomenological approach" },
+    "definition": "Benadering gericht op het begrijpen (Verstehen) van gedrag vanuit de subjectieve ervaren werkelijkheid van de persoon in het hier-en-nu, in plaats van verklaren via oorzaak-gevolg relaties.",
+    "chapter": 6,
+    "additions": [
+      "Verstehen = begrijpen, in tegenstelling tot Erklären = verklaren",
+      "Geen nadruk op oorzaak-gevolg verklaringen, maar op subjectieve betekenisgeving"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0004-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Zes kernkenmerken humanistische benadering", "en": "Six core characteristics of the humanistic approach" },
+    "definition": "1) De mens is van nature goed, 2) Uniciteit en persoonlijke beleving, 3) Holistisch mensbeeld, 4) Ontwikkeling en groei, 5) Bewuste beleving en zelfreflectie, 6) Zelfregulering en zingeving.",
+    "chapter": 6,
+    "additions": [
+      "Deze zes kenmerken gelden als gemeenschappelijk voor alle humanistische theorieën over psychopathologie",
+      "Sterk contrast met psychoanalyse (onbewuste driften) en behaviorisme (externe prikkels)"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0005-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Positief mensbeeld", "en": "Positive view of human nature" },
+    "definition": "Het humanistische uitgangspunt dat de mens van nature goed is en onder normale omstandigheden spontaan uitgroeit tot een sociaal, empathisch en handelend individu. Geen negatieve basisdrijfveren (in tegenstelling tot Freud).",
+    "chapter": 6,
+    "additions": [
+      "Rutger Bregman (2019) – 'De meeste mensen deugen' sluit aan bij dit uitgangspunt"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0006-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Holistisch mensbeeld", "en": "Holistic view of the person" },
+    "definition": "De opvatting dat de mens als geheel moet worden beschouwd: denken, voelen en handelen zijn geïntegreerd en kunnen niet worden gereduceerd tot losse functies. Toekomstgericht, met nadruk op doelen en keuzes.",
+    "chapter": 6,
+    "additions": [
+      "Analyse in losse functies (leren, waarnemen, geheugen) wordt als onvoldoende beschouwd",
+      "Bijv: een student is niet enkel een cognitieve prestatie-machine, maar een geheel persoon met dromen, angsten en relaties"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0007-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Essentie en existentie", "en": "Essence and existence" },
+    "definition": "Essentie verwijst naar stabiele, vaste eigenschappen en gewoonten. Existentie slaat op het bestaan als een continu proces van ontwikkeling en verandering: de mens als groeiend wezen. Humanisten benadrukken het 'zijn' (being) én het 'worden' (becoming).",
+    "chapter": 6,
+    "additions": [
+      "Gezondheid = openstaan voor verandering en nieuwe ervaringen",
+      "Psychische problemen = verstarring en blokkades in ontwikkeling"
+    ],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0008-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Carl Rogers", "en": "Carl Rogers" },
+    "definition": "Grondlegger van de cliëntgerichte therapie (1902–1987). Ontwikkelde een theorie over persoonlijke groei gebaseerd op zelfverwerkelijkingstendens, subjectieve beleving, en de behoefte aan positieve waardering. Eerste psychotherapeut die de APA Distinguished Scientific Contribution Award ontving.",
+    "chapter": 6,
+    "additions": [
+      "Registreerde als eerste therapiegesprekken met een wire-recorder",
+      "Publiceerde verbatim behandelingsverslagen in 'Counseling and Psychotherapy' (1942)",
+      "Gebruikte bewust 'cliënt' i.p.v. 'patiënt' om gelijkwaardigheid te benadrukken"
+    ],
+    "importance": 5,
+    "type": "persoon",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0009-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Cliëntgerichte therapie", "en": "Client-centered therapy" },
+    "definition": "Door Rogers ontwikkelde therapievorm waarin de cliënt zelf de richting bepaalt. De therapeut schept voorwaarden voor groei via drie noodzakelijke en voldoende voorwaarden: congruentie, onvoorwaardelijke positieve waardering en empathie. Non-directief: geen adviezen of interpretaties.",
+    "chapter": 6,
+    "additions": [
+      "Oorspronkelijke naam: non-directieve therapie",
+      "Later: Vereniging voor Cliëntgerichte Psychotherapie (VCgP, 1996)",
+      "Sinds 2016: Vereniging voor Persoonsgerichte Experiëntiële Psychotherapie",
+      "Therapeut als tijdelijke metgezel op het levenspad van de cliënt"
+    ],
+    "importance": 5,
+    "type": "therapie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0010-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Drie noodzakelijke en voldoende voorwaarden (Rogers)", "en": "Necessary and sufficient conditions (Rogers)" },
+    "definition": "Volgens Rogers zijn er drie therapeutische voorwaarden noodzakelijk én voldoende voor succesvolle therapie: 1) Congruentie (echtheid) van de therapeut, 2) Onvoorwaardelijke positieve waardering, 3) Empathie. Deze staan onderling in verband.",
+    "chapter": 6,
+    "additions": [
+      "Als de therapeut congruent functioneert, is deze niet gepreoccupeerd met zichzelf en beter in staat zich open te stellen voor de cliënt",
+      "Wanneer aan alle drie wordt voldaan, voelt de cliënt zich veilig en ontwikkelt meer positieve zelfwaardering"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0011-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Congruentie (echtheid)", "en": "Congruence (genuineness)" },
+    "definition": "Eerste voorwaarde van Rogers: de therapeut moet vrij en open kunnen zijn, zonder eigen incongruentie. Dit bevordert authentiek contact en inlevingsvermogen. In bredere zin: overeenstemming tussen bewust zelfbeeld ('ik') en onderliggende ervaringen.",
+    "chapter": 6,
+    "additions": [
+      "Bij de therapeut: echtheid in het contact, geen façade",
+      "Bij de cliënt: congruentie = psychische gezondheid en basis voor zelfverwezenlijking"
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0012-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Onvoorwaardelijke positieve waardering", "en": "Unconditional positive regard" },
+    "definition": "Iemand wordt geaccepteerd en gewaardeerd ongeacht gedrag, fouten of prestaties. Essentiële basis voor authenticiteit en gezonde groei. In therapie: de therapeut accepteert de cliënt als geheel, inclusief negatieve gevoelens.",
+    "chapter": 6,
+    "additions": [
+      "Leidt tot positieve zelfwaardering, zelfvertrouwen en stabiel zelfbeeld",
+      "Bijv: cliënt voelt zich veilig genoeg om gevoelens van jaloezie of boosheid toe te laten"
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0013-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Voorwaardelijke positieve waardering", "en": "Conditional positive regard" },
+    "definition": "Iemand wordt alleen gewaardeerd als hij/zij voldoet aan bepaalde verwachtingen of gedragingen. Leidt tot aanpassing en onderdrukking van gevoelens, verlies van authenticiteit, en vergroot de kloof tussen zelfbeeld en ideaalbeeld.",
+    "chapter": 6,
+    "additions": [
+      "Bijv: kind dat alleen waardering krijgt bij 'lief gedrag' leert gevoelens zoals jaloezie te onderdrukken",
+      "Veel voorwaardelijke waardering → grotere incongruentie → meer psychische problemen"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0014-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Empathie", "en": "Empathy" },
+    "definition": "Derde voorwaarde van Rogers: actief inleven in de denk- en gevoelswereld van de cliënt, zodat de cliënt ervaart 'ik word begrepen en geaccepteerd zoals ik ben'.",
+    "chapter": 6,
+    "additions": [
+      "Maakt samen met congruentie en onvoorwaardelijke positieve waardering de drie kernvoorwaarden uit"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0015-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Vier uitgangspunten van Rogers", "en": "Four basic assumptions of Rogers" },
+    "definition": "1) Zelfverwerkelijkingstendens: aangeboren groeidrift. 2) Subjectieve beleving: persoonlijke waarneming is bepalend. 3) Gedrag is doelgericht: gericht op zelfverwezenlijking binnen subjectieve realiteit. 4) Samenhangend zelfbeeld: ontstaat door ervaringen die bijdragen aan zelfverwezenlijking.",
+    "chapter": 6,
+    "additions": [
+      "Persoonlijk waarderingsproces = interne leidraad waarbij ervaringen gewogen worden op hun bijdrage aan zelfverwezenlijking"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0016-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Zelfverwerkelijkingstendens", "en": "Self-actualizing tendency" },
+    "definition": "Volgens Rogers de drijvende kracht achter de ontwikkeling en ontplooiing van de mens. Een aangeboren neiging, verankerd in fysiologische processen, gericht op groei in biologische en psychologische zin.",
+    "chapter": 6,
+    "additions": [
+      "Vergelijking: boom die groeit naar unieke vorm",
+      "Negatieve emoties kunnen ook bijdragen aan groei, mits erkend en doorleefd"
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0017-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Subjectieve beleving / Percipiëren", "en": "Subjective experience / Perceiving" },
+    "definition": "Het centraal stellen van de persoonlijke waarneming van de werkelijkheid. De subjectieve realiteit is leidend: alleen de persoon zelf kan vertellen hoe diens werkelijkheid en persoonlijk referentiekader eruitzien. Subjectief waarnemen wordt ook 'percipiëren' genoemd.",
+    "chapter": 6,
+    "additions": [
+      "Bijv: kind ervaart oom met snor als eng → subjectieve realiteit is leidend, niet de objectieve",
+      "Persoonlijke realiteit ≠ objectieve realiteit"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0018-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Persoonlijk waarderingsproces", "en": "Organismic valuing process" },
+    "definition": "Intern proces waarbij ervaringen worden gewogen op hun bijdrage aan zelfverwezenlijking. Dient als leidraad voor doelgericht gedrag binnen de subjectieve realiteit van de persoon.",
+    "chapter": 6,
+    "additions": [
+      "Gedrag wordt gezien als doelgerichte poging om zelfverwezenlijking te realiseren, gestuurd door dit waarderingsproces"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0019-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Incongruentie", "en": "Incongruence" },
+    "definition": "Discrepantie tussen het bewuste zelfbeeld ('ik') en de onderliggende ervaringen ('ervaring'). Ervaringen die het zelfbeeld bedreigen worden ontkend, verdraaid of buiten bewustzijn gehouden. Leidt tot een façade en psychische problemen.",
+    "chapter": 6,
+    "additions": [
+      "Bijv: student die zichzelf slim vindt maar zakt voor tentamen → spanning als dit niet geïntegreerd wordt",
+      "Onbewuste incongruentie: persoon leeft achter een façade, laat het leven bepalen door wat men denkt te moeten zijn in plaats van wat men is",
+      "Veel voorwaardelijke waardering → grotere incongruentie"
+    ],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0020-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Zelfbeeld vs. ideaalbeeld", "en": "Self-concept vs. ideal self" },
+    "definition": "Zelfbeeld = hoe iemand zichzelf beleeft. Ideaalbeeld = hoe iemand wil zijn (vaak gestuurd door externe verwachtingen). Een grote kloof tussen beide leidt tot psychische problemen.",
+    "chapter": 6,
+    "additions": [
+      "Fully-functioning person: zelfbeeld en ideaalbeeld vallen samen → onvoorwaardelijke waardering → zelfaanvaarding → vrije, congruente ontwikkeling"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0021-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Fully-functioning person", "en": "Fully-functioning person" },
+    "definition": "Volgens Rogers het ideaal van een volledig functionerende persoon: zelfbeeld en ideaalbeeld vallen samen door onvoorwaardelijke waardering, wat leidt tot zelfaanvaarding en vrije, congruente ontwikkeling.",
+    "chapter": 6,
+    "additions": [
+      "Kenmerken: open voor ervaringen, leeft in het hier-en-nu, vertrouwt op eigen organisme"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0022-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Abraham Maslow", "en": "Abraham Maslow" },
+    "definition": "Amerikaans psycholoog (1908–1970), bekend van de behoeftepiramide. Oorspronkelijk dierpsycholoog, teleurgesteld in behaviorisme. Ontwikkelde een positieve motivatietheorie gericht op het realiseren van eigen behoeften en mogelijkheden.",
+    "chapter": 6,
+    "additions": [
+      "Bestudeerde levens van succesvolle mensen zoals Schweitzer en Lincoln",
+      "Schatte dat minder dan 1% van de mensen volledig zelfgeactualiseerd is"
+    ],
+    "importance": 5,
+    "type": "persoon",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0023-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Behoeftepiramide van Maslow", "en": "Maslow's hierarchy of needs" },
+    "definition": "Hiërarchisch model van menselijke behoeften (van laag naar hoog): 1) Fysiologische behoeften, 2) Veiligheid en zekerheid, 3) Liefde en saamhorigheid, 4) Waardering/achting, 5) Zelfverwerkelijking. Lagere behoeften moeten grotendeels vervuld zijn voor hogere.",
+    "chapter": 6,
+    "additions": [
+      "Kritiek: te elitair, niet altijd strikte volgorde, culturele bias",
+      "Bijv: daklozen zoeken toch sociale contacten ondanks gebrek aan basisveiligheid",
+      "Onderdeel van Maslows positieve motivatietheorie"
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0024-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Positieve motivatietheorie", "en": "Positive motivation theory" },
+    "definition": "Maslows benadering die zich niet richt op verklaring van menselijke tekorten en beperkingen, maar op het realiseren van eigen behoeften en mogelijkheden. Uitgangspunt: menselijke behoeften zijn hiërarchisch geordend.",
+    "chapter": 6,
+    "additions": [
+      "Vormde de basis voor de behoeftepiramide"
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0025-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Persoonlijke bewuste beleving", "en": "Personal conscious experience" },
+    "definition": "De unieke manier waarop iemand gevoelens, gedachten en gebeurtenissen ervaart, zich daarvan bewust is en dit onder woorden kan brengen. Focus op het hier-en-nu. Centraal begrip in de humanistische benadering.",
+    "chapter": 6,
+    "additions": [
+      "Humanisten stellen dit tegenover de psychoanalytische nadruk op onbewuste driften en de behavioristische focus op observeerbaar gedrag"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0026-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Wexler (1974)", "en": "Wexler (1974)" },
+    "definition": "Typeerde de therapeut als 'plaatsvervangende informatieverwerker': de therapeut helpt informatie te verwerken die de cliënt niet zelf kan ordenen. Ontwikkeling na Rogers.",
+    "chapter": 6,
+    "additions": [
+      "Verschuiving van Rogers' zuiver non-directieve benadering naar een actievere therapeutrol"
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0027-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Rice (1974) – Evocerende rol", "en": "Rice (1974) – Evocative role" },
+    "definition": "De therapeut heeft een 'evocerende' rol: roept bij de cliënt bepaalde belevingsinhouden/problematische ervaringen op, die vervolgens door de cliënt in de eigen belevingswereld worden bewerkt en verwerkt.",
+    "chapter": 6,
+    "additions": [
+      "In concreto: cliënt wordt uitgenodigd aan het begin van de therapiesessie over een gebeurtenis te vertellen die een problematische reactie heeft teweeggebracht"
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0028-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Experiëntiële therapie (Gendlin)", "en": "Experiential therapy (Gendlin)" },
+    "definition": "Therapievorm ontwikkeld door Eugene Gendlin. Focus op innerlijke, lichamelijk ervaren gevoelens ('preconceptuele wijsheid'). Doel: bewust maken en symboliseren van deze gevoelens. Centraal concept is de 'felt sense'.",
+    "chapter": 6,
+    "additions": [
+      "Experiëntieel = gericht op de directe ervaring of beleving van een persoon",
+      "Bijv: cliënt voelt spanning en beklemming → therapeut begeleidt lichaamsgevoelens en emoties naar bewustzijn"
+    ],
+    "importance": 4,
+    "type": "therapie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0029-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Felt sense", "en": "Felt sense" },
+    "definition": "Begrip van Gendlin: lichamelijk gevoelde ervaring die nog niet volledig in woorden is gevat. Door focusing kan deze gevoelde betekenis bewust worden gemaakt en gesymboliseerd.",
+    "chapter": 6,
+    "additions": [
+      "Centrale techniek in experiëntiële therapie en emotiegerichte therapie (EFT)",
+      "Wordt verkend via de techniek 'focusing'"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0030-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Procesgerichte benadering (De Haas & Swildens)", "en": "Process-oriented approach (De Haas & Swildens)" },
+    "definition": "Nederlandse ontwikkeling voortbouwend op cliëntgerichte therapie. Richt zich op blokkades/stagnatie in functioneren en existentiële keuzes. Swildens analyseert het 'alibi tot existeren' en 'keuzeverhinderingsmechanismen' van de cliënt.",
+    "chapter": 6,
+    "additions": [
+      "De Haas (1985): therapie richt zich op procesmatig functioneren als geïntegreerd geheel",
+      "Swildens (1988): existentieel-fenomenologische benadering, integratie met zelfbeeld en existentiële situatie"
+    ],
+    "importance": 3,
+    "type": "therapie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0031-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Emotiegerichte therapie (EFT)", "en": "Emotion-focused therapy (EFT)" },
+    "definition": "Psychotherapeutische benadering die nadruk legt op het bewust ervaren, begrijpen en reguleren van emoties. Emoties zijn cruciaal voor zelfconstructie en geven informatie over behoeften, waarden en doelen. Wetenschappelijk effectief bewezen via RCT's.",
+    "chapter": 6,
+    "additions": [
+      "Bouwt voort op de humanistische traditie maar integreert ook cognitieve en neurowetenschappelijke inzichten",
+      "Doelen: bewustwording van emoties, verwerking van inadequate emoties, ontwikkelen van passende emoties, emotieregulatie"
+    ],
+    "importance": 5,
+    "type": "therapie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0032-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Actietendensen", "en": "Action tendencies" },
+    "definition": "Een automatische of aangeleerde neiging om op een bepaalde manier te reageren op een situatie, gekoppeld aan een specifieke emotie. Het is de gedragsgerichte kant van een emotie: wat je lichaam of geest 'wil doen' bij een bepaalde emotie.",
+    "chapter": 6,
+    "additions": [
+      "Angst → vluchtgedrag; Boosheid → aanvallen/afschrikken",
+      "Meestal adaptief; stoornissen ontstaan door negatieve ervaringen of gebrekkige socialisatie",
+      "Neurowetenschappelijk: amygdala fungeert als 'rookdetector' voor bedreigingen"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0033-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Adequate vs. inadequate emoties", "en": "Adequate vs. inadequate emotions" },
+    "definition": "Adequaat: de emotie past bij de situatie (bijv. blijdschap bij slagen). Inadequaat: de emotie past niet bij de situatie (bijv. woede bij slagen). Oorzaken: negatieve ervaringen in vroege ontwikkeling, sociale afwijzing, disfunctionele emotieschema's.",
+    "chapter": 6,
+    "additions": [
+      "Inadequate emoties kunnen leiden tot onbewuste lichamelijke reacties en gedragsmatige vermijding",
+      "Emotieschema's koppelen angst, schaamte of verdriet aan situaties waar dat niet passend is"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0034-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Emotieschema's", "en": "Emotion schemes" },
+    "definition": "Innerlijke structuren die bepaalde emoties (zoals angst, schaamte of verdriet) koppelen aan specifieke situaties. Gevormd door vroege ervaringen en socialisatie. Bij inadequate emotieschema's reageert men met ongepaste emoties.",
+    "chapter": 6,
+    "additions": [
+      "Bijv: schaamte waar trots passender zou zijn",
+      "Kunnen leiden tot vermijding van intimiteit of autonomie"
+    ],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0035-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Evocatieve ontvouwing", "en": "Evocative unfolding" },
+    "definition": "Techniek in EFT waarbij de cliënt reflecteert op belangrijke gebeurtenissen en emoties laat opkomen. De therapeut helpt ervaringen op te roepen zodat ze verwerkt kunnen worden.",
+    "chapter": 6,
+    "additions": [
+      "Gebaseerd op het werk van Rice (1974) over de evocerende rol van de therapeut"
+    ],
+    "importance": 3,
+    "type": "techniek",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0036-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Focusing", "en": "Focusing" },
+    "definition": "Techniek ontwikkeld door Gendlin, gebruikt in EFT. Lichamelijk ervaren gevoelens (de felt sense) worden verkend en van betekenis voorzien. De cliënt leert aandacht te geven aan vage, lichamelijke sensaties om emotionele betekenis te ontdekken.",
+    "chapter": 6,
+    "additions": [
+      "Centraal in de experiëntiële therapie"
+    ],
+    "importance": 4,
+    "type": "techniek",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0037-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Tweestoelendialoog", "en": "Two-chair dialogue" },
+    "definition": "Gestalttechniek gebruikt in EFT. In de ene stoel geeft de cliënt uitdrukking aan emoties; in de andere stoel gaat de cliënt na hoe dat overkomt op anderen en reageert daarop. Dient om innerlijke tegenstrijdigheden uit te werken.",
+    "chapter": 6,
+    "additions": [
+      "Bijv: ene stoel = de kritische innerlijke stem, andere stoel = het kwetsbare zelf"
+    ],
+    "importance": 3,
+    "type": "techniek",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0038-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Veranderen van emoties door emoties", "en": "Changing emotions with emotions" },
+    "definition": "Techniek in EFT waarbij ongepaste/inadequate emoties worden vervangen door meer passende gevoelens. Bijv: schaamte vervangen door woede en trots, of door mededogen met zichzelf.",
+    "chapter": 6,
+    "additions": [
+      "Uitgangspunt: een emotie kan het best veranderd worden door een andere emotie, niet door cognitie alleen"
+    ],
+    "importance": 3,
+    "type": "techniek",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0039-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Emotieregulatie (in EFT)", "en": "Emotion regulation (in EFT)" },
+    "definition": "Het vermogen om emoties te verdragen, herkennen, benoemen en adequaat te gebruiken. In EFT een belangrijk therapeutisch doel dat helpt lijden te verminderen en persoonlijke doelen te bevorderen.",
+    "chapter": 6,
+    "additions": [
+      "Cruciale voorwaarde: veilig, empathisch en accepterend therapeutisch klimaat (zoals in traditionele cliëntgerichte therapie)"
+    ],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0040-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Non-directieve therapie", "en": "Non-directive therapy" },
+    "definition": "Oorspronkelijke naam voor Rogers' therapievorm. De therapeut geeft geen adviezen, beoordelingen of interpretaties van gedrag, maar laat de cliënt zelf de richting bepalen.",
+    "chapter": 6,
+    "additions": [
+      "Later hernoemd naar cliëntgerichte therapie, daarna naar persoonsgerichte experiëntiële psychotherapie (2016)"
+    ],
+    "importance": 3,
+    "type": "therapie",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0041-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Voluntarisme", "en": "Voluntarism" },
+    "definition": "Het filosofische standpunt dat de mens een vrije wil heeft en intentioneel en zelfregulerend handelt, niet passief gestuurd door prikkels, onbewuste conflicten of neurochemische processen. Kenmerkend voor de humanistische benadering.",
+    "chapter": 6,
+    "additions": [
+      "Tegengesteld aan determinisme (zoals in neurobiologische en leertheoretische benadering)",
+      "Vrije wil maakt zelfverwezenlijking mogelijk"
+    ],
+    "importance": 4,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0042-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Existentialisme (invloed op humanisme)", "en": "Existentialism (influence on humanism)" },
+    "definition": "Filosofische stroming die stelt dat het leven op zich niet zinvol is en geen algemeen doel heeft; betekenis ontstaat door persoonlijke keuzes en doelen. Sterke invloed op de humanistische benadering, met name op het concept van zelfregulering en zingeving.",
+    "chapter": 6,
+    "additions": [
+      "Swildens (1988): mens kan ondanks verleden toch kiezen voor een eigen toekomst en persoonlijke zin"
+    ],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  },
+  {
+    "id": "f6a1b2c3-0043-4d5e-8f6a-1b2c3d4e5f60",
+    "term": { "nl": "Technisch eclecticisme", "en": "Technical eclecticism" },
+    "definition": "Het combineren van therapeutische technieken uit verschillende benaderingen zonder theoretische integratie na te streven. Praktisch nuttig omdat volledige theoretische integratie onmogelijk is door onverenigbare metafysische beginselen.",
+    "chapter": 6,
+    "additions": [
+      "Bijv: humanistische basishouding (empathie, warmte, echtheid) combineren met cognitieve gedragstherapie",
+      "Onderscheid met theoretische integratie: bij eclecticisme worden alleen technieken gecombineerd, niet de achterliggende theorieën"
+    ],
+    "importance": 3,
+    "type": "concept",
+    "source": "flashcards_h6.json"
+  }
+]
