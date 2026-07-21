@@ -10,6 +10,7 @@ import { klinpsy1aConfig } from './config'
 // --- Flashcards ---
 import flashcardsH1 from '../../flashcards/klinpsy1a/flashcards_h1.json'
 import flashcardsH2 from '../../flashcards/klinpsy1a/flashcards_h2.json'
+import flashcardsH3 from '../../flashcards/klinpsy1a/flashcards_h3.json'
 
 // --- Exams ---
 
@@ -23,13 +24,14 @@ type FlashcardSourceEntry = { source: string; cards: RawFlashcard[] }
 const FLASHCARD_SOURCE_ENTRIES: FlashcardSourceEntry[] = [
   { source: 'flashcards_h1.json', cards: flashcardsH1 as RawFlashcard[] },
   { source: 'flashcards_h2.json', cards: flashcardsH2 as RawFlashcard[] },
+  { source: 'flashcards_h3.json', cards: flashcardsH3 as RawFlashcard[] },
 ]
 
 const flashcards: Flashcard[] = FLASHCARD_SOURCE_ENTRIES.flatMap(({ source, cards }) =>
   cards.map((c) => ({ ...c, source })),
 )
 const flashcardSources: string[] = FLASHCARD_SOURCE_ENTRIES.map((e) => e.source)
-const chapterNumbers = [1, 2] as const
+const chapterNumbers = [1, 2, 3] as const
 
 // ---- Exams setup ----
 

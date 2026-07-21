@@ -1,0 +1,831 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4e5f-8a9b-000000000001",
+    "term": {
+      "nl": "Leertheoretische benadering",
+      "en": "Learning-theoretical approach"
+    },
+    "definition": "Benadering die focust op de omgeving: causale relaties liggen in hoe de omgeving gedrag beïnvloedt, niet in fysiologie. Gedrag wordt hoofdzakelijk aangeleerd via interactie met de omgeving.",
+    "chapter": 3,
+    "additions": [
+      "Deterministisch: gedrag wordt bepaald door omgevingscontingenties.",
+      "Vormt de basis voor gedragstherapie: disfunctioneel gedrag uitdoven en functioneel gedrag aanleren.",
+      "Effectief bij fobieën, impulsstoornissen, verslaving, obesitas en obsessief-compulsief handelen."
+    ],
+    "importance": 10,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0002-4e5f-8a9b-000000000002",
+    "term": {
+      "nl": "Leren",
+      "en": "Learning"
+    },
+    "definition": "Gedragsveranderingen van een organisme die het resultaat zijn van regelmatigheden in de omgeving van dat organisme. Geen leren: reacties zonder regelmatigheid (bijv. schrikreactie op knal).",
+    "chapter": 3,
+    "additions": [
+      "Doel van leren: aanpassing (adaptatie) van het individu aan de omgeving.",
+      "Beperking definitie: zegt wat leren drijft (regelmatigheden), maar niet hoe dit gebeurt."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0003-4e5f-8a9b-000000000003",
+    "term": {
+      "nl": "Wet van het Effect",
+      "en": "Law of Effect"
+    },
+    "definition": "Wet geformuleerd door Thorndike: gedrag met een aangename uitkomst neemt in frequentie toe, gedrag met een onaangename uitkomst neemt in frequentie af.",
+    "chapter": 3,
+    "additions": [
+      "Afgeleid uit Thorndikes kattenexperiment: kat in kooi leerde door trial-and-error aan touw te trekken voor voedsel.",
+      "Ontsnappingstijd nam bij herhaling systematisch af (bewijs voor leren)."
+    ],
+    "importance": 10,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0004-4e5f-8a9b-000000000004",
+    "term": {
+      "nl": "Acquisitie",
+      "en": "Acquisition"
+    },
+    "definition": "Het verwerven van nieuw gedrag door een organisme, zowel bij klassieke als instrumentele conditionering.",
+    "chapter": 3,
+    "additions": [
+      "Bij Thorndike: de kat verwerft het gedrag om aan het touw te trekken.",
+      "Bij Pavlov: de hond verwerft de speekselreactie op de zoemer."
+    ],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0005-4e5f-8a9b-000000000005",
+    "term": {
+      "nl": "Instrumentele (operante) conditionering",
+      "en": "Instrumental (operant) conditioning"
+    },
+    "definition": "Vorm van leren waarbij de uitkomst (beloning/straf) afhankelijk is van het gedrag van het organisme. Het dier leert een handeling-prikkel associatie. Geïntroduceerd door Thorndike, verder ontwikkeld door Skinner.",
+    "chapter": 3,
+    "additions": [
+      "Thorndike: kat trekt aan touw → voedsel als beloning.",
+      "Schema: discriminatoire prikkel/situatie → respons → uitkomst.",
+      "Skinner ontwikkelde de Skinner-box om observatie en toediening van beloningen/straffen te automatiseren."
+    ],
+    "importance": 10,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0006-4e5f-8a9b-000000000006",
+    "term": {
+      "nl": "Klassieke conditionering",
+      "en": "Classical conditioning"
+    },
+    "definition": "Vorm van leren waarbij de uitkomst onafhankelijk is van het gedrag. Een neutrale prikkel (VP) wordt herhaaldelijk gekoppeld aan een onvoorwaardelijke prikkel (OP), waardoor de VP uiteindelijk dezelfde respons uitlokt. Ontdekt door Pavlov.",
+    "chapter": 3,
+    "additions": [
+      "Pavlov: zoemer (VP) + voedsel (OP) → speeksel. Na herhaling lokt zoemer alleen al speeksel uit.",
+      "Leren = verschuiven van respons van OP naar VP."
+    ],
+    "importance": 10,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0007-4e5f-8a9b-000000000007",
+    "term": {
+      "nl": "Onvoorwaardelijke prikkel (OP)",
+      "en": "Unconditioned stimulus (US)"
+    },
+    "definition": "Een prikkel die automatisch (zonder voorafgaand leren) een natuurlijke reactie oproept, zoals voedsel dat speekselproductie veroorzaakt.",
+    "chapter": 3,
+    "additions": [
+      "In Pavlovs experiment: voedsel = OP.",
+      "Roept de onvoorwaardelijke reactie (OR) op."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0008-4e5f-8a9b-000000000008",
+    "term": {
+      "nl": "Onvoorwaardelijke reactie (OR)",
+      "en": "Unconditioned response (UR)"
+    },
+    "definition": "De automatische, aangeboren reactie op een onvoorwaardelijke prikkel (OP), zonder dat leren nodig is.",
+    "chapter": 3,
+    "additions": [
+      "In Pavlovs experiment: speekselproductie bij voedsel = OR."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0009-4e5f-8a9b-000000000009",
+    "term": {
+      "nl": "Voorwaardelijke prikkel (VP)",
+      "en": "Conditioned stimulus (CS)"
+    },
+    "definition": "Een oorspronkelijk neutrale prikkel die na herhaalde koppeling aan een OP een voorwaardelijke reactie (VR) gaat uitlokken.",
+    "chapter": 3,
+    "additions": [
+      "In Pavlovs experiment: zoemer/bel = VP.",
+      "Bij angst: wachtkamer tandarts kan VP worden voor angst."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0010-4e5f-8a9b-000000000010",
+    "term": {
+      "nl": "Voorwaardelijke reactie (VR)",
+      "en": "Conditioned response (CR)"
+    },
+    "definition": "De aangeleerde reactie op een voorwaardelijke prikkel (VP), ontstaan na herhaalde koppeling van VP met OP.",
+    "chapter": 3,
+    "additions": [
+      "In Pavlovs experiment: speeksel bij het horen van de zoemer = VR.",
+      "Bij verslaving: craving bij het zien van een glas wijn = VR."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0011-4e5f-8a9b-000000000011",
+    "term": {
+      "nl": "Skinner-box",
+      "en": "Skinner box"
+    },
+    "definition": "Apparaat ontwikkeld door Skinner om operante conditionering te onderzoeken. Automatiseerde de observatie en toediening van beloningen/straffen, waardoor proefleideringrijpen niet meer nodig was.",
+    "chapter": 3,
+    "additions": [
+      "Ratten leerden aan een hendel te duwen voor voedsel.",
+      "Skinner is de grondlegger van het behaviorisme: strikte focus op objectief waarneembaar gedrag."
+    ],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0012-4e5f-8a9b-000000000012",
+    "term": {
+      "nl": "Associatieve theorie van leren",
+      "en": "Associative theory of learning"
+    },
+    "definition": "Theorie die stelt dat leren plaatsvindt door associatievorming tussen mentale representaties. Activatie van de ene representatie triggert de andere, vergelijkbaar met stroom in een draad.",
+    "chapter": 3,
+    "additions": [
+      "Mentale representatie: interne structuur met informatie over stimulus of respons.",
+      "Twee varianten: S-R-leren (directe koppeling VP→VR) en S-S-leren (VP activeert representatie van OP → VR)."
+    ],
+    "importance": 8,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0013-4e5f-8a9b-000000000013",
+    "term": {
+      "nl": "S-R-leren (Stimulus-Respons leren)",
+      "en": "S-R learning (Stimulus-Response learning)"
+    },
+    "definition": "Variant van associatief leren waarbij er een directe koppeling ontstaat tussen de voorwaardelijke prikkel (VP) en de voorwaardelijke reactie (VR). Conditionering = respons verschuift van OP naar VP.",
+    "chapter": 3,
+    "additions": [
+      "Bijv.: zoemer (VP) → speeksel (VR) direct, zonder tussenkomst van voedselrepresentatie."
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0014-4e5f-8a9b-000000000014",
+    "term": {
+      "nl": "S-S-leren (Stimulus-Stimulus leren)",
+      "en": "S-S learning (Stimulus-Stimulus learning)"
+    },
+    "definition": "Variant van associatief leren waarbij de VP niet direct de VR activeert, maar via de mentale representatie van de OP. De VP roept eerst de OP-representatie op, die vervolgens de VR triggert.",
+    "chapter": 3,
+    "additions": [
+      "Bijv. Pavlov: zoemer → activatie voedselrepresentatie → speeksel.",
+      "Ondersteund door de uitkomstdevaluatieprocedure: als OP onaantrekkelijk wordt gemaakt, daalt ook de VR op de VP."
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0015-4e5f-8a9b-000000000015",
+    "term": {
+      "nl": "Uitkomstdevaluatieprocedure",
+      "en": "Outcome devaluation procedure"
+    },
+    "definition": "Experimentele procedure waarbij na conditionering de OP onaantrekkelijk wordt gemaakt (bijv. door toevoeging van een misselijkmakende stof). Wordt gebruikt om te onderscheiden of leren via S-R of S-S verloopt.",
+    "chapter": 3,
+    "additions": [
+      "Resultaat: honden kwijlden niet meer bij de VP nadat voedsel onaantrekkelijk was gemaakt → steun voor S-S-leren.",
+      "S-R-leren kan dit resultaat niet verklaren (directe koppeling zou blijven bestaan).",
+      "Wordt ook gebruikt om doelgericht gedrag (R-O) van gewoontegedrag (S-R) te onderscheiden."
+    ],
+    "importance": 8,
+    "type": "experiment",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0016-4e5f-8a9b-000000000016",
+    "term": {
+      "nl": "Propositionele theorie van leren",
+      "en": "Propositional theory of learning"
+    },
+    "definition": "Theorie die stelt dat leren gebeurt via proposities: uitspraken over betekenisvolle relaties (bijv. voorspellend, oorzakelijk) tussen gebeurtenissen. Conditionering wordt gezien als een vorm van redeneren, niet als een simpel mechanisme.",
+    "chapter": 3,
+    "additions": [
+      "Bijv. Pavlov: hond leert de propositie 'de bel voorspelt de komst van voedsel'.",
+      "Verschil met associatieve theorie: associatie legt enkel een verbinding, propositie legt een betekenisvolle relatie.",
+      "Lopend debat: is leren het resultaat van blinde associaties of van redeneren met proposities?"
+    ],
+    "importance": 8,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0017-4e5f-8a9b-000000000017",
+    "term": {
+      "nl": "Ontogenetische adaptatie",
+      "en": "Ontogenetic adaptation"
+    },
+    "definition": "Aanpassing aan de omgeving tijdens de levensloop van één organisme (via leren). Staat tegenover fylogenetische adaptatie (aanpassing van de soort via evolutie, Darwin).",
+    "chapter": 3,
+    "additions": [
+      "Relevantie voor psychopathologie: onaangepast of 'gestoord' gedrag = falende aanpassing.",
+      "Leerpsychologie helpt dit begrijpen én behandelen."
+    ],
+    "importance": 6,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0018-4e5f-8a9b-000000000018",
+    "term": {
+      "nl": "Fylogenetische adaptatie",
+      "en": "Phylogenetic adaptation"
+    },
+    "definition": "Aanpassing van de soort aan de omgeving via evolutie (Darwin). Staat tegenover ontogenetische adaptatie (aanpassing via leren tijdens het individuele leven).",
+    "chapter": 3,
+    "additions": [],
+    "importance": 5,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0019-4e5f-8a9b-000000000019",
+    "term": {
+      "nl": "Appetitieve conditionering",
+      "en": "Appetitive conditioning"
+    },
+    "definition": "Conditionering met een aangename ongeconditioneerde prikkel (OP), zoals voedsel of alcohol. Helpt verklaren van verslaving, obesitas en zelfs rouw.",
+    "chapter": 3,
+    "additions": [
+      "VP koppelt aan OP → roept VR op, zoals craving.",
+      "Bijv. verslaving: zien van glas wijn → alcohol craving.",
+      "Bijv. rouw: gemeenschappelijk bed → verlangen naar overleden partner.",
+      "Kenmerken: trage extinctie en brede generalisatie."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0020-4e5f-8a9b-000000000020",
+    "term": {
+      "nl": "Doelgericht gedrag (R-O leren)",
+      "en": "Goal-directed behavior (R-O learning)"
+    },
+    "definition": "Instrumenteel gedrag gebaseerd op de associatie tussen respons en uitkomst. Het gedrag wordt gemotiveerd door de waarde van de uitkomst en is gevoelig voor uitkomstdevaluatie.",
+    "chapter": 3,
+    "additions": [
+      "R-O = Respons-Outcome.",
+      "Bijv.: kat leert trekken aan touw → krijgt voedsel.",
+      "Als de beloning gedevalueerd wordt, neemt het gedrag af → bewijs voor R-O leren."
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0021-4e5f-8a9b-000000000021",
+    "term": {
+      "nl": "Gewoontegedrag (S-R leren)",
+      "en": "Habit behavior (S-R learning)"
+    },
+    "definition": "Instrumenteel gedrag gebaseerd op de associatie tussen stimulus en respons, zonder invloed van de uitkomst. Het gedrag wordt automatisch uitgelokt door de stimulus, ongeacht de waarde van de uitkomst.",
+    "chapter": 3,
+    "additions": [
+      "S-R = Stimulus-Respons.",
+      "Bijv.: kat trekt automatisch aan touw bij aanwezigheid ervan, ook zonder voedsel.",
+      "Ongevoelig voor uitkomstdevaluatie.",
+      "Ontwikkeling: initiële doelgerichtheid → wordt gewoonte bij herhaald gedrag.",
+      "Bijv. drugsgebruik: eerst doelgericht (prettig gevoel), later gewoontegedrag."
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0022-4e5f-8a9b-000000000022",
+    "term": {
+      "nl": "Pavloviaans-instrumentele transfer (PIT)",
+      "en": "Pavlovian-instrumental transfer (PIT)"
+    },
+    "definition": "Fenomeen waarbij een klassiek geconditioneerde prikkel (VP) instrumenteel gedrag versterkt. Een VP die geassocieerd is met een OP verhoogt de frequentie van verwant instrumenteel gedrag.",
+    "chapter": 3,
+    "additions": [
+      "Leerfase: VP (zoemer) → voedsel (klassiek); tegelijk leert dier hendel duwen voor voedsel (instrumenteel).",
+      "Testfase: VP + hendel aanwezig → frequentie hendel duwen neemt toe.",
+      "Bijv. verslaving: vermoeid thuiskomen (VP) → verhoogde kans op alcoholgebruik (instrumentele respons).",
+      "Verklaart hoe klassieke prikkels instrumenteel gedrag uitlokken bij verslaving, overeten of rouw."
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0023-4e5f-8a9b-000000000023",
+    "term": {
+      "nl": "Aversieve conditionering",
+      "en": "Aversive conditioning"
+    },
+    "definition": "Conditionering waarbij een oorspronkelijk neutrale prikkel (VP) gevolgd wordt door een onaangename of aversieve ongeconditioneerde prikkel (OP), waardoor de VP zelf afkeer of angst gaat oproepen.",
+    "chapter": 3,
+    "additions": [
+      "Contrast met appetitieve conditionering: hier worden onaangename stimuli gebruikt.",
+      "Bijv. tandartsangst: wachtkamer (VP) + pijn (OP) → wachtkamer roept zelf angst op.",
+      "Watson's Kleine Albert-experiment: rat (VP) + hard geluid (OP) → angst voor rat."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0024-4e5f-8a9b-000000000024",
+    "term": {
+      "nl": "Behaviorisme",
+      "en": "Behaviorism"
+    },
+    "definition": "Stroming in de psychologie die uitsluitend objectief waarneembaar gedrag bestudeert. Theorieën over mentale mechanismen worden als speculatief en onwetenschappelijk beschouwd. Grondlegger: Watson; verder ontwikkeld door Skinner.",
+    "chapter": 3,
+    "additions": [
+      "Behavioristen bestudeerden uitsluitend objectief waarneembare reacties op externe prikkels.",
+      "Watson was ervan overtuigd dat de psychologie gedrag kan verklaren zonder mentale processen."
+    ],
+    "importance": 7,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0025-4e5f-8a9b-000000000025",
+    "term": {
+      "nl": "Kleine Albert-experiment",
+      "en": "Little Albert experiment"
+    },
+    "definition": "Experiment van Watson waarbij een baby (Albert) angst werd aangeleerd voor een wit laboratoriumratje (VP) door het te koppelen aan een hard geluid (OP). Toonde aan dat angst via klassieke conditionering kan worden aangeleerd.",
+    "chapter": 3,
+    "additions": [
+      "Kritiek: methodologische tekortkomingen en ethische problemen.",
+      "Historisch en theoretisch invloedrijk voor de angstverklaringen."
+    ],
+    "importance": 7,
+    "type": "experiment",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0026-4e5f-8a9b-000000000026",
+    "term": {
+      "nl": "Observationeel leren",
+      "en": "Observational learning"
+    },
+    "definition": "Leren door het observeren van anderen, zonder directe eigen aversieve ervaring. Een VP kan aan een OP gekoppeld worden door te zien dat iemand anders iets meemaakt.",
+    "chapter": 3,
+    "additions": [
+      "Bijv.: hondenfobie door zien dat iemand gebeten wordt.",
+      "Ook leren via instructie: 'honden bijten' kan angst veroorzaken."
+    ],
+    "importance": 6,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0027-4e5f-8a9b-000000000027",
+    "term": {
+      "nl": "Latente inhibitie",
+      "en": "Latent inhibition"
+    },
+    "definition": "Het fenomeen dat conditionering trager verloopt als de VP vooraf enkele keren zonder OP is aangeboden. Eerdere neutrale blootstelling aan een stimulus maakt latere conditionering moeilijker.",
+    "chapter": 3,
+    "additions": [
+      "Bijv.: kinderen die eerder angstvrije tandartsbezoeken hadden, ontwikkelen minder snel tandartsangst.",
+      "Tegengesteld effect: traumatische eerdere ervaringen kunnen conditionering juist versterken."
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0028-4e5f-8a9b-000000000028",
+    "term": {
+      "nl": "Aangeleerde hulpeloosheid",
+      "en": "Learned helplessness"
+    },
+    "definition": "Toestand waarbij een organisme leert dat het geen controle heeft over aversieve gebeurtenissen en daardoor passief wordt, zelfs als ontsnapping later wel mogelijk is. Onderzocht door Seligman (1975).",
+    "chapter": 3,
+    "additions": [
+      "Experiment: honden die elektrische prikkel niet konden stoppen, werden passief en leerden niet meer ontsnappen.",
+      "Relevantie voor mensen: onveilige hechting of burn-out kan vergelijkbare passiviteit veroorzaken.",
+      "Leertheoretische verklaring depressie: ontstaat bij wegvallen van bekrachtiging/beloning."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0029-4e5f-8a9b-000000000029",
+    "term": {
+      "nl": "Inflatie-effect",
+      "en": "Inflation effect"
+    },
+    "definition": "Het fenomeen waarbij latere ervaringen (na de oorspronkelijke conditionering) eerdere angstreacties versterken. Een milde VP-OP koppeling kan versterkt worden door latere intensere ervaringen.",
+    "chapter": 3,
+    "additions": [
+      "Valt onder 'na de aversieve gebeurtenis': latere ervaringen versterken eerdere angstreacties."
+    ],
+    "importance": 6,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0030-4e5f-8a9b-000000000030",
+    "term": {
+      "nl": "Ruminatie (in leertheorie)",
+      "en": "Rumination (in learning theory)"
+    },
+    "definition": "Herhaaldelijk denken over een trauma, wat de VP-OP koppeling versterkt en zo angstreacties in stand houdt of verergert.",
+    "chapter": 3,
+    "additions": [
+      "Valt onder factoren 'na de aversieve gebeurtenis' die conditionering beïnvloeden."
+    ],
+    "importance": 6,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0031-4e5f-8a9b-000000000031",
+    "term": {
+      "nl": "Tweefactorentheorie (Mowrer)",
+      "en": "Two-factor theory (Mowrer)"
+    },
+    "definition": "Theorie van Mowrer die angststoornissen verklaart via de interactie tussen klassieke en instrumentele conditionering: (1) angst wordt klassiek geconditioneerd, (2) vermijdingsgedrag wordt instrumenteel bekrachtigd doordat het angst vermindert (negatieve bekrachtiging).",
+    "chapter": 3,
+    "additions": [
+      "Verklaart vermijding bij angststoornissen.",
+      "Gevolg: vermijding vermindert angst → negatieve bekrachtiging → levenskwaliteit wordt beïnvloed."
+    ],
+    "importance": 9,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0032-4e5f-8a9b-000000000032",
+    "term": {
+      "nl": "Negatieve bekrachtiging",
+      "en": "Negative reinforcement"
+    },
+    "definition": "Een onaangenaam gevoel wordt weggenomen door bepaald gedrag, waardoor dat gedrag in frequentie toeneemt. Het wegnemen van iets onaangenaams fungeert als beloning.",
+    "chapter": 3,
+    "additions": [
+      "Bijv. tandartsangst: vermijding van de tandarts vermindert direct angst → vermijding neemt toe.",
+      "Bijv. verslaving: alcoholinname verwijdert ontwenningsverschijnselen → extra bekrachtiging."
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0033-4e5f-8a9b-000000000033",
+    "term": {
+      "nl": "Verrassingshypothese",
+      "en": "Surprise hypothesis"
+    },
+    "definition": "De hypothese dat leren alleen optreedt bij een voorspellingsfout: wanneer de OP onverwacht komt. Als de OP al volledig voorspeld wordt, vindt er geen nieuw leren plaats.",
+    "chapter": 3,
+    "additions": [
+      "Therapeutische toepassing: pathologische associaties hun voorspellende waarde ontnemen.",
+      "Basis voor het blokkeringseffect."
+    ],
+    "importance": 8,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0034-4e5f-8a9b-000000000034",
+    "term": {
+      "nl": "Blokkeringseffect (Kamin)",
+      "en": "Blocking effect (Kamin)"
+    },
+    "definition": "Het fenomeen dat wanneer een OP al voorspeld wordt door prikkel A, er niets meer geleerd wordt over een nieuwe, redundante prikkel B die tegelijkertijd wordt aangeboden. Onderzocht door Kamin (1967).",
+    "chapter": 3,
+    "additions": [
+      "Experiment: ratten leerden auditieve prikkel → elektrische stimulatie. Toevoeging visuele prikkel → nauwelijks reactie op visuele prikkel alleen.",
+      "Adaptief: organismen leren onderscheid maken tussen betrouwbare en redundante signalen.",
+      "Bijv. soldaat: luchtalarm voorspelt bomaanslag al → zand wordt niet geconditioneerd → later geen angst op strand.",
+      "Belang bij astma/pijn: correcte identificatie van uitlokkers voorkomt onnodige angst."
+    ],
+    "importance": 8,
+    "type": "experiment",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0035-4e5f-8a9b-000000000035",
+    "term": {
+      "nl": "Voorspellingsfout",
+      "en": "Prediction error"
+    },
+    "definition": "Het verschil tussen wat een organisme verwacht en wat er daadwerkelijk gebeurt. Leren treedt op wanneer er een voorspellingsfout is (de OP is onverwacht).",
+    "chapter": 3,
+    "additions": [
+      "Kernbegrip van de verrassingshypothese.",
+      "Als OP volledig voorspeld → geen voorspellingsfout → geen leren."
+    ],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0036-4e5f-8a9b-000000000036",
+    "term": {
+      "nl": "Extinctie",
+      "en": "Extinction"
+    },
+    "definition": "Het leren dat een verwachte gebeurtenis (OP) uitblijft, wat leidt tot uitdoving van het geconditioneerde gedrag. Klinische toepassing: exposuretherapie.",
+    "chapter": 3,
+    "additions": [
+      "Twee theorieën over mechanisme: (1) associatie neemt af → VP wordt neutraal; (2) nieuw leren → VP wordt ambigue prikkel.",
+      "Onderzoek bevestigt vooral optie 2: terugval blijft risico.",
+      "Bijv.: alcoholverslaving → blootstelling aan drinkcontext zonder alcoholconsumptie → craving daalt."
+    ],
+    "importance": 10,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0037-4e5f-8a9b-000000000037",
+    "term": {
+      "nl": "Spontaan herstel",
+      "en": "Spontaneous recovery"
+    },
+    "definition": "Het fenomeen, ontdekt door Pavlov, waarbij een geëxtingueerde respons na een tijdsperiode spontaan terugkeert. Bewijs dat extinctie niet het volledig wissen van de oude associatie is.",
+    "chapter": 3,
+    "additions": [
+      "Bijv.: hond produceerde opnieuw speeksel bij zoemer na weken rust, ondanks eerdere extinctie.",
+      "Contextafhankelijkheid: extinctie-effect is vaak beperkt tot de context waarin het geleerd is."
+    ],
+    "importance": 8,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0038-4e5f-8a9b-000000000038",
+    "term": {
+      "nl": "Contextafhankelijkheid van extinctie",
+      "en": "Context-dependency of extinction"
+    },
+    "definition": "Het fenomeen dat een nieuwe, gezonde associatie (geleerd via extinctie) vaak beperkt blijft tot de therapiecontext. In andere contexten kan de oude angst of het oude gedrag terugkeren.",
+    "chapter": 3,
+    "additions": [
+      "Bijv.: spinnenangst daalt in therapieruimte, maar keert terug in nieuwe ruimte.",
+      "Oplossingen: extinctie in diverse contexten en gebruik van geheugensteuntjes (bijv. armband)."
+    ],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0039-4e5f-8a9b-000000000039",
+    "term": {
+      "nl": "Contraconditionering",
+      "en": "Counterconditioning"
+    },
+    "definition": "Een VP wordt zonder de bijbehorende OP aangeboden, maar nu bovendien gekoppeld aan een nieuwe OP met een tegengestelde valentie (positief i.p.v. negatief of omgekeerd). Verandert de emotionele betekenis van de VP.",
+    "chapter": 3,
+    "additions": [
+      "Verschil met extinctie: extinctie vermindert enkel angst, contraconditionering verandert ook de valentie van de VP.",
+      "Bijv.: hondenfobie → positieve ervaringen met honden → minder beangstigend én aangenamer.",
+      "Instrumenteel: alcohol + disulfiram → drinken koppelen aan misselijkheid → gedrag daalt."
+    ],
+    "importance": 9,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0040-4e5f-8a9b-000000000040",
+    "term": {
+      "nl": "Exposuretherapie",
+      "en": "Exposure therapy"
+    },
+    "definition": "Therapeutische techniek waarbij de cliënt herhaaldelijk geconfronteerd wordt met de gevreesde stimulus (VP) zonder dat de aversieve OP optreedt, met als doel extinctie van de angstreactie.",
+    "chapter": 3,
+    "additions": [
+      "Sterk verwant aan extinctie.",
+      "Bijv.: hond aaien, ladder beklimmen, trauma herbeleven.",
+      "Succeservaringen vergroten zelfvertrouwen en motivatie."
+    ],
+    "importance": 9,
+    "type": "therapie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0041-4e5f-8a9b-000000000041",
+    "term": {
+      "nl": "Motivationeel model van exposure",
+      "en": "Motivational model of exposure"
+    },
+    "definition": "Model dat stelt dat exposure niet enkel draait om extinctie, maar dat succeservaringen zelfvertrouwen en motivatie vergroten. Exposure-doelen worden gekoppeld aan persoonlijk waardevolle doelen, en er is ook aandacht voor doelgericht instrumenteel leren (leven terug opbouwen).",
+    "chapter": 3,
+    "additions": [
+      "Bijv.: exposure aan honden koppelen aan het doel om een broer met honden te bezoeken.",
+      "Focus verschuift: niet enkel extinctie, maar ook doelgericht instrumenteel gedrag opbouwen."
+    ],
+    "importance": 8,
+    "type": "theorie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0042-4e5f-8a9b-000000000042",
+    "term": {
+      "nl": "Generalisatie",
+      "en": "Generalization"
+    },
+    "definition": "Het fenomeen dat stimuli die lijken op de oorspronkelijke VP ook de geconditioneerde respons oproepen. De reactie breidt zich uit naar vergelijkbare prikkels.",
+    "chapter": 3,
+    "additions": [
+      "Bijv. rouw: sofa in meubelwinkel lijkt op de sofa thuis → roept ook gemis op (brede generalisatie).",
+      "Universeel leerconcept dat bij zowel appetitieve als aversieve conditionering voorkomt."
+    ],
+    "importance": 7,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0043-4e5f-8a9b-000000000043",
+    "term": {
+      "nl": "Valentie",
+      "en": "Valence"
+    },
+    "definition": "De waarde van een prikkel in termen van positiviteit of negativiteit. Bij contraconditionering wordt een VP gekoppeld aan een OP met tegengestelde valentie.",
+    "chapter": 3,
+    "additions": [
+      "Positieve valentie: aangenaam, belonings-gerelateerd.",
+      "Negatieve valentie: onaangenaam, aversief."
+    ],
+    "importance": 6,
+    "type": "concept",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0044-4e5f-8a9b-000000000044",
+    "term": {
+      "nl": "Gedragstherapie",
+      "en": "Behavior therapy"
+    },
+    "definition": "Therapeutische benadering gebaseerd op leerprincipes: disfunctioneel gedrag wordt uitgedoofd en functioneel/gezond gedrag aangeleerd via conditioneringstechnieken.",
+    "chapter": 3,
+    "additions": [
+      "Effectief bij fobieën, impulsstoornissen, verslaving, obesitas, obsessief-compulsief handelen.",
+      "Benut nieuwe leerervaringen om gedragsverandering te realiseren.",
+      "Kernvragen: hoe lok je verandering uit op korte termijn, en hoe maak je die duurzaam?"
+    ],
+    "importance": 8,
+    "type": "therapie",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0045-4e5f-8a9b-000000000045",
+    "term": {
+      "nl": "Disulfiram",
+      "en": "Disulfiram"
+    },
+    "definition": "Medicijn dat bij alcoholisme wordt ingezet als instrumentele contraconditionering: alcoholconsumptie leidt tot onaangename effecten (misselijkheid) in plaats van prettige, waardoor het drinkgedrag afneemt.",
+    "chapter": 3,
+    "additions": [
+      "Voorbeeld van instrumentele contraconditionering: omgekeerde associatie.",
+      "Past binnen de leertheoretische benadering van behandeling."
+    ],
+    "importance": 6,
+    "type": "behandeling",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0046-4e5f-8a9b-000000000046",
+    "term": {
+      "nl": "Thorndike",
+      "en": "Thorndike"
+    },
+    "definition": "Onderzoeker die met het kattenexperiment de Wet van het Effect formuleerde en daarmee de basis legde voor instrumentele (operante) conditionering.",
+    "chapter": 3,
+    "additions": [
+      "Experiment: katten in een kooi leerden door trial-and-error aan een touw te trekken voor voedsel.",
+      "Beperking: proefleider moest telkens ingrijpen (kat terugplaatsen), opgelost door Skinner."
+    ],
+    "importance": 8,
+    "type": "onderzoeker",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0047-4e5f-8a9b-000000000047",
+    "term": {
+      "nl": "Pavlov",
+      "en": "Pavlov"
+    },
+    "definition": "Onderzoeker die klassieke conditionering ontdekte via onderzoek naar speekselafscheiding bij honden. Honden leerden speeksel produceren bij neutrale prikkels (zoemer) die herhaaldelijk met voedsel werden gekoppeld.",
+    "chapter": 3,
+    "additions": [
+      "Ontdekte ook spontaan herstel: na extinctie keert de respons later terug.",
+      "Legde de basis voor begrip van klassiek leren."
+    ],
+    "importance": 8,
+    "type": "onderzoeker",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0048-4e5f-8a9b-000000000048",
+    "term": {
+      "nl": "Skinner",
+      "en": "Skinner"
+    },
+    "definition": "Grondlegger van het behaviorisme die de Skinner-box ontwikkelde om operante conditionering geautomatiseerd te bestuderen. Strikte focus op objectief waarneembaar gedrag.",
+    "chapter": 3,
+    "additions": [
+      "Loste het probleem van Thorndike op: automatiseerde observatie en toediening van beloningen/straffen.",
+      "Ratten leerden aan een hendel te duwen voor voedsel."
+    ],
+    "importance": 7,
+    "type": "onderzoeker",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0049-4e5f-8a9b-000000000049",
+    "term": {
+      "nl": "Watson",
+      "en": "Watson"
+    },
+    "definition": "Grondlegger van het behaviorisme die overtuigd was dat psychologie gedrag kan verklaren zonder mentale processen. Voerde het Kleine Albert-experiment uit om aan te tonen dat angst via klassieke conditionering kan worden aangeleerd.",
+    "chapter": 3,
+    "additions": [
+      "Kleine Albert: rat (VP) + hard geluid (OP) → angst voor rat.",
+      "Kritiek op zijn experimenten: methodologische tekortkomingen en ethische problemen."
+    ],
+    "importance": 7,
+    "type": "onderzoeker",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0050-4e5f-8a9b-000000000050",
+    "term": {
+      "nl": "Seligman",
+      "en": "Seligman"
+    },
+    "definition": "Onderzoeker die het concept aangeleerde hulpeloosheid introduceerde (1975). Toonde aan dat organismen die geen controle hebben over aversieve gebeurtenissen passief worden.",
+    "chapter": 3,
+    "additions": [
+      "Experiment met honden en elektrische prikkels: controlegroep leerde ontsnappen, experimentele groep werd passief.",
+      "Relevant voor verklaring van depressie en burn-out."
+    ],
+    "importance": 7,
+    "type": "onderzoeker",
+    "source": "flashcards_h3.json"
+  },
+  {
+    "id": "a1b2c3d4-0051-4e5f-8a9b-000000000051",
+    "term": {
+      "nl": "Kamin",
+      "en": "Kamin"
+    },
+    "definition": "Onderzoeker die in 1967 het blokkeringseffect aantoonde bij ratten: een reeds voorspellende prikkel blokkeert het leren over een nieuwe, redundante prikkel.",
+    "chapter": 3,
+    "additions": [
+      "Experiment: auditieve prikkel voorspelde elektrische stimulatie → toevoeging visuele prikkel leidde niet tot nieuw leren.",
+      "Belangrijk fenomeen voor begrip van voorwaarden voor leren."
+    ],
+    "importance": 6,
+    "type": "onderzoeker",
+    "source": "flashcards_h3.json"
+  }
+]
