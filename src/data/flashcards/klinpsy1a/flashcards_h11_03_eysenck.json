@@ -1,0 +1,572 @@
+[
+  {
+    "id": "d765f1de-26d8-47db-bcba-0fbfad80cd7a",
+    "term": {
+      "nl": "Hans J. Eysenck",
+      "en": "Hans J. Eysenck"
+    },
+    "definition": "Trektheoreticus die een eenvoudig, meetbaar en biologisch onderbouwd persoonlijkheidsmodel ontwikkelde op basis van brede superfactoren.",
+    "chapter": 11,
+    "additions": [
+      "Hij combineerde factoranalyse, onderzoek naar erfelijkheid en theorieën over hersen- en zenuwstelsel."
+    ],
+    "importance": 5,
+    "type": "persoon",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "c4f3c210-d6ca-49f3-b897-20d30659f777",
+    "term": {
+      "nl": "Parsimoniemodel",
+      "en": "Parsimonious model"
+    },
+    "definition": "Een model dat met zo weinig mogelijk brede dimensies een zo groot mogelijk deel van persoonlijkheidsverschillen probeert te beschrijven.",
+    "chapter": 11,
+    "additions": [
+      "Eysenck vond Cattells zestien factoren te complex en zocht een eenvoudiger structuur."
+    ],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "7c598634-6775-422b-9fc7-ba10d36f397c",
+    "term": {
+      "nl": "Cirkelredenering in trekverklaring",
+      "en": "Circular trait explanation"
+    },
+    "definition": "De fout waarbij gedrag wordt verklaard met een trek die uitsluitend uit precies datzelfde gedrag is afgeleid.",
+    "chapter": 11,
+    "additions": [
+      "Voorbeeld: iemand is sociaal omdat zij sociabiliteit bezit, terwijl sociabiliteit alleen werd vastgesteld omdat zij sociaal gedrag vertoonde.",
+      "Eysenck wilde deze cirkel doorbreken door onafhankelijke biologische mechanismen te identificeren."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "15d6fd41-b19b-415b-a28e-54ab1eb2d450",
+    "term": {
+      "nl": "Secundaire factoranalyse",
+      "en": "Secondary factor analysis"
+    },
+    "definition": "Een factoranalyse op eerder gevonden eerste-orde factoren om nog bredere, hogere-orde dimensies te identificeren.",
+    "chapter": 11,
+    "additions": [
+      "Eysenck analyseerde onderlinge correlaties tussen factoren en vond superfactoren."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "e8595134-f70b-4c66-aa90-5b337e503b82",
+    "term": {
+      "nl": "Superfactor",
+      "en": "Superfactor"
+    },
+    "definition": "Een brede, continue persoonlijkheidsdimensie op het hoogste niveau van de trekhiërarchie.",
+    "chapter": 11,
+    "additions": [
+      "De meeste mensen bevinden zich tussen de hoge en lage pool.",
+      "Eysencks superfactoren zijn bedoeld als onderling statistisch onafhankelijke dimensies."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "5921ce4e-1f2e-4d08-95b8-1b66faab25b3",
+    "term": {
+      "nl": "Statistisch onafhankelijke dimensies",
+      "en": "Statistically independent dimensions"
+    },
+    "definition": "Dimensies die onderling niet of nauwelijks correleren en daardoor afzonderlijke aspecten van persoonlijkheid vertegenwoordigen.",
+    "chapter": 11,
+    "additions": [
+      "Eysenck wilde met secundaire factoranalyse zulke onafhankelijke superfactoren vinden."
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "0c322499-389f-4391-a07d-9166c41c113a",
+    "term": {
+      "nl": "PEN-model",
+      "en": "PEN model"
+    },
+    "definition": "Eysencks drie-factorenmodel met Psychoticisme, Extraversie en Neuroticisme als brede superfactoren.",
+    "chapter": 11,
+    "additions": [
+      "De beginletters P, E en N vormen de naam PEN."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "03eff5c1-ff59-4cf0-850d-448d1f7ba7a7",
+    "term": {
+      "nl": "Extraversie-introversie",
+      "en": "Extraversion-introversion"
+    },
+    "definition": "Een continue dimensie van sociaal, actief en prikkelzoekend gedrag tegenover teruggetrokken, rustig en bedachtzaam gedrag.",
+    "chapter": 11,
+    "additions": [
+      "Extraversie omvat onderliggende trekken zoals sociabiliteit, activiteit, levendigheid en prikkelzoeken."
+    ],
+    "importance": 5,
+    "type": "dimensie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "ccb9e75a-eee0-4822-b70e-4c6c6341adf9",
+    "term": {
+      "nl": "Extravert",
+      "en": "Extravert"
+    },
+    "definition": "Een persoon aan de extraverte pool die doorgaans sociaal, actief, levendig, uitgaand en prikkelzoekend is.",
+    "chapter": 11,
+    "additions": [
+      "Binnen Eysencks arousaltheorie zoeken extraverten meer stimulatie door een relatief lager basaal arousalniveau."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "b7fbdd65-934f-4064-93ee-6c766ffcd879",
+    "term": {
+      "nl": "Introvert",
+      "en": "Introvert"
+    },
+    "definition": "Een persoon aan de introverte pool die doorgaans rustig, teruggetrokken, bedachtzaam en minder prikkelzoekend is.",
+    "chapter": 11,
+    "additions": [
+      "Binnen Eysencks arousaltheorie vermijden introverten overmatige stimulatie omdat zij relatief gemakkelijker geprikkeld worden."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "21b0a7b1-636d-4d8e-977d-b9875b21cffd",
+    "term": {
+      "nl": "Corticale arousal",
+      "en": "Cortical arousal"
+    },
+    "definition": "De mate van activatie of prikkelbaarheid van de hersenschors die Eysenck koppelde aan verschillen tussen introversie en extraversie.",
+    "chapter": 11,
+    "additions": [
+      "Introverten zouden gemiddeld meer corticale arousal ervaren; extraverten minder."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "9ab556a0-f533-4724-97f4-8654ce566118",
+    "term": {
+      "nl": "Arousaltheorie van extraversie",
+      "en": "Arousal theory of extraversion"
+    },
+    "definition": "Eysencks verklaring dat introverten door hogere corticale prikkelbaarheid sterke stimulatie vermijden, terwijl extraverten door lagere arousal juist stimulatie zoeken.",
+    "chapter": 11,
+    "additions": [
+      "De theorie voorspelt verschillen in voorkeur voor drukte, geluid en sociale activiteit.",
+      "Onderzoek leverde zowel ondersteunende als tegenstrijdige bevindingen op."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "74fc517a-4337-43d0-8bed-1cb29d5fbb7d",
+    "term": {
+      "nl": "Belonings- en strafgevoeligheid bij extraversie",
+      "en": "Reward and punishment sensitivity in extraversion"
+    },
+    "definition": "De bevinding binnen Eysencks onderzoeksprogramma dat extraverten sterker door beloning en introverten sterker door straf beïnvloed zouden worden.",
+    "chapter": 11,
+    "additions": [
+      "Dit werd gezien als aanvullende steun voor biologische en leerpsychologische verschillen."
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "35a18966-d8d0-4364-a340-4fcffab16064",
+    "term": {
+      "nl": "Neuroticisme",
+      "en": "Neuroticism"
+    },
+    "definition": "Een dimensie van emotionele stabiliteit tegenover instabiliteit; hoge scores gaan samen met angstigheid, prikkelbaarheid, stemmingswisselingen en sterke stressreacties.",
+    "chapter": 11,
+    "additions": [
+      "Lage scores wijzen op kalmte en emotionele stabiliteit."
+    ],
+    "importance": 5,
+    "type": "dimensie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "b8f6c8c0-a76b-4a73-bfbe-83478b8a8d24",
+    "term": {
+      "nl": "Biologische theorie van neuroticisme",
+      "en": "Biological theory of neuroticism"
+    },
+    "definition": "Eysencks hypothese dat hoge neuroticismescores samenhangen met een snel en langdurig reagerend autonoom zenuwstelsel en limbisch systeem.",
+    "chapter": 11,
+    "additions": [
+      "Ouder onderzoek ondersteunde deze specifieke fysiologische theorie niet consistent.",
+      "Recente beeldvorming vond onder meer samenhang met activiteit in de prefrontale cortex."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "0e5e8ff5-b2bb-42b7-82f7-cb875b3b2157",
+    "term": {
+      "nl": "Psychoticisme",
+      "en": "Psychoticism"
+    },
+    "definition": "Een Eysenckiaanse dimensie die bij hoge scores wordt gekenmerkt door interpersoonlijke koudheid, agressiviteit, gebrek aan empathie en antisociale tendensen.",
+    "chapter": 11,
+    "additions": [
+      "De term is een persoonlijkheidsdimensie en niet hetzelfde als een klinische diagnose van psychose.",
+      "Eysenck zag mogelijke verbanden met testosteron en dopamine."
+    ],
+    "importance": 5,
+    "type": "dimensie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "89222c1a-63d2-4ee4-84fd-606ecd9e8609",
+    "term": {
+      "nl": "Biologische theorie van psychoticisme",
+      "en": "Biological theory of psychoticism"
+    },
+    "definition": "De hypothese dat psychoticisme mede samenhangt met genetische factoren, testosteron en dopaminegerelateerde hersenactiviteit.",
+    "chapter": 11,
+    "additions": [
+      "De biologische basis van psychoticisme is minder uitgebreid onderzocht dan die van extraversie."
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "6d6ac5a2-fa76-4690-b333-c7344d58e26c",
+    "term": {
+      "nl": "Eysenck Personality Questionnaire",
+      "en": "Eysenck Personality Questionnaire"
+    },
+    "definition": "Een zelfrapportagevragenlijst waarmee psychoticisme, extraversie en neuroticisme worden gemeten.",
+    "chapter": 11,
+    "additions": [
+      "De vragenlijst bevat tevens items om sociaal wenselijk of onwaarschijnlijk perfect antwoorden te signaleren."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "946119a5-ccad-46a2-a9c7-9e4b45e21e75",
+    "term": {
+      "nl": "Leugenschaal",
+      "en": "Lie scale"
+    },
+    "definition": "Een schaal in Eysencks vragenlijsten die onrealistisch deugdzame of sociaal wenselijke antwoordpatronen probeert te detecteren.",
+    "chapter": 11,
+    "additions": [
+      "Een hoge score kan wijzen op indrukmanagement of weinig open zelfrapportage."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "a5d72d58-d091-4e5b-b1c5-197868dc4dea",
+    "term": {
+      "nl": "Lemon-droptest",
+      "en": "Lemon drop test"
+    },
+    "definition": "Een objectieve test waarbij citroensap op de tong wordt geplaatst en speekselproductie wordt gemeten om introversie en extraversie biologisch te onderscheiden.",
+    "chapter": 11,
+    "additions": [
+      "Introverten produceerden in deze test gemiddeld meer speeksel, passend bij grotere prikkelbaarheid."
+    ],
+    "importance": 4,
+    "type": "onderzoek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "3b7e9d3c-a11d-4af0-b3cd-122d87954120",
+    "term": {
+      "nl": "Objectieve trekmeting bij Eysenck",
+      "en": "Objective trait measurement in Eysenck"
+    },
+    "definition": "Meting van persoonlijkheidsverschillen via gedrags- of fysiologische reacties in plaats van uitsluitend via zelfrapportage.",
+    "chapter": 11,
+    "additions": [
+      "De lemon-droptest is hiervan een voorbeeld."
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "e8b8b8a9-e98a-4f62-b2db-03432e0c8538",
+    "term": {
+      "nl": "Extravert studeergedrag",
+      "en": "Extravert study behavior"
+    },
+    "definition": "Extraverten kiezen volgens het besproken onderzoek vaker stimulerende studieomgevingen, nemen meer pauzes en verkiezen meer achtergrondgeluid en sociale gelegenheid.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 3,
+    "type": "onderzoek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "bab78ea4-30d9-40e9-be53-4cc70e34b471",
+    "term": {
+      "nl": "Introvert studeergedrag",
+      "en": "Introvert study behavior"
+    },
+    "definition": "Introverten verkiezen volgens het besproken onderzoek vaker rustige studieomgevingen en functioneren beter bij minder externe stimulatie.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 3,
+    "type": "onderzoek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "1a3fceba-dd07-4cab-a54d-15877ebf338d",
+    "term": {
+      "nl": "Extraversie en sociale beroepen",
+      "en": "Extraversion and social occupations"
+    },
+    "definition": "Extraverten kiezen en functioneren relatief vaak in beroepen met veel interactie, afwisseling en stimulatie.",
+    "chapter": 11,
+    "additions": [
+      "Introverten verkiezen vaker meer solitaire of minder stimulerende werkzaamheden."
+    ],
+    "importance": 2,
+    "type": "onderzoek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "ca41b758-3668-4e1d-8f69-c507bc23e602",
+    "term": {
+      "nl": "Extraversie en schools functioneren",
+      "en": "Extraversion and academic functioning"
+    },
+    "definition": "In het besproken onderzoek presteerden introverten gemiddeld beter op school, vooral in gevorderde vakken, terwijl extraverten vaker om academische redenen uitvielen.",
+    "chapter": 11,
+    "additions": [
+      "Dit is een groepsgemiddelde en geen deterministische voorspelling voor ieder individu."
+    ],
+    "importance": 3,
+    "type": "onderzoek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "88830eed-0836-4678-ae91-93e5acce57a6",
+    "term": {
+      "nl": "Extraversie en suggestibiliteit",
+      "en": "Extraversion and suggestibility"
+    },
+    "definition": "De bevinding dat extraverten gemiddeld vatbaarder zouden zijn voor beïnvloeding en suggestie dan introverten.",
+    "chapter": 11,
+    "additions": [
+      "Het hoofdstuk illustreert dit met onderzoek naar een hyperventilatie-epidemie."
+    ],
+    "importance": 2,
+    "type": "onderzoek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "d5e1e2dc-214d-4521-9153-e9785cd58c87",
+    "term": {
+      "nl": "Oude temperamenttypen in Eysencks model",
+      "en": "Ancient temperament types in Eysenck's model"
+    },
+    "definition": "Eysenck liet zien dat de klassieke typen melancholisch, flegmatisch, cholerisch en sanguinisch kunnen worden geplaatst op de dimensies extraversie-introversie en emotionele stabiliteit-instabiliteit.",
+    "chapter": 11,
+    "additions": [
+      "Het hoofdstuk noemt melancholisch als angstig, somber en teruggetrokken en sanguinisch als sociaal, zorgeloos en uitgaand.",
+      "De antieke oorzakelijke theorie werd verworpen, maar de beschreven individuele verschillen bleven herkenbaar."
+    ],
+    "importance": 3,
+    "type": "model",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "fb25d184-546d-4cbe-a239-1ce5150d3c31",
+    "term": {
+      "nl": "Neurotische problematiek volgens Eysenck",
+      "en": "Neurotic problems in Eysenck's theory"
+    },
+    "definition": "Neurotische klachten zouden vooral voorkomen bij een combinatie van hoog neuroticisme en lage extraversie.",
+    "chapter": 11,
+    "additions": [
+      "Eysenck verklaarde klachten uit de wisselwerking tussen biologische predispositie en aangeleerde sterke angstreacties."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "1263a46a-4e54-4055-a465-343fccb70207",
+    "term": {
+      "nl": "Antisociaal gedrag volgens Eysenck",
+      "en": "Antisocial behavior in Eysenck's theory"
+    },
+    "definition": "Criminaliteit en antisociaal gedrag zouden vaker samengaan met hoge scores op psychoticisme, extraversie en neuroticisme.",
+    "chapter": 11,
+    "additions": [
+      "Eysenck koppelde dit aan zwakkere verwerving van maatschappelijke normen."
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "e4556e45-133e-4de8-b2ce-ab1ce3ff00d4",
+    "term": {
+      "nl": "Genetische predispositie is geen bestemming",
+      "en": "Genetic predisposition is not destiny"
+    },
+    "definition": "Eysencks standpunt dat erfelijke factoren neigingen creëren, maar gedrag niet onvermijdelijk vastleggen.",
+    "chapter": 11,
+    "additions": [
+      "Situaties, leren en gedragstherapie kunnen de uiteindelijke gedragsstijl veranderen."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "a52194e0-b83c-4c1e-8094-ff1617184eef",
+    "term": {
+      "nl": "Gedragstherapie volgens Eysenck",
+      "en": "Behavior therapy according to Eysenck"
+    },
+    "definition": "De systematische toepassing van leerprincipes om angstreacties, sociaal gedrag en andere aangeleerde patronen te veranderen.",
+    "chapter": 11,
+    "additions": [
+      "Eysenck zag gedragstherapie als verenigbaar met biologische en genetische predisposities."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "d944b01e-79e1-4646-b9ad-69c0ab55e2c7",
+    "term": {
+      "nl": "Sterkte van Eysencks theorie",
+      "en": "Strength of Eysenck's theory"
+    },
+    "definition": "De theorie is systematisch, empirisch gericht, relatief eenvoudig en expliciet gekoppeld aan meetbare biologische hypothesen.",
+    "chapter": 11,
+    "additions": [
+      "Eysenck had grote invloed op persoonlijkheidsmeting en biologisch persoonlijkheidsonderzoek."
+    ],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "696bb764-a410-463c-a9aa-f9985af14eaa",
+    "term": {
+      "nl": "Meting-theorieprobleem bij Eysenck",
+      "en": "Measurement-theory mismatch in Eysenck"
+    },
+    "definition": "De kritiek dat Eysencks theorie over hersenprocessen vooral werd getoetst met zelfrapportagevragenlijsten die hersenactiviteit niet rechtstreeks meten.",
+    "chapter": 11,
+    "additions": [
+      "Matthews noemde dit een belangrijke mismatch tussen theoretisch mechanisme en meetmethode."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "6b5aefbe-dc29-43e3-8b1b-c565ac4ca830",
+    "term": {
+      "nl": "Onderschatting van hersencomplexiteit",
+      "en": "Underestimation of brain complexity"
+    },
+    "definition": "De kritiek dat Eysencks model het brein te eenvoudig voorstelde en onvoldoende rekening hield met sterk onderling verbonden corticale, perceptuele en emotionele systemen.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "08c568c8-428b-42f6-b673-eaafb515e3fd",
+    "term": {
+      "nl": "Onvoldoende aandacht voor cognitie",
+      "en": "Insufficient attention to cognition"
+    },
+    "definition": "De kritiek dat Eysenck individuele verschillen te sterk vanuit arousal verklaarde en menselijke overtuigingen, zelfreflectie, taal en planning onvoldoende meenam.",
+    "chapter": 11,
+    "additions": [
+      "Volgens Matthews weerspiegelen trekken mede opvattingen over zichzelf en de sociale wereld."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "e7b3956e-f7a2-4fd3-848f-703a7ea918d1",
+    "term": {
+      "nl": "Culturele en narratieve beperking",
+      "en": "Cultural and narrative limitation"
+    },
+    "definition": "De kritiek dat Eysencks universele dimensies weinig aandacht geven aan culturele betekenissen en persoonlijke levensverhalen.",
+    "chapter": 11,
+    "additions": [
+      "De cursus plaatst dit naast kritiek op de beperkte rol van cognitie en context."
+    ],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "9d468de8-67e3-4a84-8e93-15647be554b7",
+    "term": {
+      "nl": "Flexibiliteit tussen introversie en extraversie",
+      "en": "Flexibility between introversion and extraversion"
+    },
+    "definition": "Het inzicht dat effectief gedrag kan vragen om zowel rustige terughoudendheid als levendige assertiviteit, afhankelijk van de situatie.",
+    "chapter": 11,
+    "additions": [
+      "Dit roept vragen op over modellen die één stabiele positie op de dimensie als de volledige verklaring behandelen."
+    ],
+    "importance": 2,
+    "type": "kritiek",
+    "source": "flashcards_h11_03_eysenck.json"
+  },
+  {
+    "id": "9474e7cc-2633-49b1-9e0d-b533a11ce8c1",
+    "term": {
+      "nl": "Eysencks historische invloed",
+      "en": "Eysenck's historical influence"
+    },
+    "definition": "Eysencks combinatie van statistiek, biologie en persoonlijkheidsmeting maakte zijn PEN-model tot een mijlpaal, ook al gebruiken veel onderzoekers tegenwoordig andere modellen.",
+    "chapter": 11,
+    "additions": [
+      "Zijn nadruk op objectiviteit en toetsbare hypothesen bleef belangrijk voor modern persoonlijkheidsonderzoek."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_03_eysenck.json"
+  }
+]

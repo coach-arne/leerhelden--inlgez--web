@@ -15,6 +15,12 @@ import flashcardsH4 from '../../flashcards/klinpsy1a/flashcards_h4.json'
 import flashcardsH5 from '../../flashcards/klinpsy1a/flashcards_h5.json'
 import flashcardsH6 from '../../flashcards/klinpsy1a/flashcards_h6.json'
 import flashcardsH7 from '../../flashcards/klinpsy1a/flashcards_h7.json'
+import flashcardsH11_01_basis from '../../flashcards/klinpsy1a/flashcards_h11_01_basis.json'
+import flashcardsH11_02_cattell from '../../flashcards/klinpsy1a/flashcards_h11_02_cattell.json'
+import flashcardsH11_03_eysenck from '../../flashcards/klinpsy1a/flashcards_h11_03_eysenck.json'
+import flashcardsH12_01_basis from '../../flashcards/klinpsy1a/flashcards_h12_01_basis.json'
+import flashcardsH12_02_big_five from '../../flashcards/klinpsy1a/flashcards_h12_02_big_five.json'
+import flashcardsH12_03_alternatieven from '../../flashcards/klinpsy1a/flashcards_h12_03_alternatieven.json'
 
 // --- Exams ---
 
@@ -33,13 +39,20 @@ const FLASHCARD_SOURCE_ENTRIES: FlashcardSourceEntry[] = [
   { source: 'flashcards_h5.json', cards: flashcardsH5 as RawFlashcard[] },
   { source: 'flashcards_h6.json', cards: flashcardsH6 as RawFlashcard[] },
   { source: 'flashcards_h7.json', cards: flashcardsH7 as RawFlashcard[] },
+  { source: 'flashcards_h11_01_basis.json', cards: flashcardsH11_01_basis as RawFlashcard[] },
+  { source: 'flashcards_h11_02_cattell.json', cards: flashcardsH11_02_cattell as RawFlashcard[] },
+  { source: 'flashcards_h11_03_eysenck.json', cards: flashcardsH11_03_eysenck as RawFlashcard[] },
+  { source: 'flashcards_h12_01_basis.json', cards: flashcardsH12_01_basis as RawFlashcard[] },
+  { source: 'flashcards_h12_02_big_five.json', cards: flashcardsH12_02_big_five as RawFlashcard[] },
+  { source: 'flashcards_h12_03_alternatieven.json', cards: flashcardsH12_03_alternatieven as RawFlashcard[] },
+
 ]
 
 const flashcards: Flashcard[] = FLASHCARD_SOURCE_ENTRIES.flatMap(({ source, cards }) =>
   cards.map((c) => ({ ...c, source })),
 )
 const flashcardSources: string[] = FLASHCARD_SOURCE_ENTRIES.map((e) => e.source)
-const chapterNumbers = [1, 2, 3, 4, 5, 6, 7] as const
+const chapterNumbers = [1, 2, 3, 4, 5, 6, 7, 11, 12] as const
 
 // ---- Exams setup ----
 

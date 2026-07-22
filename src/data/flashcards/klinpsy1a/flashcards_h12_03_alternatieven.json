@@ -1,0 +1,890 @@
+[
+  {
+    "id": "e517578f-059e-5a1d-b079-1bcddc611cf0",
+    "term": {
+      "nl": "Tellegen-Waller-methode",
+      "en": "Tellegen-Waller method"
+    },
+    "definition": "Een psycholexicale selectiemethode waarbij evaluatieve woorden worden opgenomen en woorden systematisch uit het woordenboek worden gekozen.",
+    "chapter": 12,
+    "additions": [
+      "In de beschreven studies werd bijvoorbeeld op elke vierde woordenboekpagina het eerste bruikbare woord geselecteerd.",
+      "De methode leidde tot zeven factoren, waaronder Positieve en Negatieve Valentie."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "92594cff-09c9-5f75-b0cd-bae242cc4bb3",
+    "term": {
+      "nl": "Big Seven",
+      "en": "Big Seven"
+    },
+    "definition": "Een zevenfactorenmodel dat vijf gedeeltelijk Big-Five-achtige factoren aanvult met Positieve Valentie en Negatieve Valentie.",
+    "chapter": 12,
+    "additions": [
+      "De precieze overige factoren verschillen per taal en onderzoek.",
+      "Het model toont hoe woordselectie en het opnemen van evaluatieve termen de factorstructuur beïnvloeden."
+    ],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "2f78df97-f513-5b42-aa6d-4444fa860e5c",
+    "term": {
+      "nl": "Positieve Valentie",
+      "en": "Positive Valence"
+    },
+    "definition": "Een evaluatieve factor die aangeeft in welke mate iemand met uitzonderlijk positieve en bewonderenswaardige termen wordt beschreven.",
+    "chapter": 12,
+    "additions": [
+      "Markerwoorden zijn onder meer verfijnd, nobel, briljant, indrukwekkend, superieur, bewonderenswaardig en charismatisch.",
+      "De factor vertoont in sommige studies overlap met Intellect."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "b0f2278b-cf19-53ae-ab7d-f29c9005dfcf",
+    "term": {
+      "nl": "Negatieve Valentie",
+      "en": "Negative Valence"
+    },
+    "definition": "Een evaluatieve factor die aangeeft in welke mate iemand met extreem negatieve en afkeurende termen wordt beschreven.",
+    "chapter": 12,
+    "additions": [
+      "Markerwoorden zijn onder meer corrupt, slecht, vulgair, vies, gemeen, wreed, gestoord, ziek en vandalistisch.",
+      "Negatieve Valentie verschijnt relatief consistent in Big-Seven-onderzoek."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "8ca56a65-c27f-5437-8d47-f8da0ee95676",
+    "term": {
+      "nl": "Evaluatiefactor",
+      "en": "Evaluative factor"
+    },
+    "definition": "Een factor die vooral weergeeft hoe positief of negatief een persoon wordt gewaardeerd, in plaats van uitsluitend een neutrale gedragsstijl te beschrijven.",
+    "chapter": 12,
+    "additions": [
+      "Positieve en Negatieve Valentie zijn duidelijke evaluatiefactoren.",
+      "Het opnemen van evaluatieve woorden vergroot de kans dat zulke factoren ontstaan."
+    ],
+    "importance": 4,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "b17a91cd-426e-5250-8d46-5c91869ff3cf",
+    "term": {
+      "nl": "Big Six",
+      "en": "Big Six"
+    },
+    "definition": "Een zesfactorenmodel waarin naast vijf herschikte brede factoren de factor Eerlijkheid-Bescheidenheid wordt onderscheiden.",
+    "chapter": 12,
+    "additions": [
+      "Het model ontstond uit vergelijking van psycholexicale datasets uit meerdere talen.",
+      "Het toevoegen van de zesde factor verandert de inhoud van de overige factoren."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "31043afc-fcac-56a2-b25b-4f8884c2dff7",
+    "term": {
+      "nl": "Eerlijkheid-Bescheidenheid",
+      "en": "Honesty-Humility"
+    },
+    "definition": "De factor die oprechtheid, eerlijkheid, bescheidenheid, weinig hebzucht en het niet uitbuiten van anderen omvat.",
+    "chapter": 12,
+    "additions": [
+      "De factor werd in meerdere talen als aanvullende zesde dimensie gevonden.",
+      "Ze is niet volledig hetzelfde als Vriendelijkheid."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "0448d89d-883b-5c1a-9da1-bec6c18eacbf",
+    "term": {
+      "nl": "Herverdeling in het Big-Six-model",
+      "en": "Factor redistribution in the Big Six"
+    },
+    "definition": "Het verschijnsel dat kenmerken na toevoeging van Eerlijkheid-Bescheidenheid anders over de overige factoren worden verdeeld.",
+    "chapter": 12,
+    "additions": [
+      "Vriendelijkheid verliest termen die meer bij eerlijkheid en bescheidenheid horen.",
+      "Emotionele Stabiliteit verliest termen rond humeurigheid aan de hernieuwde Vriendelijkheidsfactor."
+    ],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "aacc0738-5e16-575e-812b-0aee41863bfc",
+    "term": {
+      "nl": "Woordklasseselectie",
+      "en": "Word-class selection"
+    },
+    "definition": "De keuze welke grammaticale woordsoorten in psycholexicaal onderzoek als persoonsbeschrijvende termen worden opgenomen.",
+    "chapter": 12,
+    "additions": [
+      "Veel klassieke studies beperkten zich tot adjectieven.",
+      "Het toevoegen van zelfstandige naamwoorden, werkwoorden en bijwoorden kan nieuwe factoren en nuances opleveren."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "d5ad18e0-6889-53aa-8bb2-f68a22550f85",
+    "term": {
+      "nl": "Adjectief",
+      "en": "Adjective"
+    },
+    "definition": "Een woordsoort die eigenschappen van personen of dingen rechtstreeks beschrijft en daarom vaak centraal staat in psycholexicaal onderzoek.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn moedig, agressief en vriendelijk.",
+      "Adjectieven zijn praktisch, maar vertegenwoordigen niet noodzakelijk het volledige lexicon van persoonsbeschrijvingen."
+    ],
+    "importance": 3,
+    "type": "taalkundig begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "8755f0bf-0c34-58ab-aa41-c18e935f4ec3",
+    "term": {
+      "nl": "Zelfstandig naamwoord als persoonsbeschrijving",
+      "en": "Person-descriptive noun"
+    },
+    "definition": "Een zelfstandig naamwoord dat een persoon als een bepaald soort mens of drager van een eigenschap typeert.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn komediant, flapuit en drentelaar.",
+      "Zelfstandige naamwoorden kunnen kenmerken bevatten die in adjectieven ontbreken."
+    ],
+    "importance": 3,
+    "type": "taalkundig begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "f36d0460-1799-57da-8975-bf904bcb021b",
+    "term": {
+      "nl": "Type noun",
+      "en": "Type noun"
+    },
+    "definition": "Een telbaar zelfstandig naamwoord waarmee een persoon als lid van een herkenbare categorie of type wordt aangeduid.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn drie huizen of vijf deugnieten; bij persoonsbeschrijving is deugniet een type noun.",
+      "In Duits psycholexicaal onderzoek bleek het onderscheid met attribute nouns relevant."
+    ],
+    "importance": 2,
+    "type": "taalkundig begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "2c54d580-48a0-5484-90ee-89e816c40616",
+    "term": {
+      "nl": "Attribute noun",
+      "en": "Attribute noun"
+    },
+    "definition": "Een niet-telbaar zelfstandig naamwoord dat een eigenschap of attribuut aanduidt in plaats van een afzonderlijk persoonstype.",
+    "chapter": 12,
+    "additions": [
+      "Een voorbeeld is cynisme.",
+      "Type nouns en attribute nouns kunnen verschillende psycholexicale informatie bevatten."
+    ],
+    "importance": 2,
+    "type": "taalkundig begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "43f20174-0b34-557c-b43d-61c0eaba9653",
+    "term": {
+      "nl": "Persoonsbeschrijvend werkwoord",
+      "en": "Person-descriptive verb"
+    },
+    "definition": "Een werkwoord dat een kenmerkende manier van handelen beschrijft en daarmee persoonlijkheidsinformatie kan geven.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn tegenspreken en terugdeinzen.",
+      "Werkwoorden leveren doorgaans aanvullende nuances naast adjectieven."
+    ],
+    "importance": 3,
+    "type": "taalkundig begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "7bc73359-3c2e-57d3-a6a2-6c1829352442",
+    "term": {
+      "nl": "Persoonsbeschrijvend bijwoord",
+      "en": "Person-descriptive adverb"
+    },
+    "definition": "Een bijwoordelijke uitdrukking die beschrijft op welke manier iemand handelt of spreekt.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn denigrerend spreken, handelend optreden en onlogisch redeneren.",
+      "Ook deze woordsoort kan informatie toevoegen die niet in adjectieven is vastgelegd."
+    ],
+    "importance": 2,
+    "type": "taalkundig begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "d6cfd153-9911-5f7e-8a1e-ab33d13797f7",
+    "term": {
+      "nl": "Overlap tussen woordklassen",
+      "en": "Overlap across word classes"
+    },
+    "definition": "De mate waarin adjectieven, zelfstandige naamwoorden en werkwoorden dezelfde woordstam en betekenis delen.",
+    "chapter": 12,
+    "additions": [
+      "In het hoofdstuk wordt geschat dat volledige stamoverlap tussen de drie woordklassen slechts ongeveer 5% bedraagt.",
+      "Daarom kan het beperken tot adjectieven relevante persoonsbeschrijvingen missen."
+    ],
+    "importance": 4,
+    "type": "methodologisch begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "96b5ed5c-15db-526e-809f-eb83cb4b98fc",
+    "term": {
+      "nl": "Big Eight",
+      "en": "Big Eight"
+    },
+    "definition": "Het Nederlandse achtfactorenmodel van De Raad en Barelds, gebaseerd op een brede selectie van woorden uit meerdere woordklassen.",
+    "chapter": 12,
+    "additions": [
+      "De acht factoren zijn Deugdzaamheid, Competentie, Extraversie, Mildheid, Zorgvuldigheid, Neuroticisme, Hedonisme en Volgzaamheid.",
+      "Het model bevat elementen van de Big Five, Big Six en Big Seven."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "d11b4437-ad00-589c-a7d1-7084fca3f08a",
+    "term": {
+      "nl": "Deugdzaamheid",
+      "en": "Virtue"
+    },
+    "definition": "De Big-Eight-factor die vriendelijkheid, betrouwbaarheid en oprechtheid tegenover onsympathiek, onbetrouwbaar en oneerlijk omvat.",
+    "chapter": 12,
+    "additions": [
+      "De factor combineert elementen van Eerlijkheid-Bescheidenheid en de negatieve pool van Negatieve Valentie."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "ff2faa9b-9273-5829-85d1-81c4ad122a3a",
+    "term": {
+      "nl": "Competentie",
+      "en": "Competence"
+    },
+    "definition": "De Big-Eight-factor die probleemoplossing, vastberadenheid en bekwaamheid tegenover het vermijden van moeilijkheden omvat.",
+    "chapter": 12,
+    "additions": [
+      "De factor bevat kenmerken die elders onder Intellect of Positieve Valentie kunnen vallen."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "b9ece3b1-35f1-58c2-9f86-161b466043d2",
+    "term": {
+      "nl": "Mildheid",
+      "en": "Mildness"
+    },
+    "definition": "De Big-Eight-factor die bescheiden en geduldig gedrag tegenover veeleisend gedrag plaatst.",
+    "chapter": 12,
+    "additions": [
+      "Mildheid komt grotendeels overeen met de Big-Five-factor Vriendelijkheid."
+    ],
+    "importance": 3,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "9e4f2485-6828-5e31-8e39-3cdfc2284831",
+    "term": {
+      "nl": "Hedonisme",
+      "en": "Hedonism"
+    },
+    "definition": "De Big-Eight-factor die sensatiezoeken en feestgerichtheid tegenover soberheid en huiselijkheid plaatst.",
+    "chapter": 12,
+    "additions": [
+      "Deze factor is in het model relatief nieuw ten opzichte van Big Five, Big Six en Big Seven.",
+      "Hedonisme raakt inhoudelijk aan Sensatiezucht."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "bf430ac1-b46b-50bc-a79f-572362ff0d4d",
+    "term": {
+      "nl": "Volgzaamheid",
+      "en": "Compliance"
+    },
+    "definition": "De Big-Eight-factor die veilige, gehoorzame en conventionele keuzes tegenover creativiteit, rebellie en complexiteit plaatst.",
+    "chapter": 12,
+    "additions": [
+      "Een deel van de klassieke Intellectkenmerken komt in dit model bij Volgzaamheid terecht."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "dd6d5bda-237b-53d3-bdfd-d58ab5e44e9a",
+    "term": {
+      "nl": "Sensatiezucht",
+      "en": "Sensation Seeking"
+    },
+    "definition": "De biologisch gefundeerde neiging om gevarieerde, nieuwe, complexe en intense ervaringen en gevoelens te zoeken en daarvoor risico’s te nemen.",
+    "chapter": 12,
+    "additions": [
+      "Marvin Zuckerman onderscheidde vier facetten.",
+      "In het hoofdstuk wordt een erfelijkheidsinschatting van ongeveer 60% genoemd en hogere gemiddelden bij vooral jonge mannen."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "013f906e-55ae-54e7-a921-f960f3c528bd",
+    "term": {
+      "nl": "Thrill and Adventure Seeking",
+      "en": "Thrill and Adventure Seeking"
+    },
+    "definition": "Het facet van Sensatiezucht dat behoefte aan lichamelijk spannende of ongebruikelijke activiteiten beschrijft.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn parachutespringen en bungeejumpen."
+    ],
+    "importance": 3,
+    "type": "facet",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "d6079a9e-4040-5e65-9596-9ce90d8c4314",
+    "term": {
+      "nl": "Experience Seeking",
+      "en": "Experience Seeking"
+    },
+    "definition": "Het facet van Sensatiezucht dat het zoeken naar nieuwe sensorische en mentale ervaringen beschrijft.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn onconventionele personen ontmoeten, reizen of psychedelische ervaringen zoeken."
+    ],
+    "importance": 3,
+    "type": "facet",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "ace13223-0df9-5d2b-a63d-4f28f6428e22",
+    "term": {
+      "nl": "Disinhibition",
+      "en": "Disinhibition"
+    },
+    "definition": "Het facet van Sensatiezucht dat voorkeur voor wilde, ongeremde activiteiten beschrijft.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn wilde feesten, veel drinken en ongeremde seksuele activiteiten."
+    ],
+    "importance": 3,
+    "type": "facet",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "fb692841-9dab-548b-8499-2149fb0e587a",
+    "term": {
+      "nl": "Boredom Susceptibility",
+      "en": "Boredom Susceptibility"
+    },
+    "definition": "Het facet van Sensatiezucht dat aangeeft hoe slecht iemand herhaling, saaie mensen of routine verdraagt.",
+    "chapter": 12,
+    "additions": [
+      "Een hoge score gaat samen met onrust in weinig stimulerende situaties."
+    ],
+    "importance": 3,
+    "type": "facet",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "04f827f2-0279-529e-8217-bf61c65edaab",
+    "term": {
+      "nl": "Crossculturele factorvergelijking",
+      "en": "Cross-cultural factor comparison"
+    },
+    "definition": "Het systematisch vergelijken van factorstructuren uit verschillende talen en culturen om te bepalen welke dimensies werkelijk overeenkomen.",
+    "chapter": 12,
+    "additions": [
+      "Gelijke labels zijn onvoldoende; ook de onderliggende termen en statistische structuur moeten worden vergeleken.",
+      "De vergelijking kan leiden tot minder, maar cultureel robuustere factoren."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "8d807373-86e9-54ac-b4dc-e7c056ae074e",
+    "term": {
+      "nl": "Congruentiecoëfficiënt",
+      "en": "Congruence coefficient"
+    },
+    "definition": "Een statistische maat waarmee wordt beoordeeld hoe sterk twee factorpatronen uit verschillende onderzoeken op elkaar lijken.",
+    "chapter": 12,
+    "additions": [
+      "De waarde loopt van -1 tot +1.",
+      "Een waarde van ongeveer 0,90 of hoger wordt doorgaans als bewijs van sterke overeenkomst gezien."
+    ],
+    "importance": 4,
+    "type": "statistiek",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "fd035261-ef23-5dd3-a4be-2bfecaaab617",
+    "term": {
+      "nl": "Pancultureel driefactorenmodel",
+      "en": "Pancultural three-factor model"
+    },
+    "definition": "Een crosscultureel model waarin persoonlijkheid wordt samengevat door Dynamiek, Affiliatie en Orde.",
+    "chapter": 12,
+    "additions": [
+      "Deze drie factoren werden in veertien psycholexicale onderzoeken in verschillende talen relatief goed teruggevonden.",
+      "Het model is breder en cultureel robuuster dan een strikt vijf-factorenmodel."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "a1ad5bfa-1b7b-5472-b06f-b7b6ca13fedd",
+    "term": {
+      "nl": "Dynamiek",
+      "en": "Dynamism"
+    },
+    "definition": "De panculturele factor van gerichtheid op actie, veelzijdigheid, effectieve communicatie, ondernemerschap en zelfactualisatie.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn dynamisch, ondernemend en extravert tegenover teruggetrokken, timide en introvert.",
+      "De factor hangt vooral samen met Big-Five-Extraversie."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "e1712dd9-1f4c-5efb-9199-97697a0b46f0",
+    "term": {
+      "nl": "Affiliatie",
+      "en": "Affiliation"
+    },
+    "definition": "De panculturele factor van verbondenheid, intimiteit, vereniging en inbedding in een grotere sociale groep.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn vriendelijk, behulpzaam, sympathiek en medelevend tegenover egoïstisch, ruzieachtig, dominant en agressief.",
+      "De factor hangt vooral samen met Big-Five-Vriendelijkheid."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "bfcc0768-be39-528f-8919-b770828d990a",
+    "term": {
+      "nl": "Orde",
+      "en": "Order"
+    },
+    "definition": "De panculturele factor van orde, stabiliteit, regulering, precisie en het in evenwicht brengen van persoon en omgeving.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn grondig, gestructureerd, consistent en georganiseerd tegenover onsystematisch, rebels, lui, onlogisch en chaotisch.",
+      "De factor hangt vooral samen met Big-Five-Zorgvuldigheid."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "5005a7ef-ac83-55ce-a8be-5c268ba15e9f",
+    "term": {
+      "nl": "Pancultureel tweefactorenmodel",
+      "en": "Pancultural two-factor model"
+    },
+    "definition": "Een nog abstracter crosscultureel model waarin persoonlijkheid wordt samengevat door twee zeer brede dimensies.",
+    "chapter": 12,
+    "additions": [
+      "De factoren worden meestal Agency en Communion genoemd.",
+      "Het model wint culturele robuustheid, maar verliest specifieke inhoudelijke nuance."
+    ],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "301335f4-b26d-50fa-9e45-b8eb7c8e66f3",
+    "term": {
+      "nl": "Agency",
+      "en": "Agency"
+    },
+    "definition": "De hogere-ordefactor van zelfstandigheid, competentie, initiatief, persoonlijke groei, invloed en doelrealisatie.",
+    "chapter": 12,
+    "additions": [
+      "Agency vertoont sterke overeenkomst met Dynamiek.",
+      "Extraversie en Intellect hangen in sommige analyses samen met deze factor."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "d5085c66-5d82-5705-ac50-b5a8ba708b11",
+    "term": {
+      "nl": "Communion",
+      "en": "Communion"
+    },
+    "definition": "De hogere-ordefactor van verbondenheid, samenwerking, zorg, intimiteit en deel uitmaken van een sociale gemeenschap.",
+    "chapter": 12,
+    "additions": [
+      "Communion vertoont sterke overeenkomst met Affiliatie.",
+      "Vriendelijkheid, Zorgvuldigheid en Emotionele Stabiliteit hangen in sommige analyses samen met deze factor."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "0ea88bd5-cd18-55bf-8ae0-4ece1cbddef3",
+    "term": {
+      "nl": "Alfa-factor",
+      "en": "Alpha higher-order factor"
+    },
+    "definition": "Een hogere-ordefactor die Vriendelijkheid, Zorgvuldigheid en Emotionele Stabiliteit samenbrengt en vaak als Socialisatie wordt geïnterpreteerd.",
+    "chapter": 12,
+    "additions": [
+      "De factor werd door Digman gevonden via tweede-orde factoranalyse van Big-Five-factoren.",
+      "Ze vertoont inhoudelijke overeenkomst met Communion."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "6aef2c90-c034-56de-b29d-d35638a8de71",
+    "term": {
+      "nl": "Bèta-factor",
+      "en": "Beta higher-order factor"
+    },
+    "definition": "Een hogere-ordefactor die Extraversie en Intellect of Openheid samenbrengt en vaak als Persoonlijke Groei wordt geïnterpreteerd.",
+    "chapter": 12,
+    "additions": [
+      "De factor werd door Digman gevonden via tweede-orde factoranalyse.",
+      "Ze vertoont inhoudelijke overeenkomst met Agency."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "9c592f42-2e7d-5e8f-8c05-906156a5f14d",
+    "term": {
+      "nl": "Hiërarchische persoonlijkheidsstructuur",
+      "en": "Hierarchical personality structure"
+    },
+    "definition": "Een ordening waarin concrete gedragingen worden samengebracht in steeds bredere eigenschappen en hogere-ordefactoren.",
+    "chapter": 12,
+    "additions": [
+      "Lager in de hiërarchie staat meer specifieke informatie; hoger staan bredere en abstractere dimensies.",
+      "Big Five, drie- en tweefactorenmodellen kunnen als verschillende niveaus van één hiërarchie worden weergegeven."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "3b778938-94ca-5b4b-a095-7e7b4e07ab2d",
+    "term": {
+      "nl": "Hogere-ordefactor",
+      "en": "Higher-order factor"
+    },
+    "definition": "Een brede factor die samenhang tussen meerdere onderliggende, specifiekere factoren samenvat.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn Agency, Communion, Alfa en Bèta.",
+      "Hogere-ordefactoren zijn abstracter en bevatten minder detail."
+    ],
+    "importance": 4,
+    "type": "statistiek",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "f086ecb8-64d5-5291-b553-0bf1d8563fde",
+    "term": {
+      "nl": "Lagere-ordetrek",
+      "en": "Lower-order trait"
+    },
+    "definition": "Een relatief specifieke eigenschap of gedragscluster onder een bredere persoonlijkheidsfactor.",
+    "chapter": 12,
+    "additions": [
+      "Sociabiliteit en impulsiviteit kunnen bijvoorbeeld onder Extraversie worden geplaatst.",
+      "Lagere-ordetrekken bieden meer inhoudelijke precisie dan brede factoren."
+    ],
+    "importance": 4,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "7605433c-7608-5984-8bf6-7c0f5ced6370",
+    "term": {
+      "nl": "Hiërarchie van specifiek gedrag tot type",
+      "en": "Hierarchy from specific behavior to type"
+    },
+    "definition": "Eysencks ordening van specifieke gedragingen via habituële reacties en eigenschappen naar zeer brede typen of supertrekken.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeeld: een grap vertellen en met anderen lachen vormen habituële sociabiliteit; sociabiliteit en impulsiviteit vallen onder Extraversie.",
+      "De structuur laat zien hoe brede factoren uit terugkerende gedragingen worden opgebouwd."
+    ],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "bcb1f106-c17a-5077-875a-b8215e75bff3",
+    "term": {
+      "nl": "PEN-model",
+      "en": "PEN model"
+    },
+    "definition": "Eysencks hiërarchische persoonlijkheidsmodel met de supertrekken Psychoticisme, Extraversie en Neuroticisme.",
+    "chapter": 12,
+    "additions": [
+      "Eysenck koppelde de drie dimensies aan biologische processen.",
+      "Het model is theoretischer en biologischer geformuleerd dan de vooral beschrijvende Big Five."
+    ],
+    "importance": 3,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "f4d54f58-4f1b-53a6-b751-e83cb0c8d56f",
+    "term": {
+      "nl": "Psychoticisme",
+      "en": "Psychoticism"
+    },
+    "definition": "De PEN-dimensie die volgens Eysenck samenhangt met agressiviteit, kilheid, impulsiviteit en verlies van realiteitszin.",
+    "chapter": 12,
+    "additions": [
+      "Eysenck koppelde Psychoticisme onder meer aan testosteron, maar deze verklaring is sterk omstreden.",
+      "De term verwijst naar een continuüm en niet rechtstreeks naar een psychotische stoornis."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "dd82d303-b0b8-59d3-b2be-3fff906a7ef9",
+    "term": {
+      "nl": "Corticale arousal",
+      "en": "Cortical arousal"
+    },
+    "definition": "De algemene activatiegraad van de hersenschors die Eysenck gebruikte om verschillen in Extraversie te verklaren.",
+    "chapter": 12,
+    "additions": [
+      "Introverten zouden chronisch sterker geactiveerd zijn en daarom minder externe prikkels nodig hebben.",
+      "Extraverten zouden chronisch lager geactiveerd zijn en meer stimulatie zoeken."
+    ],
+    "importance": 3,
+    "type": "biologisch begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "53424179-7220-53e1-926a-21e811d55d1d",
+    "term": {
+      "nl": "Activeringsdrempel",
+      "en": "Activation threshold"
+    },
+    "definition": "De hoeveelheid stimulatie die nodig is voordat een biologisch systeem sterk reageert.",
+    "chapter": 12,
+    "additions": [
+      "Eysenck koppelde een lage drempel in het limbische of sympathische systeem aan sneller negatieve emoties en hoog Neuroticisme.",
+      "Emotioneel stabiele personen zouden een hogere drempel hebben."
+    ],
+    "importance": 3,
+    "type": "biologisch begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "24809958-9442-5e47-8dc9-b6026213849b",
+    "term": {
+      "nl": "Gray’s biopsychologische persoonlijkheidstheorie",
+      "en": "Gray’s biopsychological personality theory"
+    },
+    "definition": "Een theorie die persoonlijkheidsverschillen verklaart vanuit gevoeligheid van hersensystemen voor beloning en straf.",
+    "chapter": 12,
+    "additions": [
+      "Gray onderscheidde vooral het Behavioral Activation System en Behavioral Inhibition System.",
+      "Zijn dimensies kunnen worden gezien als een rotatie van Eysencks Extraversie- en Neuroticismeassen."
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "1d9d2024-377a-5561-8e07-ee6dc08c0fa8",
+    "term": {
+      "nl": "Behavioral Activation System",
+      "en": "Behavioral Activation System (BAS)"
+    },
+    "definition": "Het systeem dat gevoeligheid voor beloning en motivatie om gewenste doelen te benaderen regelt.",
+    "chapter": 12,
+    "additions": [
+      "Een reactief BAS hangt samen met approach-motivatie, impulsiviteit en beloningsgericht gedrag.",
+      "In het circumplex ligt BAS tussen Extraversie en Neuroticisme."
+    ],
+    "importance": 3,
+    "type": "biologisch begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "af1f1cc2-1461-562a-b8aa-974f8e169822",
+    "term": {
+      "nl": "Behavioral Inhibition System",
+      "en": "Behavioral Inhibition System (BIS)"
+    },
+    "definition": "Het systeem dat gevoeligheid voor straf, conflict, bedreiging en gedragsremming regelt.",
+    "chapter": 12,
+    "additions": [
+      "Een reactief BIS hangt samen met angst en avoidance-motivatie.",
+      "In het circumplex ligt BIS tussen Introversie en Neuroticisme."
+    ],
+    "importance": 3,
+    "type": "biologisch begrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "40f9e1e3-a400-551f-ae04-e0ba46cfd833",
+    "term": {
+      "nl": "Approach-motivatie",
+      "en": "Approach motivation"
+    },
+    "definition": "De neiging om beloningen, uitdagingen en gewenste doelen actief te benaderen.",
+    "chapter": 12,
+    "additions": [
+      "Gray koppelde approach-motivatie aan een gevoelig Behavioral Activation System.",
+      "De neiging vertoont overlap met impulsiviteit en Extraversie."
+    ],
+    "importance": 3,
+    "type": "motivatiebegrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "1cbd3e02-ba79-53c0-813a-2b4ad367b81f",
+    "term": {
+      "nl": "Avoidance-motivatie",
+      "en": "Avoidance motivation"
+    },
+    "definition": "De neiging om straf, bedreiging, negatieve ervaringen en risicovolle situaties te vermijden.",
+    "chapter": 12,
+    "additions": [
+      "Gray koppelde avoidance-motivatie aan een gevoelig Behavioral Inhibition System.",
+      "De neiging vertoont overlap met angst, Neuroticisme en Introversie."
+    ],
+    "importance": 3,
+    "type": "motivatiebegrip",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "f68fc556-ecc3-5448-876d-6962bbac3b07",
+    "term": {
+      "nl": "Circumplex",
+      "en": "Circumplex"
+    },
+    "definition": "Een cirkelmodel waarin eigenschappen worden geplaatst als combinaties van twee onderliggende dimensies.",
+    "chapter": 12,
+    "additions": [
+      "Nabijgelegen eigenschappen lijken op elkaar; tegenoverliggende eigenschappen zijn tegengesteld.",
+      "Het hoofdstuk gebruikt een circumplex om Gray’s BAS en BIS te verbinden met Eysencks Extraversie en Neuroticisme."
+    ],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "cfd7c3a7-444c-5802-b38c-7c9391d90d5d",
+    "term": {
+      "nl": "Rotatie van persoonlijkheidsassen",
+      "en": "Rotation of personality axes"
+    },
+    "definition": "Het idee dat Gray grotendeels hetzelfde eigenschapsgebied als Eysenck beschrijft, maar met anders georiënteerde dimensies.",
+    "chapter": 12,
+    "additions": [
+      "BAS en BIS liggen schuin ten opzichte van de horizontale Extraversie-as en verticale Neuroticisme-as.",
+      "Een ander assenstelsel kan dezelfde data anders en soms betekenisvoller samenvatten."
+    ],
+    "importance": 3,
+    "type": "statistiek",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "6fd9542f-bf80-51a0-806d-e7c9e2730eea",
+    "term": {
+      "nl": "Beschrijvende beperking van psycholexicale modellen",
+      "en": "Descriptive limitation of psycholexical models"
+    },
+    "definition": "De kritiek dat psycholexicale factoren vooral laten zien welke kenmerken samen voorkomen, maar niet verklaren waarom die persoonlijkheidsverschillen ontstaan.",
+    "chapter": 12,
+    "additions": [
+      "Factoranalyse beschrijft structuur en levert niet automatisch een causale theorie.",
+      "Biologische of procesmodellen zijn nodig voor verklaringen van mechanismen."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "346b49c9-7f88-5010-8a95-ebe9b9917e0a",
+    "term": {
+      "nl": "Breedte-detailtrade-off",
+      "en": "Breadth-detail trade-off"
+    },
+    "definition": "De afweging tussen een klein aantal brede, overzichtelijke factoren en een groter aantal specifiekere, inhoudelijk preciezere factoren.",
+    "chapter": 12,
+    "additions": [
+      "Twee of drie factoren zijn cultureel robuuster maar weinig gedetailleerd.",
+      "Zes, zeven of acht factoren bieden meer nuance, maar kunnen minder stabiel of universeel zijn."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  },
+  {
+    "id": "99ef7069-3d07-50ee-8141-70e3a5eb70e8",
+    "term": {
+      "nl": "Grenzen van psycholexicale modellen",
+      "en": "Limits of psycholexical models"
+    },
+    "definition": "De verzameling beperkingen die voortkomen uit woordselectie, woordsoort, taal, cultuur, zelf- versus anderbeoordeling en interpretatie van factoren.",
+    "chapter": 12,
+    "additions": [
+      "Een gevonden factorstructuur hangt mede af van methodologische keuzes.",
+      "Geen enkel aantal factoren is automatisch de enige ware beschrijving van persoonlijkheid."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_03_alternatieven_en_hierarchie.json"
+  }
+]

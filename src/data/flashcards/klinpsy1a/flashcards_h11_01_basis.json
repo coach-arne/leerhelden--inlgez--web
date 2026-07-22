@@ -1,0 +1,545 @@
+[
+  {
+    "id": "429bac87-0d10-4fe5-8001-adb1122f7033",
+    "term": {
+      "nl": "Persoonlijkheidstrek",
+      "en": "Personality trait"
+    },
+    "definition": "Een relatief stabiel patroon in gevoelens, gedachten en gedrag waardoor iemand zich gemiddeld op een kenmerkende manier gedraagt.",
+    "chapter": 11,
+    "additions": [
+      "Een trek vertoont regelmaat over tijd en over meerdere situaties, maar hoeft niet in elke situatie identiek tot uiting te komen.",
+      "Trekken verschillen in sterkte tussen personen."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "1dca5948-baac-43ba-9490-ffe584c70cff",
+    "term": {
+      "nl": "Trekterm",
+      "en": "Trait term"
+    },
+    "definition": "Een woord waarmee een typische stijl van ervaren of handelen wordt beschreven, zoals vriendelijk, slordig, loyaal of extravert.",
+    "chapter": 11,
+    "additions": [
+      "Trektermen sluiten aan bij de alledaagse manier waarop mensen over persoonlijkheid spreken."
+    ],
+    "importance": 3,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "23b56bb7-d78b-40c8-9b35-6067a24e0178",
+    "term": {
+      "nl": "Consistentie",
+      "en": "Consistency"
+    },
+    "definition": "Het kenmerk van een trek dat verwijst naar regelmaat in gedrag, gevoelens of gedachten over tijd en binnen passende soorten situaties.",
+    "chapter": 11,
+    "additions": [
+      "Consistentie betekent niet dat iemand zich in elke context exact hetzelfde gedraagt.",
+      "Een sociaal persoon zal vooral sociaal gedrag tonen in situaties waarin sociaal contact mogelijk en passend is."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "59c53e05-68b0-43a6-96dd-ec4b9f1b5ed0",
+    "term": {
+      "nl": "Onderscheidend vermogen",
+      "en": "Distinctiveness"
+    },
+    "definition": "Het kenmerk van een trek dat aangeeft dat mensen op die eigenschap betekenisvol van elkaar verschillen.",
+    "chapter": 11,
+    "additions": [
+      "Algemeen-menselijke vermogens die vrijwel iedereen bezit, zoals taal kunnen gebruiken, gelden daarom niet als persoonlijkheidstrek."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "56e5b92f-9ea1-4d31-b6ef-bf0ea8847221",
+    "term": {
+      "nl": "Dispositie",
+      "en": "Disposition"
+    },
+    "definition": "Een brede geneigdheid of predispositie om op een bepaalde manier te voelen, denken of handelen.",
+    "chapter": 11,
+    "additions": [
+      "Persoonlijkheidstrekken worden daarom ook dispositionele constructen genoemd."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "831505f1-d8bb-4637-9774-26eae0d8ff6a",
+    "term": {
+      "nl": "Gemiddelde gedragsstijl",
+      "en": "Average behavioral style"
+    },
+    "definition": "De typische of gemiddelde manier waarop iemand zich over verschillende momenten en situaties heen gedraagt.",
+    "chapter": 11,
+    "additions": [
+      "Trektheorie verklaart persoonlijkheid vooral vanuit deze gemiddelde stijl, niet vanuit één afzonderlijke gedraging."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "8838c5ce-0be5-4f6f-b418-71156d0fe6a0",
+    "term": {
+      "nl": "Stabiele persoonlijkheidskern",
+      "en": "Stable personality core"
+    },
+    "definition": "De veronderstelling dat duurzame psychologische kenmerken blijven bestaan ondanks veranderingen in rollen, relaties, werk of woonomgeving.",
+    "chapter": 11,
+    "additions": [
+      "Situaties beïnvloeden gedrag, maar wissen volgens de trektheorie de onderliggende persoonlijkheidskern niet uit."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "2bca9b3d-d389-4c1e-8fdb-dc5c4380a8d4",
+    "term": {
+      "nl": "Trek-situatie-interactie",
+      "en": "Trait-situation interaction"
+    },
+    "definition": "Het uitgangspunt dat gedrag voortkomt uit zowel relatief stabiele trekken als kenmerken van de actuele situatie.",
+    "chapter": 11,
+    "additions": [
+      "Een agressief persoon kan zich rustig gedragen wanneer de situatie zelfbeheersing sterk vereist.",
+      "Trektheoretici erkennen dus situationele variatie zonder stabiliteit volledig te ontkennen."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "0b94669a-9776-45fb-b7d6-9b54418d658f",
+    "term": {
+      "nl": "Trekkentheorie",
+      "en": "Trait theory"
+    },
+    "definition": "Een familie van persoonlijkheidsbenaderingen waarin brede, relatief stabiele trekken de centrale bouwstenen van persoonlijkheid vormen.",
+    "chapter": 11,
+    "additions": [
+      "Er bestaat niet één enkele trektheorie; Allport, Cattell en Eysenck leggen verschillende accenten.",
+      "De benadering hecht veel belang aan objectieve meting en classificatie van individuele verschillen."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "efada362-61a9-4b03-9c48-b56b0dcc1009",
+    "term": {
+      "nl": "Kernvragen van de trektheorie",
+      "en": "Core questions of trait theory"
+    },
+    "definition": "Vragen naar welke en hoeveel trekken nodig zijn om individuele verschillen te beschrijven, of trekken universeel of uniek zijn, en hoe stabiliteit samengaat met situationele variatie.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "eaffa7c4-d4a8-4521-932c-0b550b77934f",
+    "term": {
+      "nl": "Meting als fundament",
+      "en": "Measurement as a foundation"
+    },
+    "definition": "Het uitgangspunt dat een persoonlijkheidsstructuur pas wetenschappelijk aanvaardbaar is wanneer trekken betrouwbaar en valide gemeten kunnen worden.",
+    "chapter": 11,
+    "additions": [
+      "Trektheoretici wilden persoonlijkheidstheorie baseren op gegevens in plaats van uitsluitend op klinische intuïtie of speculatie."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "9393c8f8-8e3d-4842-9080-1cfaa1d9f9d4",
+    "term": {
+      "nl": "Betrouwbaarheid",
+      "en": "Reliability"
+    },
+    "definition": "De mate waarin een meetinstrument consistente en reproduceerbare resultaten oplevert.",
+    "chapter": 11,
+    "additions": [
+      "Binnen trektheorie is betrouwbare meting een voorwaarde voor theorievorming."
+    ],
+    "importance": 3,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "ab3f7797-3915-433d-9870-0a66a9df9d10",
+    "term": {
+      "nl": "Validiteit",
+      "en": "Validity"
+    },
+    "definition": "De mate waarin een meetinstrument daadwerkelijk het bedoelde persoonlijkheidskenmerk meet.",
+    "chapter": 11,
+    "additions": [
+      "Trektheoretici benadrukken dat meting zowel betrouwbaar als valide moet zijn."
+    ],
+    "importance": 3,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "c7f2d432-74e9-450b-b31f-750fbe891954",
+    "term": {
+      "nl": "Correlationeel bewijs",
+      "en": "Correlational evidence"
+    },
+    "definition": "Bewijs gebaseerd op samenhang tussen trekken, testresultaten en gedragingen of levensuitkomsten.",
+    "chapter": 11,
+    "additions": [
+      "Historisch gebruikte trektheorie vaker correlaties dan experimenten.",
+      "Een correlatie toont samenhang, maar bewijst op zichzelf geen causaliteit."
+    ],
+    "importance": 4,
+    "type": "onderzoek",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "b6365c6b-5ef7-4bd0-9f60-8bfdc93879ff",
+    "term": {
+      "nl": "Veranderbaarheid van trekken",
+      "en": "Trait change"
+    },
+    "definition": "Het inzicht dat persoonlijkheidstrekken relatief stabiel maar niet volledig onveranderlijk zijn en over de levensloop kunnen ontwikkelen.",
+    "chapter": 11,
+    "additions": [
+      "Erkenning van trekverandering opent ruimte voor longitudinaal en experimenteel onderzoek."
+    ],
+    "importance": 3,
+    "type": "theorie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "ada26944-add7-4016-b016-2091f07e6a15",
+    "term": {
+      "nl": "Beschrijvende functie",
+      "en": "Descriptive function"
+    },
+    "definition": "De functie van trekken om samen te vatten hoe iemand zich gemiddeld gedraagt, voelt en denkt.",
+    "chapter": 11,
+    "additions": [
+      "Beschrijving is de meest algemeen aanvaarde wetenschappelijke functie van trekconstructen."
+    ],
+    "importance": 5,
+    "type": "functie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "3f1e0242-2fca-49f7-9e31-bd12cd0a8f1e",
+    "term": {
+      "nl": "Persoonlijkheidstaxonomie",
+      "en": "Personality taxonomy"
+    },
+    "definition": "Een systematisch classificatiesysteem waarmee personen worden beschreven aan de hand van een overzichtelijke set persoonlijkheidstrekken.",
+    "chapter": 11,
+    "additions": [
+      "Veel trekkentheoretici zochten een universele taxonomie die op iedereen kan worden toegepast."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "0e9394ce-cf33-44fb-9d85-cf0befad0490",
+    "term": {
+      "nl": "Voorspellende functie",
+      "en": "Predictive function"
+    },
+    "definition": "De functie van trekken om waarschijnlijke toekomstige gedragingen en levensuitkomsten te voorspellen.",
+    "chapter": 11,
+    "additions": [
+      "Trekken kunnen onder meer samenhangen met studie- en werkprestaties, gezondheid, relaties en voorkeursomgevingen."
+    ],
+    "importance": 5,
+    "type": "functie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "a31e7bb6-ca7a-4c21-b5af-b4fbba1748d6",
+    "term": {
+      "nl": "Verklarende functie",
+      "en": "Explanatory function"
+    },
+    "definition": "De omstreden functie waarbij een trek wordt gebruikt om te verklaren waarom iemand bepaald gedrag vertoont.",
+    "chapter": 11,
+    "additions": [
+      "Een treknaam mag niet enkel het waargenomen gedrag herhalen; voor een echte verklaring is een aanvullend mechanisme nodig.",
+      "Biologische systemen werden door sommige trekkentheoretici als mogelijke verklarende mechanismen gezien."
+    ],
+    "importance": 5,
+    "type": "functie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "a0c13d3d-19bb-4fee-8b3e-5d3e434ea558",
+    "term": {
+      "nl": "Voorspelling versus verklaring",
+      "en": "Prediction versus explanation"
+    },
+    "definition": "Voorspellen betekent aangeven wat waarschijnlijk zal gebeuren; verklaren betekent aangeven door welk mechanisme of proces het gebeurt.",
+    "chapter": 11,
+    "additions": [
+      "Een model kan gedrag goed voorspellen zonder de oorzaak ervan te verklaren."
+    ],
+    "importance": 4,
+    "type": "vergelijking",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "b87a8aec-bb69-4412-8162-ee5cce4d422a",
+    "term": {
+      "nl": "Biologische basis van trekken",
+      "en": "Biological basis of traits"
+    },
+    "definition": "De veronderstelling dat individuele verschillen in trekken mede samenhangen met erfelijke, neurologische of biochemische systemen.",
+    "chapter": 11,
+    "additions": [
+      "Een biologische bijdrage betekent niet dat gedrag volledig genetisch vastligt."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "c3276155-24e9-4e67-bfcc-df81198ed27f",
+    "term": {
+      "nl": "Correspondentie tussen gedrag en trek",
+      "en": "Trait-behavior correspondence"
+    },
+    "definition": "De aanname dat frequent trekgerelateerd gedrag overeenkomt met een hogere positie op de betreffende trek.",
+    "chapter": 11,
+    "additions": [
+      "Wie vaak angstig reageert, wordt bijvoorbeeld hoger op de trek angst geplaatst.",
+      "Andere persoonlijkheidstheorieën waarschuwen dat zichtbaar gedrag niet altijd de onderliggende motivatie weerspiegelt."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "dec62a49-442e-4f02-a521-c5d1f94fe6da",
+    "term": {
+      "nl": "Hiërarchische ordening van persoonlijkheid",
+      "en": "Hierarchical organization of personality"
+    },
+    "definition": "Een ordening waarin specifieke gedragingen samen gewoonten vormen, gewoonten samen trekken vormen en trekken in hogere-orde factoren kunnen worden gegroepeerd.",
+    "chapter": 11,
+    "additions": [
+      "Eysenck gebruikte deze hiërarchie om brede dimensies zoals extraversie te structureren."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "dbd6c6c3-e651-4e96-bf53-93db697ee542",
+    "term": {
+      "nl": "Specifieke respons",
+      "en": "Specific response"
+    },
+    "definition": "Een afzonderlijke concrete gedraging in een bepaalde situatie, het laagste niveau in Eysencks persoonlijkheidshiërarchie.",
+    "chapter": 11,
+    "additions": [
+      "Meerdere vergelijkbare specifieke responsen kunnen samen een habituële respons vormen."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "0c0e235c-4f24-4af8-a259-2caec8e9f298",
+    "term": {
+      "nl": "Habituële respons",
+      "en": "Habitual response"
+    },
+    "definition": "Een terugkerend gedragspatroon dat uit meerdere vergelijkbare specifieke responsen bestaat.",
+    "chapter": 11,
+    "additions": [
+      "Meerdere samenhangende gewoonten kunnen samen een persoonlijkheidstrek vormen."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "bc97a031-2a42-4825-aecc-3be5f08c478f",
+    "term": {
+      "nl": "Trekniveau",
+      "en": "Trait level"
+    },
+    "definition": "Het hiërarchische niveau waarop samenhangende gewoonten worden samengevat als een bredere persoonlijkheidstrek.",
+    "chapter": 11,
+    "additions": [
+      "Sociabiliteit, levendigheid, activiteit, assertiviteit en sensatiezoeken kunnen bijvoorbeeld onder extraversie vallen."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "e69ba648-4864-4855-83c7-6c2b5202196e",
+    "term": {
+      "nl": "Hogere-orde factor",
+      "en": "Higher-order factor"
+    },
+    "definition": "Een brede dimensie die meerdere onderliggende trekken samenvat.",
+    "chapter": 11,
+    "additions": [
+      "Bij Eysenck worden factoren op het hoogste generalisatieniveau superfactoren genoemd."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "bcb66f42-0ceb-402f-80e7-083039b4389d",
+    "term": {
+      "nl": "Factoranalyse",
+      "en": "Factor analysis"
+    },
+    "definition": "Een statistische techniek die patronen van samenhang tussen veel variabelen reduceert tot een kleiner aantal onderliggende factoren.",
+    "chapter": 11,
+    "additions": [
+      "De methode identificeert clusters van items die positief of negatief met elkaar correleren.",
+      "Cattell en Eysenck gebruikten factoranalyse om basisdimensies van persoonlijkheid te vinden."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "4369d540-811c-4fb2-beb0-125df3b4bfb0",
+    "term": {
+      "nl": "Positieve correlatie",
+      "en": "Positive correlation"
+    },
+    "definition": "Een samenhang waarbij hoge antwoorden op het ene item doorgaans samengaan met hoge antwoorden op een ander item.",
+    "chapter": 11,
+    "additions": [
+      "Items over graag naar feestjes gaan en graag in grote groepen zijn kunnen positief correleren."
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "a4b80fac-61d4-4f4a-b008-9a5fd3bd353a",
+    "term": {
+      "nl": "Negatieve correlatie",
+      "en": "Negative correlation"
+    },
+    "definition": "Een samenhang waarbij een hoge score op het ene item doorgaans samengaat met een lage score op een ander item.",
+    "chapter": 11,
+    "additions": [
+      "Graag thuisblijven kan negatief correleren met items over drukke feestjes of grote groepen."
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "b708bc94-eebd-4803-9c35-32b7f3108cbe",
+    "term": {
+      "nl": "Factor",
+      "en": "Factor"
+    },
+    "definition": "Een wiskundige dimensie die de gedeelde samenhang binnen een cluster van variabelen samenvat.",
+    "chapter": 11,
+    "additions": [
+      "De factor zelf is statistisch; de psychologische betekenis en naam worden door onderzoekers toegekend."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "cf7df9eb-222c-4356-b3aa-7bd8a9c5e77e",
+    "term": {
+      "nl": "Psychologisch label van een factor",
+      "en": "Psychological factor label"
+    },
+    "definition": "De inhoudelijke naam die onderzoekers aan een wiskundige factor geven op basis van de gemeenschappelijke betekenis van de items.",
+    "chapter": 11,
+    "additions": [
+      "Een cluster van items over drukte en groepen kan bijvoorbeeld 'sociabiliteit' of 'extraversie' worden genoemd.",
+      "Verschillende theoretici kunnen dezelfde factor verschillend interpreteren."
+    ],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "7f4042c0-50ce-4cf1-b67d-ee8cb51474c0",
+    "term": {
+      "nl": "Stappen van factoranalyse",
+      "en": "Steps in factor analysis"
+    },
+    "definition": "Veel items worden bij een grote groep afgenomen, correlaties worden berekend, samenhangende items worden geclusterd en de gevonden factoren krijgen een psychologische interpretatie.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "78d2e1a0-985b-4a68-af17-62f0f14842ef",
+    "term": {
+      "nl": "Voordeel van factoranalyse",
+      "en": "Advantage of factor analysis"
+    },
+    "definition": "Factoranalyse biedt een systematische, datagedreven manier om complexe patronen te reduceren en is minder afhankelijk van louter klinische intuïtie.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 4,
+    "type": "methode",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "1464e9f6-8cea-4d22-b6aa-efb6393226ff",
+    "term": {
+      "nl": "Factoranalyse bewijst geen causaliteit",
+      "en": "Factor analysis does not establish causality"
+    },
+    "definition": "Factoranalyse laat zien dát variabelen samenhangen, maar niet waarom die samenhang bestaat of welk mechanisme haar veroorzaakt.",
+    "chapter": 11,
+    "additions": [
+      "Een factor is daarom niet automatisch een causale verklaring voor gedrag."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  },
+  {
+    "id": "1f2a9c29-fb27-48bd-b778-d2f392f16bf6",
+    "term": {
+      "nl": "Subjectieve keuzes bij factoranalyse",
+      "en": "Subjective choices in factor analysis"
+    },
+    "definition": "Beslissingen over items, analysetechniek, aantal factoren en interpretatie beïnvloeden welke persoonlijkheidsstructuur wordt gevonden.",
+    "chapter": 11,
+    "additions": [
+      "Hierdoor kunnen verschillende onderzoekers met vergelijkbare gegevens tot verschillende modellen komen."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h11_01_basis_en_factoranalyse.json"
+  }
+]

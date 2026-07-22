@@ -1,0 +1,602 @@
+[
+  {
+    "id": "78c3af06-e243-5f86-ae11-a603577b0438",
+    "term": {
+      "nl": "Norman-5",
+      "en": "Norman Five"
+    },
+    "definition": "De vroege vijffactorenstructuur van persoonlijkheidsbeschrijvende termen die later bekend werd als de Big Five.",
+    "chapter": 12,
+    "additions": [
+      "De factoren zijn Extraversie, Vriendelijkheid, Zorgvuldigheid, Emotionele Stabiliteit en Intellect.",
+      "De naam verwijst naar de factorstructuur die Warren Norman in 1963 bevestigde."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "90a6ea58-cd73-538c-99b1-a5fd5a5a0b20",
+    "term": {
+      "nl": "Donald Fiske",
+      "en": "Donald Fiske"
+    },
+    "definition": "Onderzoeker die in 1949 als eerste een persoonlijkheidsstructuur met vijf factoren ontdekte in gegevens die eerder door Cattell waren gebruikt.",
+    "chapter": 12,
+    "additions": [
+      "Zijn bevinding was een vroege voorloper van de Norman-5 en de Big Five."
+    ],
+    "importance": 3,
+    "type": "persoon",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "5bb65e99-8fc6-521b-af47-3c56fbbd872b",
+    "term": {
+      "nl": "Tupes en Christal",
+      "en": "Tupes and Christal"
+    },
+    "definition": "Onderzoekers die in 1961 een vijffactorenstructuur opnieuw bevestigden in nieuwe datasets.",
+    "chapter": 12,
+    "additions": [
+      "Hun werk ondersteunde dat Cattells twaalf of zestien factoren konden worden samengevat tot vijf bredere factoren."
+    ],
+    "importance": 3,
+    "type": "personen",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "4f8abb58-cad5-5fc3-8992-d5e95128192d",
+    "term": {
+      "nl": "Warren Norman",
+      "en": "Warren Norman"
+    },
+    "definition": "Onderzoeker die in 1963 de vijffactorenstructuur opnieuw bevestigde, waarna deze vaak de Norman-5 werd genoemd.",
+    "chapter": 12,
+    "additions": [
+      "Zijn taxonomie vormde een directe historische basis voor het latere Big-Five-model."
+    ],
+    "importance": 3,
+    "type": "persoon",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "92dd185a-80e8-549e-876b-bf8e39d87e4c",
+    "term": {
+      "nl": "Lewis Goldberg",
+      "en": "Lewis Goldberg"
+    },
+    "definition": "Onderzoeker die de benaming Big Five introduceerde en de vijffactorenstructuur in Engels psycholexicaal onderzoek verder bevestigde.",
+    "chapter": 12,
+    "additions": [
+      "Big verwijst naar de brede reikwijdte van de factoren, niet naar vijf persoonlijkheidstypen.",
+      "Goldbergs factoren waren Extraversie, Vriendelijkheid, Zorgvuldigheid, Emotionele Stabiliteit en Intellect."
+    ],
+    "importance": 4,
+    "type": "persoon",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "745d2d9d-d3e8-517c-bc3c-c3bbf4c2bd07",
+    "term": {
+      "nl": "Big Five",
+      "en": "Big Five"
+    },
+    "definition": "Een psycholexicale taxonomie die persoonlijkheidsverschillen samenvat in vijf brede, continue dimensies.",
+    "chapter": 12,
+    "additions": [
+      "De klassieke psycholexicale factoren zijn Extraversie, Vriendelijkheid, Zorgvuldigheid, Emotionele Stabiliteit en Intellect.",
+      "Het model is vooral beschrijvend en vormt op zichzelf geen volledige verklaring van persoonlijkheid."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "457a3ac7-d393-5ec2-8e1b-f64f4a370cd6",
+    "term": {
+      "nl": "Dimensioneel persoonlijkheidsmodel",
+      "en": "Dimensional personality model"
+    },
+    "definition": "Een model waarin iedere persoon een positie of score heeft op continue persoonlijkheidsdimensies, in plaats van tot één vast type te behoren.",
+    "chapter": 12,
+    "additions": [
+      "Iedereen heeft een score op elk van de vijf Big-Five-factoren.",
+      "De hoge en lage pool zijn uiteinden van een continuüm."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "bfce4108-7702-50f1-9bf5-b85a9810d387",
+    "term": {
+      "nl": "Persoonlijkheidsprofiel",
+      "en": "Personality profile"
+    },
+    "definition": "Het patroon van iemands scores over meerdere persoonlijkheidsfactoren.",
+    "chapter": 12,
+    "additions": [
+      "Een profiel geeft een completer beeld dan één factor of één type.",
+      "Twee mensen met dezelfde score op Extraversie kunnen op de overige factoren sterk verschillen."
+    ],
+    "importance": 4,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "a3a991cf-9437-50e9-a285-6eb1bd17e547",
+    "term": {
+      "nl": "Extraversie",
+      "en": "Extraversion"
+    },
+    "definition": "De brede factor die sociabiliteit, spraakzaamheid, activiteit, openheid in contact en avontuurlijkheid omvat.",
+    "chapter": 12,
+    "additions": [
+      "Hoge pool in de Norman-5: spraakzaam, sociaal, avontuurlijk en open.",
+      "Lage pool: zwijgzaam, teruggetrokken, niet-avontuurlijk en geheimzinnig."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "a30dcb0a-ff5c-529e-abfc-f765e180d76e",
+    "term": {
+      "nl": "Vriendelijkheid",
+      "en": "Agreeableness"
+    },
+    "definition": "De brede factor die goedaardigheid, samenwerking, mildheid en weinig vijandigheid of jaloezie omvat.",
+    "chapter": 12,
+    "additions": [
+      "Hoge pool: goedaardig, coöperatief, mild en niet jaloers.",
+      "Lage pool: prikkelbaar, negatief, koppig en jaloers."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "9301d39f-e606-5522-913b-9b380bba0378",
+    "term": {
+      "nl": "Zorgvuldigheid",
+      "en": "Conscientiousness"
+    },
+    "definition": "De brede factor die verantwoordelijkheid, gewetensvolheid, volharding, ordelijkheid en doelgerichtheid omvat.",
+    "chapter": 12,
+    "additions": [
+      "Hoge pool: verantwoordelijk, gewetensvol, volhardend en netjes.",
+      "Lage pool: onbetrouwbaar, gewetenloos, geeft snel op en is onverschillig."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "b10cb4e0-7b33-5b05-b074-ebbd4e13545b",
+    "term": {
+      "nl": "Emotionele stabiliteit",
+      "en": "Emotional Stability"
+    },
+    "definition": "De brede factor die aangeeft in welke mate iemand kalm, beheerst en evenwichtig blijft en weinig negatieve emotionele ontregeling ervaart.",
+    "chapter": 12,
+    "additions": [
+      "Hoge pool: kalm, beheerst, niet-hypochondrisch en evenwichtig.",
+      "Lage pool: angstig, onbeheerst, hypochondrisch en nerveus."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "c7b3af72-09cf-5bd5-a03b-86118aecde18",
+    "term": {
+      "nl": "Neuroticisme",
+      "en": "Neuroticism"
+    },
+    "definition": "De neiging om relatief gemakkelijk angst, spanning, prikkelbaarheid, somberheid en andere negatieve emoties te ervaren.",
+    "chapter": 12,
+    "additions": [
+      "Neuroticisme is de omgekeerde formulering van Emotionele Stabiliteit.",
+      "Een hoge score is een persoonlijkheidsscore en betekent niet automatisch dat iemand een klinische stoornis heeft."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "821fc221-8979-55ae-a257-c651353da736",
+    "term": {
+      "nl": "Intellect",
+      "en": "Intellect"
+    },
+    "definition": "De psycholexicale Big-Five-factor die intellectuele, artistieke, fantasierijke en verfijnde kenmerken omvat.",
+    "chapter": 12,
+    "additions": [
+      "Hoge pool in de Norman-5: intellectueel, artistiek, fantasierijk en verfijnd.",
+      "Lage pool: onnadenkend, niet-artistiek, eenvoudig en lomp."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "6f2be4a0-7035-5273-b7f6-0a9c2edc29b4",
+    "term": {
+      "nl": "Openstaan voor Ervaringen",
+      "en": "Openness to Experience"
+    },
+    "definition": "De factor van Costa en McCrae die openheid voor ideeën, verbeelding, esthetiek, gevoelens en nieuwe ervaringen beschrijft.",
+    "chapter": 12,
+    "additions": [
+      "Openheid overlapt gedeeltelijk met psycholexicaal Intellect, maar is niet exact hetzelfde.",
+      "De factor wordt doorgaans gemeten met de NEO-inventarissen."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "b32561c7-95b0-5016-af29-a9a8d3f43e27",
+    "term": {
+      "nl": "Paul Costa en Robert McCrae",
+      "en": "Paul Costa and Robert McCrae"
+    },
+    "definition": "Onderzoekers die vanuit vragenlijstonderzoek het Five-Factor Model en de NEO-persoonlijkheidsinventarissen ontwikkelden.",
+    "chapter": 12,
+    "additions": [
+      "Ze begonnen met Neuroticisme, Extraversie en Openheid voor Ervaringen.",
+      "Vriendelijkheid en Zorgvuldigheid werden later toegevoegd."
+    ],
+    "importance": 4,
+    "type": "personen",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "18660176-c1f5-5fc6-b64d-e6592ef4e4c2",
+    "term": {
+      "nl": "NEO-inventaris",
+      "en": "NEO Inventory"
+    },
+    "definition": "De vragenlijsttraditie van Costa en McCrae die aanvankelijk Neuroticisme, Extraversie en Openheid voor Ervaringen mat.",
+    "chapter": 12,
+    "additions": [
+      "De eerste drie letters van NEO verwijzen naar deze drie oorspronkelijke factoren.",
+      "De vragenlijst ontstond uit analyse van 16PF-scores en niet rechtstreeks uit woordenboekonderzoek."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "ec46a9d5-c3ce-5cec-9821-d8b4624e7d50",
+    "term": {
+      "nl": "NEO-PI-R",
+      "en": "Revised NEO Personality Inventory"
+    },
+    "definition": "De herziene persoonlijkheidsvragenlijst van Costa en McCrae die de vijf factoren van het Five-Factor Model meet.",
+    "chapter": 12,
+    "additions": [
+      "De vragenlijst wordt wereldwijd veel gebruikt, onder meer bij personeelsselectie.",
+      "Vriendelijkheid en Zorgvuldigheid werden toegevoegd nadat de relatie met de Big Five duidelijk werd."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "0e8de399-9a2a-5127-ab84-ad3484472125",
+    "term": {
+      "nl": "NEO-PI-3",
+      "en": "NEO Personality Inventory-3"
+    },
+    "definition": "Een licht geactualiseerde versie van de NEO-PI-R waarmee dezelfde vijf brede factoren worden gemeten.",
+    "chapter": 12,
+    "additions": [
+      "De update moderniseert en verduidelijkt een aantal items zonder het model te veranderen."
+    ],
+    "importance": 3,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "45d47566-7661-5742-a859-9c3c11322da9",
+    "term": {
+      "nl": "Five-Factor Model",
+      "en": "Five-Factor Model (FFM)"
+    },
+    "definition": "Het model van Costa en McCrae waarin persoonlijkheid wordt beschreven via Neuroticisme, Extraversie, Openheid, Vriendelijkheid en Zorgvuldigheid.",
+    "chapter": 12,
+    "additions": [
+      "Het FFM wordt doorgaans met NEO-vragenlijsten gemeten.",
+      "Het lijkt sterk op de Big Five, maar heeft een andere ontstaansgeschiedenis."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "3b8adfb1-979c-503b-b121-826da70e12b1",
+    "term": {
+      "nl": "Big Five versus Five-Factor Model",
+      "en": "Big Five versus Five-Factor Model"
+    },
+    "definition": "Het onderscheid tussen de psycholexicaal ontstane Big Five en het vanuit vragenlijstonderzoek ontwikkelde Five-Factor Model.",
+    "chapter": 12,
+    "additions": [
+      "Beide modellen bevatten ongeveer dezelfde brede dimensies.",
+      "Vooral psycholexicaal Intellect en Openheid voor Ervaringen vallen niet volledig samen."
+    ],
+    "importance": 5,
+    "type": "onderscheid",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "9900c5c0-9518-51ac-9fe0-f515764a5aff",
+    "term": {
+      "nl": "Wetenschappelijke status van de Big Five",
+      "en": "Scientific status of the Big Five"
+    },
+    "definition": "De Big Five is het meest geaccepteerde en praktisch meest gebruikte persoonlijkheidsmodel, maar blijft onderwerp van onderzoek en kritiek.",
+    "chapter": 12,
+    "additions": [
+      "Belangrijke vragen zijn of het model volledig, genuanceerd, universeel en geschikt voor beslissingen over personen is.",
+      "Acceptatie betekent niet dat het model definitief of foutloos is."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "1fafc532-783c-5509-ba9d-f659c427e35f",
+    "term": {
+      "nl": "Cultuurverschillen in persoonlijkheid",
+      "en": "Cultural differences in personality"
+    },
+    "definition": "Verschillen tussen talen en culturen in de woorden, betekenissen en factorstructuren waarmee persoonlijkheid wordt beschreven.",
+    "chapter": 12,
+    "additions": [
+      "Een term of vragenlijstitem kan in een andere taal een andere betekenis of sociale lading hebben.",
+      "Daardoor kunnen factorstructuren en scores niet zonder meer internationaal worden vergeleken."
+    ],
+    "importance": 5,
+    "type": "cultuur",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "3f11a43a-c0bf-5301-8efb-74e6bb1730bc",
+    "term": {
+      "nl": "Etic-benadering",
+      "en": "Etic approach"
+    },
+    "definition": "Een benadering waarbij een in één taal of cultuur ontwikkeld instrument wordt vertaald en toegepast in een andere taal of cultuur.",
+    "chapter": 12,
+    "additions": [
+      "Voordeel: sneller en goedkoper, omdat geen volledig nieuw lexicaal onderzoek nodig is.",
+      "Risico: cultureel belangrijke eigenschappen kunnen worden gemist of verkeerd geïnterpreteerd."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "6ffd758b-3445-527a-985f-a12e64645dad",
+    "term": {
+      "nl": "Emic-benadering",
+      "en": "Emic approach"
+    },
+    "definition": "Een benadering waarbij een persoonlijkheidsmodel of vragenlijst vanuit de taal en cultuur van de onderzochte groep zelf wordt ontwikkeld.",
+    "chapter": 12,
+    "additions": [
+      "Psycholexicaal onderzoek binnen een taal is een typisch emische methode.",
+      "De benadering is cultureel gevoeliger, maar vraagt meer werk en bemoeilijkt directe vergelijking."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "a6ffd5c3-78f9-50ee-b0df-d4b8851de9f8",
+    "term": {
+      "nl": "Vertaalprobleem bij persoonlijkheidsvragenlijsten",
+      "en": "Translation problem in personality questionnaires"
+    },
+    "definition": "Het probleem dat een vertaald item niet noodzakelijk dezelfde betekenis, connotatie of relevantie heeft als in de brontaal.",
+    "chapter": 12,
+    "additions": [
+      "Letterlijke vertaling garandeert geen psychologische equivalentie.",
+      "Het probleem bedreigt de vergelijkbaarheid van scores tussen culturen."
+    ],
+    "importance": 4,
+    "type": "methodologisch probleem",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "c8c419b1-6cb5-50c5-8a2b-0641e34050d4",
+    "term": {
+      "nl": "Universaliteit van de Big Five",
+      "en": "Universality of the Big Five"
+    },
+    "definition": "De hypothese dat dezelfde vijf brede factoren in alle talen en culturen worden teruggevonden.",
+    "chapter": 12,
+    "additions": [
+      "Psycholexicaal onderzoek vindt vaak meerdere herkenbare Big-Five-factoren, maar zelden overal exact dezelfde vijf.",
+      "Vooral de vijfde factor wijkt sterk af; daarom zijn de Big Five niet volledig universeel."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "5e8e3574-7533-5acf-af4e-d0713637c901",
+    "term": {
+      "nl": "Vijfdefactorprobleem",
+      "en": "Fifth-factor problem"
+    },
+    "definition": "De bevinding dat de vijfde psycholexicale persoonlijkheidsfactor tussen talen en culturen sterk kan verschillen.",
+    "chapter": 12,
+    "additions": [
+      "In sommige talen lijkt de factor op Intellect, in andere op progressiviteit, vaardigheden, integriteit of betrouwbaarheid.",
+      "Dit is een belangrijk argument tegen een volledig universele Big-Five-structuur."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "46f15702-32e1-5398-bd15-2d5b292dbfe2",
+    "term": {
+      "nl": "Nederlandse vijfde factor",
+      "en": "Dutch fifth factor"
+    },
+    "definition": "De Nederlandse psycholexicale factor die naast creativiteit en originaliteit ook progressiviteit en rebelsheid omvat.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn kritisch, progressief en rebels.",
+      "De factor is breder en cultureel anders gekleurd dan de klassieke Amerikaanse Intellectfactor."
+    ],
+    "importance": 4,
+    "type": "cultuur",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "7a04ae15-2434-540e-bb89-f546dd15ed03",
+    "term": {
+      "nl": "Duitse vijfde factor",
+      "en": "German fifth factor"
+    },
+    "definition": "Een vooral intellectuele factor met nadruk op cognitieve vermogens en talenten, en minder op creativiteit en originaliteit.",
+    "chapter": 12,
+    "additions": [
+      "De eerste vier Duitse factoren lijken sterker op de Amerikaanse en Nederlandse Big Five dan de vijfde factor."
+    ],
+    "importance": 3,
+    "type": "cultuur",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "3484c768-e094-5235-8c3a-c7ade9a30abe",
+    "term": {
+      "nl": "Culturele-afstandshypothese",
+      "en": "Cultural distance hypothesis"
+    },
+    "definition": "De verwachting dat psycholexicale factorstructuren sterker van de Amerikaanse Big Five afwijken naarmate de geografische en culturele afstand groter wordt.",
+    "chapter": 12,
+    "additions": [
+      "Het Hindi-onderzoek uit het hoofdstuk wijkt bijvoorbeeld sterk af van de Amerikaanse structuur.",
+      "De hypothese is een interpretatie van het patroon en geen absolute wet."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "10e1ec23-4e17-5513-b9bb-2eca5fa38c1b",
+    "term": {
+      "nl": "Negatieve Valentie in cultureel onderzoek",
+      "en": "Negative Valence in cross-cultural research"
+    },
+    "definition": "Een factor met sterk afkeurende persoonswoorden die in verschillende talen als aanvullende of afwijkende factor verschijnt.",
+    "chapter": 12,
+    "additions": [
+      "In het Grieks werd een factor gevonden met termen als barbaars, corrupt, pervers en onaangenaam.",
+      "In Chinees onderzoek kwamen termen voor als beestachtig, inhumaan, wreed en obsceen."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "c4c03da7-0b36-5b97-a3b4-53f57eac0f96",
+    "term": {
+      "nl": "Triguna",
+      "en": "Triguna"
+    },
+    "definition": "Een oud Indiaas filosofisch-psychologisch systeem dat in Hindi psycholexicaal onderzoek terugkwam als drie sterke factoren.",
+    "chapter": 12,
+    "additions": [
+      "De factoren zijn Sattvic, Tamasic en Rajasic.",
+      "Deze structuur lijkt nauwelijks op de oorspronkelijke Amerikaanse Big Five."
+    ],
+    "importance": 3,
+    "type": "cultuurmodel",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "61d9c109-82ce-5dca-8f84-f4c6a499289a",
+    "term": {
+      "nl": "Sattvic",
+      "en": "Sattvic"
+    },
+    "definition": "De Triguna-factor die kenmerken omvat als onpartijdig, competent, begrijpend en deugdzaam.",
+    "chapter": 12,
+    "additions": [
+      "In het besproken Hindi-onderzoek was Sattvic een van de drie sterkste factoren."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "6f4d4e72-730c-5f1f-a3bb-e34ae3dd3f20",
+    "term": {
+      "nl": "Tamasic",
+      "en": "Tamasic"
+    },
+    "definition": "De Triguna-factor die kenmerken omvat als rusteloos, arrogant, egoïstisch en intolerant.",
+    "chapter": 12,
+    "additions": [
+      "De factor vertegenwoordigt een cultureel specifieke clustering van persoonskenmerken."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "4c5e5a5b-ec23-53c1-915b-ea808647ddf1",
+    "term": {
+      "nl": "Rajasic",
+      "en": "Rajasic"
+    },
+    "definition": "De Triguna-factor die kenmerken omvat als hypocriet, bedrieglijk, bemoeial, ongevoelig en wreed.",
+    "chapter": 12,
+    "additions": [
+      "De factor laat zien dat emisch onderzoek andere structuren kan opleveren dan de Big Five."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "73c098ab-7a88-50a2-a684-2d35fb03c87e",
+    "term": {
+      "nl": "Zelfbeoordeling versus beoordeling door anderen",
+      "en": "Self-rating versus observer rating"
+    },
+    "definition": "Het onderscheid tussen persoonlijkheidsscores die iemand over zichzelf geeft en beoordelingen door andere personen.",
+    "chapter": 12,
+    "additions": [
+      "In het besproken Chinese onderzoek verscheen bij zelfbeoordelingen een Intellectachtige factor.",
+      "Bij beoordelingen door anderen werd een factor gevonden die meer op Emotionele Wispelturigheid leek."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  },
+  {
+    "id": "bda8429f-0149-56ae-8c76-7f3cd00a788b",
+    "term": {
+      "nl": "Kritische evaluatie van culturele generalisatie",
+      "en": "Critical evaluation of cultural generalization"
+    },
+    "definition": "De beoordeling dat een in één taal gevonden persoonlijkheidsstructuur niet automatisch naar alle andere talen en culturen kan worden gegeneraliseerd.",
+    "chapter": 12,
+    "additions": [
+      "Overeenkomsten tussen factorlabels kunnen betekenisverschillen verbergen.",
+      "Emische studies zijn nodig om cultureel specifieke eigenschappen en structuren zichtbaar te maken."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_02_big_five_en_cultuur.json"
+  }
+]

@@ -1,0 +1,595 @@
+[
+  {
+    "id": "0e037dda-65f6-494d-b032-7dbd776c8f90",
+    "term": {
+      "nl": "Gordon W. Allport",
+      "en": "Gordon W. Allport"
+    },
+    "definition": "Trektheoreticus die de gezonde, georganiseerde en bewuste persoonlijkheid benadrukte en vooral geïnteresseerd was in de unieke organisatie van trekken binnen het individu.",
+    "chapter": 11,
+    "additions": [
+      "Allport zette zich af tegen een te ver doorgedreven zoektocht naar onbewuste motieven.",
+      "Hij combineerde een realistische visie op trekken met een idiografische onderzoeksbenadering."
+    ],
+    "importance": 5,
+    "type": "persoon",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "55b31cad-861c-4530-a423-e2fb82ae2bc5",
+    "term": {
+      "nl": "Manifeste motieven",
+      "en": "Manifest motives"
+    },
+    "definition": "Bewuste en direct waarneembare redenen voor gedrag waaraan Allport eerst aandacht wilde geven voordat onbewuste verklaringen worden gezocht.",
+    "chapter": 11,
+    "additions": [
+      "Zijn ontmoeting met Freud versterkte zijn kritiek op dieptepsychologie die zichtbare motieven te snel herinterpreteert."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "369b55e9-0ad8-45a8-b477-438e46dd236b",
+    "term": {
+      "nl": "Allports realistische trekconcept",
+      "en": "Allport's realist trait concept"
+    },
+    "definition": "De opvatting dat trekken werkelijk bestaande, in het zenuwstelsel verankerde psychologische structuren zijn.",
+    "chapter": 11,
+    "additions": [
+      "Trekken zijn voor Allport niet alleen woorden of samenvattingen, maar dragen bij aan regelmaat in functioneren."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "a32a3c44-6dd2-445b-921d-48f1cfcfb734",
+    "term": {
+      "nl": "Frequentie van een trek",
+      "en": "Trait frequency"
+    },
+    "definition": "Hoe vaak trekgerelateerd gedrag bij een persoon voorkomt.",
+    "chapter": 11,
+    "additions": [
+      "Samen met intensiteit en reikwijdte beschrijft frequentie de sterkte en betekenis van een trek."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "ea6caf5f-85db-4e08-91d8-cd0abf4adb33",
+    "term": {
+      "nl": "Intensiteit van een trek",
+      "en": "Trait intensity"
+    },
+    "definition": "Hoe sterk of uitgesproken trekgerelateerd gedrag, gevoel of denken tot uiting komt.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "36a24cb8-9226-4b78-b06f-9cf3337963b1",
+    "term": {
+      "nl": "Reikwijdte van situaties",
+      "en": "Range of situations"
+    },
+    "definition": "Het aantal en type situaties waarin een trek zichtbaar wordt.",
+    "chapter": 11,
+    "additions": [
+      "Een zeer algemene trek komt in een breed scala aan situaties tot uiting."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "4a3b15aa-b103-4705-8a79-3a026f7532e7",
+    "term": {
+      "nl": "Cardinale trek",
+      "en": "Cardinal trait"
+    },
+    "definition": "Een uitzonderlijk dominante en allesomvattende dispositie waardoor vrijwel alle gedragingen van een persoon worden beïnvloed.",
+    "chapter": 11,
+    "additions": [
+      "Cardinale trekken zijn zeldzaam.",
+      "Voorbeelden zijn een sterk machiavellistische of sadistische levensoriëntatie."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "9c02f29f-430c-4552-bd0a-be052fcdc763",
+    "term": {
+      "nl": "Centrale trek",
+      "en": "Central trait"
+    },
+    "definition": "Een algemeen en kenmerkend persoonlijkheidsaspect dat in een redelijk breed bereik van situaties zichtbaar is.",
+    "chapter": 11,
+    "additions": [
+      "Voorbeelden zijn eerlijkheid, vriendelijkheid en assertiviteit."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "48d4073e-3772-4195-8d94-ad1865f3d4d7",
+    "term": {
+      "nl": "Secundaire dispositie",
+      "en": "Secondary disposition"
+    },
+    "definition": "Een minder opvallende, minder algemene en minder consistente trek die vooral in specifieke situaties of voorkeuren tot uiting komt.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "a662553d-2b56-4726-a0ab-cde343a97240",
+    "term": {
+      "nl": "Trek versus toestand",
+      "en": "Trait versus state"
+    },
+    "definition": "Een trek is een duurzame geneigdheid; een toestand is een tijdelijke emotie of stemming die sterk door de actuele omstandigheden wordt beïnvloed.",
+    "chapter": 11,
+    "additions": [
+      "Verliefdheid, vermoeidheid of tijdelijke angst zijn voorbeelden van toestanden en niet noodzakelijk van stabiele trekken."
+    ],
+    "importance": 5,
+    "type": "vergelijking",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "a7d3a60f-db9a-4fde-abff-7423ed750de3",
+    "term": {
+      "nl": "Trek versus activiteit",
+      "en": "Trait versus activity"
+    },
+    "definition": "Een trek beschrijft een stabiele geneigdheid, terwijl een activiteit een tijdelijke gedraging is die begint en eindigt.",
+    "chapter": 11,
+    "additions": [
+      "Een afzonderlijk feest of een eenmalige uitbarsting bewijst op zichzelf geen trek."
+    ],
+    "importance": 3,
+    "type": "vergelijking",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "d7919cef-e320-4dcb-87cc-bf3c21c821f5",
+    "term": {
+      "nl": "Functionele autonomie",
+      "en": "Functional autonomy"
+    },
+    "definition": "Allports idee dat volwassen motieven onafhankelijk kunnen worden van de oorspronkelijke kinderlijke of spanningreducerende drijfveren waaruit ze ontstonden.",
+    "chapter": 11,
+    "additions": [
+      "Wat eerst een middel was om waardering te krijgen, kan later intrinsiek waardevol en een doel op zich worden.",
+      "Dit staat tegenover Freuds nadruk op blijvende invloed van vroege driften."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "4adabad5-6ea2-4cf4-9c2f-702c6b3adef4",
+    "term": {
+      "nl": "Intrinsiek geworden motief",
+      "en": "Intrinsicized motive"
+    },
+    "definition": "Een motief dat oorspronkelijk instrumenteel of extern gestuurd was, maar later om zichzelf wordt nagestreefd.",
+    "chapter": 11,
+    "additions": [
+      "Het begrip illustreert functionele autonomie."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "210db0e1-7730-42f1-bcf9-1063fbee01f0",
+    "term": {
+      "nl": "Idiografische benadering",
+      "en": "Idiographic approach"
+    },
+    "definition": "Een onderzoeksbenadering die de unieke configuratie en organisatie van trekken binnen één persoon diepgaand bestudeert.",
+    "chapter": 11,
+    "additions": [
+      "Allport zag kennis van afzonderlijke personen als een mogelijke route naar algemene inzichten.",
+      "De nadruk ligt op patronen binnen een persoon, niet alleen op scores ten opzichte van anderen."
+    ],
+    "importance": 5,
+    "type": "onderzoek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "2fea91cc-6e81-4e18-a692-79d2658f0180",
+    "term": {
+      "nl": "Nomothetische benadering",
+      "en": "Nomothetic approach"
+    },
+    "definition": "Een onderzoeksbenadering die algemene wetten en universele trekdimensies zoekt door grote groepen mensen te vergelijken.",
+    "chapter": 11,
+    "additions": [
+      "Cattell en Eysenck werkten vooral nomothetisch en gebruikten factoranalyse."
+    ],
+    "importance": 5,
+    "type": "onderzoek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "b163c88b-3516-4db7-954a-ae516bcb3644",
+    "term": {
+      "nl": "Analyse van 172 brieven",
+      "en": "Analysis of 172 letters"
+    },
+    "definition": "Allports idiografische studie waarin brieven van één vrouw werden gebruikt om haar unieke persoonlijkheidspatroon kwalitatief en kwantitatief te beschrijven.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 3,
+    "type": "onderzoek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "1e94bed8-a9b0-43e9-b931-5d2aea8623f4",
+    "term": {
+      "nl": "Voordeel van idiografisch onderzoek",
+      "en": "Advantage of idiographic research"
+    },
+    "definition": "Het levert een rijk en samenhangend beeld op van de unieke persoonlijkheid en context van een individu.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 4,
+    "type": "onderzoek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "89e4b09a-7bdd-4498-aac2-d7d7f8b9123f",
+    "term": {
+      "nl": "Nadeel van idiografisch onderzoek",
+      "en": "Disadvantage of idiographic research"
+    },
+    "definition": "Bevindingen zijn moeilijk tussen personen te vergelijken en leveren minder gemakkelijk algemene, universele trekdimensies op.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "e6b6d96e-d2c5-4041-a7b3-0496540df0d3",
+    "term": {
+      "nl": "Waardering en kritiek op Allport",
+      "en": "Evaluation of Allport"
+    },
+    "definition": "Allport verduidelijkte het trekconcept en de uniciteit van personen, maar voerde relatief weinig systematisch empirisch en genetisch onderzoek uit.",
+    "chapter": 11,
+    "additions": [
+      "Zijn idiografische benadering werd soms onwetenschappelijk genoemd, al kan gedetailleerde persoonsanalyse algemene inzichten opleveren."
+    ],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "7d8ffa67-e605-425a-a950-4da36beffbf0",
+    "term": {
+      "nl": "Raymond B. Cattell",
+      "en": "Raymond B. Cattell"
+    },
+    "definition": "Trektheoreticus die factoranalyse gebruikte om een uitgebreid, empirisch classificatiesysteem van de basiselementen van persoonlijkheid te ontwikkelen.",
+    "chapter": 11,
+    "additions": [
+      "Hij combineerde meerdere databronnen en ontwikkelde de 16PF-vragenlijst."
+    ],
+    "importance": 5,
+    "type": "persoon",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "144f2d89-0a7a-4b91-92b2-f3ba2da03433",
+    "term": {
+      "nl": "Periodiek systeem van persoonlijkheid",
+      "en": "Periodic table of personality"
+    },
+    "definition": "Cattells ambitie om een taxonomie van fundamentele persoonlijkheidselementen te ontwikkelen, vergelijkbaar met het periodiek systeem in de chemie.",
+    "chapter": 11,
+    "additions": [
+      "Factoranalyse moest de basiselementen of bronkenmerken zichtbaar maken."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "750e4f53-63e5-44b7-ac93-5cf55afc0fe5",
+    "term": {
+      "nl": "Oppervlaktekenmerk",
+      "en": "Surface trait"
+    },
+    "definition": "Een waarneembare groep gedragingen of gedragstendensen die aan de oppervlakte samen voorkomen.",
+    "chapter": 11,
+    "additions": [
+      "Oppervlaktekenmerken beschrijven samenhangend gedrag, maar zijn niet noodzakelijk de diepste structuur."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "f70c07c4-0473-403d-babf-a45e74d58f1b",
+    "term": {
+      "nl": "Bronkenmerk",
+      "en": "Source trait"
+    },
+    "definition": "Een onderliggende psychologische structuur die via factoranalyse wordt afgeleid en de samenhang tussen oppervlaktekenmerken verklaart.",
+    "chapter": 11,
+    "additions": [
+      "Cattell beschouwde bronkenmerken als de kernstructuren van persoonlijkheid."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "436feb1d-5d05-4dd0-ba11-239a224156c5",
+    "term": {
+      "nl": "Vaardigheidstrek",
+      "en": "Ability trait"
+    },
+    "definition": "Een bronkenmerk dat vaardigheden en capaciteiten beschrijft waarmee iemand effectief kan functioneren.",
+    "chapter": 11,
+    "additions": [
+      "Intelligentie is een voorbeeld van een vaardigheidstrek."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "908c8017-176d-41d1-bd40-9d21a2102fe9",
+    "term": {
+      "nl": "Temperamentstrek",
+      "en": "Temperament trait"
+    },
+    "definition": "Een bronkenmerk dat de emotionele stijl, het gedragsritme en de wijze van reageren beschrijft.",
+    "chapter": 11,
+    "additions": [
+      "Voorbeelden zijn kalm versus emotioneel en impulsief versus bedachtzaam."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "c181b471-6a1b-497b-8c6a-efb1c4880630",
+    "term": {
+      "nl": "Dynamische trek",
+      "en": "Dynamic trait"
+    },
+    "definition": "Een bronkenmerk dat motivatie, streven en doelgerichtheid beschrijft.",
+    "chapter": 11,
+    "additions": [
+      "Personen kunnen verschillen in ambitie of andere drijfveren."
+    ],
+    "importance": 4,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "35d9217b-d719-4345-b086-ac854a884a03",
+    "term": {
+      "nl": "L-data",
+      "en": "Life-record data"
+    },
+    "definition": "Gegevens over gedrag in het werkelijke dagelijkse leven, zoals schoolprestaties, observaties en interacties met anderen.",
+    "chapter": 11,
+    "additions": [
+      "Cattell begon met factoranalyses van L-data en vond vijftien bronkenmerken."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "f10ecee1-159f-496e-9412-5bd674ee5b7b",
+    "term": {
+      "nl": "Q-data",
+      "en": "Self-report questionnaire data"
+    },
+    "definition": "Zelfrapportagegegevens uit vragenlijsten waarin personen hun eigen gedrag of eigenschappen beoordelen.",
+    "chapter": 11,
+    "additions": [
+      "De 16PF is een Q-data-instrument.",
+      "Q-data zijn kwetsbaar voor zelfbedrog, gemotiveerde vertekening en sociaal wenselijke antwoorden."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "72bfb70d-a1ca-4e82-b841-d84574d79129",
+    "term": {
+      "nl": "OT-data",
+      "en": "Objective-test data"
+    },
+    "definition": "Gegevens uit objectieve miniatuursituaties waarin deelnemers niet precies weten welk persoonlijkheidskenmerk wordt gemeten.",
+    "chapter": 11,
+    "additions": [
+      "Cattell zag OT-data als een manier om beperkingen van observaties en zelfrapportage te verminderen."
+    ],
+    "importance": 5,
+    "type": "methode",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "9e6065f0-d27f-491e-8bcd-de9cbb8dab84",
+    "term": {
+      "nl": "Vijftien bronkenmerken uit L-data",
+      "en": "Fifteen L-data source traits"
+    },
+    "definition": "Cattells eerste belangrijke factoranalytische resultaat: vijftien factoren uit beoordelingen en levensgegevens die het grootste deel van persoonlijkheidsverschillen moesten beschrijven.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 4,
+    "type": "onderzoek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "5de132b7-0f84-4f7f-b634-8a72fea15e68",
+    "term": {
+      "nl": "16PF-vragenlijst",
+      "en": "Sixteen Personality Factor Questionnaire"
+    },
+    "definition": "Cattells zelfrapportage-instrument waarmee zestien persoonlijkheidsfactoren worden gemeten.",
+    "chapter": 11,
+    "additions": [
+      "Twaalf factoren kwamen overeen met kenmerken uit L-data; vier leken uniek voor vragenlijstgegevens.",
+      "De 16PF wordt nog steeds gebruikt."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "19fb65ea-174e-4641-8648-b0edee9a7b17",
+    "term": {
+      "nl": "Twaalf gedeelde en vier Q-unieke factoren",
+      "en": "Twelve shared and four Q-specific factors"
+    },
+    "definition": "De bevinding dat twaalf 16PF-factoren overeenkwamen met L-datafactoren en vier vooral in vragenlijstgegevens voorkwamen.",
+    "chapter": 11,
+    "additions": [
+      "Dit toont zowel overeenkomst als methodegebonden verschillen tussen databronnen."
+    ],
+    "importance": 4,
+    "type": "onderzoek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "ab2d7ddd-9328-421f-9405-3fdca6283396",
+    "term": {
+      "nl": "Eenentwintig OT-factoren",
+      "en": "Twenty-one OT factors"
+    },
+    "definition": "De bronkenmerken die Cattell via factoranalyse van objectieve tests vond.",
+    "chapter": 11,
+    "additions": [
+      "De overeenkomst met L- en Q-data was complex en zwak, waardoor volledige convergentie tussen databronnen uitbleef."
+    ],
+    "importance": 4,
+    "type": "onderzoek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "7ad3f195-3a31-4792-a488-b1bd380db172",
+    "term": {
+      "nl": "Toestand volgens Cattell",
+      "en": "State in Cattell's theory"
+    },
+    "definition": "Een tijdelijke emotie of stemming op een bepaald moment, mede bepaald door de onmiddellijke situatie.",
+    "chapter": 11,
+    "additions": [
+      "Angst, vermoeidheid, depressieve stemming, opwinding en nieuwsgierigheid zijn voorbeelden."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "479d17bd-e633-445f-942b-915b4b869257",
+    "term": {
+      "nl": "Rol volgens Cattell",
+      "en": "Role in Cattell's theory"
+    },
+    "definition": "Een sociaal bepaalde gedragswijze die voortvloeit uit de positie of context waarin iemand zich bevindt.",
+    "chapter": 11,
+    "additions": [
+      "Iemand kan op een sportveld roepen en in een kerk stil zijn zonder dat de persoonlijkheid fundamenteel verandert."
+    ],
+    "importance": 5,
+    "type": "begrip",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "32655ef0-4b9d-4b17-90d8-2d88e980ddb4",
+    "term": {
+      "nl": "Gedrag volgens Cattell",
+      "en": "Behavior in Cattell's theory"
+    },
+    "definition": "Gedrag is het resultaat van een combinatie van stabiele trekken, tijdelijke toestanden en sociale rollen of situaties.",
+    "chapter": 11,
+    "additions": [],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "7d2ad312-225a-4a8b-afb5-8bcce9ca9edb",
+    "term": {
+      "nl": "Sterkte van Cattells theorie",
+      "en": "Strength of Cattell's theory"
+    },
+    "definition": "Cattell ontwikkelde een breed, empirisch onderzoeksprogramma en combineerde systematisch meerdere soorten persoonlijkheidsgegevens.",
+    "chapter": 11,
+    "additions": [
+      "Zijn werk legde een belangrijke basis voor latere factoranalytische persoonlijkheidsmodellen."
+    ],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "e04ecd0a-e0e4-4548-8ac4-f04a8d591bb3",
+    "term": {
+      "nl": "Beperking van Cattells zestienfactorenmodel",
+      "en": "Limitation of Cattell's sixteen-factor model"
+    },
+    "definition": "Zestien factoren zijn in onderzoek en praktijk moeilijk te overzien, te meten en toe te passen.",
+    "chapter": 11,
+    "additions": [
+      "Latere onderzoekers zochten daarom eenvoudigere structuren, zoals Eysencks model en het vijf-factorenmodel."
+    ],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "898a720d-9755-4cc0-bb83-cfc589acdfb1",
+    "term": {
+      "nl": "Meetreductionisme bij Cattell",
+      "en": "Measurement reductionism in Cattell"
+    },
+    "definition": "De kritiek dat Cattells sterke nadruk op numerieke meting contextuele, historische en narratieve aspecten van persoonlijkheid onvoldoende kan vatten.",
+    "chapter": 11,
+    "additions": [
+      "Een levensverhaal kan niet zonder meer worden gereduceerd tot factoranalytische scores."
+    ],
+    "importance": 3,
+    "type": "kritiek",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  },
+  {
+    "id": "5f24686b-e695-4002-b457-31c909ef8fbb",
+    "term": {
+      "nl": "Allport versus Cattell en Eysenck",
+      "en": "Allport versus Cattell and Eysenck"
+    },
+    "definition": "Allport bestudeerde vooral de unieke persoon idiografisch; Cattell en Eysenck zochten nomothetisch naar universele trekken in grote groepen.",
+    "chapter": 11,
+    "additions": [
+      "Allport levert rijke individuele beschrijvingen.",
+      "Cattell en Eysenck leveren beter vergelijkbare, statistisch onderbouwde dimensies."
+    ],
+    "importance": 5,
+    "type": "vergelijking",
+    "source": "flashcards_h11_02_allport_en_cattell.json"
+  }
+]

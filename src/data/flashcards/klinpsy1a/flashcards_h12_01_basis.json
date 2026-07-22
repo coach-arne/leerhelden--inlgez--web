@@ -1,0 +1,754 @@
+[
+  {
+    "id": "811a2405-cec0-54df-a13a-4ef98386292a",
+    "term": {
+      "nl": "Persoonlijkheid",
+      "en": "Personality"
+    },
+    "definition": "Het geheel van kenmerken waarmee iemand als individu wordt gekarakteriseerd, waaronder hoe die persoon zichzelf ziet, zich gedraagt en door anderen wordt gezien.",
+    "chapter": 12,
+    "additions": [
+      "Het hoofdstuk verbindt persoonlijkheid met zowel individuele kenmerken als sociale reputatie.",
+      "Moderne persoonlijkheidsmodellen proberen de grote hoeveelheid kenmerken te ordenen in meetbare dimensies."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "2cc7704e-ed63-5faf-8e03-f49ec168461b",
+    "term": {
+      "nl": "Persoonlijkheidseigenschap",
+      "en": "Personality trait"
+    },
+    "definition": "Een relatief kenmerkende neiging of tendens waarmee iemand zich in meerdere situaties en over langere tijd van anderen onderscheidt.",
+    "chapter": 12,
+    "additions": [
+      "Een eigenschap verwijst niet naar één losstaand gedrag, maar naar een terugkerend patroon.",
+      "In psycholexicaal onderzoek worden eigenschappen afgeleid uit woorden waarmee mensen personen beschrijven."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "aa71fa4c-a25d-542d-b906-41085bd69d7f",
+    "term": {
+      "nl": "Sociale reputatie",
+      "en": "Social reputation"
+    },
+    "definition": "Het beeld dat andere mensen van iemands persoonlijkheid hebben op basis van diens gedrag en manier van optreden.",
+    "chapter": 12,
+    "additions": [
+      "Zelfbeeld en sociale reputatie kunnen van elkaar verschillen.",
+      "Persoonlijkheidsbeschrijvingen hebben daarom altijd ook een sociale en evaluatieve kant."
+    ],
+    "importance": 4,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "52bc26c9-8c38-56be-915e-1ceb29dabbd7",
+    "term": {
+      "nl": "Zelfbeschrijving",
+      "en": "Self-description"
+    },
+    "definition": "Een verbale typering die iemand van zichzelf geeft door kenmerken, gedragingen en voorkeuren te selecteren en te vergelijken met die van anderen.",
+    "chapter": 12,
+    "additions": [
+      "Zelfbeschrijvingen zijn selectief: niet alle kenmerken worden genoemd.",
+      "Het gekozen beeld kan gedeeltelijk worden gestuurd door hoe iemand wil overkomen."
+    ],
+    "importance": 3,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "fa8f0b68-deb4-57b2-820e-1bdb453e5993",
+    "term": {
+      "nl": "Persona",
+      "en": "Persona"
+    },
+    "definition": "Het sociale masker of de rol waarmee iemand zich aan anderen presenteert.",
+    "chapter": 12,
+    "additions": [
+      "Het woord persoonlijkheid is afgeleid van het Latijnse persona, het masker uit het klassieke theater.",
+      "Het begrip benadrukt dat presentatie en onderliggende eigenschappen niet volledig hoeven samen te vallen."
+    ],
+    "importance": 3,
+    "type": "historisch begrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "2ad8d335-f52b-5074-9415-da6bbea0b463",
+    "term": {
+      "nl": "Zelfpresentatie",
+      "en": "Self-presentation"
+    },
+    "definition": "Het bewust of onbewust beïnvloeden van de indruk die anderen van je krijgen.",
+    "chapter": 12,
+    "additions": [
+      "Dit speelt bijvoorbeeld bij sollicitaties en datingprofielen.",
+      "Mensen benadrukken vaak eigenschappen die in de betreffende situatie gunstig lijken."
+    ],
+    "importance": 4,
+    "type": "sociaal-psychologisch begrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "66f20737-6ca6-5194-91a1-d27043519e95",
+    "term": {
+      "nl": "Gunstigheid-geloofwaardigheidstrade-off",
+      "en": "Favorability-credibility trade-off"
+    },
+    "definition": "De afweging tussen jezelf zo gunstig mogelijk voorstellen en toch geloofwaardig blijven.",
+    "chapter": 12,
+    "additions": [
+      "Een sterk opgepoetste zelfbeschrijving kan ongeloofwaardig worden.",
+      "Volgens het besproken onderzoek is het risico om door de mand te vallen groter bij bekenden dan bij onbekenden."
+    ],
+    "importance": 4,
+    "type": "sociaal-psychologisch begrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "037101c2-a45f-5c32-80e6-fcb157475691",
+    "term": {
+      "nl": "Psychologisch type",
+      "en": "Psychological type"
+    },
+    "definition": "Een sterk vereenvoudigde typering waarbij één opvallend kenmerk wordt uitvergroot alsof het de hele persoon beschrijft.",
+    "chapter": 12,
+    "additions": [
+      "Een type kan functioneren als karikatuur en daardoor eenzijdig of onrechtvaardig zijn.",
+      "Dimensionele modellen vermijden deze alles-of-nietsindeling."
+    ],
+    "importance": 3,
+    "type": "kritiek",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "f35bd44f-0030-5080-8205-491227667328",
+    "term": {
+      "nl": "Eigenschap versus toestand",
+      "en": "Trait versus state"
+    },
+    "definition": "Het onderscheid tussen een relatief stabiele persoonlijkheidstrek en een tijdelijke stemming, activiteit of reactie.",
+    "chapter": 12,
+    "additions": [
+      "Vaak boos worden kan als eigenschap worden gezien; op één moment boos zijn is een toestand.",
+      "Allport en Odbert gebruikten dit onderscheid bij hun classificatie van persoonswoorden."
+    ],
+    "importance": 5,
+    "type": "onderscheid",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "5f9243e6-719e-59aa-9fd2-70982cce2c0e",
+    "term": {
+      "nl": "Lexicale hypothese",
+      "en": "Lexical hypothesis"
+    },
+    "definition": "De aanname dat belangrijke en herhaaldelijk waargenomen individuele verschillen tussen mensen uiteindelijk in de natuurlijke taal worden vastgelegd.",
+    "chapter": 12,
+    "additions": [
+      "Hoe belangrijker en beter waarneembaar een eigenschap is, hoe groter de kans dat een taal er een woord voor heeft.",
+      "De hypothese vormt het uitgangspunt van psycholexicaal persoonlijkheidsonderzoek."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "1dc95f26-0f91-50f6-8435-5479006bc10d",
+    "term": {
+      "nl": "Psycholexicale benadering",
+      "en": "Psycholexical approach"
+    },
+    "definition": "Een onderzoeksbenadering die persoonlijkheidsstructuur afleidt uit de woorden waarmee een taal mensen en hun kenmerken beschrijft.",
+    "chapter": 12,
+    "additions": [
+      "Typische stappen zijn: termen verzamelen, selecteren, personen laten beoordelen, correlaties berekenen en factoranalyse uitvoeren.",
+      "De benadering ligt aan de basis van onder meer de Big Five, Big Six, Big Seven en Big Eight."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "1c4a1645-1d63-50d8-8841-697fe29d9e69",
+    "term": {
+      "nl": "Lexicon",
+      "en": "Lexicon"
+    },
+    "definition": "De totale woordenschat van een taal, zoals die onder meer in woordenboeken en taaldatabanken is vastgelegd.",
+    "chapter": 12,
+    "additions": [
+      "Psycholexicaal onderzoek gebruikt het lexicon als bron van persoonsbeschrijvende termen.",
+      "Niet elk woord in een woordenboek is relevant of geschikt voor persoonlijkheidsonderzoek."
+    ],
+    "importance": 4,
+    "type": "taalkundig begrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "fd6b15e1-a65b-5db4-9d40-5d0c95c9dfc8",
+    "term": {
+      "nl": "Persoonlijkheidsbeschrijvende term",
+      "en": "Personality-descriptive term"
+    },
+    "definition": "Een woord of uitdrukking waarmee een kenmerk, toestand, gedragsstijl of evaluatie van een persoon wordt aangeduid.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn lui, verlegen, ambitieus, behulpzaam en beheerst.",
+      "Niet alle persoonsbeschrijvende termen verwijzen naar stabiele eigenschappen."
+    ],
+    "importance": 4,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "d06c6393-781a-53aa-b9c4-6fcd57d85e74",
+    "term": {
+      "nl": "Taxonomie",
+      "en": "Taxonomy"
+    },
+    "definition": "Een systematisch classificatiesysteem waarmee een grote hoeveelheid persoonlijkheidskenmerken wordt geordend in een beperkt aantal categorieën of factoren.",
+    "chapter": 12,
+    "additions": [
+      "Een taxonomie maakt persoonlijkheid bondig beschrijfbaar en meetbaar.",
+      "De Big Five is de bekendste hedendaagse persoonlijkheidstaxonomie."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "49c36625-d2bc-530e-afc3-773a4f9e09a6",
+    "term": {
+      "nl": "Nut van psycholexicaal onderzoek",
+      "en": "Utility of psycholexical research"
+    },
+    "definition": "Het ontwikkelen van een overzichtelijke en praktisch bruikbare indeling van kenmerken die mensen in het dagelijks leven daadwerkelijk gebruiken.",
+    "chapter": 12,
+    "additions": [
+      "Toepassingen zijn beroepskeuzeonderzoek, personeelsselectie, sollicitaties en psychologische diagnostiek.",
+      "Een taxonomie vormt vaak de basis voor persoonlijkheidsvragenlijsten."
+    ],
+    "importance": 4,
+    "type": "toepassing",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "c7d69f41-a3dc-59e9-9809-1eb44a773bd6",
+    "term": {
+      "nl": "Persoonlijkheidsvragenlijst",
+      "en": "Personality questionnaire"
+    },
+    "definition": "Een gestandaardiseerd meetinstrument met items waarmee scores op persoonlijkheidseigenschappen of -factoren worden bepaald.",
+    "chapter": 12,
+    "additions": [
+      "Vragenlijsten kunnen rechtstreeks op een psycholexicale taxonomie zijn gebaseerd.",
+      "Een vragenlijst moet voldoende breed zijn om relevante kenmerken niet over het hoofd te zien."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "3b18ad06-0c2a-5529-a70e-c182cfb91bfc",
+    "term": {
+      "nl": "Gordon Allport en Henry Odbert",
+      "en": "Gordon Allport and Henry Odbert"
+    },
+    "definition": "Onderzoekers die in 1936 bijna 18.000 persoonsbeschrijvende woorden uit een groot Engels woordenboek verzamelden en in vier categorieën indeelden.",
+    "chapter": 12,
+    "additions": [
+      "Hun woordenlijst vormde een belangrijk vertrekpunt voor Cattells latere taxonomie.",
+      "Ze onderscheidden eigenschappen, tijdelijke toestanden, evaluatieve woorden en een restcategorie."
+    ],
+    "importance": 4,
+    "type": "personen",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "d43b4063-b989-5b15-b75d-5d1217f9ca09",
+    "term": {
+      "nl": "Allport-Odbert-woordenlijst",
+      "en": "Allport-Odbert trait list"
+    },
+    "definition": "De verzameling van bijna 18.000 Engelse woorden die in 1936 uit een woordenboek werden geselecteerd omdat ze personen konden beschrijven.",
+    "chapter": 12,
+    "additions": [
+      "De lijst bevatte 4.505 echte eigenschappen, 4.541 tijdelijke toestanden of activiteiten, 5.226 evaluatieve termen en 3.682 overige woorden.",
+      "De lijst was zeer breed en moest verder worden gereduceerd."
+    ],
+    "importance": 4,
+    "type": "historisch",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "c56be97d-78fc-5d40-9860-577da45b8738",
+    "term": {
+      "nl": "Echte eigenschappen",
+      "en": "Genuine traits"
+    },
+    "definition": "Persoonsbeschrijvende woorden die verwijzen naar relatief stabiele neigingen of consistente manieren van reageren.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden uit het hoofdstuk zijn agressief, introvert en beheerst.",
+      "Dit was de eerste categorie van Allport en Odbert."
+    ],
+    "importance": 4,
+    "type": "historisch",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "a307b37a-9755-5f49-bfd6-88e5e66c75bc",
+    "term": {
+      "nl": "Tijdelijke gemoedstoestand of activiteit",
+      "en": "Temporary state or activity"
+    },
+    "definition": "Een kortdurende emotionele toestand of activiteit die niet noodzakelijk een stabiele persoonlijkheidseigenschap is.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn verveeld, beschaamd en onbewust.",
+      "Een toestand die zeer vaak optreedt kan in sommige gevallen toch als stabielere eigenschap worden geïnterpreteerd."
+    ],
+    "importance": 3,
+    "type": "onderscheid",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "9dc57443-4a3a-531e-abd8-81d5132317ec",
+    "term": {
+      "nl": "Evaluatieve term",
+      "en": "Evaluative term"
+    },
+    "definition": "Een persoonsbeschrijvend woord waarin vooral een positief of negatief waardeoordeel over iemand is opgenomen.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden zijn waardevol, effectief en interessant.",
+      "Het wel of niet opnemen van evaluatieve termen beïnvloedt welke factoren in psycholexicaal onderzoek worden gevonden."
+    ],
+    "importance": 4,
+    "type": "taalkundig begrip",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "e38e58f3-0954-5bf3-a250-c3aba2215474",
+    "term": {
+      "nl": "Restcategorie van persoonswoorden",
+      "en": "Residual category of person descriptors"
+    },
+    "definition": "De categorie met vage, dubbelzinnige, redundante of moeilijk te plaatsen persoonsbeschrijvende woorden.",
+    "chapter": 12,
+    "additions": [
+      "Voorbeelden uit het hoofdstuk zijn kannibalistisch, emigrerend en encyclopedisch.",
+      "Deze vierde categorie van Allport en Odbert werd niet als een zuivere trekkenlijst beschouwd."
+    ],
+    "importance": 2,
+    "type": "historisch",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "d07728cc-5def-5e28-9c84-f68fc82e4ecf",
+    "term": {
+      "nl": "Raymond Cattell",
+      "en": "Raymond Cattell"
+    },
+    "definition": "Onderzoeker die de woordenlijst van Allport en Odbert systematisch reduceerde en met factoranalyse ordende tot een persoonlijkheidsmodel met zestien factoren.",
+    "chapter": 12,
+    "additions": [
+      "Hij bracht de oorspronkelijke lijst eerst terug tot 171 en vervolgens tot 35 eigenschappen.",
+      "Zijn werk leidde tot de 16PF-vragenlijst."
+    ],
+    "importance": 4,
+    "type": "persoon",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "f870b663-2a00-5278-ba81-c17594f4093a",
+    "term": {
+      "nl": "Cattells reductie",
+      "en": "Cattell’s reduction"
+    },
+    "definition": "Het stapsgewijze terugbrengen van duizenden persoonswoorden tot een kleiner aantal representatieve eigenschappen en factoren.",
+    "chapter": 12,
+    "additions": [
+      "Cattell reduceerde de lijst tot 171 eigenschappen, daarna tot 35 variabelen en uiteindelijk tot twaalf plus vier factoren.",
+      "De reductie maakte statistische analyse en vragenlijstconstructie mogelijk."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "e298f969-ede4-5acb-a22f-76c01e1f23f1",
+    "term": {
+      "nl": "Factoranalyse",
+      "en": "Factor analysis"
+    },
+    "definition": "Een statistische techniek waarmee wordt onderzocht of veel gemeten variabelen kunnen worden samengevat door een kleiner aantal onderliggende factoren.",
+    "chapter": 12,
+    "additions": [
+      "Variabelen die sterk positief of negatief correleren, kunnen in dezelfde factor terechtkomen.",
+      "Factoranalyse reduceert gegevens, maar de gevonden factoren moeten inhoudelijk worden geïnterpreteerd."
+    ],
+    "importance": 5,
+    "type": "statistiek",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "f2c56480-8af9-5d8d-bc4a-81406235dff9",
+    "term": {
+      "nl": "Correlatie",
+      "en": "Correlation"
+    },
+    "definition": "Een statistische maat voor de sterkte en richting van de samenhang tussen twee variabelen.",
+    "chapter": 12,
+    "additions": [
+      "Factoranalyse vertrekt van patronen van correlaties tussen persoonlijkheidsbeschrijvende kenmerken.",
+      "Een correlatie toont samenhang, maar verklaart niet automatisch waarom die samenhang bestaat."
+    ],
+    "importance": 5,
+    "type": "statistiek",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "7525688a-a6bb-5ffd-9e77-dc1e35606c26",
+    "term": {
+      "nl": "Positieve correlatie",
+      "en": "Positive correlation"
+    },
+    "definition": "Een samenhang waarbij hoge scores op de ene variabele gemiddeld samengaan met hoge scores op de andere.",
+    "chapter": 12,
+    "additions": [
+      "Spraakzaamheid en sociabiliteit kunnen bijvoorbeeld positief correleren.",
+      "Positief correlerende kenmerken kunnen op dezelfde factor laden."
+    ],
+    "importance": 3,
+    "type": "statistiek",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "a11f5154-0541-54ca-bda1-e2920633b224",
+    "term": {
+      "nl": "Negatieve correlatie",
+      "en": "Negative correlation"
+    },
+    "definition": "Een samenhang waarbij hoge scores op de ene variabele gemiddeld samengaan met lage scores op de andere.",
+    "chapter": 12,
+    "additions": [
+      "Spraakzaamheid en zwijgzaamheid vormen bijvoorbeeld tegengestelde polen.",
+      "Ook sterk negatief correlerende kenmerken kunnen bij dezelfde factor horen."
+    ],
+    "importance": 3,
+    "type": "statistiek",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "db4f83f7-0e1d-55ce-99be-783c61fcfec4",
+    "term": {
+      "nl": "Factor of cluster",
+      "en": "Factor or cluster"
+    },
+    "definition": "Een groep onderling samenhangende kenmerken die wordt geïnterpreteerd als uitdrukking van een bredere persoonlijkheidsdimensie.",
+    "chapter": 12,
+    "additions": [
+      "Sociaal, spraakzaam en avontuurlijk kunnen samen de factor Extraversie definiëren.",
+      "Een factor is een statistische samenvatting en geen rechtstreeks waargenomen object."
+    ],
+    "importance": 4,
+    "type": "statistiek",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "1abe51ca-e468-512d-a76a-7f72e2b1ae33",
+    "term": {
+      "nl": "Factorinterpretatie",
+      "en": "Factor interpretation"
+    },
+    "definition": "Het inhoudelijk benoemen van een statistisch gevonden factor op basis van de kenmerken die er hoog positief of negatief op laden.",
+    "chapter": 12,
+    "additions": [
+      "De betekenis en naam van een factor volgen niet automatisch uit de berekening.",
+      "Onderzoekers kunnen vergelijkbare factoroplossingen verschillend interpreteren."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "644f95cb-7f35-57aa-a0f1-bf55158e08d5",
+    "term": {
+      "nl": "Interpreteerbare factoroplossing",
+      "en": "Interpretable factor solution"
+    },
+    "definition": "Een factorstructuur waarin de gevonden clusters een inhoudelijk herkenbare betekenis hebben.",
+    "chapter": 12,
+    "additions": [
+      "In principe kunnen veel aantallen factoren worden berekend, maar niet elke oplossing is zinvol.",
+      "Bij de Big Five wordt gestopt bij vijf brede, interpreteerbare factoren."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "59793f21-4e62-5ed1-8558-eaa904b320ba",
+    "term": {
+      "nl": "16PF",
+      "en": "Sixteen Personality Factor Questionnaire (16PF)"
+    },
+    "definition": "Cattells persoonlijkheidsvragenlijst waarmee zestien relatief specifieke persoonlijkheidsfactoren worden gemeten.",
+    "chapter": 12,
+    "additions": [
+      "De vragenlijst geeft een gedetailleerder profiel dan modellen met slechts vijf brede factoren.",
+      "Costa en McCrae gebruikten de 16PF als vertrekpunt voor hun eigen vragenlijstonderzoek."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "6bd7ffa0-2618-573e-8824-4ab55ea8b305",
+    "term": {
+      "nl": "Emotionele betrokkenheid",
+      "en": "Warmth"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate iemand behoefte heeft aan intieme en warme relaties met anderen.",
+    "chapter": 12,
+    "additions": [
+      "Deze factor is een van de zestien specifieke factoren van Cattell."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "b85b80da-a6d5-5f79-a6e4-50d510b601b5",
+    "term": {
+      "nl": "Emotionele stabiliteit binnen de 16PF",
+      "en": "Emotional Stability in the 16PF"
+    },
+    "definition": "De 16PF-factor die beschrijft hoe evenwichtig iemand op stress, uitdagingen en gebeurtenissen reageert.",
+    "chapter": 12,
+    "additions": [
+      "Inhoudelijk verwant aan lage Neuroticisme, maar onderdeel van een specifieker zestienfactorenmodel."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "c891ba46-03ed-52cd-896e-0038bec4037c",
+    "term": {
+      "nl": "Levendigheid",
+      "en": "Liveliness"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate iemand zich vrij, enthousiast en spontaan voelt en gedraagt.",
+    "chapter": 12,
+    "additions": [
+      "Levendigheid ligt inhoudelijk dicht bij aspecten van Extraversie."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "01696687-9273-5e01-95bd-cf809aeaf540",
+    "term": {
+      "nl": "Sociale zelfverzekerdheid",
+      "en": "Social Boldness"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate iemand zich op zijn gemak en zelfverzekerd voelt in sociale situaties.",
+    "chapter": 12,
+    "additions": [
+      "Een hoge score wijst op sociaal durven optreden."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "b87fc49c-dd73-5199-865e-d148ca9e819d",
+    "term": {
+      "nl": "Waakzaamheid",
+      "en": "Vigilance"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate iemand voorzichtig, alert en wantrouwig is in contact met anderen.",
+    "chapter": 12,
+    "additions": [
+      "Een hoge score kan gepaard gaan met achterdocht tegenover de motieven van anderen."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "7249accc-b4bf-5b5a-a039-630f7cfb7046",
+    "term": {
+      "nl": "Geslotenheid",
+      "en": "Privateness"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate iemand persoonlijke informatie privé houdt en weinig van zichzelf prijsgeeft.",
+    "chapter": 12,
+    "additions": [
+      "Geslotenheid verwijst naar terughoudendheid in zelfonthulling."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "a391bb04-5fa7-5c29-8d59-a87729547264",
+    "term": {
+      "nl": "Openheid voor verandering",
+      "en": "Openness to Change"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate iemand nieuwe situaties, ideeën en ervaringen verwelkomt.",
+    "chapter": 12,
+    "additions": [
+      "Deze factor is niet volledig identiek aan de Big-Five-factor Openheid voor Ervaringen."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "410ab877-9ee5-5d13-bed9-a4f0e434007b",
+    "term": {
+      "nl": "Perfectionisme",
+      "en": "Perfectionism"
+    },
+    "definition": "De 16PF-factor die de behoefte aan structuur, orde en controle weergeeft in plaats van zaken aan het toeval over te laten.",
+    "chapter": 12,
+    "additions": [
+      "De term verwijst in dit instrument vooral naar georganiseerd en gereguleerd handelen."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "7c280472-1e02-5419-9c4c-4585fbac8d79",
+    "term": {
+      "nl": "Redenerend vermogen",
+      "en": "Reasoning"
+    },
+    "definition": "De 16PF-factor die beschrijft in welke mate iemand numerieke en verbale problemen kan oplossen.",
+    "chapter": 12,
+    "additions": [
+      "Deze factor ligt dichter bij cognitieve vaardigheid dan de meeste andere persoonlijkheidstrekken."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "73610966-cfea-5e41-9005-ed2592f4d43c",
+    "term": {
+      "nl": "Dominantie",
+      "en": "Dominance"
+    },
+    "definition": "De 16PF-factor die de neiging beschrijft om invloed uit te oefenen, leiding te nemen of anderen te beheersen.",
+    "chapter": 12,
+    "additions": [
+      "Dominantie is een specifiek sociaal gedragskenmerk."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "bfd35eb0-1f84-5da6-8f42-17a758470bbe",
+    "term": {
+      "nl": "Regelbewustzijn",
+      "en": "Rule-Consciousness"
+    },
+    "definition": "De 16PF-factor die aangeeft hoeveel waarde iemand hecht aan regels, normen en verplichtingen.",
+    "chapter": 12,
+    "additions": [
+      "Een hoge score wijst op een sterke oriëntatie op voorschriften en plichten."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "78a6d858-dc84-5a78-9fb1-5c6c3014d9f2",
+    "term": {
+      "nl": "Gevoeligheid",
+      "en": "Sensitivity"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate emoties en gevoelens iemands verwachtingen en oordelen beïnvloeden.",
+    "chapter": 12,
+    "additions": [
+      "De factor beschrijft emotionele ontvankelijkheid."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "614df0da-712c-581c-a181-85b56fb13010",
+    "term": {
+      "nl": "Abstractheid",
+      "en": "Abstractedness"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate iemand aandacht geeft aan abstracte ideeën en verbeelding in plaats van vooral aan concrete observaties.",
+    "chapter": 12,
+    "additions": [
+      "De factor raakt aan fantasie en conceptueel denken."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "c470ba08-f1f9-5b4d-84bb-f0421fa3cca8",
+    "term": {
+      "nl": "Onzekerheid",
+      "en": "Apprehension"
+    },
+    "definition": "De 16PF-factor die de neiging tot zelfkritiek, schuldgevoelens en twijfel aan zichzelf beschrijft.",
+    "chapter": 12,
+    "additions": [
+      "Een hoge score gaat samen met bezorgdheid over het eigen functioneren."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "9b200c92-6b12-5611-b7fb-1873aeac22be",
+    "term": {
+      "nl": "Zelfstandigheid",
+      "en": "Self-Reliance"
+    },
+    "definition": "De 16PF-factor die aangeeft in welke mate iemand op het eigen oordeel vertrouwt en graag zelfstandig of solistisch werkt.",
+    "chapter": 12,
+    "additions": [
+      "Een hoge score wijst op voorkeur voor autonoom handelen."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  },
+  {
+    "id": "a89af0b2-d9de-5c0c-bdbd-379efa4c11d3",
+    "term": {
+      "nl": "Gespannenheid",
+      "en": "Tension"
+    },
+    "definition": "De 16PF-factor die beschrijft hoe gemakkelijk iemand ongeduldig, gefrustreerd of gespannen raakt.",
+    "chapter": 12,
+    "additions": [
+      "Een hoge score wijst op een verhoogde innerlijke druk of rusteloosheid."
+    ],
+    "importance": 2,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_01_basis_en_taxonomie.json"
+  }
+]
