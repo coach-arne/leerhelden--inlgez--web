@@ -1,0 +1,644 @@
+[
+  {
+    "id": "841b6d01-25a3-45f2-8f0c-e307e17ff847",
+    "term": {
+      "nl": "Vijffactorenmodel",
+      "en": "Five-Factor Model (FFM)"
+    },
+    "definition": "Een breed, dimensioneel en hiërarchisch model dat persoonlijkheidsverschillen ordent in Neuroticisme, Extraversie, Openheid voor Ervaringen, Vriendelijkheid en Zorgvuldigheid.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk presenteert het FFM als het dominante model in de hedendaagse persoonlijkheidspsychologie.",
+      "De vijf factoren zijn bedoeld als een omvattend classificatiekader voor de meeste persoonlijkheidstrekken."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "ea0a13ac-bf3f-45ee-9363-41cd9b2ba45c",
+    "term": {
+      "nl": "Big Five",
+      "en": "Big Five"
+    },
+    "definition": "De gebruikelijke benaming voor vijf brede persoonlijkheidsdimensies die sterk overeenkomen met het Vijffactorenmodel.",
+    "chapter": 13,
+    "additions": [
+      "In dit hoofdstuk worden Big Five en FFM grotendeels als verwante aanduidingen gebruikt.",
+      "De cursus maakt daarnaast onderscheid tussen de lexicale ontstaansgeschiedenis van de Big Five en de vragenlijsttraditie van het FFM."
+    ],
+    "importance": 5,
+    "type": "model",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "4dc03d11-f70f-43fb-a3fd-e48d5893b01f",
+    "term": {
+      "nl": "Omvattendheid van het FFM",
+      "en": "Comprehensiveness of the FFM"
+    },
+    "definition": "De eigenschap dat vrijwel alle brede persoonlijkheidstrekken betekenisvol binnen een van de vijf factoren kunnen worden geclassificeerd.",
+    "chapter": 13,
+    "additions": [
+      "Deze omvattendheid maakt vergelijking en combinatie van resultaten uit uiteenlopende meetinstrumenten mogelijk.",
+      "Een volledige FFM-meting verkleint de kans dat een relevante brede trek over het hoofd wordt gezien."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "07f24369-6ea2-49d5-948e-fe9dfda149f1",
+    "term": {
+      "nl": "OCEAN",
+      "en": "OCEAN"
+    },
+    "definition": "Een ezelsbrug voor Openness, Conscientiousness, Extraversion, Agreeableness en Neuroticism.",
+    "chapter": 13,
+    "additions": [
+      "De lettervolgorde is een geheugensteun en drukt geen rangorde tussen de factoren uit."
+    ],
+    "importance": 4,
+    "type": "kernbegrip",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "024deb4b-b22f-4104-87ca-97d63cbe4dc3",
+    "term": {
+      "nl": "Neuroticisme",
+      "en": "Neuroticism"
+    },
+    "definition": "De brede persoonlijkheidsfactor die verschillen beschrijft in vatbaarheid voor negatieve emoties, spanning en emotionele instabiliteit.",
+    "chapter": 13,
+    "additions": [
+      "De andere pool wordt vaak Emotionele Stabiliteit genoemd.",
+      "Neuroticisme hangt in het hoofdstuk samen met veel vormen van persoonlijkheidsproblematiek."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "41d7e0cf-9fbb-4dda-a2fa-9ab753633017",
+    "term": {
+      "nl": "Extraversie",
+      "en": "Extraversion"
+    },
+    "definition": "De brede persoonlijkheidsfactor die onder meer sociabiliteit, energie, assertiviteit en positieve emotionaliteit omvat.",
+    "chapter": 13,
+    "additions": [
+      "Sociabiliteit en assertiviteit zijn verschillende facetten: iemand kan op het ene hoog en op het andere laag scoren.",
+      "Extraversie hangt gemiddeld samen met geluk en welbevinden."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "88b26b76-e308-43ce-9a69-ac7a497d82e9",
+    "term": {
+      "nl": "Openheid voor Ervaringen",
+      "en": "Openness to Experience"
+    },
+    "definition": "De brede persoonlijkheidsfactor die nieuwsgierigheid, verbeelding, esthetische gevoeligheid en openheid voor ideeën en ervaringen omvat.",
+    "chapter": 13,
+    "additions": [
+      "Openheid wordt in het hoofdstuk gekoppeld aan sociale en politieke liberaliteit.",
+      "De precieze afbakening van Openheid is een belangrijk structureel discussiepunt."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "adb77228-cb73-44c1-846b-8ab2550b50fd",
+    "term": {
+      "nl": "Vriendelijkheid",
+      "en": "Agreeableness"
+    },
+    "definition": "De brede persoonlijkheidsfactor die prosociale, coöperatieve en warme tendensen tegenover antagonisme beschrijft.",
+    "chapter": 13,
+    "additions": [
+      "In het hoofdstuk wordt de factor aangeduid als Agreeableness versus Antagonism.",
+      "Een lage score hangt gemiddeld samen met een groter risico op middelenmisbruik."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "4cc3df7c-1267-4f91-b789-35e9c146217a",
+    "term": {
+      "nl": "Zorgvuldigheid",
+      "en": "Conscientiousness"
+    },
+    "definition": "De brede persoonlijkheidsfactor die ordelijkheid, doelgerichtheid, betrouwbaarheid en zelfdiscipline omvat.",
+    "chapter": 13,
+    "additions": [
+      "Zorgvuldigheid voorspelt onder meer werkprestaties en gezondheidsuitkomsten.",
+      "De factor neemt gemiddeld toe van adolescentie naar latere volwassenheid."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "e0f46b97-6f73-4fad-9765-14bf47d617d1",
+    "term": {
+      "nl": "Hiërarchisch persoonlijkheidsmodel",
+      "en": "Hierarchical personality model"
+    },
+    "definition": "Een model waarin brede factoren boven meer specifieke facetten en nog smallere kenmerken staan.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk onderscheidt factoren, facetten en nuances.",
+      "Een hogere positie in de hiërarchie geeft meer breedte, maar minder specifieke informatie."
+    ],
+    "importance": 5,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "6b71d901-6b6e-4b39-afda-0ad5b4a8a3c8",
+    "term": {
+      "nl": "Factor",
+      "en": "Factor"
+    },
+    "definition": "Een brede persoonlijkheidsdimensie die de gedeelde variantie van meerdere verwante trekken samenvat.",
+    "chapter": 13,
+    "additions": [
+      "Het FFM omvat vijf factoren.",
+      "Factoren bieden een efficiënt overzicht, maar kunnen relevante verschillen tussen facetten verbergen."
+    ],
+    "importance": 4,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "0f4a7fe8-5a7f-4509-a0d6-ffbbcaa8abf1",
+    "term": {
+      "nl": "Facet",
+      "en": "Facet"
+    },
+    "definition": "Een specifieker persoonlijkheidskenmerk dat een deelgebied binnen een brede factor beschrijft.",
+    "chapter": 13,
+    "additions": [
+      "De NEO-PI-R onderscheidt zes facetten per factor en dus dertig facetten in totaal.",
+      "Facetten kunnen uitkomsten voorspellen die op factorniveau verborgen blijven."
+    ],
+    "importance": 5,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "0417b7c8-441f-4338-b16b-824a24fecb3f",
+    "term": {
+      "nl": "NEO-inventarissen",
+      "en": "NEO Inventories"
+    },
+    "definition": "Een familie van vragenlijsten van Costa en McCrae voor het meten van de vijf factoren en, in uitgebreide versies, hun facetten.",
+    "chapter": 13,
+    "additions": [
+      "De NEO-inventarissen behoren tot de meest gebruikte en best gevalideerde FFM-instrumenten.",
+      "Ze zijn in vele talen vertaald en internationaal toegepast."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "de0305e1-05fa-497a-9329-f1f0ec3871c2",
+    "term": {
+      "nl": "NEO-PI-R",
+      "en": "Revised NEO Personality Inventory"
+    },
+    "definition": "Een uitgebreide FFM-vragenlijst met 240 items die vijf factoren en dertig specifieke facetten meet.",
+    "chapter": 13,
+    "additions": [
+      "Elk van de vijf factoren wordt door zes facetten vertegenwoordigd.",
+      "Het facetstelsel is breed toegepast, maar de precieze selectie van facetten is deels theoretisch bepaald."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "440b776c-8726-4665-bdf1-6f5665d3671a",
+    "term": {
+      "nl": "NEO-FFI-3",
+      "en": "NEO Five-Factor Inventory-3"
+    },
+    "definition": "Een verkorte NEO-vragenlijst die alleen de vijf brede FFM-factoren meet.",
+    "chapter": 13,
+    "additions": [
+      "De verkorte vorm is efficiënter, maar geeft minder gedetailleerde informatie dan een instrument met facetscores."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "ed0db190-3f0c-4785-b8f2-89342314152d",
+    "term": {
+      "nl": "Big Five Inventory",
+      "en": "Big Five Inventory (BFI)"
+    },
+    "definition": "Een veelgebruikt, relatief beknopt instrument voor het meten van de vijf brede persoonlijkheidsfactoren.",
+    "chapter": 13,
+    "additions": [
+      "Het BFI is een alternatief voor de NEO-inventarissen wanneer een kortere meting gewenst is."
+    ],
+    "importance": 3,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "4136a556-a0bf-4b2c-94cc-579d1ee78a1e",
+    "term": {
+      "nl": "Zelfrapportage",
+      "en": "Self-report"
+    },
+    "definition": "Een meetmethode waarbij personen zelf beoordelen in welke mate uitspraken over gedrag, gevoelens en gedachten op hen van toepassing zijn.",
+    "chapter": 13,
+    "additions": [
+      "Zelfrapportage is de meest gebruikte methode in persoonlijkheidsonderzoek.",
+      "De methode is nuttig, maar niet foutloos."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "dcc7b02b-3339-4115-8041-84efbe3c5d16",
+    "term": {
+      "nl": "Zelfrapportagebias",
+      "en": "Self-report bias"
+    },
+    "definition": "Systematische vertekening doordat respondenten zichzelf verkeerd begrijpen, sociaal wenselijk antwoorden, instemmen zonder de inhoud goed te wegen of onzorgvuldig reageren.",
+    "chapter": 13,
+    "additions": [
+      "Ook verveling en verkeerd begrepen vragen kunnen scores beïnvloeden.",
+      "Validatie met andere beoordelaars is daarom belangrijk."
+    ],
+    "importance": 4,
+    "type": "methodologisch probleem",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "2d162a78-181c-4d05-8713-3cd20de4c4d5",
+    "term": {
+      "nl": "Informantenbeoordeling",
+      "en": "Informant rating"
+    },
+    "definition": "Een beoordeling van iemands persoonlijkheid door een goed geïnformeerde bekende, zoals een partner, vriend of huisgenoot.",
+    "chapter": 13,
+    "additions": [
+      "Informanten bieden een perspectief dat niet afhankelijk is van het zelfbeeld van de onderzochte persoon.",
+      "Zelf- en informantenbeoordelingen tonen substantiële, maar geen volledige overeenstemming."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "22c0c425-6102-474b-b396-be4507610a04",
+    "term": {
+      "nl": "Zelf-informantovereenstemming",
+      "en": "Self–informant agreement"
+    },
+    "definition": "De mate waarin iemands zelfbeoordeling van persoonlijkheid overeenkomt met beoordelingen door goed geïnformeerde anderen.",
+    "chapter": 13,
+    "additions": [
+      "Substantiële overeenstemming ondersteunt dat FFM-scores niet louter uit zelfrapportagefouten bestaan.",
+      "Onvolledige overeenstemming kan het gevolg zijn van verschillende informatiebronnen en perspectieven."
+    ],
+    "importance": 5,
+    "type": "onderzoekbevinding",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "fd673c83-91fa-4df1-9288-fed64312b1f6",
+    "term": {
+      "nl": "Q-sort",
+      "en": "Q-sort"
+    },
+    "definition": "Een meetmethode waarbij uitspraken van meest naar minst kenmerkend voor een persoon worden gerangschikt.",
+    "chapter": 13,
+    "additions": [
+      "Het FFM is ook met Q-sortmethoden teruggevonden.",
+      "Dit ondersteunt dat de vijffactorenstructuur niet aan één vragenlijstvorm gebonden is."
+    ],
+    "importance": 3,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "4460a649-299a-4714-b3f5-fb90bb2187b9",
+    "term": {
+      "nl": "Zinsaanvultest",
+      "en": "Sentence completion test"
+    },
+    "definition": "Een methode waarbij personen open zinnen, zoals ‘Wie ben ik?’, aanvullen en de antwoorden op persoonlijkheidsinhoud worden geanalyseerd.",
+    "chapter": 13,
+    "additions": [
+      "Ook in zinsaanvullingen is een FFM-achtige structuur gevonden."
+    ],
+    "importance": 3,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "98a24aff-dae4-4ad2-846f-9e307a6ace9f",
+    "term": {
+      "nl": "Lexicale hypothese",
+      "en": "Lexical hypothesis"
+    },
+    "definition": "De veronderstelling dat sociaal belangrijke persoonlijkheidsverschillen in de natuurlijke taal worden vastgelegd.",
+    "chapter": 13,
+    "additions": [
+      "Woordenboeken kunnen daarom als vertrekpunt dienen voor een zo volledig mogelijke verzameling trektermen.",
+      "De hypothese speelde een centrale rol in de historische ontdekking van de vijf factoren."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "56d8ba68-2e77-4a4f-9ea3-331e5e3756e1",
+    "term": {
+      "nl": "Ontdekking en herontdekking van het FFM",
+      "en": "Discovery and rediscovery of the FFM"
+    },
+    "definition": "Het historische proces waarbij verschillende onderzoeksgroepen herhaaldelijk een vergelijkbare vijffactorenstructuur vonden.",
+    "chapter": 13,
+    "additions": [
+      "Tupes en Christal vonden de structuur vroeg, maar hun technische rapport kreeg aanvankelijk weinig aandacht.",
+      "Norman en later Goldberg droegen bij aan de bredere erkenning."
+    ],
+    "importance": 4,
+    "type": "historisch",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "6f2d5c72-860f-43fe-80f0-f59f64783f7f",
+    "term": {
+      "nl": "Mischels trekkritiek",
+      "en": "Mischel’s trait critique"
+    },
+    "definition": "De kritiek dat brede persoonlijkheidstrekken weinig voorspellende waarde zouden hebben voor concreet gedrag.",
+    "chapter": 13,
+    "additions": [
+      "De kritiek droeg tijdelijk bij aan een crisis in de trekpsychologie.",
+      "Later onderzoek naar stabiliteit, overeenstemming en uitkomsten herstelde de wetenschappelijke status van trekken."
+    ],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "ca6f0b2b-d87c-4420-94c7-5256f6815016",
+    "term": {
+      "nl": "Rangordestabiliteit",
+      "en": "Rank-order stability"
+    },
+    "definition": "De mate waarin personen hun relatieve positie ten opzichte van anderen op een trek door de tijd behouden.",
+    "chapter": 13,
+    "additions": [
+      "Longitudinaal onderzoek toont aanzienlijke stabiliteit voor alle vijf factoren.",
+      "Stabiliteit betekent niet dat gemiddelde trekniveaus nooit veranderen."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "71011391-8261-49aa-ad54-c7f0856d2055",
+    "term": {
+      "nl": "Gemiddelde leeftijdsverandering",
+      "en": "Mean-level age change"
+    },
+    "definition": "Systematische verandering in het gemiddelde niveau van persoonlijkheidstrekken met de leeftijd.",
+    "chapter": 13,
+    "additions": [
+      "Gemiddelde verandering kan optreden terwijl individuele rangordes relatief stabiel blijven."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "8aa39cdc-4966-420b-acc7-7aaa70825d17",
+    "term": {
+      "nl": "Leeftijdstrend in Neuroticisme en Extraversie",
+      "en": "Age trend in Neuroticism and Extraversion"
+    },
+    "definition": "De gemiddelde afname van Neuroticisme en Extraversie van adolescentie naar latere volwassenheid.",
+    "chapter": 13,
+    "additions": [
+      "Het betreft gemiddelde groepspatronen; individuele ontwikkelingslopen kunnen afwijken."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "6a51478e-0109-4aaa-8d5b-4b3e6d03eac2",
+    "term": {
+      "nl": "Leeftijdstrend in Vriendelijkheid en Zorgvuldigheid",
+      "en": "Age trend in Agreeableness and Conscientiousness"
+    },
+    "definition": "De gemiddelde toename van Vriendelijkheid en Zorgvuldigheid gedurende de volwassen ontwikkeling.",
+    "chapter": 13,
+    "additions": [
+      "Dit patroon wordt in zowel crosssectioneel als longitudinaal onderzoek gevonden."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "05096440-c972-4f65-9a69-30cbd19d4575",
+    "term": {
+      "nl": "Leeftijdstrend in Openheid",
+      "en": "Age trend in Openness"
+    },
+    "definition": "Het patroon waarbij Openheid gemiddeld stijgt tot in de vroege volwassenheid en daarna geleidelijk afneemt.",
+    "chapter": 13,
+    "additions": [
+      "De gemiddelde trend sluit aanzienlijke individuele verschillen niet uit."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "8c46dd26-de4a-4f7a-a7af-245cc76b7911",
+    "term": {
+      "nl": "Geslachtsverschillen in het FFM",
+      "en": "Gender differences in the FFM"
+    },
+    "definition": "Kleine maar systematische gemiddelde verschillen tussen mannen en vrouwen in factoren en facetten.",
+    "chapter": 13,
+    "additions": [
+      "Vrouwen scoren gemiddeld hoger op Neuroticisme en Vriendelijkheid.",
+      "De verdelingen overlappen sterk; verschillen binnen elk geslacht zijn veel groter dan de gemiddelde verschillen."
+    ],
+    "importance": 4,
+    "type": "onderzoekbevinding",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "0655a885-589e-4ba8-b67a-c51a952d67e4",
+    "term": {
+      "nl": "Facetverschillen tussen mannen en vrouwen",
+      "en": "Gender differences at the facet level"
+    },
+    "definition": "Verschillen die binnen één brede factor in tegengestelde richtingen kunnen optreden.",
+    "chapter": 13,
+    "additions": [
+      "Binnen Extraversie scoren vrouwen gemiddeld hoger op warmte en mannen op assertiviteit.",
+      "Binnen Openheid scoren vrouwen gemiddeld hoger op esthetiek en mannen op ideeën."
+    ],
+    "importance": 3,
+    "type": "onderzoekbevinding",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "833d5803-7629-4964-86bd-702c9cb4e7bb",
+    "term": {
+      "nl": "Crossculturele replicatie",
+      "en": "Cross-cultural replication"
+    },
+    "definition": "Het terugvinden van een vergelijkbare FFM-structuur in verschillende landen, talen en culturele groepen.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk beschrijft een zeer sterke replicatie van de Amerikaanse NEO-PI-R-structuur in waarnemersbeoordelingen uit vijftig culturen.",
+      "Ook leeftijds- en geslachtspatronen worden internationaal vaak gerepliceerd."
+    ],
+    "importance": 5,
+    "type": "crosscultureel onderzoek",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "b9b913fb-296a-44a4-9cf1-d63691d54a44",
+    "term": {
+      "nl": "Crossculturele psychometrische stabiliteit",
+      "en": "Cross-cultural psychometric stability"
+    },
+    "definition": "De bevinding dat rangorde van facetbetrouwbaarheid, test-hertestbetrouwbaarheid en longitudinale stabiliteit sterk vergelijkbaar zijn tussen culturen.",
+    "chapter": 13,
+    "additions": [
+      "Deze overeenkomst ondersteunt dat de gemeten constructen niet uitsluitend lokale taalproducten zijn."
+    ],
+    "importance": 4,
+    "type": "crosscultureel onderzoek",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "85ec67a7-0d04-4ac9-8c83-af6a7fec7652",
+    "term": {
+      "nl": "Erfelijkheid van de vijf factoren",
+      "en": "Heritability of the five factors"
+    },
+    "definition": "De bevinding dat individuele verschillen op alle vijf factoren gedeeltelijk door genetische verschillen worden beïnvloed.",
+    "chapter": 13,
+    "additions": [
+      "Tweeling- en familieonderzoek ondersteunt een erfelijke component voor iedere factor.",
+      "Erfelijkheid betekent niet dat trekken volledig genetisch vastliggen."
+    ],
+    "importance": 5,
+    "type": "biologische bevinding",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "7da9204f-51e0-473e-8955-5a18a4d78aa3",
+    "term": {
+      "nl": "Voorspellende validiteit van het FFM",
+      "en": "Predictive validity of the FFM"
+    },
+    "definition": "De mate waarin FFM-scores samenhangen met en toekomstige relevante levensuitkomsten voorspellen.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk bespreekt verbanden met welzijn, psychopathologie, middelengebruik, politieke attitudes, werk en gezondheid.",
+      "Voorspellen is niet hetzelfde als causaal verklaren."
+    ],
+    "importance": 5,
+    "type": "onderzoekbevinding",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "8ccb244c-290d-4b13-9595-e0d0bed47f87",
+    "term": {
+      "nl": "Neuroticisme en persoonlijkheidsstoornissen",
+      "en": "Neuroticism and personality disorders"
+    },
+    "definition": "De brede samenhang tussen hogere Neuroticismescores en verschillende vormen van persoonlijkheidspathologie.",
+    "chapter": 13,
+    "additions": [
+      "Neuroticisme is niet gelijk aan een stoornis, maar vormt een brede kwetsbaarheidsdimensie."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "6b71e0da-ab3f-4140-93e2-01af7d742389",
+    "term": {
+      "nl": "Extraversie en geluk",
+      "en": "Extraversion and happiness"
+    },
+    "definition": "De consistente positieve samenhang tussen Extraversie en geluk of subjectief welbevinden.",
+    "chapter": 13,
+    "additions": [
+      "Het verband ondersteunt de praktische relevantie van FFM-trekken voor levensuitkomsten."
+    ],
+    "importance": 4,
+    "type": "toepassing",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "b39922f6-567b-448e-8794-4e869ae76b26",
+    "term": {
+      "nl": "Openheid en liberale attitudes",
+      "en": "Openness and liberal attitudes"
+    },
+    "definition": "De samenhang tussen hogere Openheid en meer sociale of politieke liberaliteit.",
+    "chapter": 13,
+    "additions": [
+      "Dit is een correlatie en geen bewijs dat Openheid politieke overtuigingen rechtstreeks veroorzaakt."
+    ],
+    "importance": 3,
+    "type": "toepassing",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "126d84e4-85ed-4584-86b1-a2faf51a75bd",
+    "term": {
+      "nl": "Lage Vriendelijkheid en middelenmisbruik",
+      "en": "Low Agreeableness and substance abuse"
+    },
+    "definition": "De bevinding dat lagere Vriendelijkheid gemiddeld een risicofactor is voor middelenmisbruik.",
+    "chapter": 13,
+    "additions": [
+      "Het verband past bij de antagonistische pool van de factor."
+    ],
+    "importance": 3,
+    "type": "psychopathologie",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  },
+  {
+    "id": "06ccf78a-681b-4f71-b81f-c80f51476579",
+    "term": {
+      "nl": "Zorgvuldigheid, werk en gezondheid",
+      "en": "Conscientiousness, work, and health"
+    },
+    "definition": "De robuuste samenhang van hogere Zorgvuldigheid met betere arbeidsprestaties en gunstigere gezondheidsuitkomsten.",
+    "chapter": 13,
+    "additions": [
+      "Binnen de leerdoelen wordt Zorgvuldigheid als een bijzonder belangrijke voorspeller benadrukt."
+    ],
+    "importance": 5,
+    "type": "toepassing",
+    "source": "flashcards_h12_matthews_01_ffm_en_bewijs.json"
+  }
+]

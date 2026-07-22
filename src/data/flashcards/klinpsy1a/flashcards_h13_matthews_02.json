@@ -1,0 +1,685 @@
+[
+  {
+    "id": "ff08dfd1-03f4-4da9-8431-d4788a0112cc",
+    "term": {
+      "nl": "Structurele kwesties van het FFM",
+      "en": "Structural issues in the FFM"
+    },
+    "definition": "Discussies over het juiste aantal factoren, hogere en lagere niveaus in de hiërarchie en de precieze afbakening van factoren en facetten.",
+    "chapter": 13,
+    "additions": [
+      "De controverses gaan niet alleen over de vraag of trekken bestaan, maar ook over hoe de trekstructuur het best wordt georganiseerd."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "a51154e6-e310-446c-b529-f770ec7156b2",
+    "term": {
+      "nl": "Taxonomie versus theorie",
+      "en": "Taxonomy versus theory"
+    },
+    "definition": "Het onderscheid tussen een classificatiesysteem dat persoonlijkheidsverschillen ordent en een theorie die hun ontstaan en werking verklaart.",
+    "chapter": 13,
+    "additions": [
+      "Het FFM is een sterke taxonomie, maar vormt op zichzelf geen volledige persoonlijkheidstheorie.",
+      "Deze kritiek motiveerde de ontwikkeling van de Five-Factor Theory."
+    ],
+    "importance": 5,
+    "type": "onderscheid",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "ec4700fd-bf90-4238-af3d-dad51fc7efef",
+    "term": {
+      "nl": "Emergente trekken",
+      "en": "Emergent traits"
+    },
+    "definition": "De opvatting dat trekken geen onderliggende oorzaken zijn, maar patronen die ontstaan uit onderlinge interacties tussen gedragingen en processen.",
+    "chapter": 13,
+    "additions": [
+      "Netwerk- en functionalistische benaderingen gebruiken dit als kritiek op causale interpretaties van trekken."
+    ],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "61e2a54d-ceb9-4c85-be7c-0f78f32e8c80",
+    "term": {
+      "nl": "Persoonsgerichte benadering",
+      "en": "Person-centered approach"
+    },
+    "definition": "Een benadering die configuraties of typen van personen centraal stelt in plaats van afzonderlijke variabelen.",
+    "chapter": 13,
+    "additions": [
+      "Voorstanders stellen dat typen soms beter aansluiten bij psychologische processen dan een variabelengerichte score op losse trekken."
+    ],
+    "importance": 3,
+    "type": "alternatieve benadering",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "56fc7bcd-eeee-482d-b6ab-b97eee8b8218",
+    "term": {
+      "nl": "Sociaal-cognitieve trekkritiek",
+      "en": "Social-cognitive critique of traits"
+    },
+    "definition": "De kritiek dat trekken gedrag samenvatten, maar onvoldoende verklaren hoe cognities, doelen en situaties concreet gedrag produceren.",
+    "chapter": 13,
+    "additions": [
+      "Het onderscheid tussen beschrijving en verklaring is een kernpunt in de kritische evaluatie van het FFM."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "a4015a17-0fa5-47d2-b4fb-d8f677131ae9",
+    "term": {
+      "nl": "Five-Factor Theory",
+      "en": "Five-Factor Theory (FFT)"
+    },
+    "definition": "De theorie van McCrae en Costa die het FFM uitbreidt met aannames over biologische basistendensen, ontwikkeling, karakteristieke aanpassingen en omgevingsinvloeden.",
+    "chapter": 13,
+    "additions": [
+      "FFT is bedoeld als antwoord op de kritiek dat het FFM alleen een beschrijvende taxonomie is.",
+      "De theorie stelt dat de biologische basis de trekken draagt en dat de omgeving vooral hun expressie vormgeeft."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "d31b4f93-4553-49d6-ac66-c1d58daf435d",
+    "term": {
+      "nl": "Driefactoralternatief",
+      "en": "Three-factor alternative"
+    },
+    "definition": "Een structuur met Extraversie, Vriendelijkheid en Zorgvuldigheid die in sommige lexicale onderzoeken robuuster werd gevonden dan alle vijf FFM-factoren.",
+    "chapter": 13,
+    "additions": [
+      "Het alternatief stelt de noodzakelijkheid van precies vijf factoren ter discussie.",
+      "Openheid en Neuroticisme kunnen in lexicale studies minder consistent verschijnen."
+    ],
+    "importance": 4,
+    "type": "alternatief model",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "029c9a96-8c9c-4f1a-afc2-229680ee2b0e",
+    "term": {
+      "nl": "HEXACO",
+      "en": "HEXACO"
+    },
+    "definition": "Een zesfactorenmodel met Eerlijkheid-Bescheidenheid, Emotionaliteit, Extraversie, Vriendelijkheid, Zorgvuldigheid en Openheid.",
+    "chapter": 13,
+    "additions": [
+      "Het model is gebaseerd op lexicale studies in meerdere talen.",
+      "Ten opzichte van het FFM wordt een zesde factor toegevoegd en wordt inhoud tussen Vriendelijkheid en Emotionaliteit anders verdeeld."
+    ],
+    "importance": 5,
+    "type": "alternatief model",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "4d813078-c7d6-4bed-8ec1-5810779ffa9c",
+    "term": {
+      "nl": "Eerlijkheid-Bescheidenheid",
+      "en": "Honesty–Humility"
+    },
+    "definition": "De HEXACO-factor die oprechtheid, eerlijkheid, bescheidenheid en geringe hebzucht tegenover manipulatie en zelfverheffing beschrijft.",
+    "chapter": 13,
+    "additions": [
+      "In het FFM worden eerlijkheid en bescheidenheid doorgaans als facetten van Vriendelijkheid beschouwd.",
+      "Het debat gaat daarom mede over het juiste hiërarchische niveau van deze kenmerken."
+    ],
+    "importance": 5,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "25a41974-e961-4978-9682-544528801f30",
+    "term": {
+      "nl": "Rotatie van factorassen",
+      "en": "Rotation of factor axes"
+    },
+    "definition": "Het statistisch verschuiven van factorposities waardoor dezelfde trekruimte met enigszins andere factoren kan worden beschreven.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk merkt op dat HEXACO-factoren enigszins geroteerd zijn ten opzichte van FFM-factoren.",
+      "Verschillende modellen kunnen daardoor deels dezelfde informatie anders organiseren."
+    ],
+    "importance": 3,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "f6d88057-6887-4a61-af26-7b0a54bebeb0",
+    "term": {
+      "nl": "Chinese Personality Assessment Inventory",
+      "en": "Chinese Personality Assessment Inventory (CPAI)"
+    },
+    "definition": "Een persoonlijkheidsinstrument dat vanuit Chinese persoonlijkheidsbegrippen werd ontwikkeld.",
+    "chapter": 13,
+    "additions": [
+      "Het instrument leverde een cultureel opvallende factor op die Interpersoonlijke Verbondenheid werd genoemd.",
+      "Bij extractie van slechts vijf factoren worden onderdelen ervan over Vriendelijkheid en Zorgvuldigheid verdeeld."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "6a06653a-4731-4ed7-82b0-f251296a55f1",
+    "term": {
+      "nl": "Interpersoonlijke Verbondenheid",
+      "en": "Interpersonal Relatedness"
+    },
+    "definition": "Een in Chinees persoonlijkheidsonderzoek gevonden factor met onder meer harmonie, relatiegerichtheid, spaarzaamheid, logische oriëntatie, zelfgerichtheid, defensiviteit en flexibiliteit.",
+    "chapter": 13,
+    "additions": [
+      "De factor werd aanvankelijk als specifiek Chinees geïnterpreteerd, maar is ook buiten Chinese steekproeven gevonden.",
+      "De bevinding illustreert dat culturele trekken afhankelijk kunnen zijn van het gekozen aantal factoren."
+    ],
+    "importance": 4,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "e2000c0a-bdb0-4160-ab5a-f312eb885f62",
+    "term": {
+      "nl": "Spirituele Transcendentie",
+      "en": "Spiritual Transcendence"
+    },
+    "definition": "Een voorgestelde zesde factor met facetten zoals gebedsvervulling, universaliteit en verbondenheid.",
+    "chapter": 13,
+    "additions": [
+      "Er is discussie of spiritualiteit een persoonlijkheidstrek is of eerder een attitude of praktijk.",
+      "Na correctie voor antwoordbias blijken spiritualiteitskenmerken deels binnen Openheid te passen."
+    ],
+    "importance": 3,
+    "type": "alternatief model",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "f1605fe3-3184-44fc-a0b2-fed54f82b6ad",
+    "term": {
+      "nl": "Instemmingsbias",
+      "en": "Acquiescence bias"
+    },
+    "definition": "De neiging om met items in te stemmen ongeacht hun inhoud.",
+    "chapter": 13,
+    "additions": [
+      "Een schaal met uitsluitend positief geformuleerde items is extra gevoelig voor deze bias.",
+      "Het hoofdstuk gebruikt dit als kritiek op sommige spiritualiteitsmetingen."
+    ],
+    "importance": 4,
+    "type": "methodologisch probleem",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "be049511-54d1-40f6-a3df-415ecf61d65c",
+    "term": {
+      "nl": "Dimensioneel model van persoonlijkheidspathologie",
+      "en": "Dimensional model of personality pathology"
+    },
+    "definition": "Een benadering waarin persoonlijkheidsproblematiek wordt beschreven als extreme of maladaptieve varianten van continue trekken.",
+    "chapter": 13,
+    "additions": [
+      "Het alternatieve DSM-5-model gebruikt vijf brede pathologische trekdomeinen.",
+      "Vier domeinen hebben duidelijke FFM-tegenhangers."
+    ],
+    "importance": 5,
+    "type": "psychopathologie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "1cd8e02b-529d-4574-a9f3-bc30f5474bf0",
+    "term": {
+      "nl": "Negatieve Affectiviteit",
+      "en": "Negative Affectivity"
+    },
+    "definition": "Een pathologisch trekdomein dat sterk overeenkomt met hoge Neuroticisme.",
+    "chapter": 13,
+    "additions": [
+      "Het domein omvat brede vatbaarheid voor negatieve emoties."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "840aefd5-ce01-4276-bb4b-4194f290cea4",
+    "term": {
+      "nl": "Onthechting",
+      "en": "Detachment"
+    },
+    "definition": "Een pathologisch trekdomein dat grotendeels overeenkomt met lage Extraversie.",
+    "chapter": 13,
+    "additions": [
+      "Het domein omvat sociale terugtrekking en beperkte positieve betrokkenheid."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "545dc74a-92f0-473f-8a22-fd1cd11ee2ec",
+    "term": {
+      "nl": "Antagonisme",
+      "en": "Antagonism"
+    },
+    "definition": "Een pathologisch trekdomein dat grotendeels overeenkomt met lage Vriendelijkheid.",
+    "chapter": 13,
+    "additions": [
+      "Het domein omvat onder meer vijandige, manipulatieve en egocentrische tendensen."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "6656b3bc-647b-43d3-a15b-e4b3e54f68f2",
+    "term": {
+      "nl": "Ontremming",
+      "en": "Disinhibition"
+    },
+    "definition": "Een pathologisch trekdomein dat grotendeels overeenkomt met lage Zorgvuldigheid.",
+    "chapter": 13,
+    "additions": [
+      "Het domein omvat impulsiviteit, onverantwoordelijkheid en gebrekkige planning."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "3dfaf3b4-9b74-4e0b-baf3-cfea42239f22",
+    "term": {
+      "nl": "Psychoticisme als pathologisch domein",
+      "en": "Psychoticism as a pathological domain"
+    },
+    "definition": "Een pathologisch trekdomein met ongebruikelijke overtuigingen, ervaringen en gedrag dat minder rechtstreeks in het FFM past.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk beschrijft overlap met bepaalde Openheidsfacetten, vooral fantasie en esthetiek.",
+      "Een fijnmaziger analyse wijst echter ook op duidelijke verschillen tussen psychoticisme en normale Openheid."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "94548148-17a5-4d55-9dcc-c2e6276d95c7",
+    "term": {
+      "nl": "Hogere-ordestructuur",
+      "en": "Higher-order structure"
+    },
+    "definition": "Een hiërarchisch niveau boven de vijf factoren waarop onderlinge correlaties tussen FFM-factoren worden samengevat.",
+    "chapter": 13,
+    "additions": [
+      "Het bestaan van correlaties tussen factoren vormde de basis voor voorgestelde superfactoren."
+    ],
+    "importance": 4,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "b814716d-49f8-4e7a-a23c-4d7305c941dc",
+    "term": {
+      "nl": "Alpha",
+      "en": "Alpha"
+    },
+    "definition": "Digmans hogere-ordefactor die hoge Vriendelijkheid en Zorgvuldigheid combineert met lage Neuroticisme.",
+    "chapter": 13,
+    "additions": [
+      "Alpha wordt vaak geïnterpreteerd als socialisatie, stabiliteit of zelfregulatie."
+    ],
+    "importance": 4,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "5bfcb1dd-f226-4240-bc51-728d171c80c5",
+    "term": {
+      "nl": "Beta",
+      "en": "Beta"
+    },
+    "definition": "Digmans hogere-ordefactor die Extraversie en Openheid combineert.",
+    "chapter": 13,
+    "additions": [
+      "Beta wordt vaak geïnterpreteerd als persoonlijke groei of plasticiteit."
+    ],
+    "importance": 4,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "aa622af9-1f82-4a05-b7f7-6221a44a7877",
+    "term": {
+      "nl": "Valentiebias",
+      "en": "Valence bias"
+    },
+    "definition": "Een beoordelingsbias waarbij algemene positieve of negatieve evaluatie kunstmatige correlaties tussen trekken veroorzaakt.",
+    "chapter": 13,
+    "additions": [
+      "Positieve valentie hangt vooral samen met Extraversie en Openheid; negatieve valentie met Neuroticisme en lage Vriendelijkheid en Zorgvuldigheid.",
+      "Valentiebias is een mogelijke verklaring voor hogere-ordefactoren."
+    ],
+    "importance": 4,
+    "type": "methodologisch probleem",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "3cb4607c-731f-411d-9a74-c7d2273454c3",
+    "term": {
+      "nl": "Algemene Persoonlijkheidsfactor",
+      "en": "General Factor of Personality (GFP)"
+    },
+    "definition": "Een voorgestelde hoogste factor die sociaal wenselijke persoonlijkheidskenmerken in één algemene dimensie samenvat.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk waarschuwt dat de GFP vaak als een algemeen evaluatief artefact wordt geïnterpreteerd.",
+      "De psychologische status van zo'n factor is daarom omstreden."
+    ],
+    "importance": 3,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "ca52fbf5-5b42-467c-8089-348c8a100b07",
+    "term": {
+      "nl": "Facetspecificiteit",
+      "en": "Facet specificity"
+    },
+    "definition": "De extra informatie die specifieke facetten bieden boven een brede factorscore.",
+    "chapter": 13,
+    "additions": [
+      "Sociabiliteit en assertiviteit definiëren beide Extraversie, maar kunnen bij één persoon sterk verschillen.",
+      "Facetniveau is vaak klinisch en voorspellend relevanter dan alleen factorniveau."
+    ],
+    "importance": 5,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "b0bd886f-3fde-42f2-931a-bd475ba1161e",
+    "term": {
+      "nl": "Dertig NEO-facetten",
+      "en": "Thirty NEO facets"
+    },
+    "definition": "Het systeem van zes facetten binnen elk van de vijf NEO-factoren.",
+    "chapter": 13,
+    "additions": [
+      "Het systeem probeert belangrijke inhoud uit de persoonlijkheidsliteratuur breed te vertegenwoordigen.",
+      "De items werden met rationele en psychometrische methoden geselecteerd."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "8ac02d86-7588-40f8-932d-30a2d4c5d347",
+    "term": {
+      "nl": "Facetselectieprobleem",
+      "en": "Facet selection problem"
+    },
+    "definition": "Het ontbreken van een algemeen aanvaarde, uitsluitend empirisch afgeleide indeling van de brede factoren in de beste lagere-ordetrekken.",
+    "chapter": 13,
+    "additions": [
+      "Empirische pogingen leveren niet steeds dezelfde facetten op over talen, methoden en itempools.",
+      "De NEO-facetten blijven praktisch het best uitgewerkte systeem, maar zijn niet definitief."
+    ],
+    "importance": 5,
+    "type": "methodologisch probleem",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "10d5c8e5-3da1-4e42-9d9e-48486f5aff87",
+    "term": {
+      "nl": "Nuance",
+      "en": "Nuance"
+    },
+    "definition": "Een zeer smalle trek op itemniveau die nog specifieker is dan een facet.",
+    "chapter": 13,
+    "additions": [
+      "Nuances verklaren waarom personen met dezelfde facetscore toch verschillende stabiele uitingsvormen kunnen hebben.",
+      "Voorbeelden binnen boosheid zijn wrok, prikkelbaarheid, agressiviteit en frustratie."
+    ],
+    "importance": 5,
+    "type": "hiërarchie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "57d785ce-573c-44d9-900c-ec678e978702",
+    "term": {
+      "nl": "Unieke itemvariantie",
+      "en": "Unique item variance"
+    },
+    "definition": "De betrouwbare en betekenisvolle variantie van een afzonderlijk item die niet volledig door het toegewezen facet of de brede factor wordt verklaard.",
+    "chapter": 13,
+    "additions": [
+      "Deze specifieke variantie kan erfelijk, stabiel en door verschillende beoordelaars herkenbaar zijn.",
+      "Dit vormt empirische ondersteuning voor nuances."
+    ],
+    "importance": 4,
+    "type": "onderzoekbevinding",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "7698d783-2d5c-46f7-b059-0ac7865452de",
+    "term": {
+      "nl": "Biologische basis van persoonlijkheid",
+      "en": "Biological bases of personality"
+    },
+    "definition": "De genetische, neurologische en neurochemische mechanismen die individuele verschillen in persoonlijkheid mede voortbrengen.",
+    "chapter": 13,
+    "additions": [
+      "Gedragsgenetica ondersteunt een biologische basis, maar de precieze mechanismen blijven grotendeels onbekend."
+    ],
+    "importance": 5,
+    "type": "biologische theorie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "c7756ebc-f73f-40be-b7e7-7a2a08adb5e4",
+    "term": {
+      "nl": "Polygenetische persoonlijkheid",
+      "en": "Polygenic personality"
+    },
+    "definition": "De opvatting dat persoonlijkheidstrekken door zeer veel genetische varianten met elk een klein effect worden beïnvloed.",
+    "chapter": 13,
+    "additions": [
+      "Dit helpt verklaren waarom honderden tweeling- en familiestudies erfelijkheid aantonen, maar specifieke trekgenen moeilijk te vinden zijn."
+    ],
+    "importance": 4,
+    "type": "biologische theorie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "eed8c8b1-e1f7-45c3-ad6c-0f0fa92c25a3",
+    "term": {
+      "nl": "Biologische oorsprong en psychologische expressie",
+      "en": "Biological origin and psychological expression"
+    },
+    "definition": "De FFT-aanname dat basistrekken biologisch ontstaan, terwijl de concrete uitdrukking ervan door de psychologische omgeving wordt gevormd.",
+    "chapter": 13,
+    "additions": [
+      "De theorie maakt onderscheid tussen de aanwezigheid van basistendensen en hun contextafhankelijke manifestatie."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "e49f0d73-9647-4d8a-915c-fea680b0d7fc",
+    "term": {
+      "nl": "Eysencks biologische persoonlijkheidsmodel",
+      "en": "Eysenck’s biological model of personality"
+    },
+    "definition": "Een model dat Extraversie koppelt aan corticale activatie en Neuroticisme aan de reactiviteit van limbische systemen.",
+    "chapter": 13,
+    "additions": [
+      "Het model was invloedrijk omdat het experimenteel toetsbare biologische voorspellingen formuleerde.",
+      "Vanuit FFM-perspectief dekt het vooral N en E en niet O, A en C."
+    ],
+    "importance": 4,
+    "type": "biologische theorie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "8744d7a2-05f3-454d-b154-78758f3e5bf8",
+    "term": {
+      "nl": "Reinforcement Sensitivity Theory",
+      "en": "Reinforcement Sensitivity Theory (RST)"
+    },
+    "definition": "Grays theorie dat persoonlijkheidsverschillen samenhangen met gevoeligheid voor beloning, straf en conflict.",
+    "chapter": 13,
+    "additions": [
+      "Het Behavioral Inhibition System en Behavioral Activation System zijn de bekendste systemen.",
+      "De theorie is experimenteel relevant, maar bevindingen zijn niet altijd consistent."
+    ],
+    "importance": 5,
+    "type": "biologische theorie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "f6b8a797-d097-4d7a-8e09-4adac16e4b9a",
+    "term": {
+      "nl": "Behavioral Inhibition System",
+      "en": "Behavioral Inhibition System (BIS)"
+    },
+    "definition": "Een systeem dat gevoelig is voor straf, dreiging en conflict en gedragsinhibitie en angst bevordert.",
+    "chapter": 13,
+    "additions": [
+      "BIS-metingen hangen samen met Neuroticisme en vooral het angstfacet."
+    ],
+    "importance": 4,
+    "type": "neurobiologisch begrip",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "56230f1d-c038-4510-8abd-94d1fbd435d2",
+    "term": {
+      "nl": "Behavioral Activation System",
+      "en": "Behavioral Activation System (BAS)"
+    },
+    "definition": "Een systeem dat gevoelig is voor beloning en benaderingsmogelijkheden en toenaderingsgedrag bevordert.",
+    "chapter": 13,
+    "additions": [
+      "BAS-metingen hangen samen met Extraversie en vooral opwinding- of beloningszoekende facetten."
+    ],
+    "importance": 4,
+    "type": "neurobiologisch begrip",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "62e9099d-b1d6-479c-82e5-dc9b8fb1098f",
+    "term": {
+      "nl": "Cybernetic Big Five Theory",
+      "en": "Cybernetic Big Five Theory"
+    },
+    "definition": "DeYoungs theorie die de vijf factoren interpreteert als brede verschillen in cybernetische systemen voor doelgericht functioneren, exploratie en regulatie.",
+    "chapter": 13,
+    "additions": [
+      "De theorie probeert voor alle vijf factoren functionele en neurobiologische mechanismen te formuleren.",
+      "Ze is een recente ontwikkeling, maar de empirische neurobiologische basis is nog onvolledig."
+    ],
+    "importance": 5,
+    "type": "biologische theorie",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "793e5b9f-c22d-4e3c-a7b9-498bd38d02ba",
+    "term": {
+      "nl": "Strafgevoeligheid",
+      "en": "Punishment sensitivity"
+    },
+    "definition": "De gevoeligheid voor dreiging, verlies en straf, die in de Cybernetic Big Five Theory met Neuroticisme wordt verbonden.",
+    "chapter": 13,
+    "additions": [
+      "Het concept sluit gedeeltelijk aan bij Grays BIS."
+    ],
+    "importance": 4,
+    "type": "neurobiologisch begrip",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "9dfe057d-795d-4072-a986-0a7e591dade9",
+    "term": {
+      "nl": "Beloningsgevoeligheid",
+      "en": "Reward sensitivity"
+    },
+    "definition": "De gevoeligheid voor beloning en benaderingsmogelijkheden, die in recente theorieën met Extraversie wordt verbonden.",
+    "chapter": 13,
+    "additions": [
+      "Extraversie wordt onder meer gekoppeld aan dopaminerge systemen."
+    ],
+    "importance": 4,
+    "type": "neurobiologisch begrip",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "7694e1d3-300c-4674-af22-b956c11cc4d9",
+    "term": {
+      "nl": "Exploratie",
+      "en": "Exploration"
+    },
+    "definition": "Het zoeken en verwerken van nieuwe perceptuele, abstracte en verbeeldingsrijke informatie, gekoppeld aan Openheid of Intellect.",
+    "chapter": 13,
+    "additions": [
+      "De Cybernetic Big Five Theory ziet exploratie als een functioneel kernproces van Openheid."
+    ],
+    "importance": 4,
+    "type": "neurobiologisch begrip",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "f298900f-47d2-4e63-980d-68de7aabee8b",
+    "term": {
+      "nl": "Coöperatieve regulatie",
+      "en": "Cooperative regulation"
+    },
+    "definition": "De functionele oriëntatie op altruïsme, samenwerking en regulering van regelgebonden sociaal gedrag, gekoppeld aan Vriendelijkheid.",
+    "chapter": 13,
+    "additions": [
+      "De precieze neurale mechanismen zijn nog niet opgehelderd."
+    ],
+    "importance": 3,
+    "type": "neurobiologisch begrip",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "f4332950-cc56-4622-8ed6-9515e21506ea",
+    "term": {
+      "nl": "Regelgericht functioneren",
+      "en": "Rule-governed functioning"
+    },
+    "definition": "Doelgerichte regulatie volgens plannen en regels, gekoppeld aan Zorgvuldigheid.",
+    "chapter": 13,
+    "additions": [
+      "Zorgvuldigheid is in neurowetenschappelijk onderzoek onder meer met prefrontale structuren in verband gebracht."
+    ],
+    "importance": 4,
+    "type": "neurobiologisch begrip",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  },
+  {
+    "id": "15e0ad55-3661-42e0-b11d-1038312a886e",
+    "term": {
+      "nl": "Beperkingen van persoonlijkheidsneurowetenschap",
+      "en": "Limitations of personality neuroscience"
+    },
+    "definition": "Methodologische beperkingen waardoor neurologische correlaten van trekken nog onzeker zijn.",
+    "chapter": 13,
+    "additions": [
+      "Neuroimaging is duur en studies gebruiken vaak kleine steekproeven met geringe statistische power.",
+      "Gevonden correlaties identificeren nog niet automatisch causale mechanismen."
+    ],
+    "importance": 5,
+    "type": "kritiek",
+    "source": "flashcards_h12_matthews_02_structuur_en_biologie.json"
+  }
+]

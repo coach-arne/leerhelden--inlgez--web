@@ -1,0 +1,451 @@
+[
+  {
+    "id": "dce68d74-6738-4be2-8a99-db85a3193011",
+    "term": {
+      "nl": "FFM als model voor culturen",
+      "en": "FFM as a model for cultures"
+    },
+    "definition": "Het gebruik van FFM-factoren en -facetten om niet alleen individuen, maar ook nationale of culturele groepen te beschrijven.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk onderscheidt beschrijvingen van ethos, nationaal karakter en geaggregeerde persoonlijkheid.",
+      "Groepsbeschrijving vereist extra psychometrische en interpretatieve voorzichtigheid."
+    ],
+    "importance": 5,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "bcec97a0-9790-40e6-a393-1c1c29511bdc",
+    "term": {
+      "nl": "Ethos",
+      "en": "Ethos"
+    },
+    "definition": "De veronderstelde algemene geest, waardenoriëntatie of culturele stijl die in gewoonten en instituties tot uitdrukking komt.",
+    "chapter": 13,
+    "additions": [
+      "Experts kunnen culturen op FFM-facetten beoordelen om een ethosprofiel te vormen.",
+      "Een ethosbeoordeling is een oordeel over cultuur, niet rechtstreeks het gemiddelde van individuen."
+    ],
+    "importance": 4,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "039e8751-a38a-4625-a4cb-64c8dc847bb5",
+    "term": {
+      "nl": "Nationaal karakter",
+      "en": "National character"
+    },
+    "definition": "Gedeelde overtuigingen over de persoonlijkheid van het typische lid van een natie.",
+    "chapter": 13,
+    "additions": [
+      "Nationaal karakter verwijst in dit hoofdstuk naar stereotypen en niet naar het gemeten gemiddelde persoonlijkheidsprofiel."
+    ],
+    "importance": 5,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "a48dbd7d-fc33-4c25-b2a6-77a21e101287",
+    "term": {
+      "nl": "Autostereotype",
+      "en": "Autostereotype"
+    },
+    "definition": "Een stereotype dat leden van een groep over de typische persoonlijkheid van hun eigen groep hebben.",
+    "chapter": 13,
+    "additions": [
+      "Onderzoek laat zien dat nationale autostereotypen onder beoordelaars behoorlijk betrouwbaar kunnen zijn.",
+      "Betrouwbaarheid betekent niet dat het stereotype accuraat is."
+    ],
+    "importance": 5,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "45183726-e629-4b3e-b00c-788239a9e085",
+    "term": {
+      "nl": "Heterostereotype",
+      "en": "Heterostereotype"
+    },
+    "definition": "Een stereotype dat leden van een andere groep over de typische persoonlijkheid van een natie hebben.",
+    "chapter": 13,
+    "additions": [
+      "Autostereotypen blijken vaak sterk op heterostereotypen te lijken."
+    ],
+    "importance": 3,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "20cbb5c6-e3cc-4ac8-93b5-5da9ef943c24",
+    "term": {
+      "nl": "Consensueel nationaal stereotype",
+      "en": "Consensual national stereotype"
+    },
+    "definition": "Een nationaal persoonlijkheidsbeeld dat ontstaat door oordelen van veel beoordelaars te middelen.",
+    "chapter": 13,
+    "additions": [
+      "Consensus kan hoog zijn doordat beoordelaars dezelfde culturele verhalen of metaforen delen.",
+      "Hoge consensus garandeert geen overeenkomst met gemeten trekkenscores."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "6357175c-10d7-4068-8474-d8f2cd311b5c",
+    "term": {
+      "nl": "Aggregaatpersoonlijkheid",
+      "en": "Aggregate personality"
+    },
+    "definition": "Het gemiddelde persoonlijkheidsprofiel van een land of cultuur, berekend uit individuele zelfrapportages of waarnemersbeoordelingen.",
+    "chapter": 13,
+    "additions": [
+      "Aggregaatscores zijn conceptueel verschillend van stereotypen over de typische burger.",
+      "Hun vergelijkbaarheid hangt af van meetequivalentie tussen culturen."
+    ],
+    "importance": 5,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "817a10eb-9792-4b58-9f0c-3922346cfe6a",
+    "term": {
+      "nl": "Constructequivalentie",
+      "en": "Construct equivalence"
+    },
+    "definition": "De voorwaarde dat een persoonlijkheidsconstruct in verschillende culturen inhoudelijk dezelfde psychologische betekenis heeft.",
+    "chapter": 13,
+    "additions": [
+      "Zonder constructequivalentie kunnen identieke schaallabels verschillende eigenschappen meten."
+    ],
+    "importance": 5,
+    "type": "methodologisch probleem",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "00339508-7589-4e7a-b7f3-d2a9ecbe081c",
+    "term": {
+      "nl": "Scalaire equivalentie",
+      "en": "Scalar equivalence"
+    },
+    "definition": "De voorwaarde dat dezelfde numerieke score in verschillende culturen hetzelfde niveau van een trek vertegenwoordigt.",
+    "chapter": 13,
+    "additions": [
+      "Scalaire equivalentie is noodzakelijk om gemiddelde scores rechtstreeks tussen culturen te vergelijken.",
+      "Vertaalverschillen en uiteenlopende antwoordstijlen kunnen deze equivalentie bedreigen."
+    ],
+    "importance": 5,
+    "type": "methodologisch probleem",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "a06f9c2d-ab81-4eac-897b-ef88d662b9f5",
+    "term": {
+      "nl": "Interne-structuurbewijs",
+      "en": "Internal-structure evidence"
+    },
+    "definition": "Bewijs voor meetequivalentie dat onderzoekt of items, facetten en factoren binnen verschillende culturen op vergelijkbare wijze samenhangen.",
+    "chapter": 13,
+    "additions": [
+      "Een vergelijkbare factorstructuur is ondersteunend, maar op zichzelf niet voldoende voor volledige scalaire equivalentie."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "fd3a86df-233c-4ad5-8ada-96fa0cde42f8",
+    "term": {
+      "nl": "Cross-observerovereenstemming op cultuurniveau",
+      "en": "Cross-observer agreement at the culture level"
+    },
+    "definition": "De overeenstemming tussen gemiddelde cultuurprofielen die door verschillende typen beoordelaars of instrumenten zijn verkregen.",
+    "chapter": 13,
+    "additions": [
+      "Overeenstemming tussen zelfrapportage en waarnemersbeoordeling ondersteunt de geldigheid van aggregaatscores."
+    ],
+    "importance": 4,
+    "type": "onderzoekbevinding",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "3f34f4df-a5dc-4901-b56c-e307c27874bb",
+    "term": {
+      "nl": "Cultuurcorrelaten van Openheid",
+      "en": "Cultural correlates of Openness"
+    },
+    "definition": "Samenhangen tussen het gemiddelde Openheidsniveau van een land en maatschappelijke kenmerken.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk noemt meer buitenlandse investeringen en wetenschappelijke productie in landen met hogere Openheid.",
+      "Correlaties op landniveau bewijzen geen individuele of causale relatie."
+    ],
+    "importance": 3,
+    "type": "crosscultureel onderzoek",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "7fd6212b-5cd5-4d03-92ed-c57a71594957",
+    "term": {
+      "nl": "Persoonlijkheid en milieubeleid",
+      "en": "Personality and environmental policy"
+    },
+    "definition": "De bevinding dat hogere gemiddelde Vriendelijkheid en Openheid samenhangen met progressiever milieubeleid.",
+    "chapter": 13,
+    "additions": [
+      "Dit illustreert de mogelijke maatschappelijke voorspellingswaarde van geaggregeerde trekprofielen."
+    ],
+    "importance": 3,
+    "type": "crosscultureel onderzoek",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "5ccf9efa-31f0-45ea-972c-32befcb479e9",
+    "term": {
+      "nl": "Facetniveau bij cultuurvergelijking",
+      "en": "Facet level in cultural comparison"
+    },
+    "definition": "Het analyseren van specifieke facetten in plaats van uitsluitend vijf brede factorscores bij internationale vergelijking.",
+    "chapter": 13,
+    "additions": [
+      "In het besproken onderzoek was 77% van de facetvergelijkingen significant, met een gemiddelde correlatie van ongeveer .48.",
+      "Facetten kunnen consistente patronen tonen wanneer een brede factor weinig overeenkomst vertoont."
+    ],
+    "importance": 5,
+    "type": "crosscultureel onderzoek",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "0f248e33-b326-4955-a989-2a2d2476225e",
+    "term": {
+      "nl": "Het Vriendelijkheidsparadox op cultuurniveau",
+      "en": "The Agreeableness paradox at the culture level"
+    },
+    "definition": "De bevinding dat de brede factor Vriendelijkheid weinig crossculturele overeenstemming vertoonde, terwijl de zes onderliggende facetten wel duidelijke overeenstemming lieten zien.",
+    "chapter": 13,
+    "additions": [
+      "Dit onderstreept dat brede factoren informatie kunnen verbergen die op facetniveau zichtbaar blijft.",
+      "De oorzaak van dit patroon bleef in het hoofdstuk onopgelost."
+    ],
+    "importance": 4,
+    "type": "onderzoekbevinding",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "9bdf1e08-29d6-4c86-bd01-1c05b966c9a1",
+    "term": {
+      "nl": "Multidimensionale schaling van cultuurprofielen",
+      "en": "Multidimensional scaling of cultural profiles"
+    },
+    "definition": "Een techniek die overeenkomsten tussen nationale persoonlijkheidsprofielen ruimtelijk weergeeft.",
+    "chapter": 13,
+    "additions": [
+      "In figuur 9.2 ligt de horizontale as dicht bij Extraversie en de verticale as dicht bij Neuroticisme.",
+      "Culturen die dicht bij elkaar liggen, hebben vergelijkbaardere gemiddelde facetprofielen."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "953213fa-f648-4002-b08d-50cb19c78505",
+    "term": {
+      "nl": "Geopolitieke clustering",
+      "en": "Geopolitical clustering"
+    },
+    "definition": "Het patroon dat landen met vergelijkbare historische, etnische of culturele achtergronden in analyses van persoonlijkheidsprofielen bij elkaar liggen.",
+    "chapter": 13,
+    "additions": [
+      "De figuur toont een brede tegenstelling tussen Afrikaanse en Aziatische culturen enerzijds en Engelstalige culturen anderzijds."
+    ],
+    "importance": 3,
+    "type": "crosscultureel onderzoek",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "ee91f6c1-c882-482e-aed5-c3b0b889616d",
+    "term": {
+      "nl": "Etnische nabijheid",
+      "en": "Ethnic proximity"
+    },
+    "definition": "De bevinding dat gelijkenis in nationale persoonlijkheidsprofielen soms sterker samenhangt met etniciteit dan met taal of geografische afstand.",
+    "chapter": 13,
+    "additions": [
+      "Als voorbeeld worden Engelstalige Zuid-Afrikanen genoemd die qua profiel dichter bij andere westerse groepen liggen dan bij sommige geografisch nabijgelegen groepen."
+    ],
+    "importance": 3,
+    "type": "crosscultureel onderzoek",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "11e55426-4e13-4aaa-bb28-85b456252d95",
+    "term": {
+      "nl": "Inaccuratesse van nationale stereotypen",
+      "en": "Inaccuracy of national stereotypes"
+    },
+    "definition": "De bevinding dat consensuele beelden van de typische nationale persoonlijkheid vrijwel niet overeenkomen met gemeten aggregaatprofielen.",
+    "chapter": 13,
+    "additions": [
+      "Stereotypen kunnen betrouwbaar gedeeld zijn en toch feitelijk misleidend zijn.",
+      "Dit is een van de sterkste conclusies van het cultuurdeel van het hoofdstuk."
+    ],
+    "importance": 5,
+    "type": "onderzoekbevinding",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "be51eb0e-7de8-40fd-ba64-83ff0e44655e",
+    "term": {
+      "nl": "Canada–Verenigde Staten-contrast",
+      "en": "Canada–United States contrast"
+    },
+    "definition": "Het voorbeeld dat Canadezen en Amerikanen sterk vergelijkbare gemeten trekprofielen hebben, maar in stereotypen als duidelijk verschillend worden voorgesteld.",
+    "chapter": 13,
+    "additions": [
+      "Contrast met een naburige groep kan de culturele beeldvorming versterken."
+    ],
+    "importance": 3,
+    "type": "voorbeeld",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "996240e4-bcb8-41e2-8829-010b4c6b69ab",
+    "term": {
+      "nl": "Brits gereserveerdheidsstereotype",
+      "en": "British reserve stereotype"
+    },
+    "definition": "Het stereotype dat Britten gereserveerd zijn, terwijl gemeten aggregaatprofielen hen juist bij relatief extraverte groepen plaatsen.",
+    "chapter": 13,
+    "additions": [
+      "Het voorbeeld laat zien dat een bekend cultureel beeld niet noodzakelijk een gemiddelde trek weerspiegelt."
+    ],
+    "importance": 3,
+    "type": "voorbeeld",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "f90190f6-0b3e-4fd7-90c8-35166437ecac",
+    "term": {
+      "nl": "Metaforische stereotypering",
+      "en": "Metaphorical stereotyping"
+    },
+    "definition": "Het vormen van persoonlijkheidsbeelden op basis van metaforen, bijvoorbeeld dat inwoners van koude klimaten emotioneel ‘kouder’ zouden zijn.",
+    "chapter": 13,
+    "additions": [
+      "Dergelijke metaforen kunnen consensus creëren zonder dat ze door aggregaatdata worden ondersteund."
+    ],
+    "importance": 3,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "9b82dde3-7e73-4c36-b049-2e0270445769",
+    "term": {
+      "nl": "Contrasteffect bij nationale stereotypen",
+      "en": "Contrast effect in national stereotypes"
+    },
+    "definition": "De neiging een nationale identiteit te beschrijven als het tegenovergestelde van een relevante buurgroep.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk gebruikt de beeldvorming over Amerikanen en Canadezen als voorbeeld."
+    ],
+    "importance": 3,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "ba94ae80-1b67-408d-a830-8de691b95629",
+    "term": {
+      "nl": "Maatschappelijke gevolgen van stereotypen",
+      "en": "Social consequences of stereotypes"
+    },
+    "definition": "De invloed van nationale persoonlijkheidsbeelden op omgang met vreemdelingen, relaties tussen groepen en internationale verhoudingen.",
+    "chapter": 13,
+    "additions": [
+      "Een stereotype hoeft niet accuraat te zijn om sociaal en politiek invloedrijk te zijn.",
+      "Daarom blijft onderzoek naar de oorsprong van stereotypen relevant."
+    ],
+    "importance": 4,
+    "type": "toepassing",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "c36e07b7-9e75-4fd1-acaa-e0ef930e8d6c",
+    "term": {
+      "nl": "Multi-methodisch cultuuronderzoek",
+      "en": "Multi-method cultural research"
+    },
+    "definition": "Onderzoek dat meerdere FFM-instrumenten, zelfrapportages en waarnemersbeoordelingen binnen dezelfde culturen combineert.",
+    "chapter": 13,
+    "additions": [
+      "Het hoofdstuk beveelt deze aanpak aan om meetfouten en methodegebonden conclusies te verminderen."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "da6ff5c7-d808-4c25-81dc-25085730b8c3",
+    "term": {
+      "nl": "Representatieve cultuursamples",
+      "en": "Representative cultural samples"
+    },
+    "definition": "Steekproeven die de bevolking van een land of cultuur voldoende breed weerspiegelen.",
+    "chapter": 13,
+    "additions": [
+      "Grotere en representatievere steekproeven zijn nodig voor betrouwbare kaarten van nationale persoonlijkheidsprofielen."
+    ],
+    "importance": 4,
+    "type": "methodologisch begrip",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "2915f9b7-cced-483a-954f-35e2218f4da9",
+    "term": {
+      "nl": "Universaliteit met culturele expressie",
+      "en": "Universality with cultural expression"
+    },
+    "definition": "De conclusie dat de brede FFM-structuur internationaal sterk terugkomt, terwijl uitingsvormen, gemiddelde niveaus en bepaalde lagere-ordekenmerken cultureel kunnen verschillen.",
+    "chapter": 13,
+    "additions": [
+      "Universaliteit betekent niet dat alle culturen identieke gemiddelden of stereotypen hebben.",
+      "Ook goede vertaling en meetequivalentie blijven noodzakelijk."
+    ],
+    "importance": 5,
+    "type": "kritische evaluatie",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "c8b085af-1aa1-4788-8035-344b01782044",
+    "term": {
+      "nl": "Robuustheid van het FFM",
+      "en": "Robustness of the FFM"
+    },
+    "definition": "De brede ondersteuning van het model door verschillende meetmethoden, levensfasen, culturen, beoordelaars en voorspellende toepassingen.",
+    "chapter": 13,
+    "additions": [
+      "Robuustheid is een reden voor wetenschappelijke consensus, maar sluit structurele en theoretische controverses niet uit."
+    ],
+    "importance": 5,
+    "type": "kritische evaluatie",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  },
+  {
+    "id": "47339f01-de5a-4ce4-be50-608b7cda263d",
+    "term": {
+      "nl": "Kritische eindbeoordeling van het FFM",
+      "en": "Critical overall evaluation of the FFM"
+    },
+    "definition": "Het oordeel dat het FFM een zeer bruikbaar, omvattend en internationaal toepasbaar classificatiekader is, maar geen definitieve verklaring van persoonlijkheid.",
+    "chapter": 13,
+    "additions": [
+      "Sterke punten zijn replicatie, hiërarchische detaillering en voorspellende waarde.",
+      "Beperkingen betreffen causaliteit, facetkeuze, hogere-ordefactoren, neurobiologische mechanismen en crossculturele vergelijkbaarheid."
+    ],
+    "importance": 5,
+    "type": "kritische evaluatie",
+    "source": "flashcards_h12_matthews_03_cultuur_en_evaluatie.json"
+  }
+]

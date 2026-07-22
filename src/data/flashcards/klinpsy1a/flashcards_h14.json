@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "0ad99c98-8434-416f-a290-ac4fe9aaa5ec",
+    "term": {
+      "nl": "Temperament",
+      "en": "Temperament"
+    },
+    "definition": "Constitutioneel gebaseerde individuele verschillen in emotionele, motorische en aandachtsreactiviteit en in zelfregulatie, die relatief consistent zijn over situaties en relatief stabiel over de tijd.",
+    "chapter": 14,
+    "additions": [
+      "Temperament wordt al vroeg in de ontwikkeling zichtbaar.",
+      "Het hoofdstuk benadrukt dat temperament door ervaringen en ontwikkeling kan veranderen en dus niet volledig vastligt."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "723e265b-1f4c-489f-9ebc-e2ee330b48f4",
+    "term": {
+      "nl": "Constitutioneel gebaseerd",
+      "en": "Constitutionally based"
+    },
+    "definition": "Gebaseerd op de biologische constitutie van het individu, waaronder neurogedragsmatige systemen en genetische invloeden.",
+    "chapter": 14,
+    "additions": [
+      "De term betekent niet dat omgevingsinvloeden afwezig zijn."
+    ],
+    "importance": 5,
+    "type": "biologisch begrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "fcfe87c1-49e3-4ded-908f-f99bf55d1c57",
+    "term": {
+      "nl": "Reactiviteit",
+      "en": "Reactivity"
+    },
+    "definition": "De snelheid waarmee een reactie begint, de snelheid waarmee zij toeneemt, haar intensiteit en haar duur na stimulatie.",
+    "chapter": 14,
+    "additions": [
+      "Reactiviteit kan emotioneel, motorisch of aandachtsgerelateerd zijn."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "d4f78edc-80ec-416b-8eeb-9bd8a2f48d4c",
+    "term": {
+      "nl": "Zelfregulatie",
+      "en": "Self-regulation"
+    },
+    "definition": "Processen waarmee iemand zijn of haar reactiviteit moduleert, bijvoorbeeld door aandacht te richten, gedrag te remmen of zichzelf te kalmeren.",
+    "chapter": 14,
+    "additions": [
+      "Zelfregulatie omvat onder meer benadering, terugtrekking, inhibitie en zelfstimulatie."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "df78cd95-1ff6-4598-87af-dbf9677e78f9",
+    "term": {
+      "nl": "Relatieve stabiliteit van temperament",
+      "en": "Relative stability of temperament"
+    },
+    "definition": "De tendens dat individuele verschillen in temperament door de tijd herkenbaar blijven, zonder dat temperament volledig onveranderlijk is.",
+    "chapter": 14,
+    "additions": [
+      "Nieuwe situaties en ontwikkelingsfasen kunnen een andere uitingsvorm vereisen.",
+      "Trauma, opvoeding en andere ervaringen kunnen reactiviteit en zelfregulatie beïnvloeden."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "235b18fc-7423-4f59-81e4-2f28369d2238",
+    "term": {
+      "nl": "Temperament als meervoudig systeem",
+      "en": "Temperament as multiple systems"
+    },
+    "definition": "De opvatting dat temperament niet uit één enkel systeem bestaat, maar uit meerdere reactieve en regulerende systemen die elkaar kunnen versterken of remmen.",
+    "chapter": 14,
+    "additions": [
+      "Angst kan bijvoorbeeld benadering remmen, terwijl terugtrekking angstige reacties verder kan beïnvloeden."
+    ],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "20dbc3d5-2974-4d45-9ee2-4a8fc147e670",
+    "term": {
+      "nl": "Temperament en persoonlijkheid",
+      "en": "Temperament and personality"
+    },
+    "definition": "Temperament betreft vroeg waarneembare reactieve en regulerende verschillen; persoonlijkheid is breder en omvat ook later ontwikkelende kenmerken zoals attitudes, zelfbeeld en sociale aanpassingen.",
+    "chapter": 14,
+    "additions": [
+      "Temperament vormt een belangrijke ontwikkelingsbasis voor persoonlijkheid."
+    ],
+    "importance": 5,
+    "type": "onderscheid",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "f4f5943d-df85-4fea-89ec-247d1f35f07c",
+    "term": {
+      "nl": "Situationele expressie van temperament",
+      "en": "Situational expression of temperament"
+    },
+    "definition": "Het principe dat een temperamentstendens zichtbaar wordt in verhouding tot de eisen en mogelijkheden van een specifieke situatie.",
+    "chapter": 14,
+    "additions": [
+      "Een kind kan bij een onbekende persoon benadering tonen, huilen of zich terugtrekken."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "5a6f7d46-650a-47d8-b10b-1ef90de1ec96",
+    "term": {
+      "nl": "Epigenetische invloed",
+      "en": "Epigenetic influence"
+    },
+    "definition": "Een duurzame verandering in genexpressie door omgevingsinvloeden, zonder dat de DNA-sequentie zelf verandert.",
+    "chapter": 14,
+    "additions": [
+      "Stress, opvoeding en trauma kunnen via epigenetische processen de ontwikkeling van reactieve en regulerende systemen beïnvloeden."
+    ],
+    "importance": 5,
+    "type": "genetica",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "8e02faed-ea29-41ec-b57e-5be5a15af66c",
+    "term": {
+      "nl": "Resting-state fMRI",
+      "en": "Resting-state fMRI"
+    },
+    "definition": "Een beeldvormingstechniek waarmee functionele verbindingen tussen hersengebieden in rust worden onderzocht.",
+    "chapter": 14,
+    "additions": [
+      "De techniek maakt het mogelijk de ontwikkeling van aandachts- en andere hersennetwerken vroeg in het leven te volgen."
+    ],
+    "importance": 3,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "64658861-30ab-40b9-8dc8-439de5fb7f2f",
+    "term": {
+      "nl": "Vier temperamenten",
+      "en": "Four temperaments"
+    },
+    "definition": "De historische typologie waarin melancholisch, cholerisch, sanguinisch en flegmatisch temperament aan verschillende lichaamssappen werden gekoppeld.",
+    "chapter": 14,
+    "additions": [
+      "Het model is historisch belangrijk, maar biedt geen moderne wetenschappelijke verklaring."
+    ],
+    "importance": 4,
+    "type": "historisch model",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "735d3cd4-e9ff-482d-be6b-6e0a5cf920d8",
+    "term": {
+      "nl": "Melancholisch temperament",
+      "en": "Melancholic temperament"
+    },
+    "definition": "Het historische temperamenttype dat werd gekoppeld aan zwarte gal en werd beschreven als rustig, somber en kwetsbaar voor melancholie.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 2,
+    "type": "historisch begrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "4360807f-c812-4256-b977-9fad57b16b47",
+    "term": {
+      "nl": "Cholerisch temperament",
+      "en": "Choleric temperament"
+    },
+    "definition": "Het historische temperamenttype dat werd gekoppeld aan gele gal en werd beschreven als prikkelbaar, actief en agressief.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 2,
+    "type": "historisch begrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "1c321fef-e54d-4be8-a83a-9c9f7cf87f38",
+    "term": {
+      "nl": "Sanguinisch temperament",
+      "en": "Sanguine temperament"
+    },
+    "definition": "Het historische temperamenttype dat werd gekoppeld aan bloed en werd beschreven als sociaal, opgewekt en gemakkelijk benaderend.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 2,
+    "type": "historisch begrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "879f7acd-32d6-4dd0-aa13-15f2272335dd",
+    "term": {
+      "nl": "Flegmatisch temperament",
+      "en": "Phlegmatic temperament"
+    },
+    "definition": "Het historische temperamenttype dat werd gekoppeld aan slijm en werd beschreven als rustig, gelijkmatig en traag reagerend.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 2,
+    "type": "historisch begrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "af198614-8b8c-43a8-b503-dc3f85af2c31",
+    "term": {
+      "nl": "Pavloviaanse temperamentbenadering",
+      "en": "Pavlovian approach to temperament"
+    },
+    "definition": "Een psychobiologische benadering waarin temperamentverschillen worden verklaard vanuit eigenschappen van excitatie en inhibitie in het zenuwstelsel.",
+    "chapter": 14,
+    "additions": [
+      "Pavlov baseerde deze ideeën op verschillen tussen honden tijdens conditionering."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "faa51e1c-4dda-4fa6-bd0b-61886e23cb5d",
+    "term": {
+      "nl": "Sterk zenuwstelsel",
+      "en": "Strong nervous system"
+    },
+    "definition": "Een zenuwstelsel dat volgens Pavlov intensieve of langdurige stimulatie kan verdragen zonder de geconditioneerde respons snel te verliezen.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 3,
+    "type": "biologisch begrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "2e4889e4-167c-44e9-9e58-380787ab5b50",
+    "term": {
+      "nl": "Zwak zenuwstelsel",
+      "en": "Weak nervous system"
+    },
+    "definition": "Een zenuwstelsel dat volgens Pavlov relatief snel ontregeld of overbelast raakt bij intense of langdurige stimulatie.",
+    "chapter": 14,
+    "additions": [
+      "Later onderzoek koppelde een zwakker zenuwstelsel aan lagere sensorische drempels."
+    ],
+    "importance": 3,
+    "type": "biologisch begrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "83f6bc22-8877-4eef-8c7f-af82d9f89d22",
+    "term": {
+      "nl": "Sensorische drempel",
+      "en": "Sensory threshold"
+    },
+    "definition": "De minimale intensiteit van een prikkel die nodig is om een waarneembare reactie uit te lokken.",
+    "chapter": 14,
+    "additions": [
+      "In onderzoek van Nebylitsyn en Gray hadden personen met een zwakker zenuwstelsel gemiddeld lagere sensorische drempels."
+    ],
+    "importance": 3,
+    "type": "meetbegrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "6141d09f-5c58-42be-8c0b-c44186da2b66",
+    "term": {
+      "nl": "Vragenlijstonderzoek naar temperament",
+      "en": "Questionnaire research on temperament"
+    },
+    "definition": "Onderzoek waarin brede temperamentdimensies worden afgeleid uit antwoorden op gestandaardiseerde items, vaak met factoranalyse.",
+    "chapter": 14,
+    "additions": [
+      "Vroege studies leverden onder meer Extraversie, Neuroticisme en een voorloper van Effortful Control op."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "7fdcc513-66dc-48c1-9e01-87a3c650da4e",
+    "term": {
+      "nl": "Extraversie–Introversie volgens Eysenck",
+      "en": "Extraversion–Introversion in Eysenck's model"
+    },
+    "definition": "Een temperamentdimensie die Eysenck koppelde aan individuele verschillen in corticale activatie en behoefte aan stimulatie.",
+    "chapter": 14,
+    "additions": [
+      "Extraversie werd later in temperamentonderzoek verbonden met Surgency."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "85d386c5-bc5e-4a48-aecc-8d3abbc3e511",
+    "term": {
+      "nl": "Neuroticisme volgens Eysenck",
+      "en": "Neuroticism in Eysenck's model"
+    },
+    "definition": "Een temperamentdimensie van emotionele instabiliteit die Eysenck koppelde aan de werking en reactiviteit van het limbische systeem.",
+    "chapter": 14,
+    "additions": [
+      "Hoge scores wijzen op sterkere en gemakkelijker opgewekte negatieve emotionele reacties."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "c7bea858-8725-4262-b4e4-d245cbe4bedf",
+    "term": {
+      "nl": "Gedragsactivatiesysteem",
+      "en": "Behavioral Activation System (BAS)"
+    },
+    "definition": "Gray's systeem dat gevoelig is voor signalen van beloning en toenadering en gedrag activeert richting gewenste uitkomsten.",
+    "chapter": 14,
+    "additions": [
+      "BAS wordt inhoudelijk verbonden met Extraversie, beloningsgevoeligheid en sensatiezoeken."
+    ],
+    "importance": 5,
+    "type": "biologisch model",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "cbc3b851-14ac-45e1-91ee-29f89391f75f",
+    "term": {
+      "nl": "Gedragsinhibitiesysteem",
+      "en": "Behavioral Inhibition System (BIS)"
+    },
+    "definition": "Gray's systeem dat gevoelig is voor straf, onzekerheid en conflict en dat waakzaamheid, angst en gedragsremming bevordert.",
+    "chapter": 14,
+    "additions": [
+      "Het BIS is breder dan Kagan's construct gedragsinhibitie tegenover onbekende stimuli."
+    ],
+    "importance": 5,
+    "type": "biologisch model",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "6ab85d8b-1dc9-4013-a378-23703456cee4",
+    "term": {
+      "nl": "Fight-or-flight-systeem",
+      "en": "Fight-or-flight system"
+    },
+    "definition": "Een verdedigingssysteem dat reacties van vechten of vluchten activeert bij een waargenomen bedreiging.",
+    "chapter": 14,
+    "additions": [
+      "Gray gebruikte dit systeem naast BAS en BIS om temperamentverschillen te beschrijven."
+    ],
+    "importance": 3,
+    "type": "biologisch model",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "d429a226-d9bc-4414-a3e3-e3fcd83a1828",
+    "term": {
+      "nl": "Effectieve ervaring",
+      "en": "Effective experience"
+    },
+    "definition": "Escalona's idee dat de betekenis en impact van een gebeurtenis afhangen van hoe een kind die gebeurtenis vanuit zijn eigen temperament ervaart.",
+    "chapter": 14,
+    "additions": [
+      "Dezelfde stevige knuffel kan voor het ene kind prettig en voor het andere kind belastend zijn."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "813d993c-766d-47ce-ac66-321d0fc179a0",
+    "term": {
+      "nl": "New York Longitudinal Study",
+      "en": "New York Longitudinal Study (NYLS)"
+    },
+    "definition": "Het longitudinale onderzoek van Thomas en Chess waarin ouderinterviews werden gebruikt om vroege individuele verschillen in temperament te beschrijven.",
+    "chapter": 14,
+    "additions": [
+      "Het onderzoek identificeerde negen temperamentdimensies en drie bekende temperamentprofielen."
+    ],
+    "importance": 5,
+    "type": "onderzoek",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "c720cf88-afc0-4ef4-bdd8-2c57a786b3d3",
+    "term": {
+      "nl": "Activiteitsniveau",
+      "en": "Activity level"
+    },
+    "definition": "De hoeveelheid en intensiteit van motorische activiteit.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "ced60fdd-02bb-413b-88f8-3f176ed8c2de",
+    "term": {
+      "nl": "Ritmiek",
+      "en": "Rhythmicity"
+    },
+    "definition": "De regelmaat en voorspelbaarheid van biologische functies zoals slapen, eten en uitscheiding.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "ea8977c2-2b60-46f5-b54c-ce364e8fdc66",
+    "term": {
+      "nl": "Benadering–terugtrekking",
+      "en": "Approach–withdrawal"
+    },
+    "definition": "De eerste positieve of negatieve reactie op nieuwe personen, voorwerpen of situaties.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 5,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "6f4acd1c-ca90-4507-bc0e-8dec07039ed0",
+    "term": {
+      "nl": "Aanpasbaarheid",
+      "en": "Adaptability"
+    },
+    "definition": "Het gemak waarmee een reactie wordt gewijzigd wanneer een situatie nieuw is of verandert.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "587f6633-0cab-4db4-8aea-ce3790583c68",
+    "term": {
+      "nl": "Reactiedrempel",
+      "en": "Threshold of responsiveness"
+    },
+    "definition": "De intensiteit van stimulatie die nodig is voordat een kind reageert.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "7140093c-d940-4874-a6db-ed211e20de31",
+    "term": {
+      "nl": "Reactie-intensiteit",
+      "en": "Intensity of reaction"
+    },
+    "definition": "De hoeveelheid energie waarmee een kind reageert, onafhankelijk van de positieve of negatieve richting.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "c9476f37-d148-4ec9-bf25-1d74eedc9182",
+    "term": {
+      "nl": "Stemming",
+      "en": "Mood"
+    },
+    "definition": "De verhouding tussen aangename, positieve reacties en onaangename, negatieve reacties.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "ca04d0fb-0624-4c68-a5ba-2c98c21e5b24",
+    "term": {
+      "nl": "Afleidbaarheid",
+      "en": "Distractibility"
+    },
+    "definition": "De mate waarin externe prikkels de richting van het lopende gedrag veranderen.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "8b037070-2f3a-4ca7-97df-24880281c59a",
+    "term": {
+      "nl": "Aandachtsspanne en volharding",
+      "en": "Attention span and persistence"
+    },
+    "definition": "De duur waarmee een activiteit wordt volgehouden, ook wanneer frustratie optreedt.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 5,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "38b47876-ad9a-486b-8ab5-b97d60f9e92b",
+    "term": {
+      "nl": "Gemakkelijk temperament",
+      "en": "Easy temperament"
+    },
+    "definition": "Een NYLS-profiel met regelmatige ritmes, positieve stemming, benadering van nieuwe situaties en relatief goede aanpassing.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 3,
+    "type": "temperamenttype",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "fdca6bbe-92f5-43a5-a2bc-3adf099f295d",
+    "term": {
+      "nl": "Moeilijk temperament",
+      "en": "Difficult temperament"
+    },
+    "definition": "Een NYLS-profiel met onregelmatigheid, negatieve stemming, sterke reacties, terugtrekking en trage aanpassing.",
+    "chapter": 14,
+    "additions": [
+      "Het label is bekritiseerd omdat het vaag is en het kind kan stigmatiseren."
+    ],
+    "importance": 4,
+    "type": "temperamenttype",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "8c252d52-8f92-4add-bf4b-2790cd8daa81",
+    "term": {
+      "nl": "Langzaam-opwarmend temperament",
+      "en": "Slow-to-warm-up temperament"
+    },
+    "definition": "Een NYLS-profiel waarbij een kind eerst terughoudend en negatief reageert op nieuwigheid, maar zich geleidelijk aanpast na herhaalde blootstelling.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 3,
+    "type": "temperamenttype",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "d50edaf2-fab8-4735-9f24-96aeea2ce857",
+    "term": {
+      "nl": "Kritiek op gedragsstijl",
+      "en": "Critique of temperament as behavioral style"
+    },
+    "definition": "De kritiek dat Thomas en Chess temperament vooral als het 'hoe' van gedrag beschreven, zonder voldoende te specificeren welke emotionele, aandachts- en regulatieprocessen eronder liggen.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "kritiek",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "0d3ad705-b57a-4684-a29d-19c2838194cb",
+    "term": {
+      "nl": "Gedragsinhibitie volgens Kagan",
+      "en": "Behavioral inhibition in Kagan's research"
+    },
+    "definition": "Een relatief stabiele neiging tot angstige terugtrekking, motorische spanning en voorzichtigheid tegenover onbekende personen, voorwerpen of situaties.",
+    "chapter": 14,
+    "additions": [
+      "Vroege distress en motorische reactiviteit kunnen latere verlegenheid voorspellen.",
+      "Gedragsinhibitie hangt samen met internaliserende problemen, waaronder angst."
+    ],
+    "importance": 5,
+    "type": "temperamentconstruct",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "cc2b80bf-e1b9-458a-9afe-2b78cb9b0674",
+    "term": {
+      "nl": "Vroege hoogreactiviteit",
+      "en": "Early high reactivity"
+    },
+    "definition": "Sterke motorische activiteit en distress bij nieuwe stimuli in de babytijd, die in Kagan's onderzoek een risico-indicator vormden voor latere gedragsinhibitie.",
+    "chapter": 14,
+    "additions": [
+      "Niet ieder hoogreactief kind ontwikkelt blijvende inhibitie."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "7d0d5eb4-12eb-4949-8185-1f721ddcba26",
+    "term": {
+      "nl": "Amygdala en gedragsinhibitie",
+      "en": "Amygdala and behavioral inhibition"
+    },
+    "definition": "De bevinding dat personen die als kind gedragsmatig geïnhibeerd waren later sterkere amygdalaresponsen op onbekende gezichten kunnen tonen.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "neurowetenschap",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "1b7a6760-3549-495e-8917-264ae73ea126",
+    "term": {
+      "nl": "Multimethodische meting",
+      "en": "Multimethod assessment"
+    },
+    "definition": "Het combineren van ouderrapportage, laboratoriumobservatie, natuurlijke observatie, fysiologische maten en cognitieve taken om temperament betrouwbaarder te beoordelen.",
+    "chapter": 14,
+    "additions": [
+      "Geen enkele meetmethode is op zichzelf volledig vrij van vertekening of contextbeperking."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "c750a1af-1b5f-433b-84f7-500eb3ac9e85",
+    "term": {
+      "nl": "Ouderrapportage",
+      "en": "Parent report"
+    },
+    "definition": "Een temperamentmeting waarbij ouders de frequentie van concreet gedrag van hun kind in alledaagse situaties rapporteren.",
+    "chapter": 14,
+    "additions": [
+      "Voordeel: ouders zien veel gedrag over tijd en contexten; nadeel: perceptie- en antwoordbias."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "368d31a7-2ac0-4f83-90f3-41fce6996a0a",
+    "term": {
+      "nl": "Laboratoriumobservatie",
+      "en": "Laboratory observation"
+    },
+    "definition": "Directe observatie van reacties op gestandaardiseerde stimuli in een gecontroleerde omgeving.",
+    "chapter": 14,
+    "additions": [
+      "Beperkingen zijn kunstmatigheid, beperkte steekproef van gedrag en mogelijke carry-over tussen taken."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "5bb7f26f-652e-463d-a606-24850cf64896",
+    "term": {
+      "nl": "Convergentie tussen meetmethoden",
+      "en": "Convergence across methods"
+    },
+    "definition": "Overeenstemming tussen resultaten uit verschillende meetmethoden, wat de constructvaliditeit van temperamentmaten ondersteunt.",
+    "chapter": 14,
+    "additions": [
+      "Ouderbeoordelingen en onafhankelijke observaties convergeren regelmatig, maar niet perfect."
+    ],
+    "importance": 4,
+    "type": "psychometrie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "894ae7c4-ced9-4eb8-9b92-bdfd4d351e6a",
+    "term": {
+      "nl": "Terminologische overlap",
+      "en": "Terminological overlap"
+    },
+    "definition": "Het probleem dat dezelfde term voor verschillende constructen wordt gebruikt, of verschillende termen voor sterk verwante constructen.",
+    "chapter": 14,
+    "additions": [
+      "Kagan's gedragsinhibitie tegenover nieuwigheid is bijvoorbeeld smaller dan Gray's BIS."
+    ],
+    "importance": 4,
+    "type": "methodologisch probleem",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "98defe5c-6372-4e29-a9d7-ae6fee800f4e",
+    "term": {
+      "nl": "Rothbarts meetbenadering",
+      "en": "Rothbart's measurement approach"
+    },
+    "definition": "Een benadering die temperament meet via frequente, concrete gedragingen in duidelijk omschreven situaties, in plaats van via globale labels.",
+    "chapter": 14,
+    "additions": [
+      "Deze aanpak leverde psychometrisch betrouwbaardere functionele schalen op dan sommige klassieke NYLS-stijldimensies."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "75c4d4c5-81f5-4bf8-a55b-8b8aa21113e0",
+    "term": {
+      "nl": "Surgency",
+      "en": "Surgency"
+    },
+    "definition": "Een brede temperamentfactor van hoge activiteit, impulsiviteit, sociabiliteit, benadering en plezier in intense stimulatie.",
+    "chapter": 14,
+    "additions": [
+      "Surgency vertoont sterke inhoudelijke overlap met Extraversie en positieve emotionaliteit."
+    ],
+    "importance": 5,
+    "type": "temperamentfactor",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "86bffd32-385f-4f97-9826-8be4d1789b75",
+    "term": {
+      "nl": "Negatieve affectiviteit",
+      "en": "Negative affectivity"
+    },
+    "definition": "Een brede temperamentfactor van angst, boosheid of frustratie, verdriet en lichamelijk ongemak.",
+    "chapter": 14,
+    "additions": [
+      "De factor vertoont overlap met Neuroticisme, maar bevat verschillende te onderscheiden negatieve emoties."
+    ],
+    "importance": 5,
+    "type": "temperamentfactor",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "55e100ff-9383-48e8-9b6d-1277cb6eaaae",
+    "term": {
+      "nl": "Effortful Control",
+      "en": "Effortful Control"
+    },
+    "definition": "Het vermogen om vrijwillig aandacht te richten of te verschuiven, een dominante respons te remmen en een minder dominante maar doelgerichte respons uit te voeren.",
+    "chapter": 14,
+    "additions": [
+      "Effortful Control ondersteunt emotieregulatie, gedragsregulatie en doelgericht handelen.",
+      "De factor is ontwikkelingsmatig verbonden met Consciëntieusheid."
+    ],
+    "importance": 5,
+    "type": "temperamentfactor",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "72785fbd-fddd-4d9e-a5ad-c98b64c434df",
+    "term": {
+      "nl": "Oriënterende sensitiviteit",
+      "en": "Orienting sensitivity"
+    },
+    "definition": "De neiging subtiele prikkels in de omgeving en het lichaam op te merken en spontane perceptuele of cognitieve inhoud te ervaren.",
+    "chapter": 14,
+    "additions": [
+      "Bij volwassenen vertoont deze dimensie een sterke relatie met Openheid voor Ervaringen."
+    ],
+    "importance": 4,
+    "type": "temperamentfactor",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "d13811ad-f469-4c0f-876d-e9e3e5b70d67",
+    "term": {
+      "nl": "Temperament–Big-Five-koppelingen",
+      "en": "Temperament–Big Five correspondences"
+    },
+    "definition": "De empirische overeenkomsten tussen brede temperamentfactoren en volwassen persoonlijkheidsfactoren.",
+    "chapter": 14,
+    "additions": [
+      "Surgency hangt samen met Extraversie.",
+      "Effortful Control hangt samen met Consciëntieusheid.",
+      "Angst en negatieve affectiviteit hangen samen met Neuroticisme.",
+      "Frustratie of boosheid hangt samen met lagere Vriendelijkheid.",
+      "Oriënterende sensitiviteit hangt samen met Openheid."
+    ],
+    "importance": 5,
+    "type": "integratiemodel",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "5c9d900f-9d55-4336-8fdb-29523e6a72e5",
+    "term": {
+      "nl": "Emotiespecifieke hersenpatronen",
+      "en": "Emotion-specific brain patterns"
+    },
+    "definition": "De bevinding dat primaire emoties gedeeltelijk verschillende corticale en subcorticale activatiepatronen hebben.",
+    "chapter": 14,
+    "additions": [
+      "De patronen worden niet volledig verklaard door alleen valentie en arousal."
+    ],
+    "importance": 4,
+    "type": "neurowetenschap",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "672363bb-3ddc-4d1d-ba80-2a24e3e17b04",
+    "term": {
+      "nl": "Valentie",
+      "en": "Valence"
+    },
+    "definition": "De positieve of negatieve gevoelswaarde van een emotionele toestand of stimulus.",
+    "chapter": 14,
+    "additions": [
+      "Valentie is nuttig, maar onvoldoende om alle primaire emoties neuronaal van elkaar te onderscheiden."
+    ],
+    "importance": 3,
+    "type": "emotiebegrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "df2c98b1-4589-4f58-9ee6-c1d29a0c3d43",
+    "term": {
+      "nl": "Arousal",
+      "en": "Arousal"
+    },
+    "definition": "De mate van fysiologische of psychologische activatie die met een emotie of stimulus gepaard gaat.",
+    "chapter": 14,
+    "additions": [
+      "Emoties met vergelijkbare arousal kunnen toch verschillende hersenpatronen vertonen."
+    ],
+    "importance": 3,
+    "type": "emotiebegrip",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "3d6a3e7f-c07d-4c39-9c24-8ac014ac71bd",
+    "term": {
+      "nl": "Amygdala",
+      "en": "Amygdala"
+    },
+    "definition": "Een complex van structuren dat betrokken is bij zowel positieve als negatieve emotionele verwerking en bij leren over beloning en straf.",
+    "chapter": 14,
+    "additions": [
+      "Verschillende delen en neuronpopulaties reageren verschillend op beloning, straf en angst."
+    ],
+    "importance": 5,
+    "type": "hersenstructuur",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "fceedd0d-4769-4970-95e2-f863442ab5a5",
+    "term": {
+      "nl": "Nucleus accumbens",
+      "en": "Nucleus accumbens"
+    },
+    "definition": "Een kerngebied dat sterk betrokken is bij beloning, positieve bekrachtiging en toenaderingsmotivatie.",
+    "chapter": 14,
+    "additions": [
+      "Het hoofdstuk contrasteert beloningsgerelateerde circuits met strafgerelateerde amygdalacircuits."
+    ],
+    "importance": 4,
+    "type": "hersenstructuur",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "805a0d08-8f2e-4798-ad89-065fc241ae34",
+    "term": {
+      "nl": "Centrale amygdala",
+      "en": "Central amygdala"
+    },
+    "definition": "Een deel van de amygdala dat vooral betrokken is bij reacties op bedreiging, straf en defensief gedrag.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "hersenstructuur",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "34a6484f-b094-475a-85f6-a8ba049f3bb1",
+    "term": {
+      "nl": "Executief aandachtsnetwerk",
+      "en": "Executive attention network"
+    },
+    "definition": "Een netwerk dat conflicten oplost, aandacht controleert en top-downregulatie van gedrag en emotie ondersteunt.",
+    "chapter": 14,
+    "additions": [
+      "Het netwerk vormt een neurale basis van Effortful Control."
+    ],
+    "importance": 5,
+    "type": "hersennetwerk",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "cee9cdc2-e337-4f4f-9e82-cfcf13393593",
+    "term": {
+      "nl": "Anterieure cingulate cortex",
+      "en": "Anterior cingulate cortex (ACC)"
+    },
+    "definition": "Een kernstructuur van het executieve aandachtsnetwerk die betrokken is bij conflictmonitoring, cognitieve controle en emotieregulatie.",
+    "chapter": 14,
+    "additions": [
+      "De ACC bevat gebieden met verschillende cognitieve en emotionele functies."
+    ],
+    "importance": 5,
+    "type": "hersenstructuur",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "14e9d2c1-3fb9-4bf4-a559-937656b74b4a",
+    "term": {
+      "nl": "Anterieure insula",
+      "en": "Anterior insula"
+    },
+    "definition": "Een hersengebied dat samen met de ACC betrokken is bij executieve aandacht, bewuste gewaarwording en integratie van lichamelijke en emotionele signalen.",
+    "chapter": 14,
+    "additions": [
+      "ACC en anterieure insula bevatten projectiecellen met lange verbindingen naar andere hersengebieden."
+    ],
+    "importance": 5,
+    "type": "hersenstructuur",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "eb3af669-e221-474a-9c64-4b856570e8bd",
+    "term": {
+      "nl": "Dorsale ACC",
+      "en": "Dorsal ACC"
+    },
+    "definition": "Het meer dorsale deel van de ACC dat vooral wordt gekoppeld aan cognitief conflict en cognitieve controle.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 4,
+    "type": "hersenstructuur",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "33b21c56-6f97-4b10-b302-ba9d99805835",
+    "term": {
+      "nl": "Ventrale ACC",
+      "en": "Ventral ACC"
+    },
+    "definition": "Het meer ventrale deel van de ACC dat sterker wordt gekoppeld aan emotioneel conflict en regulatie van emotionele reacties.",
+    "chapter": 14,
+    "additions": [
+      "Emotionele taken kunnen ook de amygdala activeren."
+    ],
+    "importance": 4,
+    "type": "hersenstructuur",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "49fb323f-1c8f-49c9-8b43-e02fb0515365",
+    "term": {
+      "nl": "Attention Network Test",
+      "en": "Attention Network Test (ANT)"
+    },
+    "definition": "Een cognitieve taak die onder meer de efficiëntie van conflictresolutie door het executieve aandachtsnetwerk meet.",
+    "chapter": 14,
+    "additions": [
+      "Reactietijdverschillen tussen congruente en incongruente flankers worden als maat gebruikt."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "e7c1e03c-1ae4-45ad-9d31-4f10d05763b4",
+    "term": {
+      "nl": "Flankertaak",
+      "en": "Flanker task"
+    },
+    "definition": "Een taak waarin een doelstimulus wordt omringd door congruente of incongruente stimuli, zodat aandachtsconflict ontstaat.",
+    "chapter": 14,
+    "additions": [
+      "De taak wordt gebruikt om cognitieve en emotionele conflictoplossing te onderzoeken."
+    ],
+    "importance": 4,
+    "type": "experiment",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "2a1657a5-c5fd-4bee-89e1-65d82a1677c2",
+    "term": {
+      "nl": "Afleiding als emotieregulatie",
+      "en": "Distraction as emotion regulation"
+    },
+    "definition": "Een strategie waarbij aandacht wordt weggericht van een negatieve stimulus om de emotionele respons te verminderen.",
+    "chapter": 14,
+    "additions": [
+      "Afleiding verlaagde in het besproken onderzoek de amygdala-activiteit vaak sterker dan herwaardering."
+    ],
+    "importance": 4,
+    "type": "regulatiestrategie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "1da3ca40-2051-4356-a8fb-0973d638f50a",
+    "term": {
+      "nl": "Herwaardering",
+      "en": "Reappraisal"
+    },
+    "definition": "Een emotieregulatiestrategie waarbij de betekenis van een situatie of stimulus opnieuw wordt geïnterpreteerd.",
+    "chapter": 14,
+    "additions": [
+      "Herwaardering kan subjectieve negatieve emotie en amygdala-activiteit verminderen."
+    ],
+    "importance": 4,
+    "type": "regulatiestrategie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "662abb76-0d8e-41b4-9de3-703e40786b6a",
+    "term": {
+      "nl": "ACC–amygdalaconnectiviteit",
+      "en": "ACC–amygdala connectivity"
+    },
+    "definition": "Functionele verbinding tussen controleprocessen in de ACC en emotionele verwerking in de amygdala.",
+    "chapter": 14,
+    "additions": [
+      "Deze connectiviteit neemt tijdens de normale ontwikkeling toe en ondersteunt betere emotieregulatie."
+    ],
+    "importance": 5,
+    "type": "hersennetwerk",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "579b6332-792a-4fd3-a631-dd4d9c4744a2",
+    "term": {
+      "nl": "Candidate-gene-benadering",
+      "en": "Candidate gene approach"
+    },
+    "definition": "Onderzoek waarin vooraf geselecteerde genetische varianten worden getest op samenhang met temperament, cognitie of psychopathologie.",
+    "chapter": 14,
+    "additions": [
+      "Belangrijke problemen zijn selectiebias, kleine effecten en beperkte replicatie.",
+      "Het hoofdstuk adviseert grote steekproeven, multisiteonderzoek en sterke theoretische onderbouwing."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "79d11ad1-c815-4069-9463-acd895fdd74e",
+    "term": {
+      "nl": "Polymorfisme",
+      "en": "Polymorphism"
+    },
+    "definition": "Het voorkomen van meerdere relatief veelvoorkomende genetische varianten op dezelfde plaats of binnen hetzelfde gen in een populatie.",
+    "chapter": 14,
+    "additions": [
+      "Een polymorfisme is niet hetzelfde als een directe genetische oorzaak van gedrag."
+    ],
+    "importance": 5,
+    "type": "genetica",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "1baf6624-281c-4be5-9388-52e9b763e721",
+    "term": {
+      "nl": "Single nucleotide polymorphism",
+      "en": "Single nucleotide polymorphism (SNP)"
+    },
+    "definition": "Een genetische variant waarbij individuen op één nucleotidepositie van elkaar verschillen.",
+    "chapter": 14,
+    "additions": [
+      "COMT val158met is een voorbeeld van een SNP."
+    ],
+    "importance": 4,
+    "type": "genetica",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "52522663-b7af-4c0c-a20d-b540b495da51",
+    "term": {
+      "nl": "COMT",
+      "en": "Catechol-O-methyltransferase (COMT)"
+    },
+    "definition": "Een enzym dat dopamine en andere catecholaminen afbreekt en daardoor de beschikbaarheid van dopamine, vooral in de prefrontale cortex, beïnvloedt.",
+    "chapter": 14,
+    "additions": [
+      "COMT-variatie is onderzocht in relatie tot executieve functies, sensatiezoeken en Extraversie."
+    ],
+    "importance": 5,
+    "type": "gen",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "6267c95a-8fbe-4e3d-b066-70a3f98726b8",
+    "term": {
+      "nl": "COMT val158met",
+      "en": "COMT val158met"
+    },
+    "definition": "Een COMT-polymorfisme dat de efficiëntie van dopamineafbraak verandert.",
+    "chapter": 14,
+    "additions": [
+      "Bij volwassenen wordt het Met-allel doorgaans gekoppeld aan minder efficiënte COMT-werking en meer prefrontale dopamine.",
+      "De gevonden cognitieve en temperamentverbanden zijn niet steeds consistent."
+    ],
+    "importance": 5,
+    "type": "genvariant",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "af069108-a0ec-4bf2-ae5d-5245b3b47821",
+    "term": {
+      "nl": "Omgekeerde U-relatie van dopamine",
+      "en": "Inverted-U relationship of dopamine"
+    },
+    "definition": "Het principe dat zowel te weinig als te veel dopamine ongunstig kan zijn voor cognitieve prestaties, terwijl een tussenniveau optimaal is.",
+    "chapter": 14,
+    "additions": [
+      "Hierdoor kan dezelfde COMT-variant op verschillende leeftijden verschillende of zelfs tegengestelde effecten hebben."
+    ],
+    "importance": 5,
+    "type": "biologisch model",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "70f58603-8406-46c0-84ae-5a6d08637510",
+    "term": {
+      "nl": "Ontwikkelingsafhankelijk COMT-effect",
+      "en": "Developmentally dependent COMT effect"
+    },
+    "definition": "De hypothese dat de invloed van COMT op cognitie en temperament verandert met de leeftijd doordat dopaminebeschikbaarheid en COMT-activiteit zich ontwikkelen.",
+    "chapter": 14,
+    "additions": [
+      "COMT-activiteit is vroeg in het leven lager dan in de volwassenheid."
+    ],
+    "importance": 4,
+    "type": "gen-ontwikkeling",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "8d8f2d28-81c9-40ea-98ad-791be2440bfd",
+    "term": {
+      "nl": "DRD4",
+      "en": "Dopamine D4 receptor gene (DRD4)"
+    },
+    "definition": "Een gen voor de dopamine-D4-receptor waarvan herhalingsvarianten zijn onderzocht in relatie tot beloningsgevoeligheid, exploratie, impulsiviteit en aandacht.",
+    "chapter": 14,
+    "additions": [],
+    "importance": 5,
+    "type": "gen",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "fb925a6e-957f-4659-aee1-99e81756006e",
+    "term": {
+      "nl": "DRD4 7-repeat",
+      "en": "DRD4 7-repeat allele"
+    },
+    "definition": "Een veel onderzochte variant met zeven herhalingen in exon 3 van DRD4, die de dopamine-signaaloverdracht kan beïnvloeden.",
+    "chapter": 14,
+    "additions": [
+      "De variant is in verschillende studies gekoppeld aan sensatiezoeken, exploratie, hyperactiviteit en ADHD-gerelateerde kenmerken.",
+      "De resultaten wijzen niet op een enkelvoudige of deterministische relatie."
+    ],
+    "importance": 5,
+    "type": "genvariant",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "b1e0c1b5-5853-46a4-b28f-83c395e4d227",
+    "term": {
+      "nl": "Differentiële vatbaarheid bij DRD4",
+      "en": "Differential susceptibility involving DRD4"
+    },
+    "definition": "De hypothese dat sommige DRD4-varianten kinderen gevoeliger maken voor zowel nadelige als ondersteunende omgevingen.",
+    "chapter": 14,
+    "additions": [
+      "Kinderen met de 7-repeatvariant kunnen sterker reageren op opvoedingskwaliteit en in sommige studies meer profiteren van oudertraining."
+    ],
+    "importance": 5,
+    "type": "gen-omgevingsinteractie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "c75ff9e4-1c1a-4531-989b-3669a955ec7b",
+    "term": {
+      "nl": "Diathese-stressinterpretatie",
+      "en": "Diathesis–stress interpretation"
+    },
+    "definition": "Een model waarin een biologische of temperamentkwetsbaarheid vooral negatieve uitkomsten voorspelt wanneer een belastende omgeving aanwezig is.",
+    "chapter": 14,
+    "additions": [
+      "Sommige DRD4-opvoedingsbevindingen passen beter bij diathese-stress dan bij volledige differentiële vatbaarheid."
+    ],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "f2f70db4-9cf5-4ee0-b1f0-79d2917bfc66",
+    "term": {
+      "nl": "5-HTTLPR",
+      "en": "5-HTTLPR"
+    },
+    "definition": "Een herhalingspolymorfisme in de promotorregio van het serotonine-transporter-gen dat de genexpressie en serotonineheropname beïnvloedt.",
+    "chapter": 14,
+    "additions": [
+      "De belangrijkste varianten worden doorgaans als kort en lang allel beschreven."
+    ],
+    "importance": 5,
+    "type": "genvariant",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "df7edfea-36b8-4316-bca4-958968788b3d",
+    "term": {
+      "nl": "Kort 5-HTTLPR-allel",
+      "en": "Short 5-HTTLPR allele"
+    },
+    "definition": "Een variant die gemiddeld met minder transporterproductie en minder serotonineheropname wordt geassocieerd.",
+    "chapter": 14,
+    "additions": [
+      "De variant is onderzocht in relatie tot stressreactiviteit, angst, depressie, neuroticisme en aandachtsbias.",
+      "Grote studies en meta-analyses hebben veel inconsistente bevindingen opgeleverd."
+    ],
+    "importance": 5,
+    "type": "genvariant",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "6713bde9-ae00-4942-98eb-e477c56bd483",
+    "term": {
+      "nl": "Aandachtsbias voor dreiging",
+      "en": "Attentional bias to threat"
+    },
+    "definition": "De neiging om aandacht sneller of langer op bedreigende informatie te richten.",
+    "chapter": 14,
+    "additions": [
+      "Onderzoek koppelt deze bias aan angstige temperamentstendensen en amygdala-activiteit, maar genetische resultaten zijn wisselend."
+    ],
+    "importance": 4,
+    "type": "cognitief mechanisme",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "883201ae-eb54-40da-9f5d-6030526d3b03",
+    "term": {
+      "nl": "Gen–geninteractie",
+      "en": "Gene–gene interaction"
+    },
+    "definition": "Een situatie waarin de invloed van een genetische variant afhangt van een variant in een ander gen.",
+    "chapter": 14,
+    "additions": [
+      "Het hoofdstuk bespreekt gezamenlijke effecten van DRD4 en 5-HTTLPR op vroege negatieve emotionaliteit."
+    ],
+    "importance": 4,
+    "type": "genetica",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "f629d6b4-0919-4ca4-8766-a392447345a7",
+    "term": {
+      "nl": "MTHFR",
+      "en": "Methylenetetrahydrofolate reductase (MTHFR)"
+    },
+    "definition": "Een enzym in het folaatmetabolisme dat via de beschikbaarheid van methylgroepen een rol speelt in DNA-methylering en epigenetische regulatie.",
+    "chapter": 14,
+    "additions": [
+      "MTHFR-polymorfismen zijn onderzocht in relatie tot temperament, aandacht en meerdere psychische aandoeningen."
+    ],
+    "importance": 5,
+    "type": "gen",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "ebe493c6-85a3-4301-a836-7fb237cbef8c",
+    "term": {
+      "nl": "DNA-methylering",
+      "en": "DNA methylation"
+    },
+    "definition": "Een epigenetisch proces waarbij methylgroepen aan DNA worden toegevoegd en zo genexpressie kunnen verhogen of verlagen.",
+    "chapter": 14,
+    "additions": [
+      "Methylatie verandert doorgaans niet de DNA-sequentie zelf."
+    ],
+    "importance": 5,
+    "type": "epigenetica",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "8aff7681-593a-4643-9e05-133a32f4a41e",
+    "term": {
+      "nl": "Methylatie en infanttemperament",
+      "en": "Methylation and infant temperament"
+    },
+    "definition": "De bevinding dat variatie in DNA-methylering bij pasgeborenen samenhing met later door ouders gerapporteerde temperamentkenmerken.",
+    "chapter": 14,
+    "additions": [
+      "In de besproken studie waren hogere methylatieniveaus verbonden met internaliserende kenmerken en Surgency."
+    ],
+    "importance": 3,
+    "type": "onderzoeksbevinding",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "3671106e-46ff-487c-8189-d9efac4f4475",
+    "term": {
+      "nl": "Multilevelbenadering",
+      "en": "Multilevel approach"
+    },
+    "definition": "Een onderzoeksstrategie die genetische variatie, genexpressie, hersennetwerken, gedrag, ontwikkeling en omgeving gezamenlijk bestudeert.",
+    "chapter": 14,
+    "additions": [
+      "Het hoofdstuk beschouwt dit als noodzakelijk om complexe temperamentverschillen te begrijpen."
+    ],
+    "importance": 5,
+    "type": "onderzoekskader",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "6f8d66a4-b8d2-4e57-86ee-33470b412b50",
+    "term": {
+      "nl": "Optogenetica",
+      "en": "Optogenetics"
+    },
+    "definition": "Een dierexperimentele techniek waarmee specifieke neuronen met licht kunnen worden geactiveerd of geremd.",
+    "chapter": 14,
+    "additions": [
+      "De methode biedt mogelijkheden om causale functies van angst-, belonings- en aandachtsnetwerken te testen."
+    ],
+    "importance": 3,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "7c413ab7-dc64-4bfd-a83c-d6060c790012",
+    "term": {
+      "nl": "Executieve-aandachtstraining",
+      "en": "Executive attention training"
+    },
+    "definition": "Training die de efficiëntie van aandachtscontrole en conflictresolutie probeert te verbeteren.",
+    "chapter": 14,
+    "additions": [
+      "Cognitieve training, meditatie en lichamelijke oefening kunnen executieve aandacht versterken, maar individuele verschillen in trainingswinst blijven een onderzoeksvraag."
+    ],
+    "importance": 4,
+    "type": "interventie",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "73a72d7c-7310-40c5-b44e-6259b76d6998",
+    "term": {
+      "nl": "Vroege zelfcontrole als voorspeller",
+      "en": "Early self-control as a predictor"
+    },
+    "definition": "De bevinding dat vroege individuele verschillen in zelfcontrole samenhangen met belangrijke uitkomsten op latere leeftijd.",
+    "chapter": 14,
+    "additions": [
+      "Dit ondersteunt onderzoek naar vroege, gerichte versterking van Effortful Control."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  },
+  {
+    "id": "83e18a11-1722-43cc-932d-8f574c902eb6",
+    "term": {
+      "nl": "Plasticiteit van temperament",
+      "en": "Plasticity of temperament"
+    },
+    "definition": "Het vermogen van temperamentgerelateerde systemen om onder invloed van ontwikkeling, ervaring en interventie te veranderen.",
+    "chapter": 14,
+    "additions": [
+      "Plasticiteit maakt geïndividualiseerde opvoeding, onderwijs en behandeling in principe mogelijk."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h14_temperament_brain_networks.json"
+  }
+]

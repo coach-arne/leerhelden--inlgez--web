@@ -21,6 +21,11 @@ import flashcardsH11_03_eysenck from '../../flashcards/klinpsy1a/flashcards_h11_
 import flashcardsH12_01_basis from '../../flashcards/klinpsy1a/flashcards_h12_01_basis.json'
 import flashcardsH12_02_big_five from '../../flashcards/klinpsy1a/flashcards_h12_02_big_five.json'
 import flashcardsH12_03_alternatieven from '../../flashcards/klinpsy1a/flashcards_h12_03_alternatieven.json'
+import flashcardsH13_matthews_01 from '../../flashcards/klinpsy1a/flashcards_h13_matthews_01.json'
+import flashcardsH13_matthews_02 from '../../flashcards/klinpsy1a/flashcards_h13_matthews_02.json'
+import flashcardsH13_matthews_03 from '../../flashcards/klinpsy1a/flashcards_h13_matthews_03.json'
+import flashcardsH14 from '../../flashcards/klinpsy1a/flashcards_h14.json'
+import flashcardsH15 from '../../flashcards/klinpsy1a/flashcards_h15.json'
 
 // --- Exams ---
 
@@ -45,6 +50,11 @@ const FLASHCARD_SOURCE_ENTRIES: FlashcardSourceEntry[] = [
   { source: 'flashcards_h12_01_basis.json', cards: flashcardsH12_01_basis as RawFlashcard[] },
   { source: 'flashcards_h12_02_big_five.json', cards: flashcardsH12_02_big_five as RawFlashcard[] },
   { source: 'flashcards_h12_03_alternatieven.json', cards: flashcardsH12_03_alternatieven as RawFlashcard[] },
+  { source: 'flashcards_h13_matthews_01.json', cards: flashcardsH13_matthews_01 as RawFlashcard[] },
+  { source: 'flashcards_h13_matthews_02.json', cards: flashcardsH13_matthews_02 as RawFlashcard[] },
+  { source: 'flashcards_h13_matthews_03.json', cards: flashcardsH13_matthews_03 as RawFlashcard[] },
+  { source: 'flashcards_h14.json', cards: flashcardsH14 as RawFlashcard[] },
+  { source: 'flashcards_h15.json', cards: flashcardsH15 as RawFlashcard[] },
 
 ]
 
@@ -52,7 +62,7 @@ const flashcards: Flashcard[] = FLASHCARD_SOURCE_ENTRIES.flatMap(({ source, card
   cards.map((c) => ({ ...c, source })),
 )
 const flashcardSources: string[] = FLASHCARD_SOURCE_ENTRIES.map((e) => e.source)
-const chapterNumbers = [1, 2, 3, 4, 5, 6, 7, 11, 12] as const
+const chapterNumbers = [1, 2, 3, 4, 5, 6, 7, 11, 12, 13, 14, 15] as const
 
 // ---- Exams setup ----
 

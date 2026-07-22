@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "129e4ff4-0271-4344-9ffa-6b73cf9dbbcb",
+    "term": {
+      "nl": "Temperament",
+      "en": "Temperament"
+    },
+    "definition": "Vroeg optredende en biologisch beïnvloede individuele verschillen die een kern vormen van de zich ontwikkelende persoonlijkheid.",
+    "chapter": 15,
+    "additions": [
+      "Temperament is al in de eerste levensjaren meetbaar; sommige kenmerken zijn vanaf de geboorte of mogelijk prenataal zichtbaar.",
+      "Vergelijkbare eigenschappen worden ook bij niet-menselijke soorten aangetroffen."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d789deb0-9b84-4047-bc05-ef7e986e9405",
+    "term": {
+      "nl": "Persoonlijkheid",
+      "en": "Personality"
+    },
+    "definition": "Een breder geheel van relatief kenmerkende eigenschappen, attitudes, zelfconcepten en andere sociaal-cognitieve kenmerken.",
+    "chapter": 15,
+    "additions": [
+      "Temperament is een biologisch gefundeerde deelverzameling binnen het bredere persoonlijkheidsdomein."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "3c9ee559-106d-4875-97bb-f4dc65bebee0",
+    "term": {
+      "nl": "Temperament–persoonlijkheidsonderscheid",
+      "en": "Temperament–personality distinction"
+    },
+    "definition": "Het conceptuele onderscheid waarbij temperament vroege biologische reactiviteit en regulatie omvat, terwijl persoonlijkheid ook later ontwikkelende attitudes, waarden en zelfbeelden bevat.",
+    "chapter": 15,
+    "additions": [
+      "De twee domeinen overlappen conceptueel en empirisch, maar zijn niet identiek."
+    ],
+    "importance": 5,
+    "type": "onderscheid",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "f4595028-a92a-4775-a1da-75d88ef32e70",
+    "term": {
+      "nl": "Ontwikkelingsperspectief",
+      "en": "Developmental perspective"
+    },
+    "definition": "Een benadering waarin temperament en persoonlijkheid worden bestudeerd als processen die van de vroege kindertijd tot de volwassenheid veranderen en continuïteit vertonen.",
+    "chapter": 15,
+    "additions": [
+      "De relevantie van een temperamentkenmerk hangt mede af van ontwikkelingsopgaven en context."
+    ],
+    "importance": 5,
+    "type": "onderzoekskader",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "16dc54a4-db04-4ecf-9d4d-eb2abbc23a3d",
+    "term": {
+      "nl": "Dimensioneel temperamentmodel",
+      "en": "Dimensional temperament model"
+    },
+    "definition": "Een model waarin personen op continue temperamentdimensies worden geplaatst in plaats van in strikt gescheiden typen.",
+    "chapter": 15,
+    "additions": [
+      "Veel hedendaagse modellen combineren meerdere dimensies tot bredere factoren."
+    ],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "2d6a3380-2131-4a0d-b75c-9eb7edf11663",
+    "term": {
+      "nl": "Temperamenttypologie",
+      "en": "Temperament typology"
+    },
+    "definition": "Een indeling van personen in categorieën op basis van karakteristieke combinaties van temperamentkenmerken.",
+    "chapter": 15,
+    "additions": [
+      "Historische vier-typenmodellen en de NYLS-profielen zijn voorbeelden."
+    ],
+    "importance": 3,
+    "type": "model",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "e8a4bdb3-cdec-4a8a-85cb-e9ae11bdc103",
+    "term": {
+      "nl": "Melancholisch temperament",
+      "en": "Melancholic temperament"
+    },
+    "definition": "Het historische type dat met zwarte gal en verdriet of somberheid werd verbonden.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 2,
+    "type": "historisch begrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "3a4818b0-5638-4587-8b9c-02aa0404889f",
+    "term": {
+      "nl": "Cholerisch temperament",
+      "en": "Choleric temperament"
+    },
+    "definition": "Het historische type dat met gele gal en boosheid of prikkelbaarheid werd verbonden.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 2,
+    "type": "historisch begrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "335f9f6b-424f-4613-a466-96adb54b15c1",
+    "term": {
+      "nl": "Sanguinisch temperament",
+      "en": "Sanguine temperament"
+    },
+    "definition": "Het historische type dat met bloed en positief affect of sociabiliteit werd verbonden.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 2,
+    "type": "historisch begrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "be7777b8-bbbd-4c5e-ac5c-2cb2b54e7103",
+    "term": {
+      "nl": "Flegmatisch temperament",
+      "en": "Phlegmatic temperament"
+    },
+    "definition": "Het historische type dat met slijm en een rustige, langzaam-opwarmende stijl werd verbonden.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 2,
+    "type": "historisch begrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "5a09de3d-7c74-4b06-a415-2a8667da1c08",
+    "term": {
+      "nl": "Introversie–Extraversie",
+      "en": "Introversion–Extraversion"
+    },
+    "definition": "Een vroege brede dimensie van gereserveerd en solitair gedrag tegenover energiek, sociaal en uitgaand gedrag.",
+    "chapter": 15,
+    "additions": [
+      "Eysenck maakte deze dimensie tot een kernonderdeel van zijn temperamentmodel."
+    ],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "80b84a25-c186-4463-91c4-cf779b6ca157",
+    "term": {
+      "nl": "Emotionele stabiliteit–instabiliteit",
+      "en": "Emotional stability–instability"
+    },
+    "definition": "Een brede dimensie van kalme, weinig stressreactieve emotionele stabiliteit tegenover sterke negatieve reactiviteit, later doorgaans Neuroticisme genoemd.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "333777ca-db6e-43d6-9051-cfc39471c182",
+    "term": {
+      "nl": "Gray's herziening",
+      "en": "Gray's revision"
+    },
+    "definition": "Een herformulering van temperament rond gevoeligheid voor beloning, straf en bedreiging in plaats van alleen Extraversie en Neuroticisme.",
+    "chapter": 15,
+    "additions": [
+      "De belangrijkste systemen zijn gedragsactivatie, gedragsinhibitie en fight/flight."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "57634d65-087b-4a44-9634-b99d73f35740",
+    "term": {
+      "nl": "Cross-speciescriterium",
+      "en": "Cross-species criterion"
+    },
+    "definition": "Het idee dat een temperamentkenmerk sterker als biologisch fundamenteel geldt wanneer analoge eigenschappen ook bij andere diersoorten voorkomen.",
+    "chapter": 15,
+    "additions": [
+      "Buss en Plomin namen aanwezigheid bij dieren op als criterium voor temperament."
+    ],
+    "importance": 4,
+    "type": "theoretisch criterium",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "bb59a064-634e-49eb-a1c2-442a478207d1",
+    "term": {
+      "nl": "New York Longitudinal Study",
+      "en": "New York Longitudinal Study (NYLS)"
+    },
+    "definition": "Het invloedrijke longitudinale onderzoek van Thomas en Chess naar vroege individuele verschillen in de stijl waarmee kinderen gedrag uitvoeren.",
+    "chapter": 15,
+    "additions": [
+      "Het onderzoek introduceerde negen dimensies, drie bekende typen en het goodness-of-fitprincipe."
+    ],
+    "importance": 5,
+    "type": "onderzoek",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "4082129d-621f-480d-9176-713ec03c0220",
+    "term": {
+      "nl": "Temperament als het 'hoe' van gedrag",
+      "en": "Temperament as the 'how' of behavior"
+    },
+    "definition": "Thomas en Chess' opvatting dat temperament vooral de stijl of manier beschrijft waarop gedrag wordt uitgevoerd, niet de inhoud van het gedrag zelf.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "0a6f11bb-646f-400c-b682-f6c59f98d700",
+    "term": {
+      "nl": "Activiteit",
+      "en": "Activity"
+    },
+    "definition": "Het niveau, tempo en de frequentie van motorische activiteit.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "eb8670cb-9980-49b8-9b83-09d93400da15",
+    "term": {
+      "nl": "Benadering–terugtrekking",
+      "en": "Approach–withdrawal"
+    },
+    "definition": "De eerste positieve of negatieve reactie op onbekende personen, voorwerpen of situaties.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 5,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "999efc97-b881-49a1-b01b-d48c4ed15244",
+    "term": {
+      "nl": "Drempel",
+      "en": "Threshold"
+    },
+    "definition": "De intensiteit van stimulatie die nodig is om een reactie uit te lokken.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "0c795408-5ca6-4a7e-9e76-54200a15e76e",
+    "term": {
+      "nl": "Stemming",
+      "en": "Mood"
+    },
+    "definition": "De mate van aangenaam, vrolijk en vriendelijk gedrag tegenover onaangenaam, huilend en onvriendelijk gedrag.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "e847e850-eb55-4348-acf7-d1e3ad667dd8",
+    "term": {
+      "nl": "Intensiteit",
+      "en": "Intensity"
+    },
+    "definition": "Het energieniveau van de reactie, los van de soort of richting van die reactie.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "434aea6e-b77f-401e-a39e-2db356473bf7",
+    "term": {
+      "nl": "Ritmiek",
+      "en": "Rhythmicity"
+    },
+    "definition": "De regelmaat en voorspelbaarheid van slaap, voeding, honger en uitscheiding.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "79d6ebdc-1f56-453c-bf6c-d5685045519e",
+    "term": {
+      "nl": "Aanpassingsvermogen",
+      "en": "Adaptability"
+    },
+    "definition": "Het gemak waarmee een respons aan een nieuwe of gewijzigde situatie wordt aangepast.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "8e822024-b42c-4a13-acc9-31c831ed2e81",
+    "term": {
+      "nl": "Afleidbaarheid",
+      "en": "Distractibility"
+    },
+    "definition": "De mate waarin externe stimuli het gedrag onderbreken of van richting doen veranderen.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "f8a49af7-ad65-46f7-8dd8-14600f0a884f",
+    "term": {
+      "nl": "Aandachtsspanne en volharding",
+      "en": "Attention span and persistence"
+    },
+    "definition": "De duur en voortzetting van activiteiten, ook wanneer frustratie ontstaat.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 5,
+    "type": "temperamentdimensie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "1b842f0f-535f-4db9-8d88-073ec2e37fb8",
+    "term": {
+      "nl": "Makkelijk temperament",
+      "en": "Easy temperament"
+    },
+    "definition": "Een NYLS-profiel met regelmatige biologische ritmes, positieve benadering van nieuwigheid en relatief hoge frustratietolerantie.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 3,
+    "type": "temperamenttype",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d8bc6551-27e1-46c8-990e-b4f8baab25d3",
+    "term": {
+      "nl": "Moeilijk temperament",
+      "en": "Difficult temperament"
+    },
+    "definition": "Een NYLS-profiel met lage ritmiek, sterke terugtrekking, trage aanpassing, frequente negatieve stemming en intense reacties.",
+    "chapter": 15,
+    "additions": [
+      "Een dergelijke profielnaam kan problematisch worden wanneer zij als vast en negatief etiket wordt gebruikt."
+    ],
+    "importance": 4,
+    "type": "temperamenttype",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d95540c5-1047-4f87-a68f-8fe3a3ba6a2e",
+    "term": {
+      "nl": "Langzaam-opwarmend kind",
+      "en": "Slow-to-warm-up child"
+    },
+    "definition": "Een kind dat eerst negatief en terughoudend reageert op nieuwe situaties, maar deze na herhaalde blootstelling geleidelijk accepteert.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 3,
+    "type": "temperamenttype",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c99d48f3-4ed8-429d-95be-0ffe7503bfd5",
+    "term": {
+      "nl": "Goodness-of-fit",
+      "en": "Goodness of fit"
+    },
+    "definition": "De mate waarin de kenmerken van een kind passen bij de eisen, verwachtingen en steun van de omgeving.",
+    "chapter": 15,
+    "additions": [
+      "Een goede match bevordert positieve aanpassing.",
+      "Een slechte match kan problemen veroorzaken zonder dat het temperament op zichzelf pathologisch is."
+    ],
+    "importance": 5,
+    "type": "ontwikkelingsmodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "cf1b1d90-59bf-4ba7-8a99-b9296b043b3a",
+    "term": {
+      "nl": "Buss en Plomins temperamentcriteria",
+      "en": "Buss and Plomin's temperament criteria"
+    },
+    "definition": "Vijf criteria voor temperament: voorkomen bij dieren, adaptieve functie, erfelijkheid, vroeg verschijnen en stabiliteit, en weinig verandering over de tijd.",
+    "chapter": 15,
+    "additions": [
+      "De criteria zijn relatief streng en sluiten veranderlijkere ontwikkelingskenmerken uit."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d4c0a433-f77d-4737-bef3-0cf1b3fbd536",
+    "term": {
+      "nl": "Emotionaliteit–Activiteit–Sociabiliteit",
+      "en": "Emotionality–Activity–Sociability (EAS)"
+    },
+    "definition": "De drie temperamentdimensies die volgens Buss en Plomin het duidelijkst aan hun strenge criteria voldeden.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "model",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "08e3f4c7-0370-4e78-a3f2-2c0a7c5f1b49",
+    "term": {
+      "nl": "Goldsmith–Campos-model",
+      "en": "Goldsmith–Campos model"
+    },
+    "definition": "Een model waarin temperament wordt opgevat als individuele verschillen in het ervaren en uiten van primaire emoties.",
+    "chapter": 15,
+    "additions": [
+      "Het model benadrukt frequentie, intensiteit, expressie en herkenning van emoties in sociale interacties."
+    ],
+    "importance": 4,
+    "type": "theorie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "b78a4c64-8f58-4ed6-8e3d-2c5354d47206",
+    "term": {
+      "nl": "Primaire emoties",
+      "en": "Primary emotions"
+    },
+    "definition": "Basale emotionele systemen zoals angst, boosheid, verdriet, vreugde, walging, interesse en verrassing.",
+    "chapter": 15,
+    "additions": [
+      "Goldsmith en Campos beschouwden individuele verschillen in deze emoties als de kern van temperament."
+    ],
+    "importance": 4,
+    "type": "emotiebegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "711b2bbc-6b2b-481f-ae7b-8497ffdee501",
+    "term": {
+      "nl": "Psychobiologisch temperamentmodel",
+      "en": "Psychobiological model of temperament"
+    },
+    "definition": "Rothbart en Derryberry's model waarin temperament bestaat uit constitutioneel gebaseerde reactiviteit en zelfregulatie in emotionele, motorische en aandachtsdomeinen.",
+    "chapter": 15,
+    "additions": [
+      "Het model verbindt temperamentdimensies met neurogedragsmatige systemen en ontwikkelingsprocessen."
+    ],
+    "importance": 5,
+    "type": "theorie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "b6cadb21-d12b-4fd7-8bf5-05db7b8cdc17",
+    "term": {
+      "nl": "Reactiviteit",
+      "en": "Reactivity"
+    },
+    "definition": "De latentie, stijgsnelheid, intensiteit en duur van een reactie op stimulatie.",
+    "chapter": 15,
+    "additions": [
+      "Emotionele reactiviteit omvat onder meer angst, boosheid, verdriet en positieve emoties."
+    ],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c52fe9dc-6db9-4aca-abff-eedeb0b61ba6",
+    "term": {
+      "nl": "Zelfregulatie",
+      "en": "Self-regulation"
+    },
+    "definition": "Processen die reactiviteit moduleren, waaronder benadering, terugtrekking, inhibitie en executieve aandacht.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 5,
+    "type": "kernbegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "5c1d6936-2eb8-44d6-8ad2-611514b9563d",
+    "term": {
+      "nl": "Children's Behavior Questionnaire",
+      "en": "Children's Behavior Questionnaire (CBQ)"
+    },
+    "definition": "Een fijnmazige oudervragenlijst die meerdere afzonderlijke temperamentdimensies bij kinderen meet.",
+    "chapter": 15,
+    "additions": [
+      "Voorbeelden zijn activiteit, impulsiviteit, angst, boosheid/frustratie, verdriet, troostbaarheid, inhibitiecontrole en aandachtsfocus.",
+      "De afzonderlijke schalen vormen bredere hogere-ordefactoren."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "7873f50f-b5cf-4a3a-9737-6e24f53f61f1",
+    "term": {
+      "nl": "Negatieve emotionaliteit",
+      "en": "Negative emotionality"
+    },
+    "definition": "Een hogere-ordefactor van de neiging angst, boosheid, verdriet en lichamelijk ongemak te ervaren en te uiten.",
+    "chapter": 15,
+    "additions": [
+      "De factor lijkt op Neuroticisme in volwassen persoonlijkheidsmodellen."
+    ],
+    "importance": 5,
+    "type": "temperamentfactor",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "716d00d5-784e-47a9-9f6a-7d06eaccda4d",
+    "term": {
+      "nl": "Surgency",
+      "en": "Surgency"
+    },
+    "definition": "Een hogere-ordefactor van activiteit, toenadering, lachen, plezier in intense prikkels, enthousiasme en sociabiliteit.",
+    "chapter": 15,
+    "additions": [
+      "De term wordt vaak uitwisselbaar gebruikt met positieve emotionaliteit en Extraversie."
+    ],
+    "importance": 5,
+    "type": "temperamentfactor",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "43e6255c-8979-4f3d-9364-aed98be8a74f",
+    "term": {
+      "nl": "Regulatiecapaciteit",
+      "en": "Regulatory capacity"
+    },
+    "definition": "Een hogere-ordefactor van aandachts- en gedragsregulatie, waaronder Effortful Control en plezier in rustige activiteiten.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 5,
+    "type": "temperamentfactor",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "25453802-5bdb-4a34-982b-67e0aeda4e40",
+    "term": {
+      "nl": "Oriënterende sensitiviteit",
+      "en": "Orienting sensitivity"
+    },
+    "definition": "Een volwassen temperamentdimensie van gevoeligheid voor subtiele omgevings- en lichaamssignalen en spontane cognitieve inhoud.",
+    "chapter": 15,
+    "additions": [
+      "De dimensie correleert sterk met Openheid voor Ervaringen."
+    ],
+    "importance": 4,
+    "type": "temperamentfactor",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d347989a-17d2-4bc0-9754-2fa94923faad",
+    "term": {
+      "nl": "Gedragsinhibitie volgens Kagan",
+      "en": "Behavioral inhibition in Kagan's research"
+    },
+    "definition": "Aarzeling om nieuwe of onbekende voorwerpen, personen en situaties te benaderen.",
+    "chapter": 15,
+    "additions": [
+      "Geïnhibeerde kinderen zijn vaak voorzichtig, verlegen, angstig en motorisch gespannen."
+    ],
+    "importance": 5,
+    "type": "temperamentconstruct",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "1cea1cab-176f-413e-90e6-b57d8eb8b8fb",
+    "term": {
+      "nl": "Fysiologisch profiel van inhibitie",
+      "en": "Physiological profile of inhibition"
+    },
+    "definition": "Een patroon van hogere en stabielere hartslag, grotere spierspanning en hogere cortisolwaarden bij geïnhibeerde kinderen.",
+    "chapter": 15,
+    "additions": [
+      "De bevindingen ondersteunen een biologische component, maar maken het profiel niet onveranderlijk."
+    ],
+    "importance": 4,
+    "type": "psychofysiologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "98cab6ed-78a7-41a5-9f56-9b9636828604",
+    "term": {
+      "nl": "Ongeïnhibeerd temperament",
+      "en": "Uninhibited temperament"
+    },
+    "definition": "Een profiel van sociale toenadering, extraversie, relatief weinig angst en weinig motorische terughoudendheid in nieuwe situaties.",
+    "chapter": 15,
+    "additions": [
+      "Ongeïnhibeerd gedrag kan zowel lage angst als hoge motivatie voor intense nieuwigheid weerspiegelen."
+    ],
+    "importance": 4,
+    "type": "temperamentconstruct",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "091c30c7-28f5-4343-b9fe-5e77740dbc89",
+    "term": {
+      "nl": "Sensory Processing Sensitivity",
+      "en": "Sensory Processing Sensitivity (SPS)"
+    },
+    "definition": "Een genetisch beïnvloede dispositie tot diepere of uitgebreidere verwerking van stimuli, subtiele waarneming en hoge emotionele reactiviteit.",
+    "chapter": 15,
+    "additions": [
+      "SPS is niet gelijk aan een stoornis en kan zowel voordelen als kwetsbaarheden opleveren."
+    ],
+    "importance": 5,
+    "type": "temperamentconstruct",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "9441f86c-2938-4a18-b4ec-34bedcdfa520",
+    "term": {
+      "nl": "Highly Sensitive Person Scale",
+      "en": "Highly Sensitive Person Scale (HSP Scale)"
+    },
+    "definition": "Een zelfrapportage-instrument met 27 items voor Sensory Processing Sensitivity.",
+    "chapter": 15,
+    "additions": [
+      "Onderzoek verschilt van mening over de vraag of SPS één dimensie of meerdere samenhangende componenten omvat."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "0b1bba7d-7d14-4e69-a979-c4b44a0bf360",
+    "term": {
+      "nl": "Pauzeren-om-te-controleren",
+      "en": "Pause-to-check strategy"
+    },
+    "definition": "Een evolutionair geïnterpreteerde strategie waarbij een gevoelig individu eerst informatie grondig verwerkt voordat het handelt.",
+    "chapter": 15,
+    "additions": [
+      "Deze strategie kan voordeel bieden in risicovolle of complexe situaties."
+    ],
+    "importance": 4,
+    "type": "evolutionair begrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "ffeeb95f-d74c-46cf-95bb-0d55589671c5",
+    "term": {
+      "nl": "Negatieve frequentieafhankelijkheid",
+      "en": "Negative frequency dependence"
+    },
+    "definition": "Het evolutionaire principe dat een gedragsstrategie vooral voordeel heeft wanneer slechts een minderheid van de populatie haar gebruikt.",
+    "chapter": 15,
+    "additions": [
+      "SPS wordt in het hoofdstuk als mogelijke minderheidsstrategie besproken."
+    ],
+    "importance": 3,
+    "type": "evolutionair model",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "4dee5796-04de-44ba-a5a3-639bdd0ae08f",
+    "term": {
+      "nl": "Temperamentmeting",
+      "en": "Temperament assessment"
+    },
+    "definition": "Het beoordelen van temperament via observaties, ouder- of zelfrapportages, interviews, fysiologische maten en gestandaardiseerde taken.",
+    "chapter": 15,
+    "additions": [
+      "De geschiktheid van een methode hangt af van leeftijd, context, kosten en onderzoeks- of klinisch doel."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "551bbff3-3a28-49bc-8906-60d7f6cad39f",
+    "term": {
+      "nl": "Neonatal Behavioral Assessment Scale",
+      "en": "Neonatal Behavioral Assessment Scale (NBAS)"
+    },
+    "definition": "Een observatieschaal voor pasgeborenen die onder meer prikkelbaarheid, troostbaarheid, alertheid en activiteit beoordeelt.",
+    "chapter": 15,
+    "additions": [
+      "De NBAS is ook gebruikt om prikkelbare baby's te selecteren voor ouderinterventies."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "ff5f9eb2-8992-452b-8777-dedf9f15bca6",
+    "term": {
+      "nl": "Laboratory Temperament Assessment Battery",
+      "en": "Laboratory Temperament Assessment Battery (Lab-TAB)"
+    },
+    "definition": "Een verzameling gestandaardiseerde laboratoriumtaken die temperamentreacties zoals activiteit, angst, boosheid, interesse en plezier uitlokt.",
+    "chapter": 15,
+    "additions": [
+      "Lab-TAB-taken kunnen vanaf de babytijd worden gebruikt."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "909a8708-f157-456e-9a40-61ec1cbfa86c",
+    "term": {
+      "nl": "Maskerpresentatietaak",
+      "en": "Mask presentation task"
+    },
+    "definition": "Een Lab-TAB-achtige taak waarin maskers worden aangeboden om angstige of terugtrekkende reacties te observeren.",
+    "chapter": 15,
+    "additions": [
+      "Sterke angstreacties in de babytijd kunnen latere angstklachten voorspellen."
+    ],
+    "importance": 3,
+    "type": "experiment",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "2172d7d7-6e93-41c4-8fd7-f97f26352cc0",
+    "term": {
+      "nl": "Snack Delay",
+      "en": "Snack Delay"
+    },
+    "definition": "Een taak voor Effortful Control waarin een jong kind moet wachten op een afgesproken signaal voordat het een lekkernij pakt.",
+    "chapter": 15,
+    "additions": [
+      "De taak meet het remmen van een dominante respons."
+    ],
+    "importance": 4,
+    "type": "experiment",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "2e8f5dd5-b433-4ba2-b622-84b8f83fdb99",
+    "term": {
+      "nl": "Shapes-taak",
+      "en": "Shapes task"
+    },
+    "definition": "Een aangepaste Strooptaak voor jonge kinderen waarin de subdominante stimulus moet worden gekozen in plaats van de opvallende dominante stimulus.",
+    "chapter": 15,
+    "additions": [
+      "De taak meet executieve controle en inhibitie."
+    ],
+    "importance": 4,
+    "type": "experiment",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "1161d253-849f-4fa6-8d5a-2aeed6ddb140",
+    "term": {
+      "nl": "Ouderrapportage",
+      "en": "Parent report"
+    },
+    "definition": "Een meetmethode waarbij ouders concreet gedrag van hun kind in natuurlijke situaties beoordelen.",
+    "chapter": 15,
+    "additions": [
+      "Sterkte: brede en langdurige toegang tot alledaags gedrag.",
+      "Beperking: mogelijke subjectiviteit en culturele of persoonlijke beoordelingsbias."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "117b0a33-f1ae-474a-ae57-cd385bcc505a",
+    "term": {
+      "nl": "Biasreductie in oudervragenlijsten",
+      "en": "Bias reduction in parent questionnaires"
+    },
+    "definition": "Het formuleren van items als concreet, observeerbaar gedrag in specifieke situaties en binnen een beperkte tijdsperiode.",
+    "chapter": 15,
+    "additions": [
+      "Deze aanpak is betrouwbaarder dan globale labels zoals 'moeilijk' of 'verlegen'."
+    ],
+    "importance": 4,
+    "type": "psychometrie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "16c0be8e-e4dc-40d3-8151-6b7673274c2f",
+    "term": {
+      "nl": "Zelfrapportage van temperament",
+      "en": "Self-report of temperament"
+    },
+    "definition": "Een meetmethode waarbij personen hun eigen typische reacties, emoties en regulatie beoordelen.",
+    "chapter": 15,
+    "additions": [
+      "Zelfrapportage wordt mogelijk vanaf ongeveer de late kindertijd en is bij volwassenen zeer gebruikelijk."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "b2f42ae7-c5cd-46e8-867d-39e9bf35b9d1",
+    "term": {
+      "nl": "Adult Temperament Questionnaire",
+      "en": "Adult Temperament Questionnaire (ATQ)"
+    },
+    "definition": "Een volwassen zelfrapportage-instrument uit de psychobiologische traditie dat negatieve affectiviteit, extraversie/surgency, effortful control en oriënterende sensitiviteit meet.",
+    "chapter": 15,
+    "additions": [
+      "De ATQ maakt vergelijking met Big-Five-dimensies mogelijk."
+    ],
+    "importance": 5,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "31dc9054-e3a1-411f-bb6d-ab5c0966ec23",
+    "term": {
+      "nl": "NEO-PI-R",
+      "en": "Revised NEO Personality Inventory (NEO-PI-R)"
+    },
+    "definition": "Een brede persoonlijkheidsvragenlijst voor Neuroticisme, Extraversie, Openheid, Vriendelijkheid en Consciëntieusheid, met onderliggende facetten.",
+    "chapter": 15,
+    "additions": [
+      "Het instrument wordt in onderzoek en toegepaste contexten gebruikt."
+    ],
+    "importance": 4,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "6cae562d-db64-45f6-beff-b19d631de941",
+    "term": {
+      "nl": "Big Five Questionnaire–Children",
+      "en": "Big Five Questionnaire–Children"
+    },
+    "definition": "Een kindvriendelijke vragenlijst voor Big-Five-persoonlijkheidstrekken.",
+    "chapter": 15,
+    "additions": [
+      "Hogere Consciëntieusheid hangt in de besproken literatuur samen met betere schoolprestaties."
+    ],
+    "importance": 3,
+    "type": "meetinstrument",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "b2c3081b-200b-4e7c-84f9-b9bdf388d652",
+    "term": {
+      "nl": "Constructvaliditeit van temperamentmaten",
+      "en": "Construct validity of temperament measures"
+    },
+    "definition": "De mate waarin een instrument werkelijk het bedoelde temperamentconstruct meet.",
+    "chapter": 15,
+    "additions": [
+      "Ondersteuning komt onder meer uit overeenstemming met observatie, fysiologie, ontwikkeling en verwante uitkomsten."
+    ],
+    "importance": 4,
+    "type": "psychometrie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "530297de-412d-4e6d-b890-4eb90d2e00c5",
+    "term": {
+      "nl": "Ontwikkeling van temperament",
+      "en": "Development of temperament"
+    },
+    "definition": "Het patroon van continuïteit en verandering in emotionele, motorische en aandachtskenmerken gedurende de levensloop.",
+    "chapter": 15,
+    "additions": [
+      "Snelle ontwikkeling van regulatie maakt de vroege kinderjaren relatief veranderlijk."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "4400948c-f959-4e83-b3ea-3d8008c72c1f",
+    "term": {
+      "nl": "Differentiële continuïteit",
+      "en": "Differential continuity"
+    },
+    "definition": "De mate waarin personen hun relatieve positie ten opzichte van anderen op een temperamentkenmerk behouden.",
+    "chapter": 15,
+    "additions": [
+      "Differentiële stabiliteit neemt doorgaans toe van kindertijd naar volwassenheid."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "cd663526-9ea8-4348-89ac-e4cabeae5096",
+    "term": {
+      "nl": "Homotypische continuïteit",
+      "en": "Homotypic continuity"
+    },
+    "definition": "Continuïteit waarbij hetzelfde kenmerk zich op verschillende leeftijden in vrijwel dezelfde gedragsvorm uit.",
+    "chapter": 15,
+    "additions": [
+      "Deze vorm wordt vaker zichtbaar wanneer gedrag en meetmethoden na de puberteit stabieler worden."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c70ab40d-32c8-4498-8056-fd8206e47523",
+    "term": {
+      "nl": "Heterotypische continuïteit",
+      "en": "Heterotypic continuity"
+    },
+    "definition": "Continuïteit waarbij hetzelfde onderliggende temperamentproces op verschillende leeftijden in andere gedragsvormen verschijnt.",
+    "chapter": 15,
+    "additions": [
+      "Vroege negatieve reactiviteit kan later bijvoorbeeld tot sociale vermijding leiden."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d246dbf6-25bb-475b-b128-30c538f22d51",
+    "term": {
+      "nl": "Oriëntatiegebaseerde regulatie",
+      "en": "Orienting-based regulation"
+    },
+    "definition": "Vroege regulatie waarbij een baby aandacht naar of van stimuli oriënteert om arousal en emotie te beïnvloeden.",
+    "chapter": 15,
+    "additions": [
+      "Deze vorm gaat ontwikkelingsmatig vooraf aan meer vrijwillige Effortful Control."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "19a110fd-c4fe-44d0-b415-54f99cc9f562",
+    "term": {
+      "nl": "Ontwikkeling van Effortful Control",
+      "en": "Development of Effortful Control"
+    },
+    "definition": "De toenemende vrijwillige controle over aandacht en gedrag vanaf ongeveer het tweede levensjaar tot in de vroege volwassenheid.",
+    "chapter": 15,
+    "additions": [
+      "Laterale prefrontale cortex en ACC spelen een belangrijke rol."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d85999c3-dfa0-4c6b-b91f-a953fc915742",
+    "term": {
+      "nl": "Win, stay; lose, shift",
+      "en": "Win, stay; lose, shift"
+    },
+    "definition": "De hypothese dat succesvolle aanpassingspatronen relatief stabiel blijven, terwijl minder succesvolle patronen eerder veranderen.",
+    "chapter": 15,
+    "additions": [
+      "Het hoofdstuk gebruikt dit als mogelijke verklaring voor verbanden tussen persoonlijkheidsstabiliteit en gunstige uitkomsten."
+    ],
+    "importance": 3,
+    "type": "ontwikkelingshypothese",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "797c8b27-dcbf-492b-b027-491830e99a81",
+    "term": {
+      "nl": "Kwantitatieve genetica",
+      "en": "Quantitative genetics"
+    },
+    "definition": "Onderzoek dat met tweelingen, gezinnen en adopties schat welk deel van de fenotypische variatie samenhangt met genetische en omgevingsinvloeden.",
+    "chapter": 15,
+    "additions": [
+      "Monzygotische en dizygotische tweelingen worden onder meer met elkaar vergeleken."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "081f497f-df47-4cc0-85b4-3d07ee23a062",
+    "term": {
+      "nl": "Erfelijkheid van temperament",
+      "en": "Heritability of temperament"
+    },
+    "definition": "Het geschatte aandeel van verschillen tussen personen in een populatie dat statistisch met genetische verschillen samenhangt.",
+    "chapter": 15,
+    "additions": [
+      "Het hoofdstuk noemt doorgaans schattingen van ongeveer 20% tot 60% voor temperament.",
+      "Erfelijkheid zegt niets over onveranderlijkheid van een individueel kenmerk."
+    ],
+    "importance": 5,
+    "type": "genetica",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "43a4416f-4002-404f-8a91-14c80318c1d7",
+    "term": {
+      "nl": "Gedeelde omgeving",
+      "en": "Shared environment"
+    },
+    "definition": "Omgevingsinvloeden die gezinsleden op elkaar doen lijken.",
+    "chapter": 15,
+    "additions": [
+      "Veel temperamentstudies vinden beperkte gedeelde-omgevingsinvloed, maar dit betekent niet dat de omgeving onbelangrijk is."
+    ],
+    "importance": 4,
+    "type": "genetica",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "faea3816-d937-4fc6-8b20-b3e3ca507f22",
+    "term": {
+      "nl": "Moleculaire genetica",
+      "en": "Molecular genetics"
+    },
+    "definition": "Onderzoek naar specifieke genen en genetische varianten die met temperamentkenmerken samenhangen.",
+    "chapter": 15,
+    "additions": [
+      "De besproken literatuur benadrukt kleine effectgroottes en replicatieproblemen."
+    ],
+    "importance": 5,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "1624ab00-9f22-4c57-9f13-f280dd8ac5b7",
+    "term": {
+      "nl": "Allel-associatie",
+      "en": "Allelic association"
+    },
+    "definition": "Een verband waarbij een allel in verschillende frequenties voorkomt bij personen met hoge tegenover lage scores op een temperamentkenmerk.",
+    "chapter": 15,
+    "additions": [
+      "Een associatie bewijst geen rechtstreeks causaal mechanisme."
+    ],
+    "importance": 4,
+    "type": "genetica",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "137234fb-ddd0-4432-af8f-aa33809a9803",
+    "term": {
+      "nl": "Dopaminesysteem",
+      "en": "Dopamine system"
+    },
+    "definition": "Een neurotransmittersysteem dat vooral wordt betrokken bij beloning, motivatie, leren en toenadering.",
+    "chapter": 15,
+    "additions": [
+      "DRD4 is een veel onderzocht dopaminegerelateerd temperamentgen."
+    ],
+    "importance": 4,
+    "type": "neurobiologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "15728ca8-1708-4e49-84cb-c88827094b16",
+    "term": {
+      "nl": "Serotoninesysteem",
+      "en": "Serotonin system"
+    },
+    "definition": "Een neurotransmittersysteem dat onder meer betrokken is bij stemming, stressreactiviteit en regulatie.",
+    "chapter": 15,
+    "additions": [
+      "5-HTT is een veel onderzocht serotoninegerelateerd temperamentgen."
+    ],
+    "importance": 4,
+    "type": "neurobiologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "a2cb87b1-9ddf-41d8-9ba2-5486611769ee",
+    "term": {
+      "nl": "DRD4 en temperament",
+      "en": "DRD4 and temperament"
+    },
+    "definition": "Onderzoek naar verbanden tussen variatie in het dopamine-D4-receptorgen en activiteit, impulsiviteit, aandacht en beloningsafhankelijkheid.",
+    "chapter": 15,
+    "additions": [
+      "Resultaten verschillen per studie en context."
+    ],
+    "importance": 4,
+    "type": "gen",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "a93abf0b-3240-4958-a372-88ac5f8dc942",
+    "term": {
+      "nl": "5-HTT en temperament",
+      "en": "5-HTT and temperament"
+    },
+    "definition": "Onderzoek naar verbanden tussen variatie in het serotonine-transporter-gen en negatieve emotionaliteit, angst, shyness, aandacht en regulatie.",
+    "chapter": 15,
+    "additions": [
+      "Kleine effecten en inconsistente replicatie beperken stellige conclusies."
+    ],
+    "importance": 4,
+    "type": "gen",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c71d6f67-79e1-44e2-92c5-aee5baf3f6ac",
+    "term": {
+      "nl": "Differentiële vatbaarheid",
+      "en": "Differential susceptibility"
+    },
+    "definition": "Het model dat sommige temperament- of genetische profielen sterker reageren op zowel negatieve als positieve omgevingen.",
+    "chapter": 15,
+    "additions": [
+      "Een gevoelig profiel kan in een belastende omgeving slechter, maar in een ondersteunende omgeving juist beter functioneren dan gemiddeld."
+    ],
+    "importance": 5,
+    "type": "gen-omgevingsmodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "72122023-8e7e-4c3c-a222-2967495d5a4a",
+    "term": {
+      "nl": "Gen–omgevingsinteractie",
+      "en": "Gene–environment interaction"
+    },
+    "definition": "Een situatie waarin de invloed van genetische aanleg op gedrag of gezondheid afhangt van de omgeving.",
+    "chapter": 15,
+    "additions": [
+      "Temperament kan hierbij een waarneembare schakel vormen tussen aanleg en uitkomst."
+    ],
+    "importance": 5,
+    "type": "gen-omgevingsmodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c0aa7a44-ee33-4c7e-b74d-5781aa6dad0d",
+    "term": {
+      "nl": "Respiratoire sinusaritmie",
+      "en": "Respiratory sinus arrhythmia (RSA)"
+    },
+    "definition": "Variatie in hartslag over de ademhalingscyclus die de parasympathische, vagale regulatie weerspiegelt.",
+    "chapter": 15,
+    "additions": [
+      "RSA wordt gebruikt als psychofysiologische maat van reactiviteit en regulatie."
+    ],
+    "importance": 5,
+    "type": "psychofysiologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "55f83f5b-a196-48fe-8283-229f86b5b501",
+    "term": {
+      "nl": "Vagale rem",
+      "en": "Vagal brake"
+    },
+    "definition": "Het snel verminderen of verhogen van vagale invloed op het hart om fysiologische activatie flexibel aan sociale of aandachtseisen aan te passen.",
+    "chapter": 15,
+    "additions": [
+      "Een flexibele vagale rem ondersteunt kalmeren, betrokkenheid en regulatie."
+    ],
+    "importance": 5,
+    "type": "psychofysiologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "8667e951-5857-432e-b398-fb619926870a",
+    "term": {
+      "nl": "Baseline-RSA",
+      "en": "Baseline RSA"
+    },
+    "definition": "Het niveau van respiratoire sinusaritmie in een rusttoestand.",
+    "chapter": 15,
+    "additions": [
+      "Hogere baseline-RSA is in verschillende leeftijdsgroepen verbonden met gunstiger emotionele en gedragsregulatie."
+    ],
+    "importance": 4,
+    "type": "psychofysiologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "5745d681-6ea4-457a-8e74-d63599676072",
+    "term": {
+      "nl": "HPA-as",
+      "en": "Hypothalamic–pituitary–adrenal axis (HPA axis)"
+    },
+    "definition": "Het hormonale stresssysteem dat via een cascade uiteindelijk cortisol uit de bijnieren vrijmaakt.",
+    "chapter": 15,
+    "additions": [
+      "Temperament en omgevingsstress kunnen samen HPA-activiteit beïnvloeden."
+    ],
+    "importance": 5,
+    "type": "stresssysteem",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "cd0ed14d-85f2-435f-8a26-530efe09cf3e",
+    "term": {
+      "nl": "Cortisol",
+      "en": "Cortisol"
+    },
+    "definition": "Een glucocorticoïde stresshormoon dat vaak via speeksel wordt gemeten.",
+    "chapter": 15,
+    "additions": [
+      "Cortisol kent een dagritme en zowel chronisch hoge als lage waarden kunnen op een weinig flexibel stresssysteem wijzen."
+    ],
+    "importance": 4,
+    "type": "hormoon",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "069ecb33-8966-4a08-86b3-cc9795e40ece",
+    "term": {
+      "nl": "Diurnaal cortisolritme",
+      "en": "Diurnal cortisol rhythm"
+    },
+    "definition": "Het normale dagelijkse patroon waarbij cortisol doorgaans hoger is in de ochtend en lager in de avond.",
+    "chapter": 15,
+    "additions": [
+      "Chronische stress kan dit ritme veranderen."
+    ],
+    "importance": 3,
+    "type": "psychofysiologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "b73a665c-8666-4c4e-a331-2cc0b59d7584",
+    "term": {
+      "nl": "Autonome reactiviteit",
+      "en": "Autonomic reactivity"
+    },
+    "definition": "De sterkte waarmee het autonome zenuwstelsel lichamelijk reageert op uitdaging of stress.",
+    "chapter": 15,
+    "additions": [
+      "Hoge reactiviteit kan in stressvolle omgevingen risico geven, maar in rustige omgevingen juist geen nadeel of zelfs voordeel opleveren."
+    ],
+    "importance": 5,
+    "type": "psychofysiologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "b99510b6-3077-438b-929c-7ac2c5fda78d",
+    "term": {
+      "nl": "EEG",
+      "en": "Electroencephalography (EEG)"
+    },
+    "definition": "Een methode die elektrische hersenactiviteit via elektroden op de hoofdhuid meet.",
+    "chapter": 15,
+    "additions": [
+      "Temperamentonderzoek gebruikt EEG onder meer om frontale asymmetrie te bestuderen."
+    ],
+    "importance": 4,
+    "type": "onderzoeksmethode",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c8361d27-5d2f-43bc-ad4c-64a50c9ca067",
+    "term": {
+      "nl": "Frontale EEG-asymmetrie",
+      "en": "Frontal EEG asymmetry"
+    },
+    "definition": "Een verschil in relatieve activiteit tussen de linker- en rechterfrontale hersenschors.",
+    "chapter": 15,
+    "additions": [
+      "Relatief meer rechteractiviteit hangt vaak samen met terugtrekking, angst en vermijding.",
+      "Relatief meer linkeractiviteit hangt vaak samen met toenadering en positieve emotie, maar kan ook bij boosheid optreden."
+    ],
+    "importance": 5,
+    "type": "neurowetenschap",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "cde75ea5-aeab-4ddf-974d-9de734068c9b",
+    "term": {
+      "nl": "Stabiele frontale asymmetrie",
+      "en": "Stable frontal asymmetry"
+    },
+    "definition": "Een aanhoudend links- of rechtsdominant frontaal EEG-patroon over meerdere meetmomenten.",
+    "chapter": 15,
+    "additions": [
+      "Stabiele linksasymmetrie is in sommige studies verbonden met externaliserende problemen en stabiele rechtsasymmetrie met internaliserende problemen."
+    ],
+    "importance": 4,
+    "type": "onderzoeksbevinding",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "6b009d61-ca2c-49ce-93a5-2cbe1009b9c1",
+    "term": {
+      "nl": "SPS en fMRI",
+      "en": "SPS and fMRI"
+    },
+    "definition": "Onderzoek waarin Sensory Processing Sensitivity samenhangt met sterkere activatie van gebieden voor aandacht, empathie, interoceptie en verwerking van sociale informatie.",
+    "chapter": 15,
+    "additions": [
+      "Positieve jeugdervaringen kunnen de reactie op positieve stimuli versterken."
+    ],
+    "importance": 4,
+    "type": "neurowetenschap",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d887e946-b3dd-4828-9f5c-e0df94d3f863",
+    "term": {
+      "nl": "Genderverschillen in temperament",
+      "en": "Gender differences in temperament"
+    },
+    "definition": "Gemiddelde verschillen tussen jongens en meisjes in temperamentdimensies, die klein tot middelgroot zijn en met de leeftijd duidelijker worden.",
+    "chapter": 15,
+    "additions": [
+      "Er zijn relatief weinig consistente verschillen vóór één jaar."
+    ],
+    "importance": 5,
+    "type": "gender",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "044240b7-28bd-491a-9ca6-4428113cce2d",
+    "term": {
+      "nl": "Activiteitsverschil tussen jongens en meisjes",
+      "en": "Gender difference in activity level"
+    },
+    "definition": "De gemiddelde bevinding dat jongens vanaf de vroege kindertijd iets actiever zijn dan meisjes.",
+    "chapter": 15,
+    "additions": [
+      "De gemiddelde effectgrootte is klein."
+    ],
+    "importance": 4,
+    "type": "gender",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "5c4cead6-63d5-4260-b7a8-1deeab8fa7bb",
+    "term": {
+      "nl": "Effortful-Controlverschil",
+      "en": "Gender difference in Effortful Control"
+    },
+    "definition": "De gemiddelde bevinding dat meisjes duidelijk hoger scoren op Effortful Control dan jongens.",
+    "chapter": 15,
+    "additions": [
+      "Dit is een van de sterkste gemiddelde genderverschillen in kindertemperament."
+    ],
+    "importance": 5,
+    "type": "gender",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "31ac5515-e74a-4881-bffe-6baa3cece3e7",
+    "term": {
+      "nl": "Surgencyverschil",
+      "en": "Gender difference in Surgency"
+    },
+    "definition": "De gemiddelde bevinding dat jongens hoger scoren op Surgency en benadering dan meisjes.",
+    "chapter": 15,
+    "additions": [
+      "Het verschil is gemiddeld kleiner dan het verschil in Effortful Control."
+    ],
+    "importance": 4,
+    "type": "gender",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "63073a4a-c64b-4b9d-8e0d-bec06d2ba434",
+    "term": {
+      "nl": "Gender als moderator",
+      "en": "Gender as a moderator"
+    },
+    "definition": "Het principe dat de relatie tussen temperament en uitkomst kan verschillen voor jongens en meisjes.",
+    "chapter": 15,
+    "additions": [
+      "Biologische ontwikkeling en cultureel verschillende verwachtingen kunnen beide bijdragen."
+    ],
+    "importance": 4,
+    "type": "gender",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "eb6050f3-ed56-4530-9bef-6a417f3ca201",
+    "term": {
+      "nl": "Cultuur–genderinteractie",
+      "en": "Culture–gender interaction"
+    },
+    "definition": "Een interactie waarbij een temperamentkenmerk anders wordt beoordeeld of andere gevolgen heeft afhankelijk van zowel cultuur als gender.",
+    "chapter": 15,
+    "additions": [
+      "Het hoofdstuk bespreekt onder meer culturele verschillen in ervaringen van hoogsensitieve mannen."
+    ],
+    "importance": 4,
+    "type": "cultuur",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "daa9c9ed-5f2b-4d47-8b28-f629bc10aa09",
+    "term": {
+      "nl": "Cultureel temperamentideaal",
+      "en": "Cultural temperament ideal"
+    },
+    "definition": "De door een cultuur gewenste bandbreedte van gedrag en temperament, die via opvoeding, spel, taal en sociale instituties wordt bevorderd.",
+    "chapter": 15,
+    "additions": [
+      "Margaret Mead benadrukte dat culturen slechts een deel van alle mogelijke temperamentstijlen positief waarderen."
+    ],
+    "importance": 5,
+    "type": "cultuur",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "81164e5f-a93d-49f8-9ff9-009bdc845520",
+    "term": {
+      "nl": "Crossculturele robuustheid van brede factoren",
+      "en": "Cross-cultural robustness of broad factors"
+    },
+    "definition": "De bevinding dat brede structuren zoals de Big Five en de factoren Surgency, Negatieve Emotionaliteit en Regulatiecapaciteit in veel culturen herkenbaar zijn.",
+    "chapter": 15,
+    "additions": [
+      "Vergelijkbare structuur betekent niet automatisch gelijke gemiddelde niveaus of volledig equivalente items."
+    ],
+    "importance": 5,
+    "type": "cultuur",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "47f113f2-2c23-4cfc-a2f6-34a56593b16a",
+    "term": {
+      "nl": "Hofstede-correlaten van temperament",
+      "en": "Hofstede correlates of temperament"
+    },
+    "definition": "Samenhangen tussen gemiddelde persoonlijkheidsniveaus van landen en cultuurdimensies zoals individualisme, machtsafstand en onzekerheidsvermijding.",
+    "chapter": 15,
+    "additions": [
+      "Dergelijke correlaties op landniveau bewijzen geen individueel causaal verband."
+    ],
+    "importance": 3,
+    "type": "cultuur",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "f67244d0-acf4-4c90-bba4-3e6668a0362a",
+    "term": {
+      "nl": "Culturele waardering van verlegenheid",
+      "en": "Cultural valuation of shyness"
+    },
+    "definition": "De bevinding dat verlegen of gevoelige kinderen in sommige culturen positief en in andere negatief sociaal worden gewaardeerd.",
+    "chapter": 15,
+    "additions": [
+      "In het besproken onderzoek werden verlegen kinderen in Shanghai meer gewaardeerd dan in Canada."
+    ],
+    "importance": 5,
+    "type": "cultuur",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "1cbbcdeb-0408-46f3-9713-85a2e7f57654",
+    "term": {
+      "nl": "Biologische verklaring van cultuurverschillen",
+      "en": "Biological explanation of cultural differences"
+    },
+    "definition": "De hypothese dat populaties verschillen in de frequentie van erfelijke temperamentpredisposities.",
+    "chapter": 15,
+    "additions": [
+      "Het hoofdstuk presenteert dit als één mogelijke verklaring, niet als voldoende verklaring."
+    ],
+    "importance": 3,
+    "type": "cultuur",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "3e8207d9-0fbe-45ab-b7e3-06af6e372e6c",
+    "term": {
+      "nl": "Omgevingsverklaring van cultuurverschillen",
+      "en": "Environmental explanation of cultural differences"
+    },
+    "definition": "De hypothese dat culturele waarden en opvoedingspraktijken kinderen socialiseren richting cultureel wenselijke temperamentuitingen.",
+    "chapter": 15,
+    "additions": [
+      "De biologische en omgevingsroutes kunnen tegelijk werkzaam zijn."
+    ],
+    "importance": 5,
+    "type": "cultuur",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "a972c4a0-9eee-43bd-a390-c47058da8f07",
+    "term": {
+      "nl": "Ontwikkelingsniche",
+      "en": "Developmental niche"
+    },
+    "definition": "Super en Harkness' model van de culturele omgeving van het kind, bestaande uit opvoedingsgewoonten, beschikbare settings en psychosociale kenmerken van verzorgers.",
+    "chapter": 15,
+    "additions": [
+      "De drie componenten structureren de dagelijkse ervaringen die temperament en persoonlijkheid mede vormen."
+    ],
+    "importance": 5,
+    "type": "cultuurmodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "4473e676-6645-47cf-ae7a-6fdac9826c2a",
+    "term": {
+      "nl": "Ouderlijke ethnotheorieën",
+      "en": "Parental ethnotheories"
+    },
+    "definition": "Cultureel gevormde overtuigingen van verzorgers over gewenste ontwikkeling en passend kindgedrag.",
+    "chapter": 15,
+    "additions": [
+      "Deze overtuigingen sturen interpretaties van temperament en concrete opvoedingsreacties."
+    ],
+    "importance": 5,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "8e4d5c13-5aca-41e3-80af-aef22c04b12d",
+    "term": {
+      "nl": "Individualisme",
+      "en": "Individualism"
+    },
+    "definition": "Een culturele oriëntatie waarin autonomie, onafhankelijkheid en individuele keuze relatief sterk worden benadrukt.",
+    "chapter": 15,
+    "additions": [
+      "Socialisatie kan hierdoor andere temperamentuitingen bevorderen dan in collectivistische contexten."
+    ],
+    "importance": 4,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c6367e57-b06e-4406-874e-fde7f4fce8e5",
+    "term": {
+      "nl": "Collectivisme",
+      "en": "Collectivism"
+    },
+    "definition": "Een culturele oriëntatie waarin verbondenheid, groepsharmonie en aanpassing aan sociale verwachtingen relatief sterk worden benadrukt.",
+    "chapter": 15,
+    "additions": [
+      "Emotionele warmte en anticiperend reageren op behoeften worden in de besproken modellen als belangrijke socialisatieprocessen genoemd."
+    ],
+    "importance": 4,
+    "type": "cultuurbegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "4ef224a3-3ac0-4cf6-b058-6f6ff35bc3c8",
+    "term": {
+      "nl": "Gen–cultuurco-evolutie",
+      "en": "Gene–culture coevolution"
+    },
+    "definition": "Het proces waarbij culturele praktijken en genetische varianten elkaar over generaties wederzijds kunnen beïnvloeden.",
+    "chapter": 15,
+    "additions": [
+      "Het hoofdstuk bespreekt 5-HTTLPR-frequenties en culturele buffering als illustratief, maar complex voorbeeld."
+    ],
+    "importance": 4,
+    "type": "cultuurmodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "654b9148-238a-486b-a611-01a16c9aaa10",
+    "term": {
+      "nl": "Culturele buffering",
+      "en": "Cultural buffering"
+    },
+    "definition": "Het verminderen van negatieve gevolgen van een gevoelig temperament- of genetisch profiel door sociale steun en cultureel passende normen.",
+    "chapter": 15,
+    "additions": [
+      "Een variant die in één context kwetsbaarheid voorspelt, hoeft in een andere context niet dezelfde uitkomst te hebben."
+    ],
+    "importance": 4,
+    "type": "cultuurmodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "2856a98c-c92e-4480-b7ff-a788a21bf183",
+    "term": {
+      "nl": "Culturele moderatie door SPS",
+      "en": "Cultural moderation by SPS"
+    },
+    "definition": "De bevinding dat personen met hoge Sensory Processing Sensitivity soms minder sterk de typische culturele verschillen in aandacht of hersenrespons vertonen.",
+    "chapter": 15,
+    "additions": [
+      "Laagsensitieve personen kunnen sterker door aangeleerde culturele aandachtspatronen worden beïnvloed."
+    ],
+    "importance": 4,
+    "type": "neurowetenschap",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "ef294138-e1cb-46ec-ad86-4e8e5c3ca879",
+    "term": {
+      "nl": "Crossculturele meetinvariantie",
+      "en": "Cross-cultural measurement invariance"
+    },
+    "definition": "De eis dat een meetinstrument in verschillende culturen hetzelfde construct op vergelijkbare wijze meet.",
+    "chapter": 15,
+    "additions": [
+      "Een vergelijkbare factorstructuur alleen is onvoldoende wanneer afzonderlijke items anders functioneren."
+    ],
+    "importance": 5,
+    "type": "psychometrie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "fa08451d-95e9-42af-98ba-2073dc4fa109",
+    "term": {
+      "nl": "Differentiële itemfunctionering",
+      "en": "Differential item functioning"
+    },
+    "definition": "Het verschijnsel dat een item bij dezelfde latente trekwaarde in verschillende groepen een andere kans op een bepaalde score heeft.",
+    "chapter": 15,
+    "additions": [
+      "Het hoofdstuk meldt aanzienlijke itemverschillen tussen Amerikaanse en Filipijnse NEO-PI-steekproeven."
+    ],
+    "importance": 4,
+    "type": "psychometrie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c69119ed-1e76-4e84-a942-a6f3e2d674dc",
+    "term": {
+      "nl": "Aanpassing",
+      "en": "Adaptation"
+    },
+    "definition": "Het afstemmen van gedrag en regulatie op ontwikkelingsopgaven en veranderende eisen van de omgeving.",
+    "chapter": 15,
+    "additions": [
+      "Dezelfde temperamentstendens kan op verschillende leeftijden andere uitdagingen opleveren."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "b5caf022-9e14-4f2d-be2e-d066d314bc6c",
+    "term": {
+      "nl": "Slaapproblemen en temperament",
+      "en": "Sleep problems and temperament"
+    },
+    "definition": "Problemen met inslapen of doorslapen die kunnen ontstaan uit een combinatie van hoge distressreactiviteit van het kind en ouderlijke reacties.",
+    "chapter": 15,
+    "additions": [
+      "Rond drie tot vier maanden ontwikkelen veel baby's voldoende regulatie om met minder directe hulp in slaap te vallen."
+    ],
+    "importance": 4,
+    "type": "klinische toepassing",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "fb4449eb-fcca-4721-a0ce-704a611c19fd",
+    "term": {
+      "nl": "Geleidelijke afbouw van ouderlijke betrokkenheid",
+      "en": "Gradual withdrawal of parental involvement"
+    },
+    "definition": "Een slaapinterventie waarbij ouders hun directe ondersteuning bij het inslapen stap voor stap verminderen.",
+    "chapter": 15,
+    "additions": [
+      "De aanpak probeert zelfregulatie te bevorderen zonder temperamentverschillen te negeren."
+    ],
+    "importance": 3,
+    "type": "interventie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "17f6d4cb-1c33-4e06-a050-90c32419ed10",
+    "term": {
+      "nl": "Veilige hechting",
+      "en": "Secure attachment"
+    },
+    "definition": "Een hechtingsrelatie waarin het kind de verzorger als betrouwbare bron van veiligheid en steun gebruikt.",
+    "chapter": 15,
+    "additions": [
+      "Sensitieve en responsieve interacties bevorderen veilige hechting, vooral bij reactieve of prikkelbare baby's."
+    ],
+    "importance": 5,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "a95f02b0-340f-4069-a15b-bef1c63c42fe",
+    "term": {
+      "nl": "Van den Boom-interventie",
+      "en": "Van den Boom intervention"
+    },
+    "definition": "Een interventie waarin moeders van prikkelbare baby's leerden sensitiever en responsiever op signalen van hun kind te reageren.",
+    "chapter": 15,
+    "additions": [
+      "De interventie verbeterde hechting en had blijvende sociale voordelen."
+    ],
+    "importance": 5,
+    "type": "interventie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "cd5129dc-84dd-476e-a5dd-2bd39f6edc05",
+    "term": {
+      "nl": "Samenwerking in de peuter- en kleutertijd",
+      "en": "Cooperation in toddlerhood and preschool"
+    },
+    "definition": "De ontwikkelingsopgave om instructies en grenzen van verzorgers te volgen terwijl eigen doelen en autonomie zich ontwikkelen.",
+    "chapter": 15,
+    "additions": [
+      "Hoog negatief affect en lage regulatie vergroten het risico op samenwerkingsproblemen."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "81276c98-7d20-4078-874e-5081c8b62244",
+    "term": {
+      "nl": "Parent–Child Interaction Therapy",
+      "en": "Parent–Child Interaction Therapy (PCIT)"
+    },
+    "definition": "Een ouder-kindinterventie die eerst positieve, kindgerichte interactie versterkt en daarna effectieve disciplinetechnieken aanleert.",
+    "chapter": 15,
+    "additions": [
+      "Temperamenteducatie kan de afstemming van PCIT op individuele kinderen verbeteren."
+    ],
+    "importance": 4,
+    "type": "interventie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "8794232d-e44f-4f8e-97ef-3d1d1177e0e5",
+    "term": {
+      "nl": "Zelfconceptontwikkeling",
+      "en": "Self-concept development"
+    },
+    "definition": "De ontwikkeling van kennis, evaluaties en overtuigingen over het eigen zelf.",
+    "chapter": 15,
+    "additions": [
+      "Temperament en vroege ervaringen dragen bij aan betekenisstructuren en kunnen al vroeg negatieve zelfevaluaties beïnvloeden."
+    ],
+    "importance": 4,
+    "type": "ontwikkeling",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "3860426c-b7df-4de1-82b8-31168bec47c9",
+    "term": {
+      "nl": "Constraint",
+      "en": "Constraint"
+    },
+    "definition": "Een brede persoonlijkheids- of temperamentstendens van zelfbeheersing, voorzichtigheid en regulatie.",
+    "chapter": 15,
+    "additions": [
+      "Hogere Constraint hangt in de besproken relatieliteratuur samen met een lager echtscheidingsrisico."
+    ],
+    "importance": 3,
+    "type": "persoonlijkheidsfactor",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "13e464de-4c9a-4456-a5cd-a6279bac3cdd",
+    "term": {
+      "nl": "Temperament en relatiekwaliteit",
+      "en": "Temperament and relationship quality"
+    },
+    "definition": "De invloed van positieve emotionaliteit, negatieve emotionaliteit, impulsiviteit en zelfbeheersing op interacties en stabiliteit van relaties.",
+    "chapter": 15,
+    "additions": [
+      "Negatieve emotionaliteit hangt samen met ongunstiger interacties en lagere tevredenheid.",
+      "Impulsiviteit en sensatiezoeken kunnen relationele instabiliteit vergroten."
+    ],
+    "importance": 4,
+    "type": "toepassing",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "1e74ad3d-7276-40d0-9df9-728a7849455d",
+    "term": {
+      "nl": "Biologische sensitiviteit voor context",
+      "en": "Biological sensitivity to context"
+    },
+    "definition": "Het principe dat fysiologisch sterk reactieve personen extra gevoelig kunnen zijn voor zowel stressvolle als ondersteunende omstandigheden.",
+    "chapter": 15,
+    "additions": [
+      "Hoge reactiviteit voorspelde meer gezondheidsproblemen bij hoge stress, maar niet bij lage stress."
+    ],
+    "importance": 5,
+    "type": "gezondheidsmodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "31ebdb59-e764-41a4-9b47-5ce8391ced45",
+    "term": {
+      "nl": "Temperament en fysieke gezondheid",
+      "en": "Temperament and physical health"
+    },
+    "definition": "De invloed van temperament en stressreactiviteit op ziekte, verwonding en immuunfunctie in wisselwerking met de omgeving.",
+    "chapter": 15,
+    "additions": [
+      "Dezelfde hoge reactiviteit kan risico of voordeel betekenen afhankelijk van gezinsstress en ondersteuning."
+    ],
+    "importance": 5,
+    "type": "gezondheid",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "6b1038fe-1baa-4cd3-8fb6-f53cffe5dfeb",
+    "term": {
+      "nl": "Psychopathologie als aanpassingsprobleem",
+      "en": "Psychopathology as maladaptation"
+    },
+    "definition": "Ernstige of langdurige problemen met het afstemmen van emoties, gedrag en zelfregulatie op ontwikkelings- en omgevingseisen.",
+    "chapter": 15,
+    "additions": [
+      "Temperament verhoogt of verlaagt risico, maar is op zichzelf niet gelijk aan psychopathologie."
+    ],
+    "importance": 5,
+    "type": "psychopathologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "19d71881-4639-4e55-9dcb-fb3b3e2923df",
+    "term": {
+      "nl": "Externaliserende problemen",
+      "en": "Externalizing problems"
+    },
+    "definition": "Problemen die vooral naar buiten gericht zijn, zoals hyperactiviteit, impulsiviteit, agressie en ongehoorzaamheid.",
+    "chapter": 15,
+    "additions": [
+      "Hoge frustratie, hoge Surgency en lage Effortful Control kunnen het risico verhogen."
+    ],
+    "importance": 5,
+    "type": "psychopathologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "27b46779-be40-47a0-b1d3-7443686f3f41",
+    "term": {
+      "nl": "Internaliserende problemen",
+      "en": "Internalizing problems"
+    },
+    "definition": "Problemen die vooral naar binnen gericht zijn, zoals angst, depressie, terugtrekking en sociale problemen.",
+    "chapter": 15,
+    "additions": [
+      "Angst, verdriet, lage Surgency en bepaalde regulatieproblemen hangen ermee samen."
+    ],
+    "importance": 5,
+    "type": "psychopathologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "889cf38c-1d27-4d9a-b242-220b2acffcb3",
+    "term": {
+      "nl": "Boosheid en frustratie als risicofactor",
+      "en": "Anger and frustration as risk factors"
+    },
+    "definition": "De bevinding dat sterke boosheid en frustratie zowel externaliserende als sommige internaliserende problemen kunnen voorspellen.",
+    "chapter": 15,
+    "additions": [
+      "De uitkomst hangt mede af van regulatie en omgeving."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "8bf3b902-19a9-4191-b852-55c250fca744",
+    "term": {
+      "nl": "Angst en verdriet als risicofactor",
+      "en": "Fear and sadness as risk factors"
+    },
+    "definition": "De bevinding dat hoge angst en verdriet vooral samenhangen met internaliserende klachten zoals sociale angst en depressie.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "0e266977-6119-48aa-b9a4-9adcabdf9559",
+    "term": {
+      "nl": "Lage Surgency",
+      "en": "Low Surgency"
+    },
+    "definition": "Een temperamentprofiel met weinig positieve benadering, activiteit, enthousiasme en plezier.",
+    "chapter": 15,
+    "additions": [
+      "Lage Surgency kan het risico op depressie en angst verhogen."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "7c9e5730-a3a0-4d94-8dcb-44b552ef4f9c",
+    "term": {
+      "nl": "Hoge Surgency",
+      "en": "High Surgency"
+    },
+    "definition": "Een temperamentprofiel met veel activiteit, benadering, impulsiviteit en plezier in intense prikkels.",
+    "chapter": 15,
+    "additions": [
+      "Bij lage inhibitie en regulatie kan hoge Surgency bijdragen aan externaliserende problemen."
+    ],
+    "importance": 4,
+    "type": "psychopathologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "19272db3-b941-4ec6-adc7-8a6be03a7152",
+    "term": {
+      "nl": "Lage Effortful Control",
+      "en": "Low Effortful Control"
+    },
+    "definition": "Beperkt vermogen om aandacht en gedrag doelgericht te sturen en dominante impulsen te remmen.",
+    "chapter": 15,
+    "additions": [
+      "Lage Effortful Control is een sterke voorspeller van externaliserende problemen en kan ook internaliserende klachten beïnvloeden."
+    ],
+    "importance": 5,
+    "type": "psychopathologie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "c6a48ea2-0d63-4388-8609-eb828d0bbd04",
+    "term": {
+      "nl": "Temperament–temperamentinteractie",
+      "en": "Temperament–temperament interaction"
+    },
+    "definition": "Het principe dat de uitkomst van één temperamentkenmerk afhangt van het niveau van een ander temperamentkenmerk.",
+    "chapter": 15,
+    "additions": [
+      "Hoge Effortful Control kan het risico van sterke boosheid of negatieve emotionaliteit bufferen."
+    ],
+    "importance": 5,
+    "type": "interactiemodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "d4cee991-5b4b-456b-b4ae-50bf0c335e0b",
+    "term": {
+      "nl": "Temperament–genderinteractie",
+      "en": "Temperament–gender interaction"
+    },
+    "definition": "Het principe dat temperamentkenmerken voor verschillende genders andere risico's of beschermende effecten kunnen hebben.",
+    "chapter": 15,
+    "additions": [
+      "Het hoofdstuk bespreekt onder meer verschillen in angst, inhibitie en depressierisico na de puberteit."
+    ],
+    "importance": 4,
+    "type": "interactiemodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "b623a502-668a-4c46-81b8-3e5453b0459b",
+    "term": {
+      "nl": "Temperament–omgevingsinteractie",
+      "en": "Temperament–environment interaction"
+    },
+    "definition": "Het principe dat temperamentuitkomsten afhangen van opvoeding, stress, sociale waardering en andere omgevingskenmerken.",
+    "chapter": 15,
+    "additions": [
+      "Angstige kinderen kunnen bijvoorbeeld verschillend reageren op milde tegenover harde discipline."
+    ],
+    "importance": 5,
+    "type": "interactiemodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "7a3d887e-77e0-428b-8348-f6e729e2a633",
+    "term": {
+      "nl": "Diathese-stressmodel",
+      "en": "Diathesis–stress model"
+    },
+    "definition": "Een model waarin een kwetsbaar temperament vooral tot problemen leidt wanneer het wordt gecombineerd met een belastende omgeving.",
+    "chapter": 15,
+    "additions": [
+      "Het model voorspelt niet noodzakelijk extra voordeel in een bijzonder goede omgeving."
+    ],
+    "importance": 5,
+    "type": "psychopathologiemodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "83c97026-1cbd-46f2-8bd4-afd47ab7c3b4",
+    "term": {
+      "nl": "Overbescherming bij angstig temperament",
+      "en": "Overprotection with an anxious temperament"
+    },
+    "definition": "Een risicovolle interactie waarbij overbeschermend opvoeden vermijding en blijvende angst bij een angstig kind kan versterken.",
+    "chapter": 15,
+    "additions": [],
+    "importance": 4,
+    "type": "opvoedingsinteractie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "49a943da-3655-435e-8683-f1c03cefe152",
+    "term": {
+      "nl": "Milde discipline bij angstig temperament",
+      "en": "Gentle discipline with an anxious temperament"
+    },
+    "definition": "Een opvoedingsstrategie waarbij rustige, weinig harde controle beter aansluit bij kinderen die gevoelig zijn voor angst en straf.",
+    "chapter": 15,
+    "additions": [
+      "Dezelfde mate van mildheid heeft mogelijk minder effect bij relatief onbevreesde kinderen."
+    ],
+    "importance": 4,
+    "type": "opvoedingsinteractie",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "6f92b9cf-4bc0-4e91-8a5f-c90d7d78a154",
+    "term": {
+      "nl": "Temperamentuitersten",
+      "en": "Temperament outliers"
+    },
+    "definition": "Personen met zeer hoge of lage scores op een temperamentkenmerk.",
+    "chapter": 15,
+    "additions": [
+      "Uitersten kunnen sterker reageren op zowel schadelijke als ondersteunende omgevingen."
+    ],
+    "importance": 4,
+    "type": "kernbegrip",
+    "source": "flashcards_h15_temperament_personality.json"
+  },
+  {
+    "id": "4942cb5a-9a91-4087-bffb-155ba1ffbb4e",
+    "term": {
+      "nl": "Positieve kant van differentiële vatbaarheid",
+      "en": "Positive side of differential susceptibility"
+    },
+    "definition": "De voorspelling dat zeer gevoelige personen in bijzonder ondersteunende omstandigheden bovengemiddeld gunstige uitkomsten kunnen bereiken.",
+    "chapter": 15,
+    "additions": [
+      "Dit onderscheidt het model van een uitsluitend kwetsbaarheidsgerichte visie."
+    ],
+    "importance": 5,
+    "type": "ontwikkelingsmodel",
+    "source": "flashcards_h15_temperament_personality.json"
+  }
+]
