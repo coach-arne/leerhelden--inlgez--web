@@ -1,23 +1,27 @@
-import { Link } from 'react-router-dom'
+import { useEffect, useRef } from 'react'
+import { useAtom } from 'jotai'
 
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card'
-import { Badge } from '@/components/ui/badge'
+import { CourseCard } from '@/components/CourseCard'
 import { allCourses } from '@/data/courses/registry'
-import type { CourseFeature } from '@/types/course'
-
-const featureLabels: Record<CourseFeature, string> = {
-  flashcards: 'Flashcards',
-  exams: 'Oefenexamens',
-  compendiums: 'Compendia',
-}
+import { pinnedCourseSlugsAtom } from '@/modules/course/atoms'
+import {
+  loadPinnedCourses,
+  togglePinnedCourse,
+} from '@/modules/course/coursePinStorage'
+import { sortCoursesByPinned } from '@/modules/course/helpers/sortCoursesByPinned'
 
 export function CourseSelectorPage() {
+  const [pinnedSlugs, setPinnedSlugs] = useAtom(pinnedCourseSlugsAtom)
+  const hydratedRef = useRef(false)
+
+  useEffect(() => {
+    if (hydratedRef.current) return
+    hydratedRef.current = true
+    setPinnedSlugs(loadPinnedCourses())
+  }, [setPinnedSlugs])
+
+  const courses = sortCoursesByPinned(allCourses, pinnedSlugs)
+
   return (
     <div className="mx-auto flex min-h-svh max-w-lg flex-col justify-center gap-6 p-6">
       <div>
@@ -28,30 +32,15 @@ export function CourseSelectorPage() {
         </p>
       </div>
 
-      {allCourses.map((courseData) => (
-        <Link
+      {courses.map((courseData) => (
+        <CourseCard
           key={courseData.config.slug}
-          to={`/${courseData.config.slug}`}
-          className="block rounded-xl outline-none transition-shadow hover:shadow-theme-md focus-visible:ring-2 focus-visible:ring-ring"
-        >
-          <Card className="h-full transition-colors hover:bg-accent/40">
-            <CardHeader>
-              <CardTitle className="text-lg font-semibold">
-                {courseData.config.name}
-              </CardTitle>
-              <CardDescription>{courseData.config.description}</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <div className="flex flex-wrap gap-2">
-                {courseData.config.features.map((feature) => (
-                  <Badge key={feature} variant="secondary">
-                    {featureLabels[feature]}
-                  </Badge>
-                ))}
-              </div>
-            </CardContent>
-          </Card>
-        </Link>
+          courseData={courseData}
+          pinned={pinnedSlugs.includes(courseData.config.slug)}
+          onTogglePin={(slug) => {
+            setPinnedSlugs((prev) => togglePinnedCourse(slug, prev))
+          }}
+        />
       ))}
     </div>
   )
