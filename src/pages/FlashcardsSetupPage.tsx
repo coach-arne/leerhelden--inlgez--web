@@ -13,8 +13,8 @@ import {
   CardTitle,
 } from '@/components/ui/card'
 import { Label } from '@/components/ui/label'
-import { Separator } from '@/components/ui/separator'
 import { Slider } from '@/components/ui/slider'
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import {
   buildDeck,
   countAvailable,
@@ -147,7 +147,7 @@ export function FlashcardsSetupPage() {
   }
 
   return (
-    <div className="mx-auto min-h-svh max-w-lg space-y-8 p-6">
+    <div className="mx-auto min-h-svh max-w-lg space-y-6 p-6">
       <div className="flex items-start justify-between gap-4">
         <div>
           <h1 className="text-2xl font-semibold tracking-tight">Flashcards</h1>
@@ -160,186 +160,201 @@ export function FlashcardsSetupPage() {
         </Link>
       </div>
 
-      <Card>
-        <CardHeader>
-          <CardTitle>Instellingen</CardTitle>
-          <CardDescription>
-            {available === 0
-              ? 'Geen kaarten voor deze combinatie — pas de filters aan.'
-              : `${available} kaart${available === 1 ? '' : 'en'} beschikbaar.`}
-          </CardDescription>
-        </CardHeader>
-        <CardContent className="space-y-6">
-          <div className="space-y-2">
-            <Label htmlFor="chapter-multiselect">Hoofdstuk</Label>
-            <MultiSelectChips
-              id="chapter-multiselect"
-              options={chapterOptions}
-              selected={chapterStrings}
-              onChange={setChapterStrings}
-              placeholder="Alle hoofdstukken"
-              enableSearch={false}
-              showSelectAll
-            />
-          </div>
+      <Tabs defaultValue="oefenen">
+        <TabsList className="w-full">
+          <TabsTrigger value="oefenen">Oefenen</TabsTrigger>
+          <TabsTrigger value="resultaten">Eerdere resultaten</TabsTrigger>
+        </TabsList>
 
-          <div className="space-y-2">
-            <Label htmlFor="type-multiselect">Type begrip</Label>
-            <MultiSelectChips
-              id="type-multiselect"
-              options={typeOptions}
-              selected={types}
-              onChange={setTypes}
-              placeholder="Alle types"
-              enableSearch
-              showSelectAll={typeOptions.length > 1}
-            />
-          </div>
+        <TabsContent value="oefenen" className="space-y-6 pt-2">
+          <Card>
+            <CardHeader>
+              <CardTitle>Instellingen</CardTitle>
+              <CardDescription>
+                {available === 0
+                  ? 'Geen kaarten voor deze combinatie — pas de filters aan.'
+                  : `${available} kaart${available === 1 ? '' : 'en'} beschikbaar.`}
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-6">
+              <div className="space-y-2">
+                <Label htmlFor="chapter-multiselect">Hoofdstuk</Label>
+                <MultiSelectChips
+                  id="chapter-multiselect"
+                  options={chapterOptions}
+                  selected={chapterStrings}
+                  onChange={setChapterStrings}
+                  placeholder="Alle hoofdstukken"
+                  enableSearch={false}
+                  showSelectAll
+                />
+              </div>
 
-          <div className="space-y-2">
-            <Label htmlFor="source-multiselect">Bronbestand</Label>
-            <MultiSelectChips
-              id="source-multiselect"
-              options={sourceOptions}
-              selected={sources}
-              onChange={setSources}
-              placeholder="Alle bronbestanden"
-              enableSearch
-              showSelectAll={sourceOptions.length > 1}
-            />
-          </div>
+              <div className="space-y-2">
+                <Label htmlFor="type-multiselect">Type begrip</Label>
+                <MultiSelectChips
+                  id="type-multiselect"
+                  options={typeOptions}
+                  selected={types}
+                  onChange={setTypes}
+                  placeholder="Alle types"
+                  enableSearch
+                  showSelectAll={typeOptions.length > 1}
+                />
+              </div>
 
-          {compendiumOptions.length > 0 && (
-            <div className="space-y-2">
-              <Label htmlFor="compendium-multiselect">Compendium</Label>
-              <MultiSelectChips
-                id="compendium-multiselect"
-                options={compendiumOptions}
-                selected={compendiums}
-                onChange={setCompendiums}
-                placeholder="Geen compendia"
-                enableSearch={false}
-                showSelectAll={compendiumOptions.length > 1}
-              />
-            </div>
-          )}
+              <div className="space-y-2">
+                <Label htmlFor="source-multiselect">Bronbestand</Label>
+                <MultiSelectChips
+                  id="source-multiselect"
+                  options={sourceOptions}
+                  selected={sources}
+                  onChange={setSources}
+                  placeholder="Alle bronbestanden"
+                  enableSearch
+                  showSelectAll={sourceOptions.length > 1}
+                />
+              </div>
 
-          <div className="space-y-3">
-            <div className="flex items-center justify-between gap-2">
-              <Label htmlFor="count-slider">Aantal kaarten</Label>
-              <span className="text-sm tabular-nums text-muted-foreground">
-                {available === 0 ? 0 : Math.min(count, available)}
-              </span>
-            </div>
-            <Slider
-              id="count-slider"
-              min={1}
-              max={Math.max(1, available)}
-              step={1}
-              disabled={available === 0}
-              value={[Math.min(count, Math.max(1, available))]}
-              onValueChange={(v) => {
-                const arr = Array.isArray(v) ? v : [v]
-                const next = arr[0]
-                if (typeof next === 'number') setCount(next)
-              }}
-            />
-          </div>
+              {compendiumOptions.length > 0 && (
+                <div className="space-y-2">
+                  <Label htmlFor="compendium-multiselect">Compendium</Label>
+                  <MultiSelectChips
+                    id="compendium-multiselect"
+                    options={compendiumOptions}
+                    selected={compendiums}
+                    onChange={setCompendiums}
+                    placeholder="Geen compendia"
+                    enableSearch={false}
+                    showSelectAll={compendiumOptions.length > 1}
+                  />
+                </div>
+              )}
 
-          <div className="space-y-2">
-            <Label>Taal term op kaart</Label>
-            <div className="flex gap-2">
-              <Button
-                type="button"
-                variant={termLang === 'nl' ? 'default' : 'outline'}
-                size="sm"
-                onClick={() => setTermLang('nl')}
-              >
-                Nederlands
-              </Button>
-              <Button
-                type="button"
-                variant={termLang === 'en' ? 'default' : 'outline'}
-                size="sm"
-                onClick={() => setTermLang('en')}
-              >
-                English
-              </Button>
-            </div>
-          </div>
-
-          <Button
-            className="w-full max-w-md"
-            disabled={available === 0}
-            onClick={handleStart}
-          >
-            Start oefening
-          </Button>
-        </CardContent>
-      </Card>
-
-      {customComponents?.FlashcardSetupExtra && <customComponents.FlashcardSetupExtra />}
-
-      <div>
-        <div className="mb-3 flex items-center justify-between gap-2">
-          <h2 className="text-lg font-medium">Eerdere resultaten</h2>
-          <Link
-            to={routes.flashcardsStats}
-            className={cn(buttonVariants({ variant: 'ghost', size: 'sm' }))}
-          >
-            Statistieken
-          </Link>
-        </div>
-        {history.length === 0 ? (
-          <p className="text-sm text-muted-foreground">
-            Nog geen opgeslagen sessies. Na een ronde verschijnen ze hier.
-          </p>
-        ) : (
-          <ul className="space-y-2">
-            {history.slice(0, 15).map((h) => (
-              <li
-                key={h.id}
-                className="flex flex-col gap-1 rounded-lg border border-border bg-card px-3 py-2 text-sm sm:flex-row sm:items-center sm:justify-between"
-              >
-                <span className="text-muted-foreground">
-                  {new Date(h.finishedAt).toLocaleString('nl-BE', {
-                    dateStyle: 'short',
-                    timeStyle: 'short',
-                  })}
-                </span>
-                <span className="flex flex-wrap items-center gap-2">
-                  {getChapterLabels(h.chapters).map((label, i) => (
-                    <Badge key={`${h.id}-ch-${i}`} variant="secondary">
-                      {label}
-                    </Badge>
-                  ))}
-                  <Badge variant="outline">{formatTypesLabel(h.types)}</Badge>
-                  {h.sources.length > 0 && (
-                    <Badge variant="outline">{formatSourcesLabel(h.sources)}</Badge>
-                  )}
-                  {getCompendiumLabels(h.compendiums ?? [], compendiumMeta).map((label, i) => (
-                    <Badge key={`${h.id}-comp-${i}`} variant="secondary">
-                      {label}
-                    </Badge>
-                  ))}
-                  <span className="tabular-nums">
-                    goed {h.correct} · twijfel {h.unsure} · fout {h.incorrect}{' '}
-                    ({h.requestedCount} kaarten)
+              <div className="space-y-3">
+                <div className="flex items-center justify-between gap-2">
+                  <Label htmlFor="count-slider">Aantal kaarten</Label>
+                  <span className="text-sm tabular-nums text-muted-foreground">
+                    {available === 0 ? 0 : Math.min(count, available)}
                   </span>
-                </span>
-              </li>
-            ))}
-          </ul>
-        )}
-        <Separator className="my-6" />
-        <Button
-          variant="ghost"
-          size="sm"
-          onClick={() => setHistory(loadFlashcardResults(courseSlug))}
-        >
-          Vernieuwen
-        </Button>
-      </div>
+                </div>
+                <Slider
+                  id="count-slider"
+                  min={1}
+                  max={Math.max(1, available)}
+                  step={1}
+                  disabled={available === 0}
+                  value={[Math.min(count, Math.max(1, available))]}
+                  onValueChange={(v) => {
+                    const arr = Array.isArray(v) ? v : [v]
+                    const next = arr[0]
+                    if (typeof next === 'number') setCount(next)
+                  }}
+                />
+              </div>
+
+              <div className="space-y-2">
+                <Label>Taal term op kaart</Label>
+                <div className="flex gap-2">
+                  <Button
+                    type="button"
+                    variant={termLang === 'nl' ? 'default' : 'outline'}
+                    size="sm"
+                    onClick={() => setTermLang('nl')}
+                  >
+                    Nederlands
+                  </Button>
+                  <Button
+                    type="button"
+                    variant={termLang === 'en' ? 'default' : 'outline'}
+                    size="sm"
+                    onClick={() => setTermLang('en')}
+                  >
+                    English
+                  </Button>
+                </div>
+              </div>
+
+              <Button
+                className="w-full max-w-md"
+                disabled={available === 0}
+                onClick={handleStart}
+              >
+                Start oefening
+              </Button>
+            </CardContent>
+          </Card>
+
+          {customComponents?.FlashcardSetupExtra && <customComponents.FlashcardSetupExtra />}
+        </TabsContent>
+
+        <TabsContent value="resultaten" className="space-y-4 pt-2">
+          <div className="flex items-center justify-between gap-2">
+            <p className="text-sm text-muted-foreground">
+              {history.length === 0
+                ? 'Nog geen opgeslagen sessies.'
+                : `${history.length} opgeslagen sessie${history.length === 1 ? '' : 's'}.`}
+            </p>
+            <div className="flex items-center gap-1">
+              <Link
+                to={routes.flashcardsStats}
+                className={cn(buttonVariants({ variant: 'ghost', size: 'sm' }))}
+              >
+                Statistieken
+              </Link>
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={() => setHistory(loadFlashcardResults(courseSlug))}
+              >
+                Vernieuwen
+              </Button>
+            </div>
+          </div>
+
+          {history.length === 0 ? (
+            <p className="text-sm text-muted-foreground">
+              Na een ronde verschijnen je resultaten hier.
+            </p>
+          ) : (
+            <ul className="space-y-2">
+              {history.slice(0, 15).map((h) => (
+                <li
+                  key={h.id}
+                  className="flex flex-col gap-1 rounded-lg border border-border bg-card px-3 py-2 text-sm sm:flex-row sm:items-center sm:justify-between"
+                >
+                  <span className="text-muted-foreground">
+                    {new Date(h.finishedAt).toLocaleString('nl-BE', {
+                      dateStyle: 'short',
+                      timeStyle: 'short',
+                    })}
+                  </span>
+                  <span className="flex flex-wrap items-center gap-2">
+                    {getChapterLabels(h.chapters).map((label, i) => (
+                      <Badge key={`${h.id}-ch-${i}`} variant="secondary">
+                        {label}
+                      </Badge>
+                    ))}
+                    <Badge variant="outline">{formatTypesLabel(h.types)}</Badge>
+                    {h.sources.length > 0 && (
+                      <Badge variant="outline">{formatSourcesLabel(h.sources)}</Badge>
+                    )}
+                    {getCompendiumLabels(h.compendiums ?? [], compendiumMeta).map((label, i) => (
+                      <Badge key={`${h.id}-comp-${i}`} variant="secondary">
+                        {label}
+                      </Badge>
+                    ))}
+                    <span className="tabular-nums">
+                      goed {h.correct} · twijfel {h.unsure} · fout {h.incorrect}{' '}
+                      ({h.requestedCount} kaarten)
+                    </span>
+                  </span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </TabsContent>
+      </Tabs>
     </div>
   )
 }

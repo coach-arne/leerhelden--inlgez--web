@@ -265,7 +265,7 @@
     --sidebar-primary: hsl(16, 77%, 60%);
     --sidebar-primary-foreground: hsl(0, 0%, 100%);
     --sidebar-accent: hsl(17, 81%, 94%);
-    --sidebar-accent-foreground: hsl(16, 77%, 60%);
+    --sidebar-accent-foreground: rgb(232, 116, 74);
     --sidebar-border: hsl(252, 9%, 91%);
     --sidebar-ring: hsl(16, 77%, 60%);
 
