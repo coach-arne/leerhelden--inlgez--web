@@ -1,0 +1,435 @@
+[
+  {
+    "id": "4213959e-cd77-44b7-851f-fed5dd8fa8a8",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke twee kernkenmerken definiëren volgens Cervone en Pervin een "
+            },
+            {
+              "type": "text",
+              "text": "persoonlijkheidstrek",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (personality trait)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "4713e497-71ab-467a-b01e-98fda373a6b8",
+        "text": "Consistentie en onderscheidend vermogen."
+      },
+      {
+        "id": "6588037c-3da6-414f-9755-60ecad6378e7",
+        "text": "Consistentie en universaliteit."
+      },
+      {
+        "id": "cd24d51c-a78b-4050-88d1-8d8fc302dd37",
+        "text": "Erfelijkheid en situatie-onafhankelijkheid."
+      },
+      {
+        "id": "b50f29ea-e88d-44fa-9016-f6e2d1d9ae33",
+        "text": "Onderscheidend vermogen en onveranderlijkheid over de levensloop."
+      }
+    ],
+    "correctAnswerId": "4713e497-71ab-467a-b01e-98fda373a6b8",
+    "relatedConcept": "Persoonlijkheidstrek",
+    "explanation": "Juist is “Consistentie en onderscheidend vermogen”. Consistentie verwijst naar regelmaat in gedrag over tijd en situaties; onderscheidend vermogen betekent dat de trek mensen van elkaar differentieert — algemeen menselijke vermogens zoals taalgebruik vallen er dus buiten.\n\nWaarom de andere opties niet kloppen:\n• “Consistentie en universaliteit” — Universaliteit is geen definiërend kenmerk. Sterker nog, eigenschappen die iedereen in gelijke mate bezit zijn géén trekken, omdat ze niet onderscheiden.\n• “Erfelijkheid en situatie-onafhankelijkheid” — Erfelijkheid is een empirische bevinding, geen definitiekenmerk, en trekken zijn niet situatie-onafhankelijk — zelfs een agressief persoon kan zich rustig gedragen als de situatie dat vraagt.\n• “Onderscheidend vermogen en onveranderlijkheid over de levensloop” — Onderzoek laat zien dat persoonlijkheid zich over de levensloop kan ontwikkelen (bv. toenemende consciëntieusheid). Stabiliteit is relatief, niet absoluut.",
+    "reference": "Studietaak 2.1, leerdoel 1 – Cervone & Pervin, H7 Trait theories (samenvatting p. 13–23; beknopt p. 180–182)",
+    "source": "exam_questions_h21.json"
+  },
+  {
+    "id": "9c76a907-5d48-4e1a-acf9-cf9d2d2ee353",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een leidinggevende blijkt in vrijwel elke situatie — thuis, op het werk, in de sportclub — zijn gedrag te ordenen rond het manipuleren van anderen. Hoe zou "
+            },
+            {
+              "type": "text",
+              "text": "Allport",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " deze eigenschap typeren, en welk begrip van hem verklaart dat zijn huidige motieven losstaan van hun kinderlijke oorsprong?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "7cdc8ad6-c85d-4484-ba04-3e2e12b5ec05",
+        "text": "Een cardinale trek (cardinal trait); functionele autonomie (functional autonomy) van motieven."
+      },
+      {
+        "id": "691fcbb0-34a4-415e-b711-f848b72443f3",
+        "text": "Een centrale trek (central trait); functionele autonomie van motieven."
+      },
+      {
+        "id": "f04d7882-374e-49fa-a459-fb31f2e3c5d1",
+        "text": "Een secundaire dispositie (secondary disposition); idiografisch onderzoek."
+      },
+      {
+        "id": "33557f78-8450-47f1-905f-d3d8c80497fb",
+        "text": "Een source trait (bronkenmerk); functionele autonomie van motieven."
+      }
+    ],
+    "correctAnswerId": "7cdc8ad6-c85d-4484-ba04-3e2e12b5ec05",
+    "relatedConcept": "Traittypen en functionele autonomie (Allport)",
+    "explanation": "Juist is “Een cardinale trek (cardinal trait); functionele autonomie (functional autonomy)…”. Cardinale trekken domineren bijna alle gedragingen en zijn zeldzaam. Functionele autonomie houdt in dat volwassen motieven onafhankelijk worden van de oorspronkelijke spanningsreducerende drijfveren uit de kindertijd.\n\nWaarom de andere opties niet kloppen:\n• “Een centrale trek (central trait); functionele autonomie…” — Wat betreft het traittype: centrale trekken zijn algemene kenmerken zoals eerlijkheid of vriendelijkheid, die het gedrag níet in vrijwel álle situaties beheersen. Zie leerdoel 3.\n• “Een secundaire dispositie (secondary disposition); idiografisch onderzoek” — Secundaire disposities zijn juist minder opvallend, minder algemeen en sterk situatiegebonden. Idiografisch onderzoek is bovendien een methode, geen verklaring voor motiefontwikkeling.\n• “Een source trait (bronkenmerk); functionele autonomie van…” — 'source trait' is een begrip van Cattell, niet van Allport. Cattell onderscheidde surface traits van source traits via factoranalyse.",
+    "reference": "Studietaak 2.1, leerdoel 3 – Cervone & Pervin, H7 Trait theories (samenvatting p. 13–23; beknopt p. 180–182)",
+    "source": "exam_questions_h21.json"
+  },
+  {
+    "id": "901f661b-f84b-4131-ac31-f0266f58e429",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is het belangrijkste methodologische bezwaar tegen de "
+            },
+            {
+              "type": "text",
+              "text": "idiografische benadering",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (idiographic approach) van Allport, en welk voordeel biedt zij desondanks?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "b693d92c-8f1b-4f8b-a532-8d4c81c3f3be",
+        "text": "Bezwaar: uitkomsten zijn moeilijk tussen personen te vergelijken; voordeel: zij levert een rijk en gedetailleerd beeld van de individuele persoonlijkheidsorganisatie."
+      },
+      {
+        "id": "6b4d5371-8d30-4d12-94ab-122ecbb51ef1",
+        "text": "Bezwaar: zij is uitsluitend gebaseerd op zelfrapportage; voordeel: zij is ongevoelig voor sociale wenselijkheid."
+      },
+      {
+        "id": "837994d6-d71e-45ba-be89-40e215728ac7",
+        "text": "Bezwaar: zij vereist factoranalyse op grote steekproeven; voordeel: de gevonden factoren zijn statistisch objectief."
+      },
+      {
+        "id": "505e44c8-e184-4e12-becc-7b1a4be9ea29",
+        "text": "Bezwaar: zij ontkent het bestaan van stabiele trekken; voordeel: zij verklaart situationele variatie beter."
+      }
+    ],
+    "correctAnswerId": "b693d92c-8f1b-4f8b-a532-8d4c81c3f3be",
+    "relatedConcept": "Idiografisch versus nomothetisch onderzoek",
+    "explanation": "Juist is “Bezwaar: uitkomsten zijn moeilijk tussen personen te vergelijken; voordeel:…”. Allport bestudeerde bijvoorbeeld 172 brieven van één vrouw. De meeste latere trekkentheoretici kozen daarom voor de nomothetische route: universele trekken bij grote groepen.\n\nWaarom de andere opties niet kloppen:\n• “Bezwaar: zij is uitsluitend gebaseerd op zelfrapportage;…” — De idiografische benadering gebruikt uiteenlopende persoonlijke documenten en observaties, en is bepaald niet immuun voor vertekening.\n• “Bezwaar: zij vereist factoranalyse op grote steekproeven;…” — Factoranalyse op grote steekproeven kenmerkt juist de nomothetische benadering van Cattell en Eysenck, niet de idiografische van Allport. Zie opdracht 2.1.2.1.\n• “Bezwaar: zij ontkent het bestaan van stabiele…” — Allport beschouwde trekken juist als werkelijke, neurologisch verankerde structuren. Hij ontkende hun bestaan allerminst.",
+    "reference": "Studietaak 2.1, leerdoel 3 – Cervone & Pervin, H7 Trait theories (samenvatting p. 13–23; beknopt p. 180–182)",
+    "source": "exam_questions_h21.json"
+  },
+  {
+    "id": "437eb79b-2f05-4a02-aa00-eb97093ff313",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Cattell",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " onderscheidde drie soorten gegevens. Welke uitspraak over zijn bevindingen is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a1e218a9-31c2-4788-a29c-e01a58553763",
+        "text": "Van de 16 factoren in de 16PF komen er 12 overeen met factoren uit L-data, terwijl 4 uniek lijken voor vragenlijstmethoden."
+      },
+      {
+        "id": "5942ace7-bd7d-4f37-b675-e68ee88c29ad",
+        "text": "De 21 bronkenmerken uit OT-data komen vrijwel één op één overeen met de factoren uit L- en Q-data."
+      },
+      {
+        "id": "067310e4-bb09-4435-a4a7-0038f6a7de38",
+        "text": "Surface traits zijn de onderliggende factoren die de observeerbare source traits verklaren."
+      },
+      {
+        "id": "023b1e56-661d-411c-806b-3a1529a09cc4",
+        "text": "OT-data bestaan uit levensloopgegevens zoals schoolprestaties en observaties door anderen."
+      }
+    ],
+    "correctAnswerId": "a1e218a9-31c2-4788-a29c-e01a58553763",
+    "relatedConcept": "Surface traits, source traits en L-, Q- en OT-data (Cattell)",
+    "explanation": "Juist is “Van de 16 factoren in de 16PF komen er…”. Cattell vond 15 bronkenmerken in L-data, ontwikkelde daarop de 16PF (Q-data) en vond later 21 factoren in OT-data die slechts zwak samenhingen met de overige databronnen.\n\nWaarom de andere opties niet kloppen:\n• “De 21 bronkenmerken uit OT-data komen vrijwel…” — Juist het tegendeel. De OT-factoren vertoonden een complexe en zwakke relatie met de L- en Q-databevindingen, wat een validiteitsprobleem voor zijn model vormt.\n• “Surface traits zijn de onderliggende factoren die…” — De begrippen staan omgekeerd. Surface traits zijn de observeerbare gedragstendensen; source traits zijn de dieperliggende structuren die deze verklaren.\n• “OT-data bestaan uit levensloopgegevens zoals schoolprestaties en…” — Dat zijn L-data (life record data). OT-data zijn objectieve tests in gesimuleerde situaties waarbij de deelnemer niet weet wat er gemeten wordt.",
+    "reference": "Studietaak 2.1, leerdoel 3 – Cervone & Pervin, H7 Trait theories (samenvatting p. 13–23; beknopt p. 180–182)",
+    "source": "exam_questions_h21.json"
+  },
+  {
+    "id": "b679d892-a75c-42ae-8996-97ab6714b9c1",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Naast trekken introduceerde Cattell ook "
+            },
+            {
+              "type": "text",
+              "text": "states",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " en "
+            },
+            {
+              "type": "text",
+              "text": "roles",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Welk theoretisch probleem wilde hij daarmee oplossen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "f97250fc-4244-445f-a866-42ab87bafb49",
+        "text": "Dat gedrag niet volledig te verklaren is uit stabiele trekken alleen, omdat ook tijdelijke stemmingen en sociale rollen het gedrag mede bepalen."
+      },
+      {
+        "id": "5d6dc6e9-3bf0-4e54-8ad6-60a213c5e74b",
+        "text": "Dat trekken niet erfelijk blijken te zijn en dus door leerprocessen verklaard moeten worden."
+      },
+      {
+        "id": "7935a7cf-f878-4fb1-adc4-fb8aa5f337c1",
+        "text": "Dat factoranalyse geen onderscheid kan maken tussen wiskundige en psychologische factoren."
+      },
+      {
+        "id": "42e18693-0c0b-44d8-8086-61b28db56c5a",
+        "text": "Dat het aantal van 16 factoren te groot was voor praktische toepassing."
+      }
+    ],
+    "correctAnswerId": "f97250fc-4244-445f-a866-42ab87bafb49",
+    "relatedConcept": "States en roles (Cattell)",
+    "explanation": "Juist is “Dat gedrag niet volledig te verklaren is uit stabiele…”. Dezelfde persoon juicht in een stadion en zwijgt in een kerk. Gedrag = trekken + situatie + stemming.\n\nWaarom de andere opties niet kloppen:\n• “Dat trekken niet erfelijk blijken te zijn…” — Dit was niet Cattells probleem. Trekkentheoretici gingen juist uit van een gedeeltelijk erfelijke basis van trekken.\n• “Dat factoranalyse geen onderscheid kan maken tussen…” — Dat is een aparte beperking van factoranalyse (het label moet de psycholoog zelf toekennen), maar states en roles zijn daarvoor geen oplossing.\n• “Dat het aantal van 16 factoren te…” — Dat was juist Eysencks kritiek, die hij oploste met secundaire factoranalyse en drie superfactoren — niet met states en roles.",
+    "reference": "Studietaak 2.1, leerdoel 3 – Cervone & Pervin, H7 Trait theories (samenvatting p. 13–23; beknopt p. 180–182)",
+    "source": "exam_questions_h21.json"
+  },
+  {
+    "id": "b63a8281-7908-4c97-9b82-02d3d4c69574",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Eysenck kwam tot zijn drie superfactoren door een "
+            },
+            {
+              "type": "text",
+              "text": "secundaire factoranalyse",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (second-order factor analysis). Wat houdt dit precies in?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "2f338a8f-043f-4eb3-9e9d-853f78fa5e25",
+        "text": "Hij analyseerde de correlaties tússen de factoren van Cattell en vond daarin drie brede, onderling onafhankelijke dimensies."
+      },
+      {
+        "id": "fa877b11-9651-4ece-b36c-5778488f86f5",
+        "text": "Hij herhaalde de factoranalyse van Cattell op een tweede, onafhankelijke steekproef ter replicatie."
+      },
+      {
+        "id": "e0046c4e-2664-4032-8341-b43c849f1fb4",
+        "text": "Hij voegde aan Cattells 16 factoren een tweede set items toe om de betrouwbaarheid te verhogen."
+      },
+      {
+        "id": "0907a5da-8465-4147-972a-de35c82e9828",
+        "text": "Hij analyseerde per proefpersoon afzonderlijk welke factoren samenhingen, volgens de idiografische methode."
+      }
+    ],
+    "correctAnswerId": "2f338a8f-043f-4eb3-9e9d-853f78fa5e25",
+    "relatedConcept": "Secundaire factoranalyse en het PEN-model (Eysenck)",
+    "explanation": "Juist is “Hij analyseerde de correlaties tússen de factoren van Cattell…”. Zo ontstond het PEN-model: Psychoticisme, Extraversie–Introversie en Neuroticisme, dat past in een hiërarchie van specifieke gedragingen → gewoonten → trekken → superfactoren.\n\nWaarom de andere opties niet kloppen:\n• “Hij herhaalde de factoranalyse van Cattell op…” — Dat zou een replicatie zijn. 'Secundair' verwijst naar het niveau van analyse — de correlaties tussen de reeds gevonden factoren — niet naar een tweede steekproef.\n• “Hij voegde aan Cattells 16 factoren een…” — Eysenck wilde het aantal factoren juist reduceren, niet het aantal items uitbreiden.\n• “Hij analyseerde per proefpersoon afzonderlijk welke factoren…” — Eysenck werkte nomothetisch, op groepsniveau. De idiografische methode is die van Allport.",
+    "reference": "Studietaak 2.1, leerdoel 3 – Cervone & Pervin, H7 Trait theories (samenvatting p. 13–23; beknopt p. 180–182)",
+    "source": "exam_questions_h21.json"
+  },
+  {
+    "id": "d1d92dd8-5a84-4aa2-81e7-b090ed5c24ab",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In de zogeheten "
+            },
+            {
+              "type": "text",
+              "text": "lemon drop test",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " produceren introverten meer speeksel na het aanbrengen van citroensap op de tong dan extraverten. Welke theoretische conclusie verbond Eysenck hieraan?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "884d9ad7-2bb6-4cef-b68f-d89fd36cecaa",
+        "text": "Introverten hebben een hoger basisniveau van corticale arousal, waardoor zij sterker reageren op prikkels en drukte vermijden."
+      },
+      {
+        "id": "eaa8f896-3294-4c94-a0c7-2c94e3bf6292",
+        "text": "Introverten hebben een reactiever limbisch systeem, wat hun hogere neuroticismescores verklaart."
+      },
+      {
+        "id": "9134cf00-79fc-4645-8ac2-a6a89973adbe",
+        "text": "Extraverten hebben een hoger testosteron- en dopamineniveau, wat hun prikkelzoekend gedrag verklaart."
+      },
+      {
+        "id": "55a80b23-4d24-44eb-b0b3-849164954e70",
+        "text": "Introverten zijn gevoeliger voor straf via het BIS (Behavioral Inhibition System) van Gray."
+      }
+    ],
+    "correctAnswerId": "884d9ad7-2bb6-4cef-b68f-d89fd36cecaa",
+    "relatedConcept": "Corticale arousal en extraversie (Eysenck)",
+    "explanation": "Juist is “Introverten hebben een hoger basisniveau van corticale arousal, waardoor…”. Extraverten hebben juist een lager arousalniveau en zoeken daarom méér stimulatie op. Dit is een klassiek voorbeeld van een objectieve maat naast zelfrapportage.\n\nWaarom de andere opties niet kloppen:\n• “Introverten hebben een reactiever limbisch systeem, wat…” — Het limbisch systeem koppelde Eysenck aan neuroticisme, niet aan de introversie–extraversiedimensie. Zie leerdoel 3.\n• “Extraverten hebben een hoger testosteron- en dopamineniveau,…” — Testosteron en dopamine bracht Eysenck in verband met psychoticisme, en de lemon drop test meet geen hormoonspiegels.\n• “Introverten zijn gevoeliger voor straf via het…” — Het BIS/BAS-onderscheid is een latere uitbreiding door Gray. Eysencks eigen verklaring berustte op corticale arousal.",
+    "reference": "Studietaak 2.1, leerdoel 3 – Cervone & Pervin, H7 Trait theories (samenvatting p. 13–23; beknopt p. 180–182)",
+    "source": "exam_questions_h21.json"
+  },
+  {
+    "id": "35b3d05b-d368-4bd0-99d0-8556a5cab731",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sommige theoretici stellen dat trekken gedrag niet écht verklaren, maar slechts beschrijven — 'zoals een landkaart laat zien wáár iets ligt, maar niet waaróm'. Welke methodologische eigenschap van "
+            },
+            {
+              "type": "text",
+              "text": "factoranalyse",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (factor analysis) ondersteunt deze kritiek het sterkst?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "b482b38c-3f38-4db6-a236-3751e000f184",
+        "text": "De uitkomst is een zuiver wiskundige structuur; het psychologische label en het aantal factoren berusten op interpretatieve keuzes van de onderzoeker."
+      },
+      {
+        "id": "f691e993-d529-4b13-aedc-3fed9e0e35a1",
+        "text": "Factoranalyse vereist experimentele manipulatie, waardoor causale conclusies onvermijdelijk zijn."
+      },
+      {
+        "id": "cc38418a-5c1c-41a3-8781-4414d88b3e8a",
+        "text": "Factoranalyse kan alleen worden toegepast op zelfrapportagegegevens en is daardoor per definitie vertekend."
+      },
+      {
+        "id": "6d78fe75-e531-4277-acd8-3e5f274b67d1",
+        "text": "Factoranalyse levert altijd hetzelfde aantal factoren op, ongeacht de gebruikte items."
+      }
+    ],
+    "correctAnswerId": "b482b38c-3f38-4db6-a236-3751e000f184",
+    "relatedConcept": "Factoranalyse als methode",
+    "explanation": "Juist is “De uitkomst is een zuiver wiskundige structuur; het psychologische…”. Daarom leiden verschillende analysekeuzes tot verschillende modellen (16PF, PEN, Big Five). Extraversie wordt bijvoorbeeld door de een als beloningsgevoeligheid en door de ander als aandacht zoeken geïnterpreteerd.\n\nWaarom de andere opties niet kloppen:\n• “Factoranalyse vereist experimentele manipulatie, waardoor causale conclusies…” — Factoranalyse is juist een correlationele techniek zonder manipulatie, wat causale conclusies nu net níet toestaat.\n• “Factoranalyse kan alleen worden toegepast op zelfrapportagegegevens…” — Cattell paste de techniek toe op L-, Q- én OT-data. Zelfrapportagebias is een apart probleem.\n• “Factoranalyse levert altijd hetzelfde aantal factoren op,…” — Het tegendeel is waar. Juist de afhankelijkheid van itemselectie en analysekeuzes maakt dat modellen uiteenlopen.",
+    "reference": "Studietaak 2.1, leerdoel 4 – Cervone & Pervin, H7 Trait theories (samenvatting p. 13–23; beknopt p. 180–182)",
+    "source": "exam_questions_h21.json"
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "id": "6dc6b05b-88df-4cbf-bf10-676ae1595609",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke omschrijving van "
+            },
+            {
+              "type": "text",
+              "text": "temperament",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " sluit het beste aan bij het psychobiologische model van Rothbart en Derryberry?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "8c0b513a-7f95-4434-86d2-3825e8095e4c",
+        "text": "Vroege, biologisch beïnvloede individuele verschillen in reactiviteit (reactivity) en zelfregulatie (self-regulation)."
+      },
+      {
+        "id": "bce0410e-36a0-4f44-a868-072f9f52de6a",
+        "text": "Aangeboren en onveranderlijke gedragsstijlen die volledig genetisch bepaald zijn."
+      },
+      {
+        "id": "b61d9d21-018d-4f85-bf76-fcfcc95c419d",
+        "text": "Het geheel van attitudes, zelfconcept en waarden dat zich in de kindertijd vormt."
+      },
+      {
+        "id": "dfdd16a3-5cf0-4a56-b63b-3ecd0b0fc52a",
+        "text": "De manier waarop het kind gedrag uitvoert, ongeacht welk gedrag dat is."
+      }
+    ],
+    "correctAnswerId": "8c0b513a-7f95-4434-86d2-3825e8095e4c",
+    "relatedConcept": "Definitie van temperament: reactiviteit en zelfregulatie",
+    "explanation": "Juist is “Vroege, biologisch beïnvloede individuele verschillen in reactiviteit (reactivity) en…”. Reactiviteit betreft snelheid, intensiteit en duur van emotionele, motorische en aandachtsreacties; zelfregulatie betreft het moduleren daarvan via aandacht, inhibitie en zelfstimulatie.\n\nWaarom de andere opties niet kloppen:\n• “Aangeboren en onveranderlijke gedragsstijlen die volledig genetisch…” — Temperament is relatief stabiel maar níet onveranderlijk (opvoeding, cultuur en ervaring sturen bij), en erfelijkheidsschattingen liggen rond 20–60%, dus niet 100%.\n• “Het geheel van attitudes, zelfconcept en waarden…” — Dat is juist de bredere omschrijving van persoonlijkheid. Temperament is de biologisch gefundeerde subset die al vroeg meetbaar is.\n• “De manier waarop het kind gedrag uitvoert,…” — Dit is de definitie van Thomas en Chess ('hoe' in plaats van 'wat'). Juist die beperking tot gedragsstijl is een van de kritiekpunten waarop Rothbart voortbouwde.",
+    "reference": "Studietaak 2.3, leerdoel 1 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "74956a6e-ead1-4648-ae47-5b59d1354f41",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is het belangrijkste conceptuele kritiekpunt op de negen temperamentdimensies uit de "
+            },
+            {
+              "type": "text",
+              "text": "New York Longitudinal Study",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (NYLS) van Thomas en Chess?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "88fa280d-2be0-4e6b-be73-309a288cd70e",
+        "text": "Zij definiëren temperament als gedragsstijl in plaats van als onderliggende emotionele en cognitieve processen, en het label 'moeilijk' is vaag en stigmatiserend."
+      },
+      {
+        "id": "0710efae-e4fd-4ed2-b83d-c0e4a801adbe",
+        "text": "Zij zijn uitsluitend gebaseerd op laboratoriumobservatie en missen daardoor ecologische validiteit."
+      },
+      {
+        "id": "5dfc22a0-1322-4b72-b710-f9de1fd7a200",
+        "text": "Zij houden geen rekening met de omgeving, waardoor de rol van opvoeding volledig buiten beeld blijft."
+      },
+      {
+        "id": "994acd61-3b91-4e9b-826a-1449a2198e6a",
+        "text": "Zij zijn niet crossenational te repliceren en gelden alleen voor de Amerikaanse context."
+      }
+    ],
+    "correctAnswerId": "88fa280d-2be0-4e6b-be73-309a288cd70e",
+    "relatedConcept": "Negen temperamentdimensies (Thomas & Chess)",
+    "explanation": "Juist is “Zij definiëren temperament als gedragsstijl in plaats van als…”. Rothbart koos daarom voor concrete, meetbare gedragingen in herkenbare situaties, wat leidde tot functionele dimensies als reactiviteit van basisemoties en effortful control.\n\nWaarom de andere opties niet kloppen:\n• “Zij zijn uitsluitend gebaseerd op laboratoriumobservatie en…” — De NYLS werkte juist met interviews met ouders over gedrag in alledaagse situaties (eten, bad, spelen), niet met lab-observaties.\n• “Zij houden geen rekening met de omgeving,…” — Thomas en Chess introduceerden juist het begrip goodness-of-fit, dat de match tussen kind en omgeving centraal stelt.\n• “Zij zijn niet crossenational te repliceren en…” — Dit was niet het genoemde kernbezwaar. Het bezwaar betreft de conceptualisering als gedragsstijl en de vaagheid van de typologie.",
+    "reference": "Studietaak 2.3, leerdoel 2 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "205996b6-bafa-49c1-9ea5-b909bd394583",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke koppeling tussen de temperamentfactoren van Rothbart en Bates en de Big Five is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "8e1d99b8-762d-4a38-9eea-284c69cbec39",
+        "text": "Effortful Control ↔ Consciëntieusheid; Surgency ↔ Extraversie; Negatieve affectiviteit ↔ Neuroticisme."
+      },
+      {
+        "id": "9d5c47b2-1ae6-49b1-a1f9-d84ef77bb4c2",
+        "text": "Effortful Control ↔ Vriendelijkheid; Surgency ↔ Openheid; Negatieve affectiviteit ↔ Neuroticisme."
+      },
+      {
+        "id": "eba5613d-3b1f-4cd8-a8dd-250e5971cc20",
+        "text": "Effortful Control ↔ Extraversie; Surgency ↔ Consciëntieusheid; Negatieve affectiviteit ↔ lage Vriendelijkheid."
+      },
+      {
+        "id": "4a001968-e5da-40cb-b285-4b241bcc4d72",
+        "text": "Alle drie de factoren corresponderen met Neuroticisme, omdat temperament alleen emotionele reactiviteit betreft."
+      }
+    ],
+    "correctAnswerId": "8e1d99b8-762d-4a38-9eea-284c69cbec39",
+    "relatedConcept": "Temperamentfactoren van Rothbart en de Big Five",
+    "explanation": "Juist is “Effortful Control ↔ Consciëntieusheid; Surgency ↔ Extraversie; Negatieve affectiviteit…”. Aanvullend geldt: frustratie hangt samen met lage Vriendelijkheid, en oriënterende sensitiviteit voor subtiele prikkels met Openheid.\n\nWaarom de andere opties niet kloppen:\n• “Effortful Control ↔ Vriendelijkheid; Surgency ↔ Openheid;…” — Effortful Control betreft doelgerichte zelfregulatie en hangt samen met Consciëntieusheid; Surgency betreft positieve emotionaliteit en activiteit en hangt samen met Extraversie.\n• “Effortful Control ↔ Extraversie; Surgency ↔ Consciëntieusheid;…” — Deze koppelingen staan omgewisseld. Zie leerdoel 6.\n• “Alle drie de factoren corresponderen met Neuroticisme,…” — Het model omvat naast negatieve emotionaliteit ook positieve emotionaliteit (surgency) en regulatie (effortful control).",
+    "reference": "Studietaak 2.3, leerdoel 6 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "ad84e5db-c648-4cb0-88d9-350f5987a2b4",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een baby van vier maanden reageert op nieuwe prikkels met sterke motorische opwinding en huilen. Volgens het onderzoek van "
+            },
+            {
+              "type": "text",
+              "text": "Kagan",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " naar "
+            },
+            {
+              "type": "text",
+              "text": "gedragsinhibitie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (behavioral inhibition): welk biologisch profiel en welke voorspelling horen hierbij?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "55a20f82-fb01-4e42-870c-061e8f31a356",
+        "text": "Hogere hartslag, verhoogde spierspanning en meer cortisol; verhoogde kans op verlegenheid en sociale angst tot in de adolescentie, samenhangend met sterkere amygdala-reactiviteit op onbekende gezichten."
+      },
+      {
+        "id": "1d24f982-65ec-401f-9998-94cdd1b4f438",
+        "text": "Verlaagde hartslag en lage cortisolwaarden; verhoogde kans op externaliserende problematiek zoals ADHD."
+      },
+      {
+        "id": "ae9956da-74d3-4ad9-885e-8366c6ce93b5",
+        "text": "Linkszijdige frontale EEG-asymmetrie; verhoogde kans op boosheid en agressie op latere leeftijd."
+      },
+      {
+        "id": "8e40f2cb-f899-478e-9389-1bcbb8621cb6",
+        "text": "Lage RSA-baseline; verhoogde kans op verminderde cognitieve efficiëntie zonder emotionele gevolgen."
+      }
+    ],
+    "correctAnswerId": "55a20f82-fb01-4e42-870c-061e8f31a356",
+    "relatedConcept": "Gedragsinhibitie (Kagan)",
+    "explanation": "Juist is “Hogere hartslag, verhoogde spierspanning en meer cortisol; verhoogde kans…”. In fMRI-onderzoek bleek deze verhoogde amygdala-respons jaren later nog aantoonbaar bij eerder geremde kinderen.\n\nWaarom de andere opties niet kloppen:\n• “Verlaagde hartslag en lage cortisolwaarden; verhoogde kans…” — Dit profiel past eerder bij ongeïnhibeerde, prikkelzoekende kinderen. Gedragsinhibitie hangt samen met internaliserende problematiek.\n• “Linkszijdige frontale EEG-asymmetrie; verhoogde kans op boosheid…” — Linkszijdige asymmetrie hangt samen met toenadering en positieve emoties (en soms boosheid). Terugtrekgedrag en angst hangen samen met rechtszijdige asymmetrie.\n• “Lage RSA-baseline; verhoogde kans op verminderde cognitieve…” — RSA is een maat voor vagale regulatie, geen kenmerk van Kagans gedragsinhibitieprofiel, en de voorspelling betreft juist wél emotionele uitkomsten.",
+    "reference": "Studietaak 2.3, leerdoel 4 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "8957bfdb-b7f8-4188-8123-a4d68f849bc6",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een onderzoeker wil "
+            },
+            {
+              "type": "text",
+              "text": "effortful control",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " bij tweejarigen meten. Welke combinatie van methoden past het beste bij de aanbevelingen uit het cursusmateriaal?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "e17a838a-1ce6-44c4-ae87-e795bc531956",
+        "text": "Een gedragstaak zoals Snack Delay of de Shapes-taak, gecombineerd met ouderrapportage en zo mogelijk een psychofysiologische maat."
+      },
+      {
+        "id": "f1fd79b2-c385-4384-9dc8-78ef160e784b",
+        "text": "Uitsluitend zelfrapportage door het kind, omdat dit de meest directe bron van informatie is."
+      },
+      {
+        "id": "b86d1f0b-b5fa-44c0-bbc0-b2c5ff98c6ef",
+        "text": "Uitsluitend laboratoriumobservatie, omdat ouderrapportages per definitie ongeldig zijn."
+      },
+      {
+        "id": "2dede734-807c-4bbb-bf5a-3985ea24d563",
+        "text": "De Lab-TAB met maskerpresentaties, omdat dit instrument speciaal voor effortful control is ontwikkeld."
+      }
+    ],
+    "correctAnswerId": "e17a838a-1ce6-44c4-ae87-e795bc531956",
+    "relatedConcept": "Meting van effortful control",
+    "explanation": "Juist is “Een gedragstaak zoals Snack Delay of de Shapes-taak, gecombineerd…”. Geen enkele methode is op zichzelf voldoende betrouwbaar; de aanbeveling is een multimethod-aanpak. Kochanska vond met deze taken stabiele individuele verschillen tussen 22 en 33 maanden.\n\nWaarom de andere opties niet kloppen:\n• “Uitsluitend zelfrapportage door het kind, omdat dit…” — Zelfrapportage is pas vanaf ongeveer 11 jaar bruikbaar. Bij peuters is dat geen optie.\n• “Uitsluitend laboratoriumobservatie, omdat ouderrapportages per definitie ongeldig…” — Ouderrapporten correleren juist met observaties, fysiologische metingen en hechtingsuitkomsten, en zijn de meest gebruikte methode. Bias wordt beperkt door te vragen naar concreet gedrag in concrete situaties.\n• “De Lab-TAB met maskerpresentaties, omdat dit instrument…” — De Lab-TAB meet vooral reactieve dimensies zoals angst, boosheid, interesse en plezier. Maskerpresentaties meten angst, geen effortful control.",
+    "reference": "Studietaak 2.3, leerdoel 3 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "a575566e-9199-40e7-96d9-bbe2e679b5e0",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het "
+            },
+            {
+              "type": "text",
+              "text": "COMT",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "-polymorfisme val158met (rs4680) beïnvloedt de afbraak van dopamine in de prefrontale cortex. Welke uitspraak is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "d1a0f08a-0e14-4873-9146-bec50b056262",
+        "text": "Het Met-allel gaat gepaard met minder efficiënte afbraak en dus meer beschikbaar dopamine, wat bij volwassenen samenhangt met betere prestaties op prefrontaal belastende taken; bij jonge kinderen kan het effect zelfs omgekeerd zijn."
+      },
+      {
+        "id": "b1b95b3c-cdc0-4c44-8685-86bc40776c3d",
+        "text": "Het Val-allel gaat gepaard met minder efficiënte afbraak en dus meer dopamine in de prefrontale cortex."
+      },
+      {
+        "id": "46740fa4-9b76-4fc8-a42d-da8f32d68dab",
+        "text": "Het effect van val158met is over alle leeftijden identiek, omdat het genotype niet verandert."
+      },
+      {
+        "id": "bdad1f34-1de2-4ab1-9f1f-8d3267ed98b5",
+        "text": "COMT codeert voor een dopaminereceptor en is daardoor vooral betrokken bij beloningsgevoeligheid."
+      }
+    ],
+    "correctAnswerId": "d1a0f08a-0e14-4873-9146-bec50b056262",
+    "relatedConcept": "COMT val158met",
+    "explanation": "Juist is “Het Met-allel gaat gepaard met minder efficiënte afbraak en…”. Dit past bij een omgekeerd U-vormig verband: zowel te weinig als te veel dopamine is ongunstig. Kinderen hebben een COMT-activiteit tot de helft van het volwassen niveau.\n\nWaarom de andere opties niet kloppen:\n• “Het Val-allel gaat gepaard met minder efficiënte…” — De allelen staan omgedraaid. Het Met-allel breekt dopamine minder efficiënt af; het Val-allel juist efficiënter.\n• “Het effect van val158met is over alle…” — Een stabiel genotype betekent geen stabiel fenotypisch effect. De dopaminebeschikbaarheid daalt met de leeftijd, waardoor COMT-variatie bij volwassenen zwaarder gaat wegen.\n• “COMT codeert voor een dopaminereceptor en is…” — COMT codeert voor een enzym dat catecholaminen afbreekt. De dopaminereceptor is DRD4.",
+    "reference": "Studietaak 2.3, leerdoel 4 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "df0b583b-1905-4de5-873d-3784c3a04c51",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Kinderen met de "
+            },
+            {
+              "type": "text",
+              "text": "DRD4 7-repeat",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "-variant blijken bij negatieve opvoeding lagere effortful control te ontwikkelen, maar profiteren juist bovengemiddeld van oudertraining. Welk model verklaart dit patroon het beste, en waarin verschilt dat van het alternatief?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "5d157d52-b4be-49cb-a1a7-ce15dbb842b5",
+        "text": "Differentiële susceptibiliteit (differential susceptibility): dezelfde variant verhoogt de gevoeligheid voor zowel negatieve als positieve omgevingen, terwijl het diathese-stressmodel alleen extra schade in ongunstige omgevingen voorspelt."
+      },
+      {
+        "id": "e2ffe76e-118a-4eed-9de2-3b947b3d0cba",
+        "text": "Het diathese-stressmodel, omdat de variant een algemene kwetsbaarheid voor psychopathologie weerspiegelt."
+      },
+      {
+        "id": "8849f164-0e97-46d2-a35b-fb9df062281b",
+        "text": "Het goodness-of-fit-model, omdat de match tussen kind en omgeving de uitkomst bepaalt."
+      },
+      {
+        "id": "92e8a767-0696-441b-9df9-c291725838f4",
+        "text": "Het epigenetische model, omdat de opvoeding de DNA-volgorde van DRD4 verandert."
+      }
+    ],
+    "correctAnswerId": "5d157d52-b4be-49cb-a1a7-ce15dbb842b5",
+    "relatedConcept": "DRD4 7-repeat en differentiële susceptibiliteit",
+    "explanation": "Juist is “Differentiële susceptibiliteit (differential susceptibility): dezelfde variant verhoogt de gevoeligheid…”. Het onderscheid zit in de vorm van de interactie: 'voor beter én slechter' versus uitsluitend verhoogde kwetsbaarheid. Sommige studies passen overigens beter bij het diathese-stressmodel.\n\nWaarom de andere opties niet kloppen:\n• “Het diathese-stressmodel, omdat de variant een algemene…” — Het diathese-stressmodel voorspelt géén bovengemiddelde winst in gunstige omstandigheden. Juist die 'extra winst' onderscheidt differentiële susceptibiliteit.\n• “Het goodness-of-fit-model, omdat de match tussen kind…” — Goodness-of-fit (Thomas & Chess) betreft de afstemming tussen temperament en omgevingseisen, niet een genotype dat de gevoeligheid voor omgevingsinvloed moduleert.\n• “Het epigenetische model, omdat de opvoeding de…” — Epigenetische processen veranderen de genexpressie (bv. via methylatie), niet de DNA-volgorde zelf.",
+    "reference": "Studietaak 2.3, leerdoel 4 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "ac0aa6d7-bf05-4390-b70d-6909cce3af3f",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Over het "
+            },
+            {
+              "type": "text",
+              "text": "5-HTTLPR",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "-polymorfisme wordt vaak gerapporteerd dat het S-allel samenhangt met angst en negatieve affectiviteit. Welke uitspraak combineert het mechanisme en de methodologische kanttekening correct?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "fdc7cee5-e7c3-4935-bd14-98d5256eb25a",
+        "text": "Het korte allel leidt tot minder transportereiwit en dus minder heropname, waardoor meer serotonine in de synaps blijft; de bevindingen zijn echter inconsistent en delen de bekende zwaktes van candidate gene-onderzoek."
+      },
+      {
+        "id": "9d4ef94d-1d0d-4e6c-a71e-e028d630ea2a",
+        "text": "Het korte allel leidt tot méér transportereiwit en dus snellere heropname, waardoor er minder serotonine in de synaps beschikbaar is."
+      },
+      {
+        "id": "d16c3cf3-3e49-4ad0-96f7-d44499913c62",
+        "text": "Het effect van 5-HTTLPR is inmiddels in grootschalige studies robuust gerepliceerd en geldt als een van de best gevalideerde genetische markers."
+      },
+      {
+        "id": "de9d01ab-b7ed-4ab0-8802-3d764e9c062d",
+        "text": "5-HTTLPR is een polymorfisme in het dopaminesysteem en werkt uitsluitend via de prefrontale cortex."
+      }
+    ],
+    "correctAnswerId": "fdc7cee5-e7c3-4935-bd14-98d5256eb25a",
+    "relatedConcept": "5-HTTLPR en candidate gene-onderzoek",
+    "explanation": "Juist is “Het korte allel leidt tot minder transportereiwit en dus…”. Die zwaktes zijn: selectiebias in de keuze van polymorfismen, zeer kleine effectgroottes en gebrekkige replicatie. Grote steekproeven en theoretisch onderbouwde variabelen worden aanbevolen.\n\nWaarom de andere opties niet kloppen:\n• “Het korte allel leidt tot méér transportereiwit…” — Het mechanisme staat omgekeerd. De korte variant geeft juist minder eiwitproductie en minder transport.\n• “Het effect van 5-HTTLPR is inmiddels in…” — Grote studies vinden juist regelmatig géén verband. Replicatieproblemen zijn een kernkritiek op deze onderzoekslijn.\n• “5-HTTLPR is een polymorfisme in het dopaminesysteem…” — 5-HTTLPR betreft de serotoninetransporter. COMT en DRD4 zijn de dopaminegerelateerde varianten.",
+    "reference": "Studietaak 2.3, leerdoel 4 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "969b8157-e597-45ce-bb35-af86eea119f8",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke interpretatie van "
+            },
+            {
+              "type": "text",
+              "text": "frontale EEG-asymmetrie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " bij jonge kinderen is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "628d58a3-b334-402b-bca2-7ae1cb108e7f",
+        "text": "Relatief meer rechtszijdige activiteit hangt samen met terugtrekking en angst; een stabiel rechtszijdig patroon voorspelt internaliserende problemen, een stabiel linkszijdig patroon externaliserende problemen."
+      },
+      {
+        "id": "546e9986-0778-4a9f-bc3d-e25e6d63bb74",
+        "text": "Relatief meer linkszijdige activiteit hangt samen met angst en vermijding van nieuwe prikkels."
+      },
+      {
+        "id": "65694365-92cd-4031-8902-863e676213e6",
+        "text": "Frontale asymmetrie is een maat voor vagale regulatie en wordt uitgedrukt in RSA."
+      },
+      {
+        "id": "1a9406dc-7b24-424f-b198-486ce320312b",
+        "text": "Frontale asymmetrie is instabiel over de tijd en heeft daarom geen voorspellende waarde."
+      }
+    ],
+    "correctAnswerId": "628d58a3-b334-402b-bca2-7ae1cb108e7f",
+    "relatedConcept": "Frontale EEG-asymmetrie",
+    "explanation": "Juist is “Relatief meer rechtszijdige activiteit hangt samen met terugtrekking en…”. Baby's met rechtszijdige asymmetrie huilen meer en vermijden nieuwe prikkels. Linkszijdige asymmetrie hangt samen met toenadering en positieve emoties, en soms met boosheid.\n\nWaarom de andere opties niet kloppen:\n• “Relatief meer linkszijdige activiteit hangt samen met…” — Links en rechts staan hier verwisseld. Linkszijdige dominantie hoort bij toenaderingsgedrag.\n• “Frontale asymmetrie is een maat voor vagale…” — RSA (respiratoire sinusaritmie) is een cardiovasculaire maat voor parasympathische regulatie, gemeten via hartslagvariatie tijdens de ademhaling, niet via EEG.\n• “Frontale asymmetrie is instabiel over de tijd…” — Juist de stabiliteit van het asymmetriepatroon blijkt voorspellend voor later probleemgedrag.",
+    "reference": "Studietaak 2.3, leerdoel 4 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "af1fd4c2-4556-4e16-9aed-ee7bde511e91",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een kind vertoont op vier maanden hoge negatieve reactiviteit en vermijdt op vierjarige leeftijd leeftijdsgenoten. Welk begrip beschrijft deze ontwikkeling, en waarin verschilt het van het alternatief?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "8de04809-bc95-455e-a0b2-6e0a50972026",
+        "text": "Heterotypische continuïteit (heterotypic continuity): hetzelfde onderliggende proces uit zich in ander gedrag naarmate het kind ouder wordt, terwijl bij homotypische continuïteit hetzelfde gedrag zelf stabiel blijft."
+      },
+      {
+        "id": "fa656337-35cd-42b0-bc5b-b753cf8d2a90",
+        "text": "Homotypische continuïteit, omdat er in beide gevallen sprake is van negatieve emotionaliteit."
+      },
+      {
+        "id": "c5ff534f-9de1-4ffa-95b1-14ccc41d0dd9",
+        "text": "Goodness-of-fit, omdat de omgeving zich onvoldoende heeft aangepast aan het kind."
+      },
+      {
+        "id": "1f34e53a-2890-4968-b313-7043309143c9",
+        "text": "Differentiële susceptibiliteit, omdat het kind extra gevoelig is voor omgevingsinvloeden."
+      }
+    ],
+    "correctAnswerId": "8de04809-bc95-455e-a0b2-6e0a50972026",
+    "relatedConcept": "Homotypische en heterotypische continuïteit",
+    "explanation": "Juist is “Heterotypische continuïteit (heterotypic continuity): hetzelfde onderliggende proces uit zich…”. Homotypische continuïteit komt vaker voor na de puberteit; de stabiliteit van temperament neemt over de levensloop toe en piekt na het vijftigste jaar.\n\nWaarom de andere opties niet kloppen:\n• “Homotypische continuïteit, omdat er in beide gevallen…” — Bij homotypische continuïteit blijft de gedragsuiting zélf gelijk. Hier verandert de gedragsuiting (huilen/distress wordt sociale vermijding) terwijl het onderliggende proces gelijk blijft.\n• “Goodness-of-fit, omdat de omgeving zich onvoldoende heeft…” — Goodness-of-fit gaat over de match tussen temperament en omgevingseisen, niet over de vorm waarin een kenmerk zich over de tijd manifesteert.\n• “Differentiële susceptibiliteit, omdat het kind extra gevoelig…” — Differentiële susceptibiliteit betreft de mate waarin iemand door de omgeving beïnvloed wordt, niet de vorm van continuïteit over de tijd.",
+    "reference": "Studietaak 2.3, leerdoel 1 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  },
+  {
+    "id": "a9878b99-02b1-4479-b4c5-4e0b4185bcaf",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat laat onderzoek naar "
+            },
+            {
+              "type": "text",
+              "text": "gender en cultuur",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " in temperament zien?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "41144f13-cf30-4c03-8da0-50f9c2c1b59d",
+        "text": "Vóór het eerste levensjaar zijn de verschillen klein; daarna tonen jongens gemiddeld meer activiteit en toenadering en meisjes duidelijk hogere effortful control, terwijl culturen dezelfde dimensies herkennen maar verschillend waarderen — verlegenheid geldt in China als positief en in Canada als negatief."
+      },
+      {
+        "id": "9d272dcd-7092-41c4-8f38-a439ec1e907d",
+        "text": "Geslachtsverschillen zijn vanaf de geboorte groot en nemen met de leeftijd af."
+      },
+      {
+        "id": "302b4241-a063-495a-ab72-fd6204630c0b",
+        "text": "De driefactorstructuur van temperament is uitsluitend in westerse steekproeven terug te vinden."
+      },
+      {
+        "id": "90a56708-506d-4c05-a864-51cfdf8a66d2",
+        "text": "Culturele waardering van temperament heeft geen invloed op de ontwikkeling, omdat temperament biologisch vastligt."
+      }
+    ],
+    "correctAnswerId": "41144f13-cf30-4c03-8da0-50f9c2c1b59d",
+    "relatedConcept": "Gender en cultuur in temperament",
+    "explanation": "Juist is “Vóór het eerste levensjaar zijn de verschillen klein; daarna…”. Na de puberteit zien we bij meisjes meer internaliserende problematiek. Ook gen–cultuur co-evolutie speelt mee: het korte 5-HTTLPR-allel komt vaker voor in Azië.\n\nWaarom de andere opties niet kloppen:\n• “Geslachtsverschillen zijn vanaf de geboorte groot en…” — Het patroon is precies omgekeerd. Vóór één jaar zijn de verschillen klein; ze worden later duidelijker, met een grote effectgrootte voor effortful control bij meisjes.\n• “De driefactorstructuur van temperament is uitsluitend in…” — Surgency, negatieve affectiviteit en regulatie worden crosscultureel herkend; wat verschilt zijn de gemiddelde scores en de sociale waardering.\n• “Culturele waardering van temperament heeft geen invloed…” — Cultuur en omgeving moduleren temperament via feedback op gedrag — temperament bepaalt mede hoe anderen ons zien en hoe wij onszelf zien.",
+    "reference": "Studietaak 2.3, leerdoel 5 – Matthews H11 + Gartstein e.a. (2016) (samenvatting p. 48–71; beknopt p. 187–190)",
+    "source": "exam_questions_h23.json"
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "id": "ca348b6a-67b3-45d8-8970-61981d42f2eb",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Waarom verving Freud hypnose door "
+            },
+            {
+              "type": "text",
+              "text": "vrije associatie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (free association) als kerntechniek?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "0973c879-bc39-4381-8a72-ccaaf36a1cba",
+        "text": "Omdat vrije associatie de patiënt in staat stelt alles te zeggen wat opkomt, waardoor onbewuste inhouden — en de weerstand daartegen — zichtbaar worden."
+      },
+      {
+        "id": "57edde02-3fe4-4c3a-8803-5719ed44dec4",
+        "text": "Omdat hypnose te weinig suggestibele patiënten opleverde en vrije associatie sneller symptoomreductie gaf."
+      },
+      {
+        "id": "fd67a248-f242-42de-b7ea-ea08804ca418",
+        "text": "Omdat vrije associatie objectief meetbaar is en daardoor beter aansluit bij empirisch onderzoek."
+      },
+      {
+        "id": "cd311a20-dad5-45ed-83fa-7403f8bc5242",
+        "text": "Omdat Freud onder invloed van Rogers overstapte op een non-directieve houding."
+      }
+    ],
+    "correctAnswerId": "0973c879-bc39-4381-8a72-ccaaf36a1cba",
+    "relatedConcept": "Vrije associatie en weerstand",
+    "explanation": "Juist is “Omdat vrije associatie de patiënt in staat stelt alles…”. Weerstand is in dit kader geen obstakel maar diagnostisch materiaal: het verzet tegen bewustwording van pijnlijke inzichten wordt zelf onderwerp van onderzoek.\n\nWaarom de andere opties niet kloppen:\n• “Omdat hypnose te weinig suggestibele patiënten opleverde…” — Snelheid van symptoomreductie was niet het motief. De klassieke psychoanalyse richt zich juist niet primair op snelle klachtenvermindering.\n• “Omdat vrije associatie objectief meetbaar is en…” — Het gebrek aan meetbaarheid is juist een van de standaardkritieken op de psychoanalytische methode.\n• “Omdat Freud onder invloed van Rogers overstapte…” — Rogers werkte decennia later en zijn cliëntgerichte therapie is een humanistische reactie op onder meer de psychoanalyse.",
+    "reference": "H5 – Thema 3.4 psychodynamische benadering, leerdoel 1 (samenvatting p. 107–118; beknopt p. 203–206)",
+    "source": "exam_questions_h5.json"
+  },
+  {
+    "id": "0579a12f-1c39-455c-8de8-c938348220bd",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Overdracht",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (transference) kan zich volgens het cursusmateriaal op twee manieren manifesteren. Welke omschrijving is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "01184762-a48e-4374-96d1-a4f9e5342c10",
+        "text": "Via impliciete geheugenprocessen, waarbij vroege niet-bewuste ervaringen als innerlijke werkmodellen automatisch relaties en emotieregulatie sturen, én via expliciete geheugenprocessen, waarbij verdrongen pijnlijke herinneringen in nieuwe relaties worden herhaald."
+      },
+      {
+        "id": "46721f8c-e622-4aff-8baa-fd8d6516612b",
+        "text": "Via bewuste imitatie van de therapeut en via onbewuste identificatie met de ouder."
+      },
+      {
+        "id": "2db49d10-9073-4237-babd-d9ca2bedffea",
+        "text": "Via tegenoverdracht van de therapeut en via projectie door de patiënt."
+      },
+      {
+        "id": "a5855a9b-5fe1-4143-b1b8-fbaaeced1f20",
+        "text": "Uitsluitend via verdrongen expliciete herinneringen; impliciet geheugen speelt in de psychodynamische theorie geen rol."
+      }
+    ],
+    "correctAnswerId": "01184762-a48e-4374-96d1-a4f9e5342c10",
+    "relatedConcept": "Twee vormen van overdracht",
+    "explanation": "Juist is “Via impliciete geheugenprocessen, waarbij vroege niet-bewuste ervaringen als innerlijke…”. De eerste vorm lijkt op een geconditioneerde (pavloviaanse) reactie — bijvoorbeeld paniek bij het zien van een groene vrachtwagen die onbewust aan een jeugdtrauma is gekoppeld.\n\nWaarom de andere opties niet kloppen:\n• “Via bewuste imitatie van de therapeut en…” — Imitatie en identificatie zijn andere begrippen. De twee manifestatievormen betreffen impliciete versus expliciete geheugenprocessen. Zie leerdoel 2.\n• “Via tegenoverdracht van de therapeut en via…” — Tegenoverdracht betreft de gevoelens van de therapéut jegens de patiënt, en projectie is een afweermechanisme — geen van beide is een verschijningsvorm van overdracht.\n• “Uitsluitend via verdrongen expliciete herinneringen; impliciet geheugen…” — Juist de impliciete route via innerlijke werkmodellen is in het moderne psychodynamische denken centraal komen te staan.",
+    "reference": "H5 – Thema 3.4 psychodynamische benadering, leerdoel 2 (samenvatting p. 107–118; beknopt p. 203–206)",
+    "source": "exam_questions_h5.json"
+  },
+  {
+    "id": "9a95c2ec-bdb7-47b7-acc4-ddefd8336b49",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een patiënt functioneert cognitief goed, maar kan heftige innerlijke toestanden niet in woorden of gevoelens vertalen; zijn klachten zijn vaag en hij geeft oppervlakkige verklaringen zonder emotionele kern. Om welke vorm van psychopathologie gaat het hier, en hoe verschilt die van het alternatief?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "5feef158-91d7-490f-978a-473d9d18775a",
+        "text": "Ontwikkelingspathologie: basisfuncties als emotieregulatie en mentaliseren zijn onvoldoende ontwikkeld (met pseudo-mentaliseren als kenmerk), terwijl het bij conflictpathologie gaat om verdrongen, met elkaar botsende gevoelens bij een verder wél ontwikkeld emotioneel apparaat."
+      },
+      {
+        "id": "bedbf020-cfd7-4519-8c66-0bf7abee15e7",
+        "text": "Conflictpathologie: er is sprake van verdrongen woede die zich in vage lichamelijke klachten uit."
+      },
+      {
+        "id": "0d885ffd-d675-4f9e-98ba-fc9a49738a39",
+        "text": "Een onbewuste fantasiewereld: de patiënt trekt zich terug in een psychisch toevluchtsoord."
+      },
+      {
+        "id": "5807e823-4f87-4b8d-9a1a-f74af9d60b73",
+        "text": "Een afweermechanisme, namelijk loochening van de eigen emoties."
+      }
+    ],
+    "correctAnswerId": "5feef158-91d7-490f-978a-473d9d18775a",
+    "relatedConcept": "Conflict- versus ontwikkelingspathologie",
+    "explanation": "Juist is “Ontwikkelingspathologie: basisfuncties als emotieregulatie en mentaliseren zijn onvoldoende ontwikkeld…”. Behandeltechnisch verschilt dit wezenlijk: conflictpathologie is relatief goed behandelbaar door afweer op te sporen en emoties te interpreteren, terwijl ontwikkelingspathologie stap voor stap benoemen en mentaliseren bevorderen vereist.\n\nWaarom de andere opties niet kloppen:\n• “Conflictpathologie: er is sprake van verdrongen woede…” — Bij conflictpathologie is het emotionele apparaat wél ontwikkeld en gaat het om onverenigbare gevoelens. Hier ontbreekt juist het vermogen om affecten in gevoelens en woorden om te zetten.\n• “Een onbewuste fantasiewereld: de patiënt trekt zich…” — Die derde vorm kenmerkt zich door terugtrekking in een als veilig ervaren fantasie, vaak bij narcistische problematiek, niet door het onvermogen om emoties te symboliseren.\n• “Een afweermechanisme, namelijk loochening van de eigen…” — Loochening veronderstelt dat de emotie er is en ontkend wordt. Bij ontwikkelingspathologie is de vertaalslag van affect naar gevoel überhaupt niet tot stand gekomen.",
+    "reference": "H5 – Thema 3.4 psychodynamische benadering, leerdoel 4 (samenvatting p. 107–118; beknopt p. 203–206)",
+    "source": "exam_questions_h5.json"
+  },
+  {
+    "id": "b4e4adb3-bc73-4b3b-86ad-b26d2c275193",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoe verloopt volgens de psychodynamische ontwikkelingsvisie de weg van "
+            },
+            {
+              "type": "text",
+              "text": "affecten",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " naar "
+            },
+            {
+              "type": "text",
+              "text": "gevoelens",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "64ce9a76-b73b-4531-a9b3-2fb03085919f",
+        "text": "De baby ervaart lichamelijke affecten; ouders geven daaraan betekenis en woorden, waardoor affecten emoties worden; in de peuter- en kleutertijd leert het kind erover denken en praten, waardoor emoties gevoelens worden."
+      },
+      {
+        "id": "5d951b83-6187-44f8-b008-f5a8fac91e1b",
+        "text": "Gevoelens zijn aangeboren en differentiëren zich vanzelf tot emoties, waarna affecten als restcategorie overblijven."
+      },
+      {
+        "id": "085e9728-fe4a-47f7-8c4a-8c53e096b415",
+        "text": "De ontwikkeling verloopt van gevoelens via affecten naar emoties, aangestuurd door het objectiverend zelf."
+      },
+      {
+        "id": "e2d15f3b-5b71-4593-9b7c-b556a8298a0e",
+        "text": "Affecten worden pas gevoelens zodra het kind expliciete herinneringen kan verdringen."
+      }
+    ],
+    "correctAnswerId": "64ce9a76-b73b-4531-a9b3-2fb03085919f",
+    "relatedConcept": "Van affecten via emoties naar gevoelens",
+    "explanation": "Juist is “De baby ervaart lichamelijke affecten; ouders geven daaraan betekenis…”. Bij onvoldoende responsieve of traumatiserende ouders stokt dit proces: het kind leert niet dat emoties reguleerbaar en deelbaar zijn, met innerlijke chaos als gevolg.\n\nWaarom de andere opties niet kloppen:\n• “Gevoelens zijn aangeboren en differentiëren zich vanzelf…” — De volgorde is precies omgekeerd — affecten → emoties → gevoelens — en het proces is afhankelijk van ouderlijke afstemming, niet van rijping alleen.\n• “De ontwikkeling verloopt van gevoelens via affecten…” — De volgorde klopt niet. Het objectiverend zelf ontwikkelt zich bovendien pas parallel aan het subjectieve zelf en betreft het vermogen op afstand naar zichzelf te kijken.\n• “Affecten worden pas gevoelens zodra het kind…” — Verdringing is een afweermechanisme en geen voorwaarde voor emotionele ontwikkeling.",
+    "reference": "H5 – Thema 3.4 psychodynamische benadering, leerdoel 3 (samenvatting p. 107–118; beknopt p. 203–206)",
+    "source": "exam_questions_h5.json"
+  },
+  {
+    "id": "9a9ca0d3-e3fe-4055-be07-b6ec626fb036",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een student die zelf zeer onzeker is over zijn capaciteiten, klaagt herhaaldelijk dat zijn docent geen enkel vertrouwen in hem heeft en hem niet serieus neemt. Welk afweermechanisme is hier het meest waarschijnlijk werkzaam?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "ebd304f1-3958-477f-9477-5556091310d7",
+        "text": "Projectie: eigen ongewenste gevoelens of gedachten worden aan een ander toegeschreven, die daar vervolgens op wordt bekritiseerd."
+      },
+      {
+        "id": "e2a64162-6c02-4e1a-ad60-eec73f117a69",
+        "text": "Loochenen: de pijnlijke realiteit wordt ontkend, bijvoorbeeld met 'het heeft me niet geraakt'."
+      },
+      {
+        "id": "3f3a8d98-4370-4bc6-accb-a51b5b4ab9a2",
+        "text": "Vermijden: situaties of gevoelens die te bedreigend zijn worden ontweken."
+      },
+      {
+        "id": "16f54c63-095f-4533-9e9c-608ba1a29ff1",
+        "text": "Weerstand: verzet tegen bewustwording van pijnlijke inzichten binnen de therapeutische relatie."
+      }
+    ],
+    "correctAnswerId": "ebd304f1-3958-477f-9477-5556091310d7",
+    "relatedConcept": "Afweermechanismen",
+    "explanation": "Juist is “Projectie: eigen ongewenste gevoelens of gedachten worden aan een…”. Onderscheid dit van vermijden (situaties ontwijken terwijl men erkent dat iets bestaat) en loochenen (de pijnlijke realiteit of emotie zelf ontkennen).\n\nWaarom de andere opties niet kloppen:\n• “Loochenen: de pijnlijke realiteit wordt ontkend, bijvoorbeeld…” — Bij loochening ontkent de persoon zijn eigen pijn of de realiteit. Hier wordt het gevoel niet ontkend maar bij een ander gelegd.\n• “Vermijden: situaties of gevoelens die te bedreigend…” — Bij vermijden erkent iemand dat iets bestaat maar gaat er niet mee om. De student ontwijkt niets — hij verplaatst het oordeel naar de docent.\n• “Weerstand: verzet tegen bewustwording van pijnlijke inzichten…” — Weerstand is een verschijnsel binnen de behandelrelatie, geen afweermechanisme in de opsomming vermijden–loochenen–projectie.",
+    "reference": "H5 – Thema 3.4 psychodynamische benadering, leerdoel 4 (samenvatting p. 107–118; beknopt p. 203–206)",
+    "source": "exam_questions_h5.json"
+  },
+  {
+    "id": "722ad428-ae4b-4f32-b399-ae4eafc79946",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke omschrijving van het "
+            },
+            {
+              "type": "text",
+              "text": "objectiverend zelf",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a8377bc6-49e7-4ced-99f0-69d591ef6604",
+        "text": "Het vermogen om als het ware van een afstand naar zichzelf te kijken; het ontwikkelt zich parallel aan het subjectieve zelf en is van belang bij emoties als schaamte, trots en schuld."
+      },
+      {
+        "id": "33c80f46-cd0e-4053-963b-179a058f0fdd",
+        "text": "De blauwdruk voor relaties die in de vroege kindertijd ontstaat op basis van innerlijke werkmodellen uit het impliciete geheugen."
+      },
+      {
+        "id": "eb66893e-4d6b-4b7a-a292-5bbb85ed2d62",
+        "text": "Het narratieve zelf dat vanaf ongeveer drie à vier jaar ontstaat: 'dit heb ik meegemaakt, daarom ben ik wie ik ben'."
+      },
+      {
+        "id": "ac523470-b8a3-4b10-9403-d78a13c65283",
+        "text": "Het geheel van afweermechanismen dat pijnlijke emoties buiten het bewustzijn houdt."
+      }
+    ],
+    "correctAnswerId": "a8377bc6-49e7-4ced-99f0-69d591ef6604",
+    "relatedConcept": "Het objectiverend zelf",
+    "explanation": "Juist is “Het vermogen om als het ware van een afstand…”. Herstel van het objectiverend zelf is een van de doelen van psychodynamische behandeling, naast meer zelfkennis en vrijheid in het beleven van gevoelens.\n\nWaarom de andere opties niet kloppen:\n• “De blauwdruk voor relaties die in de…” — Dat is het impliciete zelf. Het objectiverend zelf betreft het reflecterende vermogen.\n• “Het narratieve zelf dat vanaf ongeveer drie…” — Dat is het subjectieve zelf. Het objectiverend zelf ontwikkelt zich daar parallel aan.\n• “Het geheel van afweermechanismen dat pijnlijke emoties…” — Afweer is een functie, geen zelfvorm. De drie onderscheiden zelfvormen zijn het impliciete, het subjectieve en het objectiverende zelf.",
+    "reference": "H5 – Thema 3.4 psychodynamische benadering, leerdoel 4 (samenvatting p. 107–118; beknopt p. 203–206)",
+    "source": "exam_questions_h5.json"
+  },
+  {
+    "id": "1a65bbd6-2005-4cd3-b854-fb41925ed57a",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke interventie hoort volgens Shedler (2010) tot de kern van psychodynamische behandeling én illustreert het onderscheid met symptoomgerichte therapie?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "70dffeef-7cab-4737-a85e-2aa636eaffe3",
+        "text": "Het gebruiken van de tegenoverdracht (countertransference) als diagnostisch instrument, naast het centraal stellen van emoties en het analyseren van afweer en herhalende relatiepatronen."
+      },
+      {
+        "id": "957afaa4-d586-47a8-acc2-d1311d2bdce6",
+        "text": "Het systematisch registreren van automatische gedachten en het toetsen daarvan met gedragsexperimenten."
+      },
+      {
+        "id": "f5841d13-0739-4ed5-8fa7-974f30d2839a",
+        "text": "Het aanbieden van gegradueerde exposure aan gevreesde situaties om extinctie te bewerkstelligen."
+      },
+      {
+        "id": "8511fdc1-0b9c-4437-8106-75097b1526f2",
+        "text": "Het consequent vermijden van elk gesprek over de therapeutische relatie, om neutraliteit te waarborgen."
+      }
+    ],
+    "correctAnswerId": "70dffeef-7cab-4737-a85e-2aa636eaffe3",
+    "relatedConcept": "Kerninterventies volgens Shedler",
+    "explanation": "Juist is “Het gebruiken van de tegenoverdracht (countertransference) als diagnostisch instrument,…”. Waar symptoomgerichte therapie zich richt op klachtenvermindering, onderzoekt de psychodynamische benadering disfunctionele emotionele netwerken en creëert zij nieuwe relationele ervaringen binnen de therapie.\n\nWaarom de andere opties niet kloppen:\n• “Het systematisch registreren van automatische gedachten en…” — Dit zijn kernwerkwijzen van de cognitieve (gedrags)therapie, niet van de psychodynamische benadering.\n• “Het aanbieden van gegradueerde exposure aan gevreesde…” — Exposure hoort bij de leertheoretische benadering.\n• “Het consequent vermijden van elk gesprek over…” — Juist het onderzoeken van overdracht en tegenoverdracht in de relatie is essentieel. Bovendien is de klassieke abstinentie in de intersubjectieve psychoanalyse verlaten.",
+    "reference": "H5 – Thema 3.4 psychodynamische benadering, leerdoel 7 (samenvatting p. 107–118; beknopt p. 203–206)",
+    "source": "exam_questions_h5.json"
+  }
+]

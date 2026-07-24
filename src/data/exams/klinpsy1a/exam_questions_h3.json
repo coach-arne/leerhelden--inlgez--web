@@ -1,0 +1,409 @@
+[
+  {
+    "id": "6c41c0ac-bf67-4654-88c1-38a78c68b6b1",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is het essentiële verschil tussen de leerprocedures van "
+            },
+            {
+              "type": "text",
+              "text": "Thorndike",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " en "
+            },
+            {
+              "type": "text",
+              "text": "Pavlov",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "372acb3f-914b-493e-9212-a81860d09776",
+        "text": "Bij Thorndike is het optreden van de uitkomst afhankelijk van het gedrag van het dier, bij Pavlov volgt de prikkel ongeacht wat het dier doet."
+      },
+      {
+        "id": "8412c611-f9a1-447c-851b-839e4f996d16",
+        "text": "Bij Thorndike leert het dier door associatie tussen twee prikkels, bij Pavlov door trial-and-error."
+      },
+      {
+        "id": "5ba3a275-d91c-4d0b-9db0-ab253c4b791e",
+        "text": "Bij Thorndike is sprake van acquisitie, bij Pavlov uitsluitend van extinctie."
+      },
+      {
+        "id": "dcc251d5-811d-4654-96f4-49133b3ce354",
+        "text": "Bij Thorndike wordt de respons automatisch uitgelokt, bij Pavlov is de respons doelgericht."
+      }
+    ],
+    "correctAnswerId": "372acb3f-914b-493e-9212-a81860d09776",
+    "relatedConcept": "Klassieke versus instrumentele conditionering",
+    "explanation": "Juist is “Bij Thorndike is het optreden van de uitkomst afhankelijk…”. Dat maakt Thorndikes procedure instrumenteel/operant en die van Pavlov klassiek. Thorndike formuleerde de Wet van het Effect: gedrag met een aangename uitkomst neemt toe.\n\nWaarom de andere opties niet kloppen:\n• “Bij Thorndike leert het dier door associatie…” — De begrippen staan omgedraaid. Trial-and-error hoort bij Thorndike, associatie tussen prikkels bij Pavlov.\n• “Bij Thorndike is sprake van acquisitie, bij…” — Acquisitie (verwerving) is een kernbegrip in béide paradigma's, net als extinctie.\n• “Bij Thorndike wordt de respons automatisch uitgelokt,…” — Het is juist de pavloviaanse respons die automatisch wordt uitgelokt door de voorwaardelijke prikkel.",
+    "reference": "H3 – Thema 3.2 leertheoretische benadering, leerdoel 1 (samenvatting p. 85–95; beknopt p. 195–198)",
+    "source": "exam_questions_h3.json"
+  },
+  {
+    "id": "1e6b6151-7eea-4b06-9d13-f0570697db16",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In een "
+            },
+            {
+              "type": "text",
+              "text": "uitkomstdevaluatie-experiment",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (outcome devaluation) wordt het voedsel na de conditionering onaantrekkelijk gemaakt, waarna de voorwaardelijke respons verdwijnt. Welke theoretische conclusie volgt hieruit?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "f1d59c93-94bf-4a04-b5e5-9e5abd242dfd",
+        "text": "Er is sprake van S–S-leren: de voorwaardelijke prikkel activeert een representatie van de ongeconditioneerde prikkel, en die representatie is nu gedevalueerd."
+      },
+      {
+        "id": "393345f3-00ec-4f81-897c-faa02e19d298",
+        "text": "Er is sprake van S–R-leren: de prikkel lokt de respons rechtstreeks uit."
+      },
+      {
+        "id": "803888cd-2741-4083-8b0f-154e07c57c6b",
+        "text": "Er is sprake van latente inhibitie: eerdere blootstelling bemoeilijkt nieuwe conditionering."
+      },
+      {
+        "id": "1a1d9243-6ade-4a80-a8c9-857a4fd5d511",
+        "text": "Er is sprake van blokkering: de eerste prikkel voorspelt de uitkomst al, dus over de tweede wordt niets geleerd."
+      }
+    ],
+    "correctAnswerId": "f1d59c93-94bf-4a04-b5e5-9e5abd242dfd",
+    "relatedConcept": "Uitkomstdevaluatie en S-S-leren",
+    "explanation": "Juist is “Er is sprake van S–S-leren: de voorwaardelijke prikkel activeert…”. Bij zuiver S–R-leren zou de respons blijven bestaan, omdat de prikkel de respons dan direct uitlokt zonder tussenkomst van de waarde van de uitkomst.\n\nWaarom de andere opties niet kloppen:\n• “Er is sprake van S–R-leren: de prikkel…” — Juist het verdwíjnen van de respons na devaluatie pleit tégen S–R-leren. Bij S–R-leren blijft het gedrag ongevoelig voor de waarde van de uitkomst.\n• “Er is sprake van latente inhibitie: eerdere…” — Latente inhibitie betreft neutrale voorblootstelling vóór de conditionering, niet devaluatie van de uitkomst erna.\n• “Er is sprake van blokkering: de eerste…” — Blokkering (Kamin) gaat over de verwerving van een tweede prikkel bij een al voorspelde uitkomst, niet over de gevoeligheid voor uitkomstwaarde.",
+    "reference": "H3 – Thema 3.2 leertheoretische benadering, leerdoel 3 (samenvatting p. 85–95; beknopt p. 195–198)",
+    "source": "exam_questions_h3.json"
+  },
+  {
+    "id": "8ec168ae-aa93-4455-ba74-cc2c923460dd",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Volgens de "
+            },
+            {
+              "type": "text",
+              "text": "propositionele theorie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (propositional theory) van leren is conditioneren een vorm van redeneren. Wat is het essentiële verschil met de associatieve theorie?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "3645b4b3-90c8-4341-9f68-ce27e1585379",
+        "text": "Een associatie legt slechts een verbinding tussen gebeurtenissen, terwijl een propositie een betekenisvolle — bijvoorbeeld voorspellende of oorzakelijke — relatie tussen die gebeurtenissen vastlegt."
+      },
+      {
+        "id": "a5187e0d-bfaa-4b3d-a7b8-9381cc8a44be",
+        "text": "De propositionele theorie ontkent dat conditionering bij dieren voorkomt."
+      },
+      {
+        "id": "77c7fec2-78f3-4aae-97bc-a7b56a4573fe",
+        "text": "De propositionele theorie stelt dat leren uitsluitend onbewust verloopt."
+      },
+      {
+        "id": "5ba97928-50a0-447d-b750-c1760899d58c",
+        "text": "De associatieve theorie kent alleen S–S-leren, de propositionele theorie alleen S–R-leren."
+      }
+    ],
+    "correctAnswerId": "3645b4b3-90c8-4341-9f68-ce27e1585379",
+    "relatedConcept": "Propositionele versus associatieve leertheorie",
+    "explanation": "Juist is “Een associatie legt slechts een verbinding tussen gebeurtenissen, terwijl…”. Daarmee wordt conditioneren verwant aan complex redeneren (zoals schaken of rekenen). Dit is klinisch relevant voor therapieën die op betekenisverlening ingrijpen.\n\nWaarom de andere opties niet kloppen:\n• “De propositionele theorie ontkent dat conditionering bij…” — Dat wordt niet beweerd. Wel wordt opgemerkt dat het associatieve model veel diergedrag goed verklaart, terwijl het propositionele model de menselijke cognitie benadrukt.\n• “De propositionele theorie stelt dat leren uitsluitend…” — Juist het tegenovergestelde. Proposities zijn bewuste uitspraken over relaties tussen gebeurtenissen.\n• “De associatieve theorie kent alleen S–S-leren, de…” — De associatieve theorie kent zowel S–R- als S–S-varianten. Het propositionele model werkt op een ander verklaringsniveau, niet met deze twee vormen.",
+    "reference": "H3 – Thema 3.2 leertheoretische benadering, leerdoel 3 (samenvatting p. 85–95; beknopt p. 195–198)",
+    "source": "exam_questions_h3.json"
+  },
+  {
+    "id": "e56f2d0c-e26a-4030-8136-05002fb5f637",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een man drinkt aanvankelijk alcohol vanwege het prettige gevoel dat het geeft; jaren later drinkt hij automatisch zodra hij thuiskomt, ook wanneer hij de smaak niet meer waardeert. Hoe wordt deze verschuiving leertheoretisch geduid?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "f2d261c8-5240-4f3f-8251-467c47725041",
+        "text": "Van doelgericht gedrag (respons–uitkomstleren) naar gewoontegedrag (stimulus–responsleren): het gedrag wordt automatisch uitgelokt door de omgeving, ongeacht de waarde van de uitkomst."
+      },
+      {
+        "id": "8386b297-51f0-4c51-bb1f-e8b301a34898",
+        "text": "Van gewoontegedrag naar doelgericht gedrag, doordat de bekrachtiging steeds bewuster wordt nagestreefd."
+      },
+      {
+        "id": "be5703ae-b789-493d-aa23-1d1cc59d33a2",
+        "text": "Van klassieke naar aversieve conditionering, doordat de drank een negatieve valentie krijgt."
+      },
+      {
+        "id": "bd1fe638-c2b8-46ed-9e33-961891aca29d",
+        "text": "Van extinctie naar spontaan herstel, doordat de respons na verloop van tijd terugkeert."
+      }
+    ],
+    "correctAnswerId": "f2d261c8-5240-4f3f-8251-467c47725041",
+    "relatedConcept": "Doelgericht gedrag versus gewoontegedrag",
+    "explanation": "Juist is “Van doelgericht gedrag (respons–uitkomstleren) naar gewoontegedrag (stimulus–responsleren): het gedrag…”. De uitkomstdevaluatieprocedure maakt dit onderscheid zichtbaar: doelgericht gedrag neemt af na devaluatie, gewoontegedrag blijft bestaan.\n\nWaarom de andere opties niet kloppen:\n• “Van gewoontegedrag naar doelgericht gedrag, doordat de…” — De richting staat omgekeerd. Bij verslaving verschuift gedrag juist van doelgericht naar automatisch.\n• “Van klassieke naar aversieve conditionering, doordat de…” — Er is geen sprake van koppeling aan een aversieve ongeconditioneerde prikkel. Bovendien blijft het gedrag bestaan, wat niet past bij aversieve conditionering.\n• “Van extinctie naar spontaan herstel, doordat de…” — Er is geen extinctiefase geweest. Spontaan herstel vereist eerst het uitblijven van de ongeconditioneerde prikkel.",
+    "reference": "H3 – Thema 3.2 leertheoretische benadering, leerdoel 4 (samenvatting p. 85–95; beknopt p. 195–198)",
+    "source": "exam_questions_h3.json"
+  },
+  {
+    "id": "27c1afaf-b26d-4e12-bb62-6b4e6e31aab9",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Mowrers tweefactorentheorie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " verklaart de instandhouding van angststoornissen. Welke twee leerprocessen combineert zij, en welke rol speelt bekrachtiging?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "bf4c7833-6526-454c-a0e3-602bd0dded80",
+        "text": "Klassieke conditionering wekt de angst op; vervolgens wordt vermijdingsgedrag in stand gehouden door negatieve bekrachtiging, doordat de angst afneemt zodra men vermijdt."
+      },
+      {
+        "id": "90d23e09-54dc-42c2-8480-9e091ec1a9d9",
+        "text": "Operante conditionering wekt de angst op; klassieke conditionering houdt de vermijding in stand via positieve bekrachtiging."
+      },
+      {
+        "id": "68c69092-319b-4b83-ba2b-b6be8f0cf6b2",
+        "text": "Observationeel leren wekt de angst op; ruminatie houdt haar in stand via het inflatie-effect."
+      },
+      {
+        "id": "f49a4437-b85c-4612-a39f-cff199784056",
+        "text": "Latente inhibitie wekt de angst op; contraconditionering houdt haar in stand."
+      }
+    ],
+    "correctAnswerId": "bf4c7833-6526-454c-a0e3-602bd0dded80",
+    "relatedConcept": "Tweefactorentheorie (Mowrer)",
+    "explanation": "Juist is “Klassieke conditionering wekt de angst op; vervolgens wordt vermijdingsgedrag…”. Doordat vermijding beloond wordt, blijven corrigerende ervaringen uit — precies de reden waarom exposure een kernonderdeel van behandeling is.\n\nWaarom de andere opties niet kloppen:\n• “Operante conditionering wekt de angst op; klassieke…” — De rollen staan omgedraaid en de bekrachtiging is negatief (wegvallen van een onaangename toestand), niet positief.\n• “Observationeel leren wekt de angst op; ruminatie…” — Observationeel leren en ruminatie worden inderdaad genoemd als factoren in angstverwerving, maar zij vormen niet Mowrers tweefactorentheorie.\n• “Latente inhibitie wekt de angst op; contraconditionering…” — Latente inhibitie bemoeilijkt conditionering juist, en contraconditionering is een behandeltechniek, geen instandhoudend mechanisme.",
+    "reference": "H3 – Thema 3.2 leertheoretische benadering, leerdoel 5 (samenvatting p. 85–95; beknopt p. 195–198)",
+    "source": "exam_questions_h3.json"
+  },
+  {
+    "id": "958a3867-715f-4700-b12d-8ae36d1a2b29",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het "
+            },
+            {
+              "type": "text",
+              "text": "blokkeringseffect",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (blocking effect) van Kamin ondersteunt de verrassingshypothese. Wat houdt dit effect precies in, en wat is het adaptieve nut ervan?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "dfeb0bdc-6072-4c68-978d-be15cbfce7cf",
+        "text": "Wanneer de ongeconditioneerde prikkel al volledig wordt voorspeld door prikkel A, wordt er over een gelijktijdig aangeboden prikkel B niets meer geleerd; leren treedt alleen op bij een voorspellingsfout, wat energie bespaart."
+      },
+      {
+        "id": "57aec7c5-8ec2-44d2-9d6d-b691e493b500",
+        "text": "Wanneer twee prikkels tegelijk worden aangeboden, worden ze altijd even sterk geconditioneerd, zodat het organisme geen informatie mist."
+      },
+      {
+        "id": "f92f9bf6-c073-4333-96d0-4cd1671fcf5e",
+        "text": "Wanneer de ongeconditioneerde prikkel uitblijft, dooft de respons uit; dit toont aan dat extinctie een vorm van afleren is."
+      },
+      {
+        "id": "81763bfe-4e1d-449e-ac42-e2e0e4f6cb07",
+        "text": "Wanneer een prikkel eerst neutraal is aangeboden, verloopt latere conditionering moeizamer; dit heet het inflatie-effect."
+      }
+    ],
+    "correctAnswerId": "dfeb0bdc-6072-4c68-978d-be15cbfce7cf",
+    "relatedConcept": "Blokkeringseffect en verrassingshypothese",
+    "explanation": "Juist is “Wanneer de ongeconditioneerde prikkel al volledig wordt voorspeld door…”. Klinisch relevant: blokkering beperkt het aantal triggers bij angststoornissen, en correcte identificatie van uitlokkers voorkomt onnodige angst of vermijding bij somatische klachten.\n\nWaarom de andere opties niet kloppen:\n• “Wanneer twee prikkels tegelijk worden aangeboden, worden…” — Dat is precies wat blokkering weerlegt. De reeds voorspellende prikkel 'blokkeert' het leren over de tweede.\n• “Wanneer de ongeconditioneerde prikkel uitblijft, dooft de…” — Dat is extinctie, niet blokkering. Bovendien wordt extinctie in het cursusmateriaal juist opgevat als níeuw leren.\n• “Wanneer een prikkel eerst neutraal is aangeboden,…” — Dat verschijnsel is latente inhibitie. Het inflatie-effect houdt in dat latere ervaringen eerdere angstreacties versterken.",
+    "reference": "H3 – Thema 3.2 leertheoretische benadering, leerdoel 6 (samenvatting p. 85–95; beknopt p. 195–198)",
+    "source": "exam_questions_h3.json"
+  },
+  {
+    "id": "219731a2-1281-40f5-bb1d-7a540475c879",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een patiënte is met exposure van haar hondenfobie af, maar bij een familiebezoek in een andere stad keert de angst terug. Welke verklaring en welke tegenmaatregelen sluiten hier het beste bij aan?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "51b387de-3abe-4aa0-9ac6-4a51096c41d3",
+        "text": "Extinctie is nieuw leren dat contextafhankelijk is en de oorspronkelijke associatie niet uitwist; herhaalde blootstelling in meerdere contexten en geheugensteuntjes verkleinen de kans op terugval."
+      },
+      {
+        "id": "99c8780d-c541-40cb-90c1-c3c4473d26ef",
+        "text": "Extinctie wist de oorspronkelijke associatie volledig uit; de terugkeer moet dus berusten op een nieuwe traumatische ervaring."
+      },
+      {
+        "id": "c7471b46-1907-4304-af22-fcd47d706d77",
+        "text": "Er is sprake van contraconditionering die is mislukt; de oplossing is de hond aan een aversieve prikkel te koppelen."
+      },
+      {
+        "id": "29cf1510-2309-4551-9094-5f3f2c305675",
+        "text": "Er is sprake van blokkering; de oplossing is de behandeling te richten op een nieuwe voorwaardelijke prikkel."
+      }
+    ],
+    "correctAnswerId": "51b387de-3abe-4aa0-9ac6-4a51096c41d3",
+    "relatedConcept": "Extinctie, contextafhankelijkheid en terugval",
+    "explanation": "Juist is “Extinctie is nieuw leren dat contextafhankelijk is en de…”. Ook spontaan herstel (Pavlov) speelt mee: de respons kan na verloop van tijd terugkeren. De prikkel wordt na extinctie ambigu — hij kan de ongeconditioneerde prikkel wél of níet voorspellen.\n\nWaarom de andere opties niet kloppen:\n• “Extinctie wist de oorspronkelijke associatie volledig uit;…” — De best ondersteunde opvatting is juist dat extinctie geen uitwissing is maar nieuw leren dat naast het oude bestaat.\n• “Er is sprake van contraconditionering die is…” — Contraconditionering koppelt de prikkel aan een tegengestelde, positieve valentie — niet aan iets aversiefs — en er is hier geen contraconditionering toegepast.\n• “Er is sprake van blokkering; de oplossing…” — Blokkering betreft het uitblijven van leren over een redundante prikkel, en verklaart geen terugval na succesvolle extinctie.",
+    "reference": "H3 – Thema 3.2 leertheoretische benadering, leerdoel 7 (samenvatting p. 85–95; beknopt p. 195–198)",
+    "source": "exam_questions_h3.json"
+  },
+  {
+    "id": "beb8cc23-2001-4503-8791-461a3611ddea",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat onderscheidt "
+            },
+            {
+              "type": "text",
+              "text": "contraconditionering",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (counterconditioning) van gewone extinctie?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "f3095972-6b6f-4a1e-b8b0-d53c66bb1672",
+        "text": "Bij contraconditionering wordt de voorwaardelijke prikkel niet alleen zonder de oorspronkelijke ongeconditioneerde prikkel aangeboden, maar bovendien gekoppeld aan een nieuwe prikkel met tegengestelde valentie, waardoor de emotionele betekenis verandert."
+      },
+      {
+        "id": "79f4bd08-33bf-4eac-82bb-b5667cacfd31",
+        "text": "Bij contraconditionering wordt de voorwaardelijke prikkel volledig vermeden, zodat de associatie vanzelf uitdooft."
+      },
+      {
+        "id": "2f7af3ed-f77b-4533-8168-a56839092958",
+        "text": "Contraconditionering is uitsluitend toepasbaar bij klassieke conditionering en niet bij instrumenteel gedrag."
+      },
+      {
+        "id": "36b86a5f-75a3-4743-93ae-fcbbfd8294ee",
+        "text": "Contraconditionering versterkt de oorspronkelijke associatie en wordt daarom alleen diagnostisch gebruikt."
+      }
+    ],
+    "correctAnswerId": "f3095972-6b6f-4a1e-b8b0-d53c66bb1672",
+    "relatedConcept": "Contraconditionering",
+    "explanation": "Juist is “Bij contraconditionering wordt de voorwaardelijke prikkel niet alleen zonder…”. Extinctie vermindert de angst; contraconditionering verandert de betekenis van de prikkel — bijvoorbeeld door een hond te koppelen aan spel en plezier.\n\nWaarom de andere opties niet kloppen:\n• “Bij contraconditionering wordt de voorwaardelijke prikkel volledig…” — Vermijding verhindert juist extinctie én contraconditionering. Beide vereisen blootstelling aan de prikkel.\n• “Contraconditionering is uitsluitend toepasbaar bij klassieke conditionering…” — Er wordt expliciet een instrumentele toepassing genoemd — alcohol gecombineerd met disulfiram, waardoor het gebruik aan misselijkheid wordt gekoppeld.\n• “Contraconditionering versterkt de oorspronkelijke associatie en wordt…” — Het doel is juist de emotionele waarde van de prikkel te veranderen, niet de oorspronkelijke associatie te versterken.",
+    "reference": "H3 – Thema 3.2 leertheoretische benadering, leerdoel 8 (samenvatting p. 85–95; beknopt p. 195–198)",
+    "source": "exam_questions_h3.json"
+  }
+]

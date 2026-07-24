@@ -1,0 +1,228 @@
+[
+  {
+    "id": "0961bb23-4a4a-4dbe-a86e-01ad090848d0",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een verwijzer vraagt zich af welke behandeling passend zou zijn voor een cliënt met langdurige somberheid. Om welk type vraagstelling gaat het, en hoe verhoudt die zich tot de andere typen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a8018339-f1ca-4178-929f-9e6bacce124e",
+        "text": "Een indicerende vraagstelling ('hoe kan er iets aan worden gedaan?'), naast de onderkennende vraagstelling ('wat is er aan de hand?') en de verklarende vraagstelling ('waarom is dit aan de hand?')."
+      },
+      {
+        "id": "6ff27827-c903-4b49-9589-937dbcf6c070",
+        "text": "Een verklarende vraagstelling, omdat de verwijzer wil weten waar de somberheid vandaan komt."
+      },
+      {
+        "id": "10563e86-fe1e-4f79-849d-f44e24ff9f84",
+        "text": "Een onderkennende vraagstelling, omdat eerst de aard en ernst van de psychopathologie moet worden vastgesteld."
+      },
+      {
+        "id": "8078611a-5b96-4864-bd41-109810496cb3",
+        "text": "Een prognostische vraagstelling, omdat het beloop van de klachten voorspeld moet worden."
+      }
+    ],
+    "correctAnswerId": "a8018339-f1ca-4178-929f-9e6bacce124e",
+    "relatedConcept": "Onderkennende, verklarende en indicerende vraagstelling",
+    "explanation": "Juist is “Een indicerende vraagstelling ('hoe kan er iets aan worden…”. Deze drie vraagtypen structureren het psychodiagnostisch proces, dat begint bij aanmelding en intake en via hypothesevorming en -toetsing tot integratie in een rapport leidt.\n\nWaarom de andere opties niet kloppen:\n• “Een verklarende vraagstelling, omdat de verwijzer wil…” — De verwijzer vraagt niet naar de achtergrond van de klachten maar naar passende behandelmogelijkheden — dat is indicerend.\n• “Een onderkennende vraagstelling, omdat eerst de aard…” — Dat zou de vraag zijn wát er aan de hand is. De gestelde vraag betreft de behandelkeuze.\n• “Een prognostische vraagstelling, omdat het beloop van…” — Prognostische diagnostiek betreft de voorspelling van het beloop en is een onderdeel van diagnostiek in brede zin, maar past niet bij deze concrete vraag.",
+    "reference": "H10 – Thema 4.2 klinische diagnostiek, leerdoel 1 (samenvatting p. 166–175; beknopt p. 220–222)",
+    "source": "exam_questions_h10.json"
+  },
+  {
+    "id": "eecc34b7-7d60-4d6a-a768-d374640e79ac",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Op welke aspecten beoordeelt de "
+            },
+            {
+              "type": "text",
+              "text": "COTAN",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " de kwaliteit van psychologische instrumenten?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "34d308b3-ac3b-44fc-8f95-f1090c23340c",
+        "text": "Uitgangspunten van de testconstructie, kwaliteit van het testmateriaal, kwaliteit van de handleiding, normen, betrouwbaarheid, begripsvaliditeit en criteriumvaliditeit."
+      },
+      {
+        "id": "770b58a6-fe62-47c2-af71-8b62c2bfadf9",
+        "text": "Uitsluitend betrouwbaarheid en validiteit, aangezien dit de enige psychometrische criteria zijn."
+      },
+      {
+        "id": "2ed11159-68ae-4bff-87ce-0cabc4d8f305",
+        "text": "De mate van standaardisatie, de kosten en de afnameduur van het instrument."
+      },
+      {
+        "id": "af7e2dbf-0f0c-4de4-aec1-7992000d69d7",
+        "text": "De overeenstemming met de DSM-5-TR en de mate waarin het instrument een classificatie oplevert."
+      }
+    ],
+    "correctAnswerId": "34d308b3-ac3b-44fc-8f95-f1090c23340c",
+    "relatedConcept": "COTAN-beoordelingsaspecten",
+    "explanation": "Juist is “Uitgangspunten van de testconstructie, kwaliteit van het testmateriaal, kwaliteit…”. Het oordeel luidt onvoldoende, voldoende of goed. Niet elk instrument is COTAN-beoordeeld, dus de psycholoog moet zelf nagaan of de psychometrische eigenschappen onderzocht zijn.\n\nWaarom de andere opties niet kloppen:\n• “Uitsluitend betrouwbaarheid en validiteit, aangezien dit de…” — De COTAN beoordeelt zeven aspecten, waaronder ook de handleiding, het testmateriaal en de normering.\n• “De mate van standaardisatie, de kosten en…” — Kosten en afnameduur zijn praktische overwegingen en maken geen deel uit van de COTAN-criteria.\n• “De overeenstemming met de DSM-5-TR en de…” — De COTAN beoordeelt psychometrische kwaliteit, niet de aansluiting bij een classificatiesysteem.",
+    "reference": "H10 – Thema 4.2 klinische diagnostiek, leerdoel 3 (samenvatting p. 166–175; beknopt p. 220–222)",
+    "source": "exam_questions_h10.json"
+  },
+  {
+    "id": "14777812-92b3-4a0b-a5c4-ade002e7f1f5",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een psycholoog wil vaststellen of bij een 45-jarige cliënt met concentratieklachten sprake is van een verminderde cognitieve flexibiliteit. Welk type methode en welk instrument passen hier het beste?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "cfaeefc6-b4bf-428c-b955-40bea9a58884",
+        "text": "Een prestatietaak (performance task), namelijk de Wisconsin Card Sorting Test."
+      },
+      {
+        "id": "01f8a3d5-e4ca-4cce-a1fb-6d16f093e5b8",
+        "text": "Een zelfrapportage, namelijk de SCL-90."
+      },
+      {
+        "id": "9d4c81e5-4039-49eb-af00-4683c0ccc905",
+        "text": "Een projectieve methode, namelijk de Thematic Apperception Test."
+      },
+      {
+        "id": "6ea18e40-f12c-43b4-ac41-d09c867b54f2",
+        "text": "Een semigestructureerd interview, namelijk de SCID-5-S."
+      }
+    ],
+    "correctAnswerId": "cfaeefc6-b4bf-428c-b955-40bea9a58884",
+    "relatedConcept": "Prestatietaken",
+    "explanation": "Juist is “Een prestatietaak (performance task), namelijk de Wisconsin Card Sorting…”. Prestatietaken kennen goede en foute antwoorden en meten snelheid en/of moeilijkheidsniveau. Andere voorbeelden: Bourdon-Wiersma (aandacht), 15-woordentest (geheugen) en BADS (executieve functies).\n\nWaarom de andere opties niet kloppen:\n• “Een zelfrapportage, namelijk de SCL-90” — De SCL-90 is een klachtenlijst die toestandsgebonden klachten meet, geen neuropsychologische prestatiemaat voor cognitieve flexibiliteit.\n• “Een projectieve methode, namelijk de Thematic Apperception…” — Projectieve methoden verkennen onbewuste processen, motieven en emoties en kennen bovendien een lage betrouwbaarheid en validiteit.\n• “Een semigestructureerd interview, namelijk de SCID-5-S” — De SCID-5 is bedoeld om DSM-classificaties vast te stellen, niet om een specifieke cognitieve functie objectief te meten.",
+    "reference": "H10 – Thema 4.2 klinische diagnostiek, leerdoel 4 (samenvatting p. 166–175; beknopt p. 220–222)",
+    "source": "exam_questions_h10.json"
+  },
+  {
+    "id": "bb2ec970-19f2-450d-8118-bca47fd4d42f",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is volgens het cursusmateriaal de belangrijkste beperking van het "
+            },
+            {
+              "type": "text",
+              "text": "ongestructureerde klinische interview",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", en welke prijs betaalt men voor de oplossing?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "f7966103-8240-4333-8f74-0bb55d00489f",
+        "text": "De lage interbeoordelaarsbetrouwbaarheid: conclusies van verschillende psychologen komen maar matig overeen. Meer structuur en intensieve training van interviewers lossen dit deels op, maar kosten veel tijd en geld en leveren alleen informatie op over vooraf vastgelegde onderwerpen."
+      },
+      {
+        "id": "519b18e3-a115-459e-a39c-16356c960afc",
+        "text": "De reactiviteit: cliënten veranderen hun gedrag doordat zij weten dat zij beoordeeld worden."
+      },
+      {
+        "id": "7138a4c6-244b-4818-8ba5-d7203f40f6cb",
+        "text": "De culturele bias: taal- en motorische beperkingen beïnvloeden de scores."
+      },
+      {
+        "id": "b36ec4d3-8cf4-4fea-9337-92a90ce72de3",
+        "text": "Het ontbreken van normgegevens, waardoor de uitkomsten niet met een referentiegroep vergeleken kunnen worden."
+      }
+    ],
+    "correctAnswerId": "f7966103-8240-4333-8f74-0bb55d00489f",
+    "relatedConcept": "Betrouwbaarheid van klinische interviews",
+    "explanation": "Juist is “De lage interbeoordelaarsbetrouwbaarheid: conclusies van verschillende psychologen komen maar…”. Aanvullende risico's zijn dat de focus te eenzijdig op het eigen theoretisch kader komt te liggen en dat weinig meewerkende cliënten weinig opleveren.\n\nWaarom de andere opties niet kloppen:\n• “De reactiviteit: cliënten veranderen hun gedrag doordat…” — Reactiviteit is vooral een beperking van gedragsobservatie, niet het kernbezwaar tegen het ongestructureerde interview.\n• “De culturele bias: taal- en motorische beperkingen…” — Dat is een genoemde beperking van prestatietaken, niet van interviews.\n• “Het ontbreken van normgegevens, waardoor de uitkomsten…” — Dat is een reëel punt bij niet-gestandaardiseerde methoden in het algemeen, maar het expliciet genoemde kernbezwaar is de lage interbeoordelaarsbetrouwbaarheid.",
+    "reference": "H10 – Thema 4.2 klinische diagnostiek, leerdoel 7 (samenvatting p. 166–175; beknopt p. 220–222)",
+    "source": "exam_questions_h10.json"
+  },
+  {
+    "id": "7fdedc51-4495-4cb1-8a16-3b48c091681f",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een psycholoog vermoedt na de intake een zeldzame stoornis, richt het verdere onderzoek volledig op die hypothese en negeert testresultaten die er niet bij passen. Welke twee valkuilen in het klinisch redeneren zijn hier aan de orde?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "9065a257-c8ff-4a31-958a-a2996b419404",
+        "text": "Confirmatiebias en het onvoldoende meewegen van de zeldzaamheid (basisrate) van het verschijnsel."
+      },
+      {
+        "id": "350bcc4a-d996-413f-9156-009877d28cdc",
+        "text": "Reactiviteit en sociaal wenselijk antwoorden door de cliënt."
+      },
+      {
+        "id": "7ceebc38-cb2b-4947-b116-94161b26019f",
+        "text": "Onvoldoende standaardisatie en het ontbreken van een testbatterij."
+      },
+      {
+        "id": "f573daec-c48e-43be-8ca5-df19c0c0047e",
+        "text": "Gebrek aan begripsvaliditeit en criteriumvaliditeit van de gebruikte instrumenten."
+      }
+    ],
+    "correctAnswerId": "9065a257-c8ff-4a31-958a-a2996b419404",
+    "relatedConcept": "Valkuilen in klinisch redeneren",
+    "explanation": "Juist is “Confirmatiebias en het onvoldoende meewegen van de zeldzaamheid (basisrate)…”. Het cursusmateriaal noemt drie valkuilen: alleen bevestigende informatie meewegen, tegenstrijdige informatie negeren en geen rekening houden met de zeldzaamheid van verschijnselen. Klinische redenering moet daarom expliciet worden onderbouwd.\n\nWaarom de andere opties niet kloppen:\n• “Reactiviteit en sociaal wenselijk antwoorden door de…” — Dit zijn beperkingen van observatie en zelfrapportage aan de kánt van de cliënt, niet valkuilen in het redeneerproces van de psycholoog.\n• “Onvoldoende standaardisatie en het ontbreken van een…” — Dit zijn methodologische keuzes rond instrumenten, geen redeneerfouten. Overigens brengt een te ruime testbatterij juist het risico op irrelevante data mee.\n• “Gebrek aan begripsvaliditeit en criteriumvaliditeit van de…” — Dat zijn psychometrische eigenschappen die de COTAN beoordeelt, geen valkuilen in de interpretatie door de clinicus.",
+    "reference": "H10 – Thema 4.2 klinische diagnostiek, leerdoel 9 (samenvatting p. 166–175; beknopt p. 220–222)",
+    "source": "exam_questions_h10.json"
+  }
+]

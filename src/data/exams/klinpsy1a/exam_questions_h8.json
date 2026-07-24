@@ -1,0 +1,373 @@
+[
+  {
+    "id": "2ff667d1-8585-41d5-8f5b-a4d4dee38aed",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een onderzoeker stelt vast dat tien depressieve patiënten een verlaagde serotoninespiegel hebben en concludeert daaruit dat serotoninetekort depressie veroorzaakt. Welke redeneervorm is dit, en wat is volgens Popper het fundamentele probleem?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "f3957a4a-11b7-4033-b89c-23e24bb3a5d1",
+        "text": "Inductie: uit een eindig aantal waarnemingen wordt een algemene wet afgeleid, maar hoeveel bevestigende gevallen men ook verzamelt, de theorie blijft principieel onbewijsbaar — men kan haar alleen weerleggen."
+      },
+      {
+        "id": "2154a7a9-5173-43ee-b60d-56f2d373979c",
+        "text": "Deductie: uit een algemene theorie wordt een specifieke voorspelling afgeleid, die vervolgens is getoetst."
+      },
+      {
+        "id": "77d215bd-08f3-4274-bffd-6014c44b611b",
+        "text": "Falsificatie: de onderzoeker heeft een poging gedaan de theorie te weerleggen en is daarin niet geslaagd."
+      },
+      {
+        "id": "1bf9b514-a77f-4aac-8e2c-963cc908045a",
+        "text": "Reductionisme: een psychologisch verschijnsel wordt teruggebracht tot een biologisch niveau, waardoor de conclusie ongeldig is."
+      }
+    ],
+    "correctAnswerId": "f3957a4a-11b7-4033-b89c-23e24bb3a5d1",
+    "relatedConcept": "Inductieprobleem en falsificatie (Popper)",
+    "explanation": "Juist is “Inductie: uit een eindig aantal waarnemingen wordt een algemene…”. Popper stelde daarom deductie centraal: uit de theorie een hypothese afleiden en die toetsen. Bevestiging maakt een theorie hooguit voorlopig aannemelijk; weerlegging is wél definitief.\n\nWaarom de andere opties niet kloppen:\n• “Deductie: uit een algemene theorie wordt een…” — De redenering loopt hier van waarnemingen náár een algemene uitspraak, en dat is inductie. Deductie werkt precies andersom.\n• “Falsificatie: de onderzoeker heeft een poging gedaan…” — Er is geen weerleggingspoging ondernomen. De onderzoeker heeft alleen bevestigende gevallen verzameld — een bekende valkuil.\n• “Reductionisme: een psychologisch verschijnsel wordt teruggebracht tot…” — Er ís hier sprake van reductionisme, maar dat maakt de conclusie niet ongeldig. Het logische probleem dat Popper aanwijst is het inductieprobleem.",
+    "reference": "H8 – Thema 3.7 wetenschap en praktijk, leerdoel 3 (samenvatting p. 141–152; beknopt p. 214–216)",
+    "source": "exam_questions_h8.json"
+  },
+  {
+    "id": "5c7d94c7-ceff-4e91-b58e-e6a04752bfab",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat verstaat Kuhn onder de "
+            },
+            {
+              "type": "text",
+              "text": "harde kern",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " en de "
+            },
+            {
+              "type": "text",
+              "text": "beschermgordel",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " van een onderzoeksprogramma, en waarom volgen wetenschappers zo'n programma enigszins dogmatisch?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a70c17df-0bbb-4448-9cb6-b3536f7fc7c3",
+        "text": "De harde kern bevat fundamentele aannames die niet ter toetsing staan (bijvoorbeeld 'gedrag is beïnvloedbaar'); de beschermgordel bestaat uit concrete hypothesen die wél worden getoetst. Men kiest dogmatisch voor het programma dat in de eigen context het bruikbaarst en aannemelijkst is."
+      },
+      {
+        "id": "84b4ea6e-8d6f-4ec1-99aa-6f59ea6a656e",
+        "text": "De harde kern bestaat uit empirisch bevestigde wetten, de beschermgordel uit nog niet getoetste speculaties."
+      },
+      {
+        "id": "c69b7526-ec87-439e-98df-7bcc8647a2a8",
+        "text": "De harde kern bevat de meetinstrumenten, de beschermgordel de ethische randvoorwaarden van het onderzoek."
+      },
+      {
+        "id": "8ceb1ac2-dcf9-4eda-b18b-ab4e4dcafcb9",
+        "text": "De harde kern is de verzameling gefalsificeerde hypothesen die men uit het programma verwijdert."
+      }
+    ],
+    "correctAnswerId": "a70c17df-0bbb-4448-9cb6-b3536f7fc7c3",
+    "relatedConcept": "Harde kern en beschermgordel (Kuhn)",
+    "explanation": "Juist is “De harde kern bevat fundamentele aannames die niet ter…”. Hieruit volgt ook incommensurabiliteit: benaderingen spreken deels andere 'talen' en zijn daardoor niet volledig met elkaar te vergelijken — denk aan de humanistische versus de neurobiologische benadering.\n\nWaarom de andere opties niet kloppen:\n• “De harde kern bestaat uit empirisch bevestigde…” — De harde kern bestaat juist uit aannames die níet worden getoetst, niet uit bewezen wetten.\n• “De harde kern bevat de meetinstrumenten, de…” — Het onderscheid betreft de toetsbaarheid van theoretische aannames, niet instrumenten of ethiek.\n• “De harde kern is de verzameling gefalsificeerde…” — Gefalsificeerde hypothesen bevinden zich in de beschermgordel en worden daar aangepast, juist om de harde kern te sparen.",
+    "reference": "H8 – Thema 3.7 wetenschap en praktijk, leerdoel 4 (samenvatting p. 141–152; beknopt p. 214–216)",
+    "source": "exam_questions_h8.json"
+  },
+  {
+    "id": "72ce8f03-7f95-40ca-a75c-04a98fadfd7f",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke drie benaderingen worden in het cursusmateriaal getypeerd als zowel "
+            },
+            {
+              "type": "text",
+              "text": "deterministisch",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " als "
+            },
+            {
+              "type": "text",
+              "text": "reductionistisch",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", en waarom laten zij zich daardoor relatief goed integreren?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "b3a6a547-893f-4956-8257-95ce1369fb86",
+        "text": "De neurobiologische, de leertheoretische en de cognitieve benadering: zij zoeken alle drie causale wetmatigheden en verklaren op een onderliggend niveau, alleen op verschillende niveaus van analyse."
+      },
+      {
+        "id": "5d216d3d-613a-4b71-9b55-1d8cfadf5123",
+        "text": "De psychodynamische, de humanistische en de systeembenadering, omdat zij alle drie de vrije wil ontkennen."
+      },
+      {
+        "id": "8e76fde8-efa1-421e-956c-8561a24ada80",
+        "text": "De cognitieve, de humanistische en de systeembenadering, omdat zij alle drie op betekenisgeving gericht zijn."
+      },
+      {
+        "id": "9b9df4c0-b220-42bb-afd3-0989d21e10b0",
+        "text": "De leertheoretische, de psychodynamische en de neurobiologische benadering, omdat zij alle drie het verleden centraal stellen."
+      }
+    ],
+    "correctAnswerId": "b3a6a547-893f-4956-8257-95ce1369fb86",
+    "relatedConcept": "Determinisme en reductionisme",
+    "explanation": "Juist is “De neurobiologische, de leertheoretische en de cognitieve benadering: zij…”. In de praktijk zien we die integratie terug in combinaties van medicatie, cognitieve gedragstherapie en gedragstherapie. De psychodynamische, humanistische en systeembenadering laten zich minder eenduidig classificeren.\n\nWaarom de andere opties niet kloppen:\n• “De psychodynamische, de humanistische en de systeembenadering,…” — De humanistische benadering is juist voluntaristisch (vrije wil), de systeembenadering holistisch en de psychodynamische benadering weliswaar deterministisch maar hermeneutisch van methode.\n• “De cognitieve, de humanistische en de systeembenadering,…” — De cognitieve benadering werkt met informatieverwerkingsmodellen en is reductionistisch; zij hoort in dit rijtje niet thuis met de humanistische en systeembenadering.\n• “De leertheoretische, de psychodynamische en de neurobiologische…” — 'het verleden centraal stellen' is geen criterium voor determinisme of reductionisme, en de psychodynamische benadering is hermeneutisch van aard.",
+    "reference": "H8 – Thema 3.7 wetenschap en praktijk, leerdoel 8 (samenvatting p. 141–152; beknopt p. 214–216)",
+    "source": "exam_questions_h8.json"
+  },
+  {
+    "id": "e9d84833-aef5-49c6-a16c-27064fddd378",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke combinatie van benadering en metafysisch uitgangspunt is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "ef8221e3-8272-4fd0-bcee-36156f4e7191",
+        "text": "Humanistische benadering – voluntarisme; systeembenadering – holisme; psychodynamische benadering – determinisme met hermeneutische methode."
+      },
+      {
+        "id": "549c63ae-a87b-4796-b462-3ead3a0f89cf",
+        "text": "Humanistische benadering – holisme; systeembenadering – voluntarisme; psychodynamische benadering – reductionisme."
+      },
+      {
+        "id": "fcf8d311-5ef6-4ea6-87a9-d6cff87e3b18",
+        "text": "Humanistische benadering – determinisme; systeembenadering – reductionisme; cognitieve benadering – voluntarisme."
+      },
+      {
+        "id": "9d1f958d-e958-4dd0-bb8f-9457695215a4",
+        "text": "Alle zes de benaderingen delen hetzelfde deterministische uitgangspunt; het verschil betreft uitsluitend het analyseniveau."
+      }
+    ],
+    "correctAnswerId": "ef8221e3-8272-4fd0-bcee-36156f4e7191",
+    "relatedConcept": "Voluntarisme, holisme en hermeneutiek",
+    "explanation": "Juist is “Humanistische benadering – voluntarisme; systeembenadering – holisme; psychodynamische benadering…”. De psychologie hanteert dus zowel deterministische als voluntaristische en hermeneutische modellen, afhankelijk van de benadering — wat integratie complex maakt.\n\nWaarom de andere opties niet kloppen:\n• “Humanistische benadering – holisme; systeembenadering – voluntarisme;…” — Voluntarisme (vrije wil en zelfactualisatie) is juist kenmerkend voor de humanistische benadering, en holisme voor de systeembenadering.\n• “Humanistische benadering – determinisme; systeembenadering – reductionisme;…” — Alle drie de koppelingen kloppen niet. De cognitieve benadering is deterministisch en reductionistisch.\n• “Alle zes de benaderingen delen hetzelfde deterministische…” — Juist het botsen van metafysische uitgangspunten (vrije wil versus determinisme) vormt een van de belangrijkste integratieproblemen.",
+    "reference": "H8 – Thema 3.7 wetenschap en praktijk, leerdoel 7 (samenvatting p. 141–152; beknopt p. 214–216)",
+    "source": "exam_questions_h8.json"
+  },
+  {
+    "id": "f15f4aff-3d04-45a0-a8b9-027295b248c5",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is volgens het cursusmateriaal het belangrijkste bezwaar tegen "
+            },
+            {
+              "type": "text",
+              "text": "RCT's",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " als gouden standaard in psychotherapieonderzoek?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "f347aa5f-eea4-4728-8f57-add44f622d96",
+        "text": "Zij richten zich vooral op de korte termijn en op relatief eenvoudige problematiek en sluiten complexe casussen uit, waardoor diepgaande therapievormen zoals de psychodynamische en humanistische systematisch worden onderschat."
+      },
+      {
+        "id": "2cd49dc1-bb0b-4d02-9860-61a0dbe1cfd9",
+        "text": "Zij maken geen gebruik van randomisatie en controlegroepen, waardoor causale conclusies onmogelijk zijn."
+      },
+      {
+        "id": "36bcce42-24cf-4065-a83a-ebce1aa48e89",
+        "text": "Zij tonen consequent aan dat langdurige therapie veel effectiever is, wat de kosteneffectiviteit ondermijnt."
+      },
+      {
+        "id": "23b78d6f-95c4-4f2f-aee6-88e072213f37",
+        "text": "Zij zijn niet transparant en niet reproduceerbaar, waardoor vergelijking tussen studies onmogelijk is."
+      }
+    ],
+    "correctAnswerId": "f347aa5f-eea4-4728-8f57-add44f622d96",
+    "relatedConcept": "RCT's en common factors",
+    "explanation": "Juist is “Zij richten zich vooral op de korte termijn en…”. Daarbij komt dat common factors — de relatie, empathie en vertrouwen — mogelijk belangrijker zijn dan de gekozen methode. Psychotherapie werkt, maar de mechanismen blijven onzeker.\n\nWaarom de andere opties niet kloppen:\n• “Zij maken geen gebruik van randomisatie en…” — Randomisatie en controlegroepen zijn juist de definiërende kenmerken van een RCT en de reden dat zij als gouden standaard gelden.\n• “Zij tonen consequent aan dat langdurige therapie…” — Het onderzoek laat zien dat langdurige therapie iets beter maar duurder is, met vergelijkbare kosteneffectiviteit — geen dramatisch verschil.\n• “Zij zijn niet transparant en niet reproduceerbaar,…” — Transparantie, systematisch bewijs en vergelijkbaarheid worden juist als vóórdelen van effectstudies genoemd.",
+    "reference": "H8 – Thema 3.7 wetenschap en praktijk, leerdoel 9 (samenvatting p. 141–152; beknopt p. 214–216)",
+    "source": "exam_questions_h8.json"
+  },
+  {
+    "id": "2872da99-041b-4d88-8a0f-e1b1c35afdc5",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Uit welke drie pijlers bestaat "
+            },
+            {
+              "type": "text",
+              "text": "evidence-based practice",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (EBP), en hoe verhoudt "
+            },
+            {
+              "type": "text",
+              "text": "shared decision making",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (SDM) zich daartoe?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "6556daaf-fcc0-43d2-8b44-46de75c6573f",
+        "text": "Wetenschappelijke inzichten, de expertise van de behandelaar en de waarden, wensen en mogelijkheden van de patiënt; SDM is het proces waarin behandelaar en patiënt als partners samen tot een keuze komen."
+      },
+      {
+        "id": "9327f874-dfca-4195-a271-ba1d6e549346",
+        "text": "Wetenschappelijke inzichten, richtlijnen van de beroepsvereniging en kosteneffectiviteit; SDM is een methode om behandelkosten te beperken."
+      },
+      {
+        "id": "e8fe8bdf-4dcb-4c31-8143-1714cb119eda",
+        "text": "Diagnostiek, indicatiestelling en behandeling; SDM is de laatste stap in dit proces."
+      },
+      {
+        "id": "72723c40-2c1c-48b4-bd9d-4e9b9a3b34ad",
+        "text": "Uitsluitend wetenschappelijk bewijs uit RCT's; SDM staat hier los van en berust op de autonomie van de patiënt."
+      }
+    ],
+    "correctAnswerId": "6556daaf-fcc0-43d2-8b44-46de75c6573f",
+    "relatedConcept": "Evidence-based practice en shared decision making",
+    "explanation": "Juist is “Wetenschappelijke inzichten, de expertise van de behandelaar en de…”. SDM heeft aantoonbaar positieve effecten op relatie, motivatie en betrokkenheid, maar minder bewijs voor directe symptoomreductie; sinds 2022 is het opgenomen in de kwaliteitsstandaarden van de ggz.\n\nWaarom de andere opties niet kloppen:\n• “Wetenschappelijke inzichten, richtlijnen van de beroepsvereniging en…” — Kosteneffectiviteit en richtlijnen zijn geen van de drie pijlers, en SDM is geen kostenbeheersingsinstrument.\n• “Diagnostiek, indicatiestelling en behandeling; SDM is de…” — Dit beschrijft het klinische traject, niet de pijlers van EBP.\n• “Uitsluitend wetenschappelijk bewijs uit RCT's; SDM staat…” — EBP is nadrukkelijk breder dan RCT-bewijs alleen, en SDM is er juist mee verweven via de derde pijler.",
+    "reference": "H8 – Thema 3.7 wetenschap en praktijk, leerdoel 10 (samenvatting p. 141–152; beknopt p. 214–216)",
+    "source": "exam_questions_h8.json"
+  },
+  {
+    "id": "eb618a3c-9de9-4ecf-90e3-59d781149a45",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een psycholoog combineert een cognitief-gedragstherapeutisch protocol met een humanistische basishouding, zonder te proberen beide theorieën met elkaar te verzoenen. Hoe heet deze strategie, en waarom kiest men er vaak voor?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "1829a4cb-3087-48ce-ab00-eababbd0f5ab",
+        "text": "Technisch eclecticisme: technieken worden gecombineerd zonder de onderliggende theorieën te integreren, omdat de metafysische uitgangspunten van benaderingen kunnen botsen."
+      },
+      {
+        "id": "57643776-7604-4bfe-9cb4-fbe219deb886",
+        "text": "Theoretische integratie: de benaderingen worden samengevoegd tot één overkoepelend model."
+      },
+      {
+        "id": "ec55185b-92d5-45c7-9096-fa8a85a421f8",
+        "text": "Incommensurabiliteit: de benaderingen zijn niet vergelijkbaar en kunnen daarom niet samen worden gebruikt."
+      },
+      {
+        "id": "de025a03-9f66-456b-9f2e-0a5778d8296e",
+        "text": "Common factors-benadering: alleen de therapeutische relatie doet ertoe, technieken zijn irrelevant."
+      }
+    ],
+    "correctAnswerId": "1829a4cb-3087-48ce-ab00-eababbd0f5ab",
+    "relatedConcept": "Technisch eclecticisme",
+    "explanation": "Juist is “Technisch eclecticisme: technieken worden gecombineerd zonder de onderliggende theorieën…”. Dit sluit aan bij het interview met Jannes Eshuis: er bestaat geen 'beste' theorie — elke theorie heeft een eigen, beperkt toepassingsgebied en de hulpverlener moet er daarom vele kennen.\n\nWaarom de andere opties niet kloppen:\n• “Theoretische integratie: de benaderingen worden samengevoegd tot…” — Dat is juist wat híer niet gebeurt. Bij technisch eclecticisme blijft theoretische integratie bewust achterwege.\n• “Incommensurabiliteit: de benaderingen zijn niet vergelijkbaar en…” — Incommensurabiliteit is de reden waarom theoretische integratie moeilijk is, maar het is geen praktijkstrategie — en technieken combineren blijft wel degelijk mogelijk.\n• “Common factors-benadering: alleen de therapeutische relatie doet…” — Het common factors-onderzoek suggereert dat de relatie zwaar weegt, maar verklaart technieken niet irrelevant en is geen synoniem voor eclecticisme.",
+    "reference": "H8 – Thema 3.7 wetenschap en praktijk, leerdoel 8 (samenvatting p. 141–152; beknopt p. 214–216)",
+    "source": "exam_questions_h8.json"
+  }
+]

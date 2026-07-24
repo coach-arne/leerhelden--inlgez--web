@@ -1,0 +1,281 @@
+[
+  {
+    "id": "ac465548-66e3-4acc-ba53-803eecbc21ea",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke drie voorwaarden noemde Rogers 'noodzakelijk en voldoende' voor therapeutische verandering?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "81908cc5-282e-455b-922a-2ed66cf5d632",
+        "text": "Congruentie, onvoorwaardelijke positieve waardering en empathie."
+      },
+      {
+        "id": "60b1c43e-8ba6-4e44-8b08-8b8303188b71",
+        "text": "Empathie, interpretatie en neutraliteit."
+      },
+      {
+        "id": "29b7cd8a-9ffb-4059-a8be-b1d19b7b02be",
+        "text": "Congruentie, zelfactualisatie en technisch eclecticisme."
+      },
+      {
+        "id": "6d6ead68-013d-42fb-9a34-9d470ef7ff69",
+        "text": "Onvoorwaardelijke positieve waardering, directieve sturing en doelstellingen."
+      }
+    ],
+    "correctAnswerId": "81908cc5-282e-455b-922a-2ed66cf5d632",
+    "relatedConcept": "Rogers' drie therapeutische voorwaarden",
+    "explanation": "Juist is “Congruentie, onvoorwaardelijke positieve waardering en empathie”. De therapeut is echt in het contact, accepteert de cliënt ongeacht gedrag of fouten, en leeft zich actief in in diens subjectieve beleving.\n\nWaarom de andere opties niet kloppen:\n• “Empathie, interpretatie en neutraliteit” — Interpretatie en neutraliteit zijn psychodynamische begrippen. De cliëntgerichte houding is juist non-directief: geen adviezen of interpretaties.\n• “Congruentie, zelfactualisatie en technisch eclecticisme” — Zelfactualisatie is een uitgangspunt over de mens, geen therapeutische voorwaarde, en technisch eclecticisme is een integratiestrategie uit Thema 3.7.\n• “Onvoorwaardelijke positieve waardering, directieve sturing en doelstellingen” — Directieve sturing is in strijd met de non-directieve grondhouding, waarin niet de therapeut maar de cliënt de richting bepaalt.",
+    "reference": "H6 – Thema 3.5 humanistische benadering, leerdoel 3 (samenvatting p. 119–129; beknopt p. 207–210)",
+    "source": "exam_questions_h6.json"
+  },
+  {
+    "id": "b2a5d377-3061-4769-9fa9-3f1d0a7bd488",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een student die zichzelf als 'slim' ziet, zakt onverwacht voor een tentamen en houdt vol dat de docent hem onterecht beoordeeld heeft. Hoe duidt Rogers dit, en welke ontwikkelingsfactor ligt hieraan doorgaans ten grondslag?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "2a6edb9f-ff3d-4d2a-afec-ec069fcf02be",
+        "text": "Incongruentie tussen zelfbeeld en ervaring, waardoor de ervaring wordt ontkend of verdraaid; dit hangt samen met voorwaardelijke positieve waardering in de ontwikkeling."
+      },
+      {
+        "id": "8d8e8e9f-1cd2-4223-902d-5039e80c2ff8",
+        "text": "Incongruentie tussen zelfbeeld en ideaalbeeld, wat wijst op een blokkade in de zelfverwerkelijkingstendens."
+      },
+      {
+        "id": "861e6cba-1477-42b8-9abe-fc50434fc62b",
+        "text": "Een inadequate emotie in de zin van de emotiegerichte therapie, die vervangen moet worden door een passender emotie."
+      },
+      {
+        "id": "dcecf88c-c236-4d4f-955a-d34cc5184b9e",
+        "text": "Een disfunctioneel schema dat via selectiebias in stand wordt gehouden."
+      }
+    ],
+    "correctAnswerId": "2a6edb9f-ff3d-4d2a-afec-ec069fcf02be",
+    "relatedConcept": "Incongruentie en voorwaardelijke positieve waardering",
+    "explanation": "Juist is “Incongruentie tussen zelfbeeld en ervaring, waardoor de ervaring wordt…”. Wie alleen gewaardeerd is wanneer hij aan verwachtingen voldeed, leert gevoelens en ervaringen te onderdrukken die niet in het zelfbeeld passen — ten koste van authenticiteit.\n\nWaarom de andere opties niet kloppen:\n• “Incongruentie tussen zelfbeeld en ideaalbeeld, wat wijst…” — Incongruentie in Rogers' technische zin betreft de discrepantie tussen het 'ik' (zelfbeeld) en de onderliggende ervaring. De kloof tussen zelfbeeld en ideaalbeeld is een verwant maar apart concept.\n• “Een inadequate emotie in de zin van…” — Inadequate emoties zijn een begrip uit de emotiegerichte therapie (EFT), een latere ontwikkeling. Rogers' eigen kader spreekt van incongruentie.\n• “Een disfunctioneel schema dat via selectiebias in…” — Dat is de cognitieve benadering. De humanistische benadering vermijdt juist het reduceren van de persoon tot losse cognitieve functies.",
+    "reference": "H6 – Thema 3.5 humanistische benadering, leerdoel 5 (samenvatting p. 119–129; beknopt p. 207–210)",
+    "source": "exam_questions_h6.json"
+  },
+  {
+    "id": "7a2f6b80-7393-4844-99b5-c19d0798cedc",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat betekent het dat de humanistische benadering "
+            },
+            {
+              "type": "text",
+              "text": "fenomenologisch",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " van aard is?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "41d5a7ea-d467-41dc-aa09-cf14b57817ee",
+        "text": "Zij is gericht op verstehen — het begrijpen van de subjectieve beleving van de persoon — in plaats van op verklaren via oorzaak-gevolgrelaties, met nadruk op het hier-en-nu."
+      },
+      {
+        "id": "596a27cc-3797-4993-90a0-c5c8d6ff7158",
+        "text": "Zij verklaart gedrag uit waarneembare verschijnselen en verwerpt elk beroep op innerlijke beleving."
+      },
+      {
+        "id": "9030f2c2-c3ef-4c17-acc2-b5ebf4358d7a",
+        "text": "Zij bestudeert uitsluitend het verleden van de cliënt, omdat daarin de oorsprong van blokkades ligt."
+      },
+      {
+        "id": "13cbe377-ccbe-413f-bbd5-e989a4418eda",
+        "text": "Zij reduceert psychische problemen tot verstoringen in onderliggende biologische systemen."
+      }
+    ],
+    "correctAnswerId": "41d5a7ea-d467-41dc-aa09-cf14b57817ee",
+    "relatedConcept": "Fenomenologische benadering",
+    "explanation": "Juist is “Zij is gericht op verstehen — het begrijpen van…”. Dit sluit aan bij de terughoudendheid ten aanzien van classificaties: niet 'de depressieve patiënt', maar 'Peter die worstelt met somberheid'.\n\nWaarom de andere opties niet kloppen:\n• “Zij verklaart gedrag uit waarneembare verschijnselen en…” — Dat is de positie van het behaviorisme, waartegen de humanistische psychologie zich juist afzet.\n• “Zij bestudeert uitsluitend het verleden van de…” — De humanistische benadering is juist toekomst- en hier-en-nu-gericht; het verleden staat centraal in de psychodynamische benadering.\n• “Zij reduceert psychische problemen tot verstoringen in…” — Dat is reductionisme, kenmerkend voor de neurobiologische benadering. De humanistische benadering is uitgesproken holistisch.",
+    "reference": "H6 – Thema 3.5 humanistische benadering, leerdoel 2 (samenvatting p. 119–129; beknopt p. 207–210)",
+    "source": "exam_questions_h6.json"
+  },
+  {
+    "id": "3f29b165-10ab-47f7-82c8-5abd04df3eb1",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke kritiek op de "
+            },
+            {
+              "type": "text",
+              "text": "behoeftepiramide van Maslow",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " wordt in het cursusmateriaal genoemd?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "924c0f1f-d506-477b-b474-9ff8bbc15527",
+        "text": "De hiërarchische volgorde gaat niet altijd op — daklozen zoeken bijvoorbeeld sociale contacten ondanks een gebrek aan basisveiligheid — en het model is elitair en cultureel eenzijdig doordat het op de levens van bijzondere figuren is gebaseerd."
+      },
+      {
+        "id": "a548bc1d-61f5-4f04-9a61-28ae104bf495",
+        "text": "Het model is te pessimistisch omdat het uitsluitend menselijke tekorten en beperkingen beschrijft."
+      },
+      {
+        "id": "37975154-ef75-4b67-a90b-c9298f6255a4",
+        "text": "Het model is nooit empirisch onderzocht en kent daardoor geen enkele toepassing."
+      },
+      {
+        "id": "e0875725-8a0b-48a4-90d8-ddf579b80d16",
+        "text": "Het model plaatst veiligheid boven zelfverwerkelijking en keert daarmee de humanistische uitgangspunten om."
+      }
+    ],
+    "correctAnswerId": "924c0f1f-d506-477b-b474-9ff8bbc15527",
+    "relatedConcept": "Behoeftepiramide van Maslow",
+    "explanation": "Juist is “De hiërarchische volgorde gaat niet altijd op — daklozen…”. Ook de invulling van zelfverwerkelijking is cultuurgebonden: die hoeft niet per se intellectueel van aard te zijn. Maslow zelf schatte dat minder dan 1% haar volledig bereikt.\n\nWaarom de andere opties niet kloppen:\n• “Het model is te pessimistisch omdat het…” — Maslows theorie is juist uitdrukkelijk een positieve motivatietheorie, gericht op het realiseren van behoeften en mogelijkheden.\n• “Het model is nooit empirisch onderzocht en…” — Dat is niet de genoemde kritiek. De bezwaren betreffen de strikte volgorde, de elitaire basis en de culturele bias.\n• “Het model plaatst veiligheid boven zelfverwerkelijking en…” — Veiligheid staat juist onderaan en zelfverwerkelijking bovenaan de piramide.",
+    "reference": "H6 – Thema 3.5 humanistische benadering, leerdoel 7 (samenvatting p. 119–129; beknopt p. 207–210)",
+    "source": "exam_questions_h6.json"
+  },
+  {
+    "id": "d4050cda-e833-471f-b848-1905d1370198",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een cliënte ervaart bij tegenslag stelselmatig diepe schaamte, terwijl trots hier passender zou zijn. Welke techniek uit de "
+            },
+            {
+              "type": "text",
+              "text": "emotiegerichte therapie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (EFT) sluit het beste aan bij het onderzoeken van haar lichamelijk gevoelde beleving?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "59b23a7f-ca23-4b40-9a75-3a870d737180",
+        "text": "Focusing, waarbij de lichamelijk gevoelde emotie (felt sense) wordt onderzocht en gesymboliseerd."
+      },
+      {
+        "id": "4b7db84d-a12c-4ae9-bd8c-582cc602e01c",
+        "text": "Evocatieve ontvouwing, waarbij emoties worden opgeroepen via het gedetailleerd doorlopen van een herinnering."
+      },
+      {
+        "id": "1dbf9543-0189-42dd-9b3b-c98ab63d7020",
+        "text": "De tweestoelendialoog, waarbij innerlijke tegenstrijdigheden tussen delen van het zelf worden uitgewerkt."
+      },
+      {
+        "id": "257c00ca-4cba-42e4-962f-abff1d67899c",
+        "text": "Een gedragsexperiment, waarbij de voorspelling van de cliënt in de praktijk wordt getoetst."
+      }
+    ],
+    "correctAnswerId": "59b23a7f-ca23-4b40-9a75-3a870d737180",
+    "relatedConcept": "Technieken in emotiegerichte therapie",
+    "explanation": "Juist is “Focusing, waarbij de lichamelijk gevoelde emotie (felt sense) wordt…”. Focusing gaat terug op Gendlins experiëntiële therapie. EFT beschouwt emoties als kern van het zelf; problemen ontstaan door inadequate emoties of verkeerde emotieschema's.\n\nWaarom de andere opties niet kloppen:\n• “Evocatieve ontvouwing, waarbij emoties worden opgeroepen via…” — Evocatieve ontvouwing roept emoties op via herinneringen. De vraag betreft specifiek het onderzoeken van de lichamelijk gevoelde beleving — dat is focusing.\n• “De tweestoelendialoog, waarbij innerlijke tegenstrijdigheden tussen delen…” — De tweestoelendialoog is bedoeld voor innerlijke conflicten tussen delen van het zelf, niet voor het onderzoeken van een lichamelijk gevoelde emotie.\n• “Een gedragsexperiment, waarbij de voorspelling van de…” — Het gedragsexperiment komt uit de cognitieve gedragstherapie, niet uit de emotiegerichte therapie.",
+    "reference": "H6 – Thema 3.5 humanistische benadering, leerdoel 8 (samenvatting p. 119–129; beknopt p. 207–210)",
+    "source": "exam_questions_h6.json"
+  },
+  {
+    "id": "43fa073a-abba-44b7-b1fd-93adad7d6350",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke ontwikkeling ná Rogers wordt correct beschreven?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "73bf9bc0-6934-4cc7-8762-ebfccbe14e54",
+        "text": "Rice (1974) zag de therapeut als iemand die problematische ervaringen evocerend oproept, waarna de cliënt ze in de eigen beleving verwerkt."
+      },
+      {
+        "id": "cbd2f4cd-812e-4098-806a-b0ebf2a355fb",
+        "text": "Gendlin ontwikkelde de procesgerichte therapie, gericht op existentiële keuzes en persoonlijke mythen."
+      },
+      {
+        "id": "da7d034e-5c5f-4c4e-acf3-299ffa1e8d1e",
+        "text": "Wexler stelde dat de therapeut zich volledig afzijdig moet houden en uitsluitend mag spiegelen."
+      },
+      {
+        "id": "23a1f572-a0f3-48d6-8afc-84dff67dfb8e",
+        "text": "De belangrijkste ontwikkeling was een sterkere nadruk op diagnostiek en DSM-classificatie."
+      }
+    ],
+    "correctAnswerId": "73bf9bc0-6934-4cc7-8762-ebfccbe14e54",
+    "relatedConcept": "Ontwikkelingen na Rogers",
+    "explanation": "Juist is “Rice (1974) zag de therapeut als iemand die problematische…”. Wexler (1974) legde daarnaast de nadruk op het helpen ordenen van informatie die de cliënt zelf niet kan verwerken, en De Haas en Swildens ontwikkelden de procesgerichte therapie.\n\nWaarom de andere opties niet kloppen:\n• “Gendlin ontwikkelde de procesgerichte therapie, gericht op…” — De procesgerichte therapie wordt in het cursusmateriaal aan De Haas en Swildens toegeschreven. Gendlin staat voor de experiëntiële therapie en het begrip felt sense.\n• “Wexler stelde dat de therapeut zich volledig…” — Wexler kende de therapeut juist een actievere rol toe in het helpen verwerken en ordenen van informatie.\n• “De belangrijkste ontwikkeling was een sterkere nadruk…” — De kernontwikkeling ging juist de andere kant op — méér nadruk op proces en ervaring, mínder op diagnose.",
+    "reference": "H6 – Thema 3.5 humanistische benadering, leerdoel 6 (samenvatting p. 119–129; beknopt p. 207–210)",
+    "source": "exam_questions_h6.json"
+  }
+]

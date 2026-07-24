@@ -1,0 +1,320 @@
+[
+  {
+    "id": "742fad82-bf13-4a66-8507-e88de9b716ea",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Waarom vormt "
+            },
+            {
+              "type": "text",
+              "text": "circulaire causaliteit",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (circular causality) een breuk met het klassieke denken over psychopathologie?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "ab81e907-d6dc-4a41-9def-7078fb5831c5",
+        "text": "Omdat oorzaak en gevolg elkaar wederzijds beïnvloeden in plaats van in één richting te werken, waardoor het aanwijzen van één schuldige of één oorzaak zinloos wordt."
+      },
+      {
+        "id": "728a78a7-156e-4e16-8a0c-602bfe190338",
+        "text": "Omdat het aantoont dat psychische klachten uiteindelijk altijd bij één gezinslid ontstaan, de zogenoemde geïdentificeerde patiënt."
+      },
+      {
+        "id": "7c047e19-eed7-46b7-b4db-4a36e6198cf7",
+        "text": "Omdat het stelt dat gedrag uitsluitend door externe bekrachtiging wordt bepaald."
+      },
+      {
+        "id": "0c81e935-7f23-4802-a7ba-c826830174d4",
+        "text": "Omdat het homeostase overbodig maakt: systemen streven niet naar evenwicht maar naar verandering."
+      }
+    ],
+    "correctAnswerId": "ab81e907-d6dc-4a41-9def-7078fb5831c5",
+    "relatedConcept": "Circulaire causaliteit en homeostase",
+    "explanation": "Juist is “Omdat oorzaak en gevolg elkaar wederzijds beïnvloeden in plaats…”. Een strenge en een toegeeflijke ouder houden elkaars gedrag in stand. Von Bertalanffy's algemene systeemtheorie leverde hiervoor het begrippenkader, met feedback en homeostase.\n\nWaarom de andere opties niet kloppen:\n• “Omdat het aantoont dat psychische klachten uiteindelijk…” — Dit is juist de lineaire opvatting die de systeembenadering ter discussie stelt.\n• “Omdat het stelt dat gedrag uitsluitend door…” — Dat is de leertheoretische positie. De systeembenadering richt zich op wederkerige relaties binnen een geheel.\n• “Omdat het homeostase overbodig maakt: systemen streven…” — Homeostase — het streven naar evenwicht — is juist een kernbegrip binnen de systeemtheorie.",
+    "reference": "H7 – Thema 3.6 systeembenadering, leerdoel 1 (samenvatting p. 130–140; beknopt p. 211–213)",
+    "source": "exam_questions_h7.json"
+  },
+  {
+    "id": "d28eb215-4acc-4bd4-87d5-468759c57a80",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In een gezin zijn beide ouders bevriend met de oma van moederskant, terwijl vader en oma elkaar mijden. Hoe typeert men zo'n "
+            },
+            {
+              "type": "text",
+              "text": "triade",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " volgens Hoffman (1981), en waarom is dit therapeutisch relevant?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "b72b745c-7c79-41f1-83ba-f267c4794daf",
+        "text": "Als een onevenwichtige triade: er ontstaat spanning en druk om een nieuw evenwicht te vinden, wat deze constellaties juist interessant maakt voor therapie."
+      },
+      {
+        "id": "0337db4a-7d12-4c41-baf2-4b14e195f335",
+        "text": "Als een evenwichtige triade, omdat twee personen samen tegenover de derde staan."
+      },
+      {
+        "id": "1a135529-ebf0-40ad-85b1-08df00626538",
+        "text": "Als een perverse triade, omdat een generatiegrens wordt overschreden."
+      },
+      {
+        "id": "ce13aa08-82a3-48dd-b76e-2010b2ecf214",
+        "text": "Als een alliantie, omdat er sprake is van samenwerking zonder tegenstander."
+      }
+    ],
+    "correctAnswerId": "b72b745c-7c79-41f1-83ba-f267c4794daf",
+    "relatedConcept": "Evenwichtige en onevenwichtige triades",
+    "explanation": "Juist is “Als een onevenwichtige triade: er ontstaat spanning en druk…”. Evenwichtige triades zijn ofwel geheel positief ofwel bestaan uit een stabiele coalitie van twee tegen één; die kennen weinig spanning en verkeren in homeostase.\n\nWaarom de andere opties niet kloppen:\n• “Als een evenwichtige triade, omdat twee personen…” — De constellatie 'mijn vriend is bevriend met mijn vijand' is juist het schoolvoorbeeld van een ónevenwichtige triade.\n• “Als een perverse triade, omdat een generatiegrens…” — Van een perverse triade spreekt men bij een rigide ouder–kindcoalitie tegen de andere ouder, waarbij de hiërarchie verstoord raakt.\n• “Als een alliantie, omdat er sprake is…” — Bij een alliantie werken partijen samen zónder zich tegen iemand te richten. Hier is wel degelijk sprake van uitsluiting.",
+    "reference": "H7 – Thema 3.6 systeembenadering, leerdoel 3 (samenvatting p. 130–140; beknopt p. 211–213)",
+    "source": "exam_questions_h7.json"
+  },
+  {
+    "id": "6dad36b6-5267-494c-8199-d3b1c0da29d1",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Twee ouders vermijden hun onderlinge conflict consequent; hun zoon ontwikkelt in dezelfde periode ernstig probleemgedrag, waarna alle aandacht naar hem uitgaat. Hoe wordt dit patroon genoemd?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "13590f6c-9d11-4a3f-9d5d-455f7913b053",
+        "text": "Een toegedekt conflict met de zoon als bliksemafleider (detouring–attacking)."
+      },
+      {
+        "id": "322dc110-e349-4d19-992e-0d8c1926c22d",
+        "text": "Een loyaliteitsconflict, waarbij het kind klem komt te zitten tussen de ouders."
+      },
+      {
+        "id": "c0b2c397-e1e3-42e7-8edc-78d6abd3ea2c",
+        "text": "Een ouder–kindcoalitie, waarbij ouder en kind zich tegen de andere ouder keren."
+      },
+      {
+        "id": "c15088aa-9127-4222-b111-b88720c30b36",
+        "text": "Expressed Emotion, doordat de ouders overbetrokken raken bij hun zoon."
+      }
+    ],
+    "correctAnswerId": "13590f6c-9d11-4a3f-9d5d-455f7913b053",
+    "relatedConcept": "Toegedekt conflict",
+    "explanation": "Juist is “Een toegedekt conflict met de zoon als bliksemafleider (detouring–attacking)”. De variant detouring–supportive is het 'zorgenkind': het kind wordt object van zorg waarmee het partnerconflict wordt bedekt. Bufferen betekent dat een derde de spanning dempt zonder iets op te lossen.\n\nWaarom de andere opties niet kloppen:\n• “Een loyaliteitsconflict, waarbij het kind klem komt…” — Bij een loyaliteitsconflict is er sprake van een openlijk conflict waarin het kind moet kiezen. Hier vermijden de ouders het conflict juist en wordt de spanning via het kind afgeleid.\n• “Een ouder–kindcoalitie, waarbij ouder en kind zich…” — Er wordt geen coalitie gevormd; het kind is geen bondgenoot maar afleider.\n• “Expressed Emotion, doordat de ouders overbetrokken raken…” — Expressed Emotion verwijst naar hoge kritiek, vijandigheid of overbetrokkenheid als voorspeller van terugval, niet naar het afleidingsmechanisme zelf.",
+    "reference": "H7 – Thema 3.6 systeembenadering, leerdoel 5 (samenvatting p. 130–140; beknopt p. 211–213)",
+    "source": "exam_questions_h7.json"
+  },
+  {
+    "id": "1e2f79bd-a098-41aa-9ecd-21d774db6bb7",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Aan welke drie voorwaarden moet volgens de communicatietheorie een "
+            },
+            {
+              "type": "text",
+              "text": "dubbele binding",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (double bind) voldoen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "023e7533-fc12-41d7-9f87-ea6500628055",
+        "text": "Een belangrijke relatie, een paradoxale boodschap waarin verbale en non-verbale signalen elkaar tegenspreken, en de onmogelijkheid om aan de situatie te ontsnappen."
+      },
+      {
+        "id": "f996bd3b-f862-4abf-8fd5-718b36414681",
+        "text": "Een belangrijke relatie, een openlijk conflict tussen de ouders en de aanwezigheid van een derde partij."
+      },
+      {
+        "id": "9a41245f-20b8-47d5-83ea-3f4de6bc7422",
+        "text": "Een paradoxaal bevel, een incongruente boodschap en de mogelijkheid om de situatie te verlaten."
+      },
+      {
+        "id": "81dc5998-b64f-435d-9f47-fdfbd3985b81",
+        "text": "Kritiek, vijandigheid en overbetrokkenheid van een gezinslid ten opzichte van de patiënt."
+      }
+    ],
+    "correctAnswerId": "023e7533-fc12-41d7-9f87-ea6500628055",
+    "relatedConcept": "Dubbele binding",
+    "explanation": "Juist is “Een belangrijke relatie, een paradoxale boodschap waarin verbale en…”. Onderscheid dit van een enkelvoudig paradoxaal bevel ('wees spontaan!'), dat op zichzelf nog geen dubbele binding vormt.\n\nWaarom de andere opties niet kloppen:\n• “Een belangrijke relatie, een openlijk conflict tussen…” — Dit beschrijft eerder een loyaliteitsconflict of triangulatie. Bij een dubbele binding gaat het om tegenstrijdige boodschapniveaus.\n• “Een paradoxaal bevel, een incongruente boodschap en…” — Juist het ontbréken van een ontsnappingsmogelijkheid is de derde voorwaarde die de situatie zo verlammend maakt.\n• “Kritiek, vijandigheid en overbetrokkenheid van een gezinslid…” — Dat zijn de drie componenten van Expressed Emotion, een ander begrip.",
+    "reference": "H7 – Thema 3.6 systeembenadering, leerdoel 6 (samenvatting p. 130–140; beknopt p. 211–213)",
+    "source": "exam_questions_h7.json"
+  },
+  {
+    "id": "05d8999d-e2f5-4ea0-bc2a-61d333db256a",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat laat effectonderzoek naar systeemtherapie bij "
+            },
+            {
+              "type": "text",
+              "text": "schizofrenie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " zien, en hoe hangt dat samen met "
+            },
+            {
+              "type": "text",
+              "text": "Expressed Emotion",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "8340a35d-ce5e-4ba7-888e-6e88f0dbffa8",
+        "text": "Systeemtherapie is effectief voor terugvalpreventie, functioneren en medicatietrouw, maar niet voor het verminderen van negatieve symptomen; hoge Expressed Emotion in het gezin is een voorspeller van terugval."
+      },
+      {
+        "id": "ff5fa289-876a-499d-b94d-6d17cf5c48d2",
+        "text": "Systeemtherapie vermindert vooral de negatieve symptomen en heeft geen effect op terugval."
+      },
+      {
+        "id": "37c6396f-97e7-460a-931e-fe6f55f2a895",
+        "text": "Systeemtherapie is bij schizofrenie niet onderzocht; het bewijs beperkt zich tot eetstoornissen bij jongeren."
+      },
+      {
+        "id": "bf800946-169f-4a45-9ef2-4609a3d26a56",
+        "text": "Expressed Emotion verwijst naar de emotionele expressiviteit van de patiënt zelf en voorspelt het beloop van de psychose."
+      }
+    ],
+    "correctAnswerId": "8340a35d-ce5e-4ba7-888e-6e88f0dbffa8",
+    "relatedConcept": "Expressed Emotion en effectiviteit van systeemtherapie",
+    "explanation": "Juist is “Systeemtherapie is effectief voor terugvalpreventie, functioneren en medicatietrouw, maar…”. Expressed Emotion voorspelt overigens ook terugval bij onder meer bipolaire stoornis en PTSS, wat de brede relevantie van het gezinsklimaat onderstreept.\n\nWaarom de andere opties niet kloppen:\n• “Systeemtherapie vermindert vooral de negatieve symptomen en…” — Het patroon is precies omgekeerd. Juist op negatieve symptomen wordt geen effect gevonden.\n• “Systeemtherapie is bij schizofrenie niet onderzocht; het…” — Bij eetstoornissen is inderdaad de Maudsley family-based treatment effectief bevonden bij jongeren, maar dat sluit onderzoek bij schizofrenie niet uit.\n• “Expressed Emotion verwijst naar de emotionele expressiviteit…” — Expressed Emotion betreft de houding van de gezinsleden jegens de patiënt, niet de expressiviteit van de patiënt.",
+    "reference": "H7 – Thema 3.6 systeembenadering, leerdoel 9 (samenvatting p. 130–140; beknopt p. 211–213)",
+    "source": "exam_questions_h7.json"
+  },
+  {
+    "id": "a312a82c-fe48-4f28-8380-2d575ad5c576",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een cliënt beschrijft zichzelf uitsluitend in termen van zijn klachten: 'ik bén nu eenmaal een depressief mens'. Welke techniek uit de "
+            },
+            {
+              "type": "text",
+              "text": "narratieve benadering",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " past hier het beste, en wat is het achterliggende doel?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "af6f88bd-bb19-4b29-8a14-3b1e042c4754",
+        "text": "Externaliseren — het probleem loskoppelen van de persoon ('ik heb een depressie' in plaats van 'ik ben depressief') — met als doel het probleemverzadigde verhaal te doorbreken en meer regie en identiteitsruimte te creëren."
+      },
+      {
+        "id": "f9800e98-9e72-4e4d-8c12-022a6e697b62",
+        "text": "De wondervraag, om de cliënt te confronteren met het feit dat verandering onmogelijk is zonder diagnose."
+      },
+      {
+        "id": "62f98e03-2f6d-4894-85e9-a44c3354f166",
+        "text": "Een genogram, om zichtbaar te maken welk gezinslid verantwoordelijk is voor de klachten."
+      },
+      {
+        "id": "15e2caf3-5ce9-4be3-90e6-e6b2e2e472e7",
+        "text": "Een paradoxale opdracht, waarbij het ongewenste gedrag juist wordt voorgeschreven om het te versterken."
+      }
+    ],
+    "correctAnswerId": "af6f88bd-bb19-4b29-8a14-3b1e042c4754",
+    "relatedConcept": "Narratieve benadering",
+    "explanation": "Juist is “Externaliseren — het probleem loskoppelen van de persoon ('ik…”. Aanvullende technieken zijn het zoeken naar uitzonderingen, deconstructie van etiketten en diagnoses, en de wondervraag. De therapeutische houding is respectvol, bondgenootschappelijk en democratisch.\n\nWaarom de andere opties niet kloppen:\n• “De wondervraag, om de cliënt te confronteren…” — De wondervraag is juist toekomstgericht en bedoeld om de gewenste situatie te verkennen, niet om te confronteren.\n• “Een genogram, om zichtbaar te maken welk…” — Een genogram brengt gezinsstructuur en patronen in kaart en dient om inzicht en interactie te stimuleren, niet om schuld toe te wijzen.\n• “Een paradoxale opdracht, waarbij het ongewenste gedrag…” — Het dóel van een paradoxale opdracht is niet versterking maar vergroting van het bewustzijn van het gedrag; bovendien is het geen narratieve techniek.",
+    "reference": "H7 – Thema 3.6 systeembenadering, leerdoel 8 (samenvatting p. 130–140; beknopt p. 211–213)",
+    "source": "exam_questions_h7.json"
+  }
+]

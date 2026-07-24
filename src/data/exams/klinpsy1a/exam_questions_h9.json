@@ -1,0 +1,413 @@
+[
+  {
+    "id": "a3eda5a3-a5f3-4a47-a6b1-5d0fee823e95",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is het essentiële onderscheid tussen "
+            },
+            {
+              "type": "text",
+              "text": "classificatie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " en "
+            },
+            {
+              "type": "text",
+              "text": "diagnostiek",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "f942c609-efba-4799-aa82-001c2274d3cf",
+        "text": "Classificatie is het smalle proces van ordenen in categorieën of dimensies, meestal op basis van symptomen en vrij van etiologie; diagnostiek is het bredere, dynamische proces van verzamelen, wegen en interpreteren van informatie, inclusief verklaring, prognose en indicatiestelling."
+      },
+      {
+        "id": "2cc7af11-abe6-4c0b-8b67-0acf3155f0d9",
+        "text": "Classificatie verklaart hoe en waarom klachten ontstaan; diagnostiek beperkt zich tot het toekennen van een DSM-label."
+      },
+      {
+        "id": "28ad662d-5582-4a8b-9f3b-c9080ab9add8",
+        "text": "Classificatie gebeurt door de behandelaar, diagnostiek door de verzekeraar."
+      },
+      {
+        "id": "86d00294-206a-4c8b-8255-46f32ac858db",
+        "text": "Classificatie is dimensioneel en diagnostiek categoriaal van aard."
+      }
+    ],
+    "correctAnswerId": "f942c609-efba-4799-aa82-001c2274d3cf",
+    "relatedConcept": "Classificatie versus diagnostiek",
+    "explanation": "Juist is “Classificatie is het smalle proces van ordenen in categorieën…”. Classificatie is statisch en universeel; diagnostiek is individueel en houdt rekening met ontwikkeling en context.\n\nWaarom de andere opties niet kloppen:\n• “Classificatie verklaart hoe en waarom klachten ontstaan;…” — De begrippen staan hier omgekeerd. Verklaring en indicatiestelling horen bij diagnostiek; het toekennen van een categorie is classificatie.\n• “Classificatie gebeurt door de behandelaar, diagnostiek door…” — Beide zijn taken van de psycholoog; het onderscheid is inhoudelijk, niet organisatorisch.\n• “Classificatie is dimensioneel en diagnostiek categoriaal van…” — Classificatie kán zowel categoriaal als dimensioneel zijn; het onderscheid met diagnostiek loopt niet langs die lijn.",
+    "reference": "H9 – Thema 4.1 classificatie, leerdoel 1 (samenvatting p. 153–165; beknopt p. 217–219)",
+    "source": "exam_questions_h9.json"
+  },
+  {
+    "id": "2d384e48-b28f-458a-8adc-467b19fd4e81",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Voor de classificatie van een paniekstoornis moet een cliënt aan 4 van de 13 genoemde symptomen voldoen. Om welke twee kenmerken van het classificatiesysteem gaat het hier, en welk gevolg heeft dit?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "dfbddd49-6168-4932-93e5-9e8881191077",
+        "text": "Het systeem is polythetisch en categoriaal: er is geen verplicht kernsymptoom maar een minimumaantal uit een lijst, waardoor twee mensen met dezelfde classificatie sterk verschillende symptoompatronen kunnen hebben."
+      },
+      {
+        "id": "3aff0dd1-e4c3-4eb7-8a08-a292e14c3973",
+        "text": "Het systeem is monothetisch en dimensioneel: er is een verplicht kernsymptoom dat op een schaal wordt gescoord."
+      },
+      {
+        "id": "90494af4-dd6e-471e-bb86-6773919e83b2",
+        "text": "Het systeem is etiologisch en hiërarchisch: de indeling berust op onderliggende oorzaken die elkaar uitsluiten."
+      },
+      {
+        "id": "460d7b3c-38e8-44c3-b353-06d9b822f146",
+        "text": "Het systeem is polythetisch en etiologisch: de symptomen verwijzen elk naar een eigen oorzakelijk mechanisme."
+      }
+    ],
+    "correctAnswerId": "dfbddd49-6168-4932-93e5-9e8881191077",
+    "relatedConcept": "Polythetische en categoriale classificatie",
+    "explanation": "Juist is “Het systeem is polythetisch en categoriaal: er is geen…”. Bij een monothetisch systeem is één of meer kenmerken juist verplicht, zoals een depressieve stemming bij de depressieve stoornis. Deze heterogeniteit binnen categorieën is een van de bezwaren tegen de DSM.\n\nWaarom de andere opties niet kloppen:\n• “Het systeem is monothetisch en dimensioneel: er…” — 4 uit 13 betekent juist dat géén enkel symptoom verplicht is (polythetisch), en de uitkomst is wel/niet een stoornis (categoriaal).\n• “Het systeem is etiologisch en hiërarchisch: de…” — De DSM-5-TR is juist beschrijvend (op observeerbare symptomen) en nevenschikkend, niet etiologisch en hiërarchisch.\n• “Het systeem is polythetisch en etiologisch: de…” — Polythetisch klopt, maar de DSM doet juist geen uitspraken over oorzaken — zij is uitdrukkelijk beschrijvend.",
+    "reference": "H9 – Thema 4.1 classificatie, leerdoel 2 (samenvatting p. 153–165; beknopt p. 217–219)",
+    "source": "exam_questions_h9.json"
+  },
+  {
+    "id": "c32020f3-d2e3-4d54-aa86-9c1fa7291f4f",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke reeks kenmerkt de "
+            },
+            {
+              "type": "text",
+              "text": "DSM-5-TR",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (2022) correct?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "d6feca2f-ed75-454d-8921-fb9299ebbc49",
+        "text": "Categoriaal, polythetisch, beschrijvend en nevenschikkend."
+      },
+      {
+        "id": "8177e66a-9413-4c48-b0a0-0ec851bb196c",
+        "text": "Dimensioneel, monothetisch, etiologisch en hiërarchisch."
+      },
+      {
+        "id": "beb765e8-7501-4f8f-ac0a-cbac365c6912",
+        "text": "Categoriaal, monothetisch, etiologisch en nevenschikkend."
+      },
+      {
+        "id": "e2e794cd-0520-47ef-a6bb-b825b06d529f",
+        "text": "Dimensioneel, polythetisch, beschrijvend en hiërarchisch."
+      }
+    ],
+    "correctAnswerId": "d6feca2f-ed75-454d-8921-fb9299ebbc49",
+    "relatedConcept": "Kenmerken van de DSM-5-TR",
+    "explanation": "Juist is “Categoriaal, polythetisch, beschrijvend en nevenschikkend”. Nevenschikkend betekent dat meerdere classificaties naast elkaar kunnen bestaan — wat mede verklaart waarom comorbiditeit zo veel voorkomt.\n\nWaarom de andere opties niet kloppen:\n• “Dimensioneel, monothetisch, etiologisch en hiërarchisch” — Op alle vier de punten het tegenovergestelde van de DSM-5-TR. Zie leerdoel 4.\n• “Categoriaal, monothetisch, etiologisch en nevenschikkend” — De DSM is polythetisch (voldoende symptomen uit een lijst) en beschrijvend, niet monothetisch en etiologisch.\n• “Dimensioneel, polythetisch, beschrijvend en hiërarchisch” — De DSM werkt met categorieën en is nevenschikkend; een dimensioneel en hiërarchisch model is juist HiTOP.",
+    "reference": "H9 – Thema 4.1 classificatie, leerdoel 4 (samenvatting p. 153–165; beknopt p. 217–219)",
+    "source": "exam_questions_h9.json"
+  },
+  {
+    "id": "464eb3de-8704-4528-a057-6fefe8f8c186",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Twee onafhankelijke clinici beoordelen dezelfde cliënt en komen tot dezelfde classificatie. Wat is daarmee wél en wat níet aangetoond?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "13eb8c24-6dd7-4910-90c5-25cb82aef639",
+        "text": "Aangetoond is interbeoordelaarsbetrouwbaarheid; niet aangetoond is validiteit, dus de vraag of de classificatie werkelijk weerspiegelt wat zij beoogt te meten en of zij beloop en uitkomst voorspelt."
+      },
+      {
+        "id": "eddd4dfe-b067-46d3-970b-a064f8efc51b",
+        "text": "Aangetoond is de constructvaliditeit; betrouwbaarheid volgt daar automatisch uit."
+      },
+      {
+        "id": "d0736aa2-0f9e-43e2-925a-6c32fa3e5fd2",
+        "text": "Aangetoond is de test-hertestbetrouwbaarheid, omdat het oordeel is herhaald."
+      },
+      {
+        "id": "6337f664-02fb-4a5a-a309-dd48fcfc8859",
+        "text": "Aangetoond is de predictieve validiteit, omdat overeenstemming voorspelt dat de behandeling zal aanslaan."
+      }
+    ],
+    "correctAnswerId": "13eb8c24-6dd7-4910-90c5-25cb82aef639",
+    "relatedConcept": "Betrouwbaarheid versus validiteit",
+    "explanation": "Juist is “Aangetoond is interbeoordelaarsbetrouwbaarheid; niet aangetoond is validiteit, dus de…”. Betrouwbaarheid is een noodzakelijke maar niet voldoende voorwaarde voor validiteit. Comorbiditeit en symptoomoverlap maken juist de validiteit lastig vast te stellen.\n\nWaarom de andere opties niet kloppen:\n• “Aangetoond is de constructvaliditeit; betrouwbaarheid volgt daar…” — De redenering loopt de verkeerde kant op. Overeenstemming tussen beoordelaars is een betrouwbaarheidsmaat; validiteit vraagt om aanvullend bewijs.\n• “Aangetoond is de test-hertestbetrouwbaarheid, omdat het oordeel…” — Test-hertestbetrouwbaarheid betreft herhaling door dezélfde beoordelaar op een ander moment, niet twee verschillende beoordelaars.\n• “Aangetoond is de predictieve validiteit, omdat overeenstemming…” — Predictieve validiteit betreft de vraag of de classificatie beloop en uitkomst voorspelt; overeenstemming tussen clinici zegt daar niets over.",
+    "reference": "H9 – Thema 4.1 classificatie, leerdoel 3 (samenvatting p. 153–165; beknopt p. 217–219)",
+    "source": "exam_questions_h9.json"
+  },
+  {
+    "id": "83d45cdb-081d-4570-8693-116baa8ace7b",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Trudy Dehue stelt in het interview dat een DSM-stoornis "
+            },
+            {
+              "type": "text",
+              "text": "normatief",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " is. Welke redenering ligt hieraan ten grondslag?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "9dbe2b8d-5b6e-4d4a-a2e7-0ee8f267b548",
+        "text": "Clusters van eigenschappen worden tot stoornis benoemd op grond van consensus tussen psychiaters en van wat de samenleving al dan niet aanvaardbaar vindt; door er het woord 'stoornis' aan te verbinden krijgt de eigenschap een negatieve lading."
+      },
+      {
+        "id": "5ec56942-ff76-4819-9f0e-13df858e5137",
+        "text": "De DSM berust op een expliciet theoretisch kader waaruit normen logisch worden afgeleid."
+      },
+      {
+        "id": "185f0aa8-8dbd-4d55-bbbb-c55159e93dab",
+        "text": "De DSM is normatief omdat zij uitsluitend biologische afwijkingen als stoornis erkent."
+      },
+      {
+        "id": "a2cd95dd-28fa-4ec0-b5a6-6367b95ff32c",
+        "text": "De DSM is normatief omdat de criteria per land verschillen en door nationale wetgeving worden vastgesteld."
+      }
+    ],
+    "correctAnswerId": "9dbe2b8d-5b6e-4d4a-a2e7-0ee8f267b548",
+    "relatedConcept": "Normativiteit van de DSM (Dehue)",
+    "explanation": "Juist is “Clusters van eigenschappen worden tot stoornis benoemd op grond…”. Haar voorbeeld is ADHD: druk en ongeconcentreerd gedrag wordt tot stoornis wanneer het negatief wordt geframed. Zij ziet ook voordelen: gemeenschappelijke taal, onderzoekbare behandelplannen, vergoeding en duidelijkheid voor cliënten.\n\nWaarom de andere opties niet kloppen:\n• “De DSM berust op een expliciet theoretisch…” — Dehue stelt juist dat de DSM géén theoretisch kader heeft en op overleg tussen psychiaters berust.\n• “De DSM is normatief omdat zij uitsluitend…” — De DSM is beschrijvend en etiologievrij; zij eist geen aantoonbare biologische afwijking.\n• “De DSM is normatief omdat de criteria…” — De DSM-criteria zijn niet per land vastgesteld. Het normatieve karakter zit in de sociale waardering van gedrag, niet in wetgeving.",
+    "reference": "H9 – Thema 4.1 classificatie, leerdoel 6 (samenvatting p. 153–165; beknopt p. 217–219)",
+    "source": "exam_questions_h9.json"
+  },
+  {
+    "id": "6632496c-adef-4aeb-9272-b8897736710d",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Het "
+            },
+            {
+              "type": "text",
+              "text": "HiTOP",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "-model (Hierarchical Taxonomy of Psychopathology) is dimensioneel en hiërarchisch opgebouwd. Welke uitspraak is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "743f4774-d4c5-4e16-93f6-b1efafd066ef",
+        "text": "Onder de zes spectra (waaronder internaliserend, externaliserend/ongeremd en denkstoornis) liggen subfactoren, dimensionele syndromen en symptoomcomponenten, terwijl daarboven superspectra staan; de p-factor vormt een algemene kwetsbaarheid voor psychopathologie."
+      },
+      {
+        "id": "65a35ba0-9774-41eb-8983-e5ba4020f878",
+        "text": "HiTOP vervangt de dimensionele benadering door een strikt categoriale indeling in zes spectra."
+      },
+      {
+        "id": "6d867a03-7934-4dab-862f-f777d052a64a",
+        "text": "De p-factor is een maat voor de betrouwbaarheid waarmee een classificatie kan worden gesteld."
+      },
+      {
+        "id": "a2f0122e-6e6d-4102-a1b1-6177b26d309e",
+        "text": "HiTOP werkt uitsluitend op symptoomniveau en kent geen hogere ordeningsniveaus."
+      }
+    ],
+    "correctAnswerId": "743f4774-d4c5-4e16-93f6-b1efafd066ef",
+    "relatedConcept": "HiTOP en de p-factor",
+    "explanation": "Juist is “Onder de zes spectra (waaronder internaliserend, externaliserend/ongeremd en denkstoornis)…”. Een hogere p-factor gaat gepaard met meer comorbiditeit en ernstiger stoornissen. Een eetstoornis valt bijvoorbeeld onder het internaliserende spectrum, antisociaal gedrag onder het externaliserende.\n\nWaarom de andere opties niet kloppen:\n• “HiTOP vervangt de dimensionele benadering door een…” — HiTOP is juist dimensioneel én hiërarchisch; het is een alternatief vóór het categoriale denken van de DSM.\n• “De p-factor is een maat voor de…” — De p-factor is een inhoudelijk construct — een algemene kwetsbaarheid voor psychopathologie — en geen psychometrische maat.\n• “HiTOP werkt uitsluitend op symptoomniveau en kent…” — Het model kent juist meerdere niveaus, van symptoomcomponenten tot superspectra.",
+    "reference": "H9 – Thema 4.1 classificatie, leerdoel 7 (samenvatting p. 153–165; beknopt p. 217–219)",
+    "source": "exam_questions_h9.json"
+  },
+  {
+    "id": "8c285699-def3-4a82-ada3-09e8964d4a15",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een behandelaar besluit bij een cliënt met slapeloosheid, piekeren en somberheid het piekeren als eerste aan te pakken, omdat dit in de klachtenstructuur van deze cliënt het meest verbindende element blijkt. Bij welk alternatief voor de DSM sluit deze werkwijze het beste aan, en hoe verschilt dat van het andere alternatief?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "8aabb9e5-f608-4d54-9165-99168e4b3f13",
+        "text": "De netwerkbenadering: een stoornis wordt opgevat als een netwerk van elkaar wederzijds versterkende symptomen, waarbij men centrale knooppunten behandelt; de transdiagnostische benadering richt zich daarentegen op wat stoornissen gemeen hebben en zet daar brede interventies op in."
+      },
+      {
+        "id": "08f0bc86-3784-4b79-aac3-744af32ba259",
+        "text": "De transdiagnostische benadering, omdat piekeren bij veel stoornissen voorkomt en dus generiek behandeld wordt."
+      },
+      {
+        "id": "f85597be-b7fe-4f14-afe4-80caf47a585a",
+        "text": "HiTOP, omdat piekeren op het niveau van de superspectra wordt gepositioneerd."
+      },
+      {
+        "id": "ae7ff79d-5454-4386-9cbf-2fddd8fc108c",
+        "text": "De positieve psychologie, omdat de behandeling zich richt op het versterken van veerkracht."
+      }
+    ],
+    "correctAnswerId": "8aabb9e5-f608-4d54-9165-99168e4b3f13",
+    "relatedConcept": "Netwerkbenadering versus transdiagnostische benadering",
+    "explanation": "Juist is “De netwerkbenadering: een stoornis wordt opgevat als een netwerk…”. Beide alternatieven vertrekken vanuit symptoomoverlap, maar de netwerkbenadering werkt met het persoonlijke symptoomnetwerk terwijl de transdiagnostische benadering generieke mechanismen aanpakt.\n\nWaarom de andere opties niet kloppen:\n• “De transdiagnostische benadering, omdat piekeren bij veel…” — Doorslaggevend in de casus is dat piekeren in het netwerk van dézé cliënt het centrale knooppunt is — een netwerkredenering, niet een generieke.\n• “HiTOP, omdat piekeren op het niveau van…” — HiTOP is een taxonomisch ordeningsmodel en schrijft geen behandelvolgorde binnen een individueel symptoomnetwerk voor.\n• “De positieve psychologie, omdat de behandeling zich…” — De positieve psychologie classificeert sterke kanten en deugden (Character Strengths and Virtues); daarvan is hier geen sprake.",
+    "reference": "H9 – Thema 4.1 classificatie, leerdoel 7 (samenvatting p. 153–165; beknopt p. 217–219)",
+    "source": "exam_questions_h9.json"
+  },
+  {
+    "id": "7ded4224-3b0d-4140-a9a7-6267701eb027",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over de verhouding tussen "
+            },
+            {
+              "type": "text",
+              "text": "DSM",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " en "
+            },
+            {
+              "type": "text",
+              "text": "ICD",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " is juist?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "7ba9f9ff-5cda-46a7-be72-d0e14ab3404b",
+        "text": "De ICD wordt door de WHO uitgegeven, omvat zowel lichamelijke als psychische aandoeningen, is wereldwijd de standaard en gratis toegankelijk; de DSM is gedetailleerder en sterker op de ggz gericht."
+      },
+      {
+        "id": "1c8debbd-f59a-407f-b31c-a9544408885f",
+        "text": "De DSM wordt door de WHO uitgegeven en is wereldwijd verplicht; de ICD is een Amerikaans handboek voor de ggz."
+      },
+      {
+        "id": "090053ce-ffde-46f1-b36c-27b1225aae2f",
+        "text": "De ICD is uitsluitend gericht op psychische aandoeningen en bevat geen somatische diagnoses."
+      },
+      {
+        "id": "65a25fd4-75ff-44a6-a6ab-62fee4951d22",
+        "text": "De DSM en de ICD hanteren volledig onverenigbare criteria, waardoor vertaling tussen beide onmogelijk is."
+      }
+    ],
+    "correctAnswerId": "7ba9f9ff-5cda-46a7-be72-d0e14ab3404b",
+    "relatedConcept": "DSM versus ICD",
+    "explanation": "Juist is “De ICD wordt door de WHO uitgegeven, omvat zowel…”. De ICD-11 (2019) kent een aanzienlijke overlap met de DSM-5-TR en is praktischer voor klinische en epidemiologische toepassing.\n\nWaarom de andere opties niet kloppen:\n• “De DSM wordt door de WHO uitgegeven…” — De rollen staan omgedraaid. De DSM komt van de American Psychiatric Association, de ICD van de WHO.\n• “De ICD is uitsluitend gericht op psychische…” — Juist de brede reikwijdte — lichamelijke én psychische ziekten — kenmerkt de ICD.\n• “De DSM en de ICD hanteren volledig…” — Er bestaat juist een aanzienlijke overlap tussen de ICD-11 en de DSM-5-TR.",
+    "reference": "H9 – Thema 4.1 classificatie, leerdoel 5 (samenvatting p. 153–165; beknopt p. 217–219)",
+    "source": "exam_questions_h9.json"
+  }
+]

@@ -1,0 +1,413 @@
+[
+  {
+    "id": "4852b52e-da5f-4a54-a0ba-ac1f6ce408e2",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een 34-jarige man weigert uit politieke overtuiging belasting te betalen en raakt daardoor herhaaldelijk in conflict met de overheid. Hij functioneert verder goed op zijn werk en in zijn relaties en ervaart zelf geen lijdensdruk. Waarom voldoet dit volgens de APA-definitie van een "
+            },
+            {
+              "type": "text",
+              "text": "psychische stoornis",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (mental disorder) uit de DSM-5-TR niet aan het stoornisbegrip?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "dc1be405-e546-4d5f-a014-584c30ea5858",
+        "text": "Omdat een conflict met de maatschappij pas een stoornis is wanneer het voortkomt uit een disfunctie in de persoon zelf."
+      },
+      {
+        "id": "35fb58b4-dca7-4575-83b3-01e71755d18f",
+        "text": "Omdat er geen sprake is van cognitieve, emotionele of gedragsmatige symptomen bij hem."
+      },
+      {
+        "id": "ce7e2b16-46c5-4956-b93d-5e8504950551",
+        "text": "Omdat lijdensdruk een noodzakelijke voorwaarde is; zonder lijdensdruk kan er nooit sprake zijn van een stoornis."
+      },
+      {
+        "id": "cb1624f4-0eeb-4e70-a88d-3612bf8c7a67",
+        "text": "Omdat het gedrag statistisch gezien niet extreem genoeg afwijkt van het populatiegemiddelde."
+      }
+    ],
+    "correctAnswerId": "dc1be405-e546-4d5f-a014-584c30ea5858",
+    "relatedConcept": "APA-definitie van psychische stoornis",
+    "explanation": "Juist is “Omdat een conflict met de maatschappij pas een stoornis…”. De DSM-5-TR sluit sociaal deviant gedrag en conflicten met de samenleving expliciet uit, tenzij het gedrag het gevolg is van een disfunctie in psychologische, biologische of ontwikkelingsprocessen.\n\nWaarom de andere opties niet kloppen:\n• “Omdat er geen sprake is van cognitieve,…” — Het ontbreken van symptomen is hier niet het beslissende argument — het beslissende criterium is dat de DSM sociaal deviant gedrag en maatschappelijke conflicten uitsluit tenzij ze voortkomen uit disfunctioneren van de persoon.\n• “Omdat lijdensdruk een noodzakelijke voorwaarde is; zonder…” — De APA-definitie stelt dat een stoornis *vaak* gepaard gaat met lijdensdruk of beperkingen, niet dat lijdensdruk altijd noodzakelijk is. Zie leerdoel 3.\n• “Omdat het gedrag statistisch gezien niet extreem…” — Dit is het criterium van het statistisch model (leerdoel 5), niet van de APA-definitie. De DSM hanteert geen statistische afkapwaarde.",
+    "reference": "H1 – Thema 1, leerdoel 3 (uitgebreide samenvatting p. 6–12; beknopt p. 177–179; boek H1)",
+    "source": "exam_questions_h1.json"
+  },
+  {
+    "id": "df226d0d-475b-43a0-9d96-b302c0e54d7c",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een studente gaat tijdens een gesprek met een onbekende steeds zó dicht bij die persoon staan dat deze telkens achteruit stapt. Volgens welke factor van Seligman e.a. (2001) wordt dit gedrag het meest waarschijnlijk als afwijkend beoordeeld, en welk begrip van "
+            },
+            {
+              "type": "text",
+              "text": "Scheff",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " is hier van toepassing?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "22a006b6-d04e-4c36-95bf-957b30ff475b",
+        "text": "Gedrag dat ongemak veroorzaakt bij anderen (observer discomfort), door schending van een restregel."
+      },
+      {
+        "id": "4ca46b7c-b839-4aa5-9dfe-aa5e030041da",
+        "text": "Irrationeel en onbegrijpelijk gedrag, doordat een expliciete morele norm wordt geschonden."
+      },
+      {
+        "id": "92ff2443-a259-4768-bf52-6897b26ce1f6",
+        "text": "Onvoorspelbaarheid en controleverlies, omdat de persoon haar afstand niet reguleert."
+      },
+      {
+        "id": "dd29a913-9918-4e0d-97fa-00e21409b7f1",
+        "text": "Persoonlijk lijden, omdat de gesprekspartner zich ongemakkelijk voelt."
+      }
+    ],
+    "correctAnswerId": "22a006b6-d04e-4c36-95bf-957b30ff475b",
+    "relatedConcept": "Restregels en observer discomfort (Scheff)",
+    "explanation": "Juist is “Gedrag dat ongemak veroorzaakt bij anderen (observer discomfort), door…”. Restregels zijn impliciete sociale regels waarvan men zich pas bewust wordt als iemand ze overschrijdt; overschrijding wekt ongemak bij de waarnemer op.\n\nWaarom de andere opties niet kloppen:\n• “Irrationeel en onbegrijpelijk gedrag, doordat een expliciete…” — Het gedrag is voor buitenstaanders wel te begrijpen en er wordt geen expliciete morele norm geschonden, maar een impliciete restregel. Zie leerdoel 4.\n• “Onvoorspelbaarheid en controleverlies, omdat de persoon haar…” — Deze factor slaat op plotseling, ongecontroleerd gedrag zonder duidelijke aanleiding (bv. agressieve uitbarstingen), niet op het overtreden van omgangsregels.\n• “Persoonlijk lijden, omdat de gesprekspartner zich ongemakkelijk…” — Persoonlijk lijden verwijst naar het innerlijke leed van de persoon zélf, niet naar het ongemak van de omgeving. Dat laatste valt onder 'observer discomfort'.",
+    "reference": "H1 – Thema 1, leerdoel 4 (uitgebreide samenvatting p. 6–12; beknopt p. 177–179; boek H1)",
+    "source": "exam_questions_h1.json"
+  },
+  {
+    "id": "f9c27d47-d12f-4cd6-ba7f-c64a35441627",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is volgens het cursusmateriaal het meest fundamentele bezwaar tegen het "
+            },
+            {
+              "type": "text",
+              "text": "statistisch model",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (statistical model) van abnormaal gedrag?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "30917e26-286d-4388-be31-c4419975af52",
+        "text": "Het model specificeert niet hóe ongewoon gedrag moet zijn om als abnormaal te gelden, waardoor de grens arbitrair blijft."
+      },
+      {
+        "id": "34e08aee-08b7-4e0a-a75a-df4e86f71147",
+        "text": "Het model kwalificeert uitsluitend extreem hóge scores als abnormaal."
+      },
+      {
+        "id": "4f0c8a69-ae4d-436d-876a-effbe41c1caa",
+        "text": "Het model kan niet worden toegepast op eigenschappen die normaal verdeeld zijn in de populatie."
+      },
+      {
+        "id": "f0e13072-8a03-491a-9193-daf45f0d8cda",
+        "text": "Het model gaat uit van een categoriale in plaats van dimensionele opvatting van psychopathologie."
+      }
+    ],
+    "correctAnswerId": "30917e26-286d-4388-be31-c4419975af52",
+    "relatedConcept": "Statistisch model van abnormaal gedrag",
+    "explanation": "Juist is “Het model specificeert niet hóe ongewoon gedrag moet zijn…”. Dit is het kernbezwaar: er is geen niet-arbitraire afkapwaarde. Daarnaast negeert het model lijdensdruk en functionaliteit.\n\nWaarom de andere opties niet kloppen:\n• “Het model kwalificeert uitsluitend extreem hóge scores…” — Het model beschouwt zowel extreem hoge als extreem lage scores als afwijkend. Zie leerdoel 5.\n• “Het model kan niet worden toegepast op…” — Juist normaal verdeelde eigenschappen (zoals IQ) zijn het toepassingsgebied van het model; het schiet tekort bij zeldzame stoornissen.\n• “Het model gaat uit van een categoriale…” — Het statistisch model is juist dimensioneel van aard (scores op een verdeling). Categoriaal denken hoort bij het medisch model en de DSM.",
+    "reference": "H1 – Thema 1, leerdoel 5 (uitgebreide samenvatting p. 6–12; beknopt p. 177–179; boek H1)",
+    "source": "exam_questions_h1.json"
+  },
+  {
+    "id": "d660230c-af49-466b-b2b6-980bcb4c60d7",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over het "
+            },
+            {
+              "type": "text",
+              "text": "medisch of ziektemodel",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (medical/disease model). Stelling I: Aanhangers van het medisch model gaan ervan uit dat psychische aandoeningen uitsluitend somatogene oorzaken hebben. Stelling II: Het onderzoek van Rosenhan wordt aangevoerd als illustratie van het bezwaar dat labels de interpretatie van normaal gedrag kleuren."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "081ee7c1-4a3a-484f-9acd-6684fdc11cb0",
+        "text": "Alleen stelling II is juist."
+      },
+      {
+        "id": "3bf85999-a84e-4a16-9dc2-c82d335213c2",
+        "text": "Stelling I en II zijn beide juist."
+      },
+      {
+        "id": "9b05dfda-e2ed-4811-9d1b-d06e79a48198",
+        "text": "Alleen stelling I is juist."
+      },
+      {
+        "id": "64adda23-1a6a-4d2a-b7b3-e4f1eb4cb1cd",
+        "text": "Stelling I en II zijn beide onjuist."
+      }
+    ],
+    "correctAnswerId": "081ee7c1-4a3a-484f-9acd-6684fdc11cb0",
+    "relatedConcept": "Medisch model en labeling",
+    "explanation": "Juist is “Alleen stelling II is juist”. Het medisch model onderscheidt somatogene én psychogene oorzaken, dus stelling I is te absoluut. Rosenhan liet zien dat gezonde pseudopatiënten na labeling nauwelijks meer van hun etiket loskwamen.\n\nWaarom de andere opties niet kloppen:\n• “Stelling I en II zijn beide juist” — Stelling I klopt niet. Binnen het medisch model worden zowel somatogene (lichamelijke) als psychogene (psychologische) oorzaken erkend. Zie leerdoel 6.\n• “Alleen stelling I is juist” — Stelling I is te absoluut (ook psychogene oorzaken tellen mee) en stelling II is wél juist — Rosenhan is hét standaardvoorbeeld van labeling in klinische settings.\n• “Stelling I en II zijn beide onjuist” — Stelling II is wel degelijk juist. Rosenhans pseudopatiëntenstudie illustreert precies het labelingbezwaar tegen het medisch model.",
+    "reference": "H1 – Thema 1, leerdoel 6 (uitgebreide samenvatting p. 6–12; beknopt p. 177–179; boek H1)",
+    "source": "exam_questions_h1.json"
+  },
+  {
+    "id": "a0cf09d8-13cc-4e72-a13f-dd389da6b146",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Bij welke van onderstaande casussen sluit het "
+            },
+            {
+              "type": "text",
+              "text": "leer- of onderwijsmodel",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (educational model) het béste aan?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "ba97ae9d-6ba6-474e-bdf7-74aac0655bb6",
+        "text": "Een werknemer die door tekorten in sociale vaardigheden vastloopt in teamoverleg, zonder aanwijsbare organische oorzaak."
+      },
+      {
+        "id": "78cc2ea6-3ac0-4acb-82e0-6dc84825ad23",
+        "text": "Een oudere man met een snel progressieve neurocognitieve stoornis op basis van de ziekte van Alzheimer."
+      },
+      {
+        "id": "f95597a4-abc1-4be1-91ae-11f823aa0fce",
+        "text": "Een vrouw met een acute manie met gevaarzetting die onvrijwillig moet worden opgenomen."
+      },
+      {
+        "id": "c1889046-957a-42b6-8bdb-6db45d1ee7cc",
+        "text": "Een kind dat op een intelligentietest twee standaarddeviaties onder het populatiegemiddelde scoort."
+      }
+    ],
+    "correctAnswerId": "ba97ae9d-6ba6-474e-bdf7-74aac0655bb6",
+    "relatedConcept": "Leer- of onderwijsmodel",
+    "explanation": "Juist is “Een werknemer die door tekorten in sociale vaardigheden vastloopt…”. Het onderwijsmodel richt zich op verkeerd of onvoldoende aangeleerde patronen bij mildere problematiek en levensproblemen: geen diagnose maar leerdoelen, geen therapie maar een leerprogramma.\n\nWaarom de andere opties niet kloppen:\n• “Een oudere man met een snel progressieve…” — Bij een duidelijke organische oorzaak en ernstige problematiek is het medisch model het aangewezen kader. Zie leerdoel 8.\n• “Een vrouw met een acute manie met…” — Ernstige problematiek met gevaarzetting past bij het medisch model; het onderwijsmodel is bedoeld voor mildere problematiek.\n• “Een kind dat op een intelligentietest twee…” — Het afgrenzen van extremen op een normaal verdeelde eigenschap is bij uitstek een toepassing van het statistisch model.",
+    "reference": "H1 – Thema 1, leerdoel 7 (uitgebreide samenvatting p. 6–12; beknopt p. 177–179; boek H1)",
+    "source": "exam_questions_h1.json"
+  },
+  {
+    "id": "1e90efd2-a4a8-432f-ab12-38fa4ceb3978",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Volgens de indeling van "
+            },
+            {
+              "type": "text",
+              "text": "Duijker",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (1959) bestaat de psychologie uit vijf basisdisciplines en een aantal toepassingsgerichte disciplines. Welke combinatie geeft de basisdisciplines correct weer?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "3223e400-2223-458f-8014-28eb0473617c",
+        "text": "Functieleer, ontwikkelingspsychologie, sociale psychologie, persoonlijkheidspsychologie en methodenleer."
+      },
+      {
+        "id": "8188e46f-98e9-4f8f-8a70-52db2ab24dc6",
+        "text": "Functieleer, ontwikkelingspsychologie, klinische psychologie, persoonlijkheidspsychologie en methodenleer."
+      },
+      {
+        "id": "4360467e-ec63-4dd6-a0d8-08344803ef82",
+        "text": "Neuropsychologie, ontwikkelingspsychologie, sociale psychologie, arbeids- en organisatiepsychologie en methodenleer."
+      },
+      {
+        "id": "19810e3b-d6f4-4f74-8698-92296e448ccf",
+        "text": "Functieleer, ontwikkelingspsychologie, sociale psychologie, gezondheidspsychologie en persoonlijkheidspsychologie."
+      }
+    ],
+    "correctAnswerId": "3223e400-2223-458f-8014-28eb0473617c",
+    "relatedConcept": "Basisdisciplines volgens Duijker",
+    "explanation": "Juist is “Functieleer, ontwikkelingspsychologie, sociale psychologie, persoonlijkheidspsychologie en methodenleer”. De klinische psychologie zelf behoort tot de toepassingsgerichte disciplines en bouwt voort op deze vijf.\n\nWaarom de andere opties niet kloppen:\n• “Functieleer, ontwikkelingspsychologie, klinische psychologie, persoonlijkheidspsychologie en methodenleer” — De klinische psychologie is juist géén basisdiscipline maar een toepassingsgerichte discipline. Zie leerdoel 2.\n• “Neuropsychologie, ontwikkelingspsychologie, sociale psychologie, arbeids- en organisatiepsychologie…” — Arbeids- en organisatiepsychologie is een toepassingsgerichte discipline, en neuropsychologie staat niet in Duijkers rijtje van vijf.\n• “Functieleer, ontwikkelingspsychologie, sociale psychologie, gezondheidspsychologie en persoonlijkheidspsychologie” — Gezondheidspsychologie is toepassingsgericht; de vijfde basisdiscipline is de methodenleer.",
+    "reference": "H1 – Thema 1, leerdoel 2 (uitgebreide samenvatting p. 6–12; beknopt p. 177–179; boek H1)",
+    "source": "exam_questions_h1.json"
+  },
+  {
+    "id": "ce37dd41-2dfb-4547-b510-6157f358fe1f",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In de moderne ggz wint de "
+            },
+            {
+              "type": "text",
+              "text": "continuümbenadering",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (continuum approach) terrein. Welke uitspraak beschrijft het beste hoe deze benadering zich verhoudt tot de drie klassieke modellen én tot de relatie hulpverlener–patiënt?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "00565919-8b89-4025-8c7e-d09c945c0143",
+        "text": "Zij verwerpt een strikte grens tussen gezond en ziek en past bij een gelijkwaardiger relatie waarin de hulpverlener expert is in behandeling en de patiënt in de eigen ervaring."
+      },
+      {
+        "id": "2b284273-4b7c-4535-967e-aec9ee761926",
+        "text": "Zij is een radicalisering van het statistisch model, omdat elke afwijking van het gemiddelde nu als pathologisch geldt."
+      },
+      {
+        "id": "d6b53894-081f-4d89-adda-a543f12ccffa",
+        "text": "Zij vervangt het onderwijsmodel, omdat leerdoelen niet verenigbaar zijn met een glijdende schaal van klachten."
+      },
+      {
+        "id": "96a07a93-d075-414a-95a9-248fcb26d4ea",
+        "text": "Zij bevestigt het medisch model, doordat elke klacht uiteindelijk herleid kan worden tot een onderliggende ziekte-eenheid."
+      }
+    ],
+    "correctAnswerId": "00565919-8b89-4025-8c7e-d09c945c0143",
+    "relatedConcept": "Continuümbenadering en samen beslissen",
+    "explanation": "Juist is “Zij verwerpt een strikte grens tussen gezond en ziek…”. Klachten variëren in ernst en duur; de hulpvraag hangt af van de context. Dit sluit aan bij 'samen beslissen' en staat tegenover de autoritaire rolverdeling van het medisch model.\n\nWaarom de andere opties niet kloppen:\n• “Zij is een radicalisering van het statistisch…” — De continuümbenadering doet juist géén uitspraak over een afkapwaarde en verwerpt de gedachte dat afwijking op zich pathologisch is.\n• “Zij vervangt het onderwijsmodel, omdat leerdoelen niet…” — Er is geen sprake van vervanging. Het onderwijsmodel blijft bruikbaar bij mildere problematiek en past juist goed bij een gelijkwaardige rolverdeling.\n• “Zij bevestigt het medisch model, doordat elke…” — Dit is precies de nosologische aanname van het medisch model (vgl. Kraepelin), die de continuümbenadering ter discussie stelt.",
+    "reference": "H1 – Thema 1, leerdoel 8 (uitgebreide samenvatting p. 6–12; beknopt p. 177–179; boek H1)",
+    "source": "exam_questions_h1.json"
+  },
+  {
+    "id": "0383d0a1-cba8-43a4-9b39-fc8177a97fcd",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoe verhoudt het aantal aanwezige factoren van Seligman e.a. (2001) zich tot het oordeel 'pathologisch'?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "7770db78-d49a-4ff1-8d69-7331115e88c9",
+        "text": "Er moet minstens één factor aanwezig zijn; naarmate er méér factoren aanwezig zijn, wordt gedrag eerder als pathologisch beoordeeld."
+      },
+      {
+        "id": "fbb3373e-ee6b-4ee6-9702-3d13c9257788",
+        "text": "Alle zeven factoren moeten aanwezig zijn voordat van pathologie gesproken kan worden."
+      },
+      {
+        "id": "04ae5736-7a47-4cb9-bd6b-73a6c480585c",
+        "text": "Persoonlijk lijden is een noodzakelijke factor; zonder lijden komt men nooit tot een pathologisch oordeel."
+      },
+      {
+        "id": "1b2e6ec0-1ada-4dd7-8d95-75680ff551e3",
+        "text": "Het aantal factoren is irrelevant; doorslaggevend is uitsluitend of het gedrag statistisch zeldzaam is."
+      }
+    ],
+    "correctAnswerId": "7770db78-d49a-4ff1-8d69-7331115e88c9",
+    "relatedConcept": "Factoren van abnormaliteit (Seligman)",
+    "explanation": "Juist is “Er moet minstens één factor aanwezig zijn; naarmate er…”. De factoren functioneren cumulatief en niet als een vaste checklist. Bovendien geldt: abnormaal gedrag is niet per definitie een psychische stoornis.\n\nWaarom de andere opties niet kloppen:\n• “Alle zeven factoren moeten aanwezig zijn voordat…” — De zeven factoren vormen geen verplichte set. Minimaal één factor volstaat; meer factoren verhogen de kans op een pathologisch oordeel. Zie leerdoel 4.\n• “Persoonlijk lijden is een noodzakelijke factor; zonder…” — Lijden is één van de zeven factoren en niet noodzakelijk. Bij bijvoorbeeld een waanstoornis kan lijden zelfs ontbreken, terwijl gezonde rouw juist wél lijden geeft.\n• “Het aantal factoren is irrelevant; doorslaggevend is…” — Zeldzaam gedrag is niet automatisch probleemgedrag. Zeldzaamheid telt pas mee wanneer het gedrag ook sociaal ongewenst is.",
+    "reference": "H1 – Thema 1, leerdoel 4 (uitgebreide samenvatting p. 6–12; beknopt p. 177–179; boek H1)",
+    "source": "exam_questions_h1.json"
+  }
+]

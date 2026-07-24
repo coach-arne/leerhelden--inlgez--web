@@ -1,0 +1,584 @@
+[
+  {
+    "id": "19fb9084-019a-48b6-92d8-8a5d6a8fd486",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat houdt de "
+            },
+            {
+              "type": "text",
+              "text": "lexicale hypothese",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (lexical hypothesis) in, en welke onderzoekslijn is daaruit voortgekomen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "50c16952-0d42-4353-9e99-58a87f0e839d",
+        "text": "Belangrijke persoonlijkheidsverschillen slaan neer in de taal; via woordenboekonderzoek (Allport & Odbert) werden ±18.000 termen teruggebracht tot ±4.500 trekwoorden, waaruit uiteindelijk vijf clusters kwamen."
+      },
+      {
+        "id": "78d275e2-4f22-4466-ab4f-ed17042507cf",
+        "text": "Persoonlijkheid kan alleen worden gemeten met gestandaardiseerde vragenlijsten, omdat alledaagse taal te vaag is."
+      },
+      {
+        "id": "b717dd4b-1d52-448e-a5af-3777da77ef50",
+        "text": "Persoonlijkheidstrekken zijn universeel omdat alle talen dezelfde grammaticale structuur delen."
+      },
+      {
+        "id": "5872d6fd-4d2a-46f7-aced-3484ab88a0b7",
+        "text": "Trekken bestaan alleen in de perceptie van de waarnemer en hebben geen biologische basis."
+      }
+    ],
+    "correctAnswerId": "50c16952-0d42-4353-9e99-58a87f0e839d",
+    "relatedConcept": "Lexicale hypothese",
+    "explanation": "Juist is “Belangrijke persoonlijkheidsverschillen slaan neer in de taal; via woordenboekonderzoek…”. Tupes en Christal (1961) vonden vijf consistente clusters; Goldberg (1981) introduceerde de term 'Big Five'.\n\nWaarom de andere opties niet kloppen:\n• “Persoonlijkheid kan alleen worden gemeten met gestandaardiseerde…” — Dit is juist de kritiek van Eysenck óp de lexicale benadering, niet de hypothese zelf. Zie opdracht 2.2.1.2.\n• “Persoonlijkheidstrekken zijn universeel omdat alle talen dezelfde…” — De hypothese gaat over woordenschat, niet over grammatica, en doet geen universaliteitsclaim — die moet empirisch per taal worden getoetst.\n• “Trekken bestaan alleen in de perceptie van…” — Dit is een sociaal-constructivistische positie. De lexicale hypothese doet geen uitspraak over de ontologische status of biologische basis van trekken.",
+    "reference": "Studietaak 2.2, leerdoel 1 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "b0eae9ff-49c0-4f14-9a16-365b147746ad",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hoe verhouden de termen "
+            },
+            {
+              "type": "text",
+              "text": "Big Five",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " en "
+            },
+            {
+              "type": "text",
+              "text": "Five-Factor Model (FFM)",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " zich tot elkaar volgens het cursusmateriaal?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "c7ce9d7d-c76a-4da2-b2d6-0c078fb83da1",
+        "text": "De Big Five komt voort uit psycholexicaal onderzoek; het FFM van Costa en McCrae is empirisch uitgewerkt via vragenlijsten zoals de NEO-PI-R, inclusief 30 facetten."
+      },
+      {
+        "id": "5b2ec6ac-74a5-4a84-9dee-e7c32f9b0a4e",
+        "text": "De Big Five omvat vijf factoren, het FFM zes, doordat Eerlijkheid–Bescheidenheid is toegevoegd."
+      },
+      {
+        "id": "bb147d18-bffe-49b6-828e-eca98a602500",
+        "text": "Het FFM is de lexicale variant; de Big Five is de vragenlijstvariant met facetten."
+      },
+      {
+        "id": "79d28675-c559-48df-9ebc-7928e603cc79",
+        "text": "Beide termen verwijzen naar exact hetzelfde model; het verschil is uitsluitend taalkundig."
+      }
+    ],
+    "correctAnswerId": "c7ce9d7d-c76a-4da2-b2d6-0c078fb83da1",
+    "relatedConcept": "Big Five versus Five-Factor Model",
+    "explanation": "Juist is “De Big Five komt voort uit psycholexicaal onderzoek; het…”. De vijf hoofddimensies overlappen sterk, maar de herkomst en operationalisatie verschillen: taal versus vragenlijstconstructie.\n\nWaarom de andere opties niet kloppen:\n• “De Big Five omvat vijf factoren, het…” — Dat zesfactorenmodel is het HEXACO-model. Zowel de Big Five als het FFM tellen vijf hoofddimensies.\n• “Het FFM is de lexicale variant; de…” — De termen staan hier omgedraaid. De Big Five is de lexicale traditie, het FFM de vragenlijsttraditie.\n• “Beide termen verwijzen naar exact hetzelfde model;…” — Hoewel de inhoud sterk overlapt, verschillen herkomst, meetinstrumentarium en de aanwezigheid van een uitgewerkt facetniveau.",
+    "reference": "Studietaak 2.2, leerdoel 1 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "1104c1bd-c5fd-467c-8da4-18b43c33703a",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "De publicatie van "
+            },
+            {
+              "type": "text",
+              "text": "Mischel",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (1968) had grote gevolgen voor de trekpsychologie. Welke uitspraak geeft dit het beste weer?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "d4dfee86-ef2f-4f22-a8e7-869cd480eae9",
+        "text": "Mischel betoogde dat trekken weinig voorspellende waarde hebben, waardoor het FFM tijdelijk werd afgedaan als een 'taxonomie van illusies'; later empirisch bewijs herstelde de status van trekken."
+      },
+      {
+        "id": "270078d6-3215-4141-9c6a-0352d86d0503",
+        "text": "Mischel toonde aan dat vijf factoren te weinig zijn en pleitte voor het HEXACO-model."
+      },
+      {
+        "id": "8a6c5e88-310d-4d19-b3f8-6980cdc6e23b",
+        "text": "Mischel liet zien dat de lexicale hypothese niet opgaat buiten het Amerikaans-Engels."
+      },
+      {
+        "id": "6ede614f-c4ed-4ec3-a477-1163b92fa829",
+        "text": "Mischel ontwikkelde de eerste factoranalytische bevestiging van de vijf factoren."
+      }
+    ],
+    "correctAnswerId": "d4dfee86-ef2f-4f22-a8e7-869cd480eae9",
+    "relatedConcept": "Persoon-situatiedebat (Mischel)",
+    "explanation": "Juist is “Mischel betoogde dat trekken weinig voorspellende waarde hebben, waardoor…”. Deze kritiek verklaart mede waarom het FFM pas in de jaren tachtig breed werd geaccepteerd.\n\nWaarom de andere opties niet kloppen:\n• “Mischel toonde aan dat vijf factoren te…” — Het HEXACO-model is veel later ontwikkeld en Mischels kritiek betrof de voorspellende waarde van trekken in het algemeen, niet het aantal factoren.\n• “Mischel liet zien dat de lexicale hypothese…” — Dat is de crossculturele discussie rond emic- en etic-benaderingen, niet de bijdrage van Mischel.\n• “Mischel ontwikkelde de eerste factoranalytische bevestiging van…” — Dat waren Tupes en Christal (1961). Mischel was juist een criticus van de trekbenadering.",
+    "reference": "Studietaak 2.2, leerdoel 4 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "1ca1e598-bc14-4517-9bb7-c5b57e9f8352",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een longitudinaal onderzoek volgt een cohort van 20 tot 70 jaar. Welk patroon van gemiddelde veranderingen mag men op grond van het "
+            },
+            {
+              "type": "text",
+              "text": "maturatie-effect",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " verwachten?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "51206ae7-7e7a-4d0d-be20-db309bdbdb57",
+        "text": "Neuroticisme en Extraversie dalen geleidelijk, Vriendelijkheid en Consciëntieusheid stijgen, en Openheid stijgt tot de vroege volwassenheid en daalt daarna licht."
+      },
+      {
+        "id": "272adc85-46cb-4d13-bbce-2f0384f91ed9",
+        "text": "Alle vijf factoren blijven gemiddeld volstrekt onveranderd; alleen de rangorde tussen personen verschuift."
+      },
+      {
+        "id": "b4abe7d2-f9de-4a0a-901f-abc7596c2dd6",
+        "text": "Neuroticisme en Consciëntieusheid dalen, terwijl Extraversie en Vriendelijkheid stijgen."
+      },
+      {
+        "id": "bcfb8d08-4f11-49eb-a822-5dced697daad",
+        "text": "Openheid stijgt gedurende de hele levensloop, doordat levenservaring zich blijft opstapelen."
+      }
+    ],
+    "correctAnswerId": "51206ae7-7e7a-4d0d-be20-db309bdbdb57",
+    "relatedConcept": "Maturatie-effect in persoonlijkheidsontwikkeling",
+    "explanation": "Juist is “Neuroticisme en Extraversie dalen geleidelijk, Vriendelijkheid en Consciëntieusheid stijgen,…”. Deze leeftijdstrends repliceren wereldwijd. Ondanks deze gemiddelde verschuivingen blijven de rangordecorrelaties over decennia hoog (> .60).\n\nWaarom de andere opties niet kloppen:\n• “Alle vijf factoren blijven gemiddeld volstrekt onveranderd;…” — Het is precies andersom. De rangorde is opvallend stabiel, terwijl de gemiddelden systematisch verschuiven.\n• “Neuroticisme en Consciëntieusheid dalen, terwijl Extraversie en…” — Consciëntieusheid neemt met de leeftijd juist toe, niet af. Zie leerdoel 3.\n• “Openheid stijgt gedurende de hele levensloop, doordat…” — Openheid stijgt tot de vroege volwassenheid en laat daarna een lichte daling zien.",
+    "reference": "Studietaak 2.2, leerdoel 3 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "a7c54c3a-811c-4e83-88b5-94252bb82d22",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een onderzoeksteam wil nagaan of de Big Five-structuur opgaat in een niet-westerse taal. Waarom levert een "
+            },
+            {
+              "type": "text",
+              "text": "emic-benadering",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (emic approach) daarbij andere informatie op dan een "
+            },
+            {
+              "type": "text",
+              "text": "etic-benadering",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " (etic approach)?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "58c35b03-88f0-4259-b3a3-db637c4aca75",
+        "text": "Bij de etic-benadering worden bestaande vragenlijsten vertaald, waardoor cultuurspecifieke eigenschappen buiten beeld blijven; de emic-benadering ontwikkelt nieuwe items binnen de taal en kan zo afwijkende factoren blootleggen."
+      },
+      {
+        "id": "d153bfe5-b3a2-4bfe-8321-fce70236c286",
+        "text": "De emic-benadering gebruikt uitsluitend observaties, de etic-benadering uitsluitend zelfrapportage."
+      },
+      {
+        "id": "e9e0c2f9-174a-43de-8f14-d75fdb1ce101",
+        "text": "De etic-benadering is nauwkeuriger, omdat vertaalde vragenlijsten per definitie beter gevalideerd zijn."
+      },
+      {
+        "id": "217d8322-9e97-49c1-ac84-d8a15bf9c999",
+        "text": "De emic-benadering toetst de universaliteit van de vijf factoren, de etic-benadering toetst hun erfelijkheid."
+      }
+    ],
+    "correctAnswerId": "58c35b03-88f0-4259-b3a3-db637c4aca75",
+    "relatedConcept": "Emic- versus etic-benadering",
+    "explanation": "Juist is “Bij de etic-benadering worden bestaande vragenlijsten vertaald, waardoor cultuurspecifieke…”. Zo bracht de emic ontwikkelde CPAI de factor Interpersoonlijke gereserveerdheid/verbondenheid aan het licht, die niet volledig in de Big Five opgaat.\n\nWaarom de andere opties niet kloppen:\n• “De emic-benadering gebruikt uitsluitend observaties, de etic-benadering…” — Het onderscheid betreft niet de meetmethode maar het vertrekpunt: van buitenaf opgelegde categorieën versus van binnenuit ontwikkelde categorieën.\n• “De etic-benadering is nauwkeuriger, omdat vertaalde vragenlijsten…” — Vertalingen missen juist vaak nuances en cultuurspecifieke eigenschappen — dat is de kern van het bezwaar tegen de etic-route.\n• “De emic-benadering toetst de universaliteit van de…” — Erfelijkheid wordt onderzocht met tweeling- en adoptiestudies; beide benaderingen gaan over de structuur van trekken in taal en cultuur.",
+    "reference": "Studietaak 2.2, leerdoel 3 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "c753779d-6ba7-4c10-b1a7-1163039e0a22",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Uit grootschalig internationaal onderzoek (De Raad e.a., 2010) komt een "
+            },
+            {
+              "type": "text",
+              "text": "panculturele driefactorenstructuur",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " naar voren. Welke drie factoren zijn dit, en wat blijft er over in het tweefactorenmodel?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "bc20abed-2156-4221-afc5-f8831bdecfa8",
+        "text": "Dynamiek, Affiliatie en Orde; in het tweefactorenmodel blijven Dynamiek en Affiliatie over."
+      },
+      {
+        "id": "65324e2a-0990-494b-b813-08fe805a60e4",
+        "text": "Dynamiek, Affiliatie en Intellect; in het tweefactorenmodel blijven Dynamiek en Intellect over."
+      },
+      {
+        "id": "52abdd5d-ee0f-428c-8725-c015917154fe",
+        "text": "Emotionele stabiliteit, Orde en Affiliatie; in het tweefactorenmodel blijven Orde en Affiliatie over."
+      },
+      {
+        "id": "7fb3e2c4-4e29-412d-9261-a521ba2eadb3",
+        "text": "Positieve valentie, Negatieve valentie en Dynamiek; in het tweefactorenmodel blijven de twee valentiefactoren over."
+      }
+    ],
+    "correctAnswerId": "bc20abed-2156-4221-afc5-f8831bdecfa8",
+    "relatedConcept": "Panculturele factorstructuur",
+    "explanation": "Juist is “Dynamiek, Affiliatie en Orde; in het tweefactorenmodel blijven Dynamiek…”. Deze corresponderen ruwweg met Extraversie, Vriendelijkheid en Consciëntieusheid. Openheid/Intellect blijkt het minst robuust over culturen.\n\nWaarom de andere opties niet kloppen:\n• “Dynamiek, Affiliatie en Intellect; in het tweefactorenmodel…” — Intellect/Openheid is juist de factor die het sterkst cultuurafhankelijk is en het eerst wegvalt. Zie het extra materiaal over culturele verschillen.\n• “Emotionele stabiliteit, Orde en Affiliatie; in het…” — Emotionele stabiliteit hoort niet tot de drie panculturele factoren, en Orde valt bij reductie tot twee juist weg.\n• “Positieve valentie, Negatieve valentie en Dynamiek; in…” — Positieve en negatieve valentie zijn de evaluatieve dimensies die het Big Seven-model toevoegt, geen panculturele kernfactoren.",
+    "reference": "Studietaak 2.2, leerdoel 3 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "d63a408f-3d45-41b7-a179-58513276929d",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onderzoek in 49 landen vergeleek "
+            },
+            {
+              "type": "text",
+              "text": "nationale stereotypen",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " met feitelijke aggregaatprofielen op de 30 FFM-facetten. Wat is de belangrijkste bevinding én de betekenis daarvan?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "3dbb45cb-1d66-41ad-adf5-a873cf99212f",
+        "text": "Stereotypen worden betrouwbaar gedeeld tussen beoordelaars, maar komen nauwelijks overeen met de gemeten gemiddelde trekprofielen; ze blijven niettemin sociale en politieke gevolgen houden."
+      },
+      {
+        "id": "001beb7e-befb-4e56-85c2-5a1ee8254f01",
+        "text": "Stereotypen komen goed overeen met de aggregaatprofielen, wat de validiteit van zelfrapportage bevestigt."
+      },
+      {
+        "id": "53452867-7fb4-4a01-914e-f137bcf568ad",
+        "text": "Stereotypen zijn onbetrouwbaar tussen beoordelaars, waardoor er geen zinvol nationaal karakter te meten valt."
+      },
+      {
+        "id": "67373506-7de8-435a-ac10-f2188378d4ad",
+        "text": "Stereotypen ontstaan uitsluitend uit klimaatverschillen en verdwijnen zodra men corrigeert voor breedtegraad."
+      }
+    ],
+    "correctAnswerId": "3dbb45cb-1d66-41ad-adf5-a873cf99212f",
+    "relatedConcept": "Nationale stereotypen en aggregaatprofielen",
+    "explanation": "Juist is “Stereotypen worden betrouwbaar gedeeld tussen beoordelaars, maar komen nauwelijks…”. Britten gelden bijvoorbeeld als gereserveerd maar scoren feitelijk extravert; de VS en Canada hebben zeer vergelijkbare profielen maar sterk verschillende beeldvorming.\n\nWaarom de andere opties niet kloppen:\n• “Stereotypen komen goed overeen met de aggregaatprofielen,…” — De mismatch tussen stereotype en gemeten profiel is juist consistent aangetoond in meerdere studies.\n• “Stereotypen zijn onbetrouwbaar tussen beoordelaars, waardoor er…” — De overeenstemming tússen beoordelaars was juist hoog. Het probleem zit in de overeenkomst met de werkelijkheid, niet in de consensus.\n• “Stereotypen ontstaan uitsluitend uit klimaatverschillen en verdwijnen…” — Klimaat is slechts één van de genoemde invloeden, naast economische welvaart en contrastdenken; de stereotypen verdwijnen daarmee niet.",
+    "reference": "Studietaak 2.2, leerdoel 3 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "dfc10ce5-e93b-4003-83ee-181437fdaff6",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Digman rapporteerde dat de vijf factoren onderling correleren en zich laten samenvatten in twee hogere-orde factoren, "
+            },
+            {
+              "type": "text",
+              "text": "Alpha",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " en "
+            },
+            {
+              "type": "text",
+              "text": "Beta",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Waarom is de interpretatie hiervan omstreden?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "e4987af9-2568-4185-8430-4e94518eb2ac",
+        "text": "Omdat onduidelijk is of Alpha (A, C, lage N) en Beta (E, O) psychologisch betekenisvolle systemen zijn dan wel methodologische artefacten, bijvoorbeeld door valentiebias in zelfrapportage."
+      },
+      {
+        "id": "4229fb8a-ea88-4144-b6a7-f42cc64cc7c4",
+        "text": "Omdat Alpha en Beta alleen zijn gevonden in lexicaal onderzoek en nooit in vragenlijstdata."
+      },
+      {
+        "id": "d2842912-2794-4bda-9df1-e121d3e57b51",
+        "text": "Omdat Alpha en Beta identiek zijn aan de twee superfactoren van Eysenck (E en N)."
+      },
+      {
+        "id": "d7cc850a-c91e-4858-83b8-2be26999c515",
+        "text": "Omdat zij per definitie orthogonaal zijn en dus geen informatie kunnen toevoegen."
+      }
+    ],
+    "correctAnswerId": "e4987af9-2568-4185-8430-4e94518eb2ac",
+    "relatedConcept": "Hogere-orde factoren Alpha en Beta",
+    "explanation": "Juist is “Omdat onduidelijk is of Alpha (A, C, lage N)…”. Biesanz en West (2004) opperden dat de correlaties toe te schrijven kunnen zijn aan een evaluatieve (valentie)component in zelfbeoordelingen.\n\nWaarom de andere opties niet kloppen:\n• “Omdat Alpha en Beta alleen zijn gevonden…” — De hogere-orde factoren zijn juist afgeleid uit de correlaties tussen vragenlijstfactoren.\n• “Omdat Alpha en Beta identiek zijn aan…” — Alpha bundelt Vriendelijkheid, Consciëntieusheid en lage Neuroticisme; Beta bundelt Extraversie en Openheid. Dat is iets anders dan Eysencks dimensies.\n• “Omdat zij per definitie orthogonaal zijn en…” — Hogere-orde factoren ontstaan juist doordat de vijf factoren níet orthogonaal zijn — ze correleren onderling.",
+    "reference": "Studietaak 2.2, leerdoel 4 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "12589b42-85c7-4d86-b50c-bf45e5581b4f",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In crossculturele vergelijkingen blijken "
+            },
+            {
+              "type": "text",
+              "text": "facetscores",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " consistenter dan factorscores (ca. 77% van de facetvergelijkingen significant, r ≈ .48). Welke conclusie is hieruit het beste te trekken?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "a5d79b23-e554-4f01-a62c-da6570ccfc5c",
+        "text": "Vergelijkingen op facetniveau zijn robuuster; bij Vriendelijkheid bijvoorbeeld was er op factorniveau weinig overeenkomst, terwijl de zes onderliggende facetten wél sterk overeenkwamen (r ≈ .52)."
+      },
+      {
+        "id": "011a534e-963d-4d05-9ad0-2f1708f96e17",
+        "text": "Factorscores moeten volledig worden vervangen door facetscores, omdat factoren geen empirische basis hebben."
+      },
+      {
+        "id": "4a23e2d7-233c-4a4a-8f31-11b15a5de99e",
+        "text": "De 30 facetten van de NEO-PI-R zijn puur empirisch afgeleid en daarom betrouwbaarder dan de factoren."
+      },
+      {
+        "id": "eb76b9e2-3abc-46c1-809d-b40ac275bc1b",
+        "text": "Facetten meten uitsluitend cultuurspecifieke inhoud en zijn daarom niet vergelijkbaar tussen landen."
+      }
+    ],
+    "correctAnswerId": "a5d79b23-e554-4f01-a62c-da6570ccfc5c",
+    "relatedConcept": "Facet- en nuanceniveau",
+    "explanation": "Juist is “Vergelijkingen op facetniveau zijn robuuster; bij Vriendelijkheid bijvoorbeeld was…”. Dit ondersteunt het belang van analyses onder het factorniveau — een lijn die wordt doorgetrokken naar 'nuances' op itemniveau, die eigen erfelijke en stabiele variantie blijken te bevatten.\n\nWaarom de andere opties niet kloppen:\n• “Factorscores moeten volledig worden vervangen door facetscores,…” — Dit is te sterk geformuleerd. De vijf factoren blijven goed onderbouwd; facetten voegen precisie toe, met name in crossculturele vergelijking.\n• “De 30 facetten van de NEO-PI-R zijn…” — De facetindeling is deels op theorie en psychometrie gebaseerd en wordt bekritiseerd als deels arbitrair; puur empirische pogingen leverden inconsistente resultaten op.\n• “Facetten meten uitsluitend cultuurspecifieke inhoud en zijn…” — De bevinding is juist dat facetten zich beter lenen voor vergelijking tussen landen dan de brede factoren.",
+    "reference": "Studietaak 2.2, leerdoel 5 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  },
+  {
+    "id": "f7cdb2a4-b16d-4ee7-97e9-2a43f9d093e1",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Vergelijk de "
+            },
+            {
+              "type": "text",
+              "text": "Five-Factor Theory (FFT)",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " van McCrae en Costa met de "
+            },
+            {
+              "type": "text",
+              "text": "Cybernetic Big Five Theory (CBFT)",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " van DeYoung. Welk verschil is theoretisch het meest wezenlijk?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "66dfd70d-1d52-4201-a723-ed4762ea7790",
+        "text": "De FFT plaatst trekken als 'basic tendencies' in biologische systemen waarop de omgeving alleen de expressie beïnvloedt, terwijl de CBFT elke trek expliciet koppelt aan motivatie- en regulatiesystemen in de hersenen."
+      },
+      {
+        "id": "eab35007-595f-4bf5-a238-6546ca3bab77",
+        "text": "De FFT is dimensioneel en de CBFT categoriaal van opzet."
+      },
+      {
+        "id": "e31a2d40-213f-47ba-ad7c-ce6a05de6611",
+        "text": "De CBFT ontkent een erfelijke basis van trekken en verklaart ze volledig uit leerervaringen."
+      },
+      {
+        "id": "23644cb6-5a43-41ba-b844-f0c6fa247904",
+        "text": "De FFT werd ontwikkeld als antwoord op de lexicale hypothese, de CBFT als antwoord op het HEXACO-model."
+      }
+    ],
+    "correctAnswerId": "66dfd70d-1d52-4201-a723-ed4762ea7790",
+    "relatedConcept": "Five-Factor Theory versus Cybernetic Big Five Theory",
+    "explanation": "Juist is “De FFT plaatst trekken als 'basic tendencies' in biologische…”. De FFT geeft geen uitsluitsel over concrete hersenstructuren; de CBFT doet dat wel (bv. E ↔ dopaminerg beloningssysteem, C ↔ prefrontale cortex), al is dat neurowetenschappelijk bewijs vaak kleinschalig en laag in power.\n\nWaarom de andere opties niet kloppen:\n• “De FFT is dimensioneel en de CBFT…” — Beide theorieën werken dimensioneel. Het verschil zit in de mate waarin biologische mechanismen worden gespecificeerd.\n• “De CBFT ontkent een erfelijke basis van…” — De CBFT koppelt trekken juist aan neurobiologische systemen en ontkent erfelijkheid allerminst.\n• “De FFT werd ontwikkeld als antwoord op…” — De FFT is een reactie op de kritiek dat het FFM atheoretisch en louter beschrijvend zou zijn, niet op de lexicale hypothese als zodanig.",
+    "reference": "Studietaak 2.2, leerdoel 5 – Matthews H9 + Moderne kijk op persoonlijkheid (samenvatting p. 24–47; beknopt p. 183–186)",
+    "source": "exam_questions_h22.json"
+  }
+]

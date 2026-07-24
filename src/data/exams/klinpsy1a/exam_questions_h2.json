@@ -1,0 +1,348 @@
+[
+  {
+    "id": "fe7b15cf-d161-47c4-a611-3cde94a261db",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke historische figuur wordt in het cursusmateriaal genoemd met de stelling 'geestesziekten zijn hersenziekten', terwijl hij daarnaast wel degelijk oog had voor psychologische en antropologische factoren?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "62b3a01c-449b-4b26-8b3a-6e9c53d8c1e0",
+        "text": "Griesinger"
+      },
+      {
+        "id": "d67c4b8d-e532-405a-8ee9-3e96fba006b7",
+        "text": "Franz Joseph Gall"
+      },
+      {
+        "id": "3a5c2ba2-184d-4ace-9914-9530edfc8d41",
+        "text": "Paul Broca"
+      },
+      {
+        "id": "56ff7478-c9fd-46bb-a971-900e191dd9cc",
+        "text": "René Descartes"
+      }
+    ],
+    "correctAnswerId": "62b3a01c-449b-4b26-8b3a-6e9c53d8c1e0",
+    "relatedConcept": "Geschiedenis van de neurobiologische benadering",
+    "explanation": "Juist is “Griesinger”. Griesinger vertegenwoordigt de negentiende-eeuwse somatische opvatting, maar met meer nuance dan de slogan suggereert.\n\nWaarom de andere opties niet kloppen:\n• “Franz Joseph Gall” — Gall is de grondlegger van de frenologie (schedelvorm zou persoonlijkheid bepalen) — onwetenschappelijk, maar wel een vroege koppeling van gedrag aan de hersenen.\n• “Paul Broca” — Broca toonde aan dat letsel in de linker frontaalkwab tot een specifieke spraakstoornis leidt (Broca-afasie); die slogan is niet van hem.\n• “René Descartes” — Descartes staat voor het lichaam–geest dualisme en localiseerde de ziel in de pijnappelklier — bepaald geen reductie van geestesziekte tot hersenziekte.",
+    "reference": "H2 – Thema 3.1 neurobiologische benadering, leerdoel 1 (samenvatting p. 72–84; beknopt p. 191–194)",
+    "source": "exam_questions_h2.json"
+  },
+  {
+    "id": "70e3f1e3-79df-489a-8029-4bd1c474014c",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In een tweelingonderzoek naar een bepaalde aandoening is de concordantie bij eeneiige tweelingen .60 en bij twee-eiige tweelingen .25. Wat is de geschatte erfelijkheid volgens de in het cursusmateriaal gehanteerde formule, en welke belangrijke beperking geldt daarbij?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "994432e0-75f8-443b-9f1f-29e50726aab3",
+        "text": "0,70; de schatting is een groepsgemiddelde en zegt niets over de individuele patiënt, en de aanname van een gelijke omgeving is vaak onrealistisch."
+      },
+      {
+        "id": "bfaa99ab-02a1-4fcd-92ce-0086b0bed8b4",
+        "text": "0,35; de schatting geldt alleen als beide tweelingen samen zijn opgegroeid."
+      },
+      {
+        "id": "e35c9fda-bceb-4a27-81e2-5a49f776574c",
+        "text": "0,85; erfelijkheid is te berekenen als de som van beide concordanties."
+      },
+      {
+        "id": "7b2b2aac-37ec-4c6f-9c91-fd1c0a6f1e99",
+        "text": "0,60; de concordantie bij eeneiige tweelingen ís de erfelijkheidsschatting."
+      }
+    ],
+    "correctAnswerId": "994432e0-75f8-443b-9f1f-29e50726aab3",
+    "relatedConcept": "Erfelijkheidsschatting via tweelingonderzoek",
+    "explanation": "Juist is “0,70; de schatting is een groepsgemiddelde en zegt niets…”. De formule is 2 × (concordantie eeneiig − concordantie twee-eiig) = 2 × (.60 − .25) = .70.\n\nWaarom de andere opties niet kloppen:\n• “0,35; de schatting geldt alleen als beide…” — Rekenkundig: het verschil van .35 moet nog met 2 worden vermenigvuldigd. De formule is 2 × (MZ − DZ).\n• “0,85; erfelijkheid is te berekenen als de…” — De concordanties worden niet opgeteld maar van elkaar afgetrokken en vervolgens verdubbeld.\n• “0,60; de concordantie bij eeneiige tweelingen ís…” — De concordantie bij eeneiige tweelingen bevat ook gedeelde omgevingsinvloeden. Juist het contrast met twee-eiige tweelingen isoleert de genetische component.",
+    "reference": "H2 – Thema 3.1 neurobiologische benadering, leerdoel 2 (samenvatting p. 72–84; beknopt p. 191–194)",
+    "source": "exam_questions_h2.json"
+  },
+  {
+    "id": "39343590-ca96-4e47-9854-ad9bbe7ea423",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Twee eeneiige tweelingzussen hebben identiek DNA, maar slechts één van beiden ontwikkelt een depressieve stoornis. Welk begrip verklaart dit het beste, en waarom?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "ff10bbd9-b806-4215-8bab-dca015aed8ca",
+        "text": "Epigenetica (epigenetics): omgevingsfactoren zoals stress, voeding en leefstijl kunnen genen aan- of uitzetten, waardoor identieke genen tot verschillende fenotypen (phenotypes) leiden."
+      },
+      {
+        "id": "3eeef572-636e-4236-a446-1e371d14bbd0",
+        "text": "Polygenie: doordat meerdere genen betrokken zijn, kan de aandoening bij de een wel en bij de ander niet tot expressie komen."
+      },
+      {
+        "id": "0b8832c6-9f38-4984-9285-7dcd0ab2c48b",
+        "text": "Concordantie: bij eeneiige tweelingen is de concordantiecoëfficiënt per definitie 1,0."
+      },
+      {
+        "id": "75d1f763-3101-444a-8116-eac9d76041a1",
+        "text": "Genotypische variatie: kleine mutaties na de bevruchting maken het DNA van eeneiige tweelingen alsnog verschillend."
+      }
+    ],
+    "correctAnswerId": "ff10bbd9-b806-4215-8bab-dca015aed8ca",
+    "relatedConcept": "Genotype, fenotype en epigenetica",
+    "explanation": "Juist is “Epigenetica (epigenetics): omgevingsfactoren zoals stress, voeding en leefstijl kunnen…”. Het genotype is de volledige genetische informatie; het fenotype is het waarneembare resultaat van de interactie tussen genen en omgeving.\n\nWaarom de andere opties niet kloppen:\n• “Polygenie: doordat meerdere genen betrokken zijn, kan…” — Polygenie verklaart waarom de kwetsbaarheid over veel genen verdeeld is, maar níet waarom twee personen met identiek DNA verschillen. Daarvoor is een omgevingsmechanisme nodig.\n• “Concordantie: bij eeneiige tweelingen is de concordantiecoëfficiënt…” — Tweelingstudies laten juist zien dat de concordantie bij eeneiige tweelingen hoger is maar nooit volledig — precies het verschijnsel dat verklaard moet worden.\n• “Genotypische variatie: kleine mutaties na de bevruchting…” — Dit wordt in het cursusmateriaal niet als verklaring aangevoerd. De nadruk ligt op gen–omgevingsinteractie en epigenetische regulatie.",
+    "reference": "H2 – Thema 3.1 neurobiologische benadering, leerdoel 3 (samenvatting p. 72–84; beknopt p. 191–194)",
+    "source": "exam_questions_h2.json"
+  },
+  {
+    "id": "dfdc5b27-e566-4b09-b7ae-02c1916a78af",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een onderzoeker wil weten wélke hersengebieden actief zijn terwijl een patiënt met een sociale-angststoornis naar gezichten kijkt. Welke techniek is hiervoor het meest aangewezen, en waarom?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "cad1fb12-5d6c-436d-b725-e5c18aee1d5b",
+        "text": "fMRI, omdat deze techniek hersenactiviteit tijdens een taak in beeld brengt via veranderingen in de bloedtoevoer."
+      },
+      {
+        "id": "55c27812-fef5-4969-b71e-4c84c22a2899",
+        "text": "CT, omdat deze techniek de fijnste weergave van hersenstructuren geeft."
+      },
+      {
+        "id": "343a8065-eda7-418d-b946-e0d8f61c85c8",
+        "text": "DTI, omdat deze techniek de activiteit van neurotransmittersystemen zichtbaar maakt."
+      },
+      {
+        "id": "b277800f-2f63-4daf-a90c-9597deffe04d",
+        "text": "PET, omdat deze techniek de enige is die metabolische processen kan meten."
+      }
+    ],
+    "correctAnswerId": "cad1fb12-5d6c-436d-b725-e5c18aee1d5b",
+    "relatedConcept": "Beeldvormende technieken",
+    "explanation": "Juist is “fMRI, omdat deze techniek hersenactiviteit tijdens een taak in…”. fMRI is de meest gebruikte techniek in onderzoek naar psychopathologie, juist vanwege de combinatie van functionele informatie en goede ruimtelijke resolutie.\n\nWaarom de andere opties niet kloppen:\n• “CT, omdat deze techniek de fijnste weergave…” — CT toont structuur (tumoren, bloedingen) en geen activiteit, en voor gedetailleerde structuur is MRI juist superieur.\n• “DTI, omdat deze techniek de activiteit van…” — DTI is een MRI-variant die de verbindingen (witte stof, connectiviteit) in kaart brengt, niet de activiteit of neurochemie tijdens een taak.\n• “PET, omdat deze techniek de enige is…” — PET en SPECT meten inderdaad metabole activiteit en doorbloeding, maar 'de enige' is te sterk, en voor taakgebonden activiteitsmetingen is fMRI het gangbare instrument.",
+    "reference": "H2 – Thema 3.1 neurobiologische benadering, leerdoel 4 (samenvatting p. 72–84; beknopt p. 191–194)",
+    "source": "exam_questions_h2.json"
+  },
+  {
+    "id": "aeb4e809-66df-4ab9-aa3b-2b4b7edead9c",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke combinatie van neurotransmitter en klinisch beeld is juist volgens het cursusmateriaal?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "82e8305e-e098-45c4-b98b-18f9b90adf06",
+        "text": "Een verhoogde dopamine-activiteit wordt in verband gebracht met psychose, terwijl een verlaagde dopamine-activiteit samenhangt met motorische stoornissen zoals de ziekte van Parkinson."
+      },
+      {
+        "id": "0d7061f9-72c4-4afc-befd-587a6fe1ffb7",
+        "text": "Een verhoogde serotonine-activiteit wordt in verband gebracht met depressie."
+      },
+      {
+        "id": "a7d602ab-db39-4a08-b6ef-edec9f821d8f",
+        "text": "GABA is de belangrijkste stimulerende neurotransmitter en wordt gekoppeld aan psychose."
+      },
+      {
+        "id": "138cc4e4-0ca3-40c5-921f-2e09317ceb9a",
+        "text": "Noradrenaline hangt uitsluitend samen met depressie en speelt geen rol bij angst."
+      }
+    ],
+    "correctAnswerId": "82e8305e-e098-45c4-b98b-18f9b90adf06",
+    "relatedConcept": "Neurotransmitters en psychopathologie",
+    "explanation": "Juist is “Een verhoogde dopamine-activiteit wordt in verband gebracht met psychose,…”. Dit illustreert dat niet de neurotransmitter zelf maar de balans en het systeem waarin hij werkt bepalend is.\n\nWaarom de andere opties niet kloppen:\n• “Een verhoogde serotonine-activiteit wordt in verband gebracht…” — Juist een verlaagde serotonine-activiteit wordt met depressie geassocieerd, evenals een verlaagde noradrenaline-activiteit.\n• “GABA is de belangrijkste stimulerende neurotransmitter en…” — GABA is de belangrijkste remmende neurotransmitter en speelt een rol in angstregulatie. Glutamaat is de stimulerende neurotransmitter.\n• “Noradrenaline hangt uitsluitend samen met depressie en…” — Een verhoogde noradrenaline-activiteit wordt juist met angst geassocieerd en een verlaagde met depressie.",
+    "reference": "H2 – Thema 3.1 neurobiologische benadering, leerdoel 6 (samenvatting p. 72–84; beknopt p. 191–194)",
+    "source": "exam_questions_h2.json"
+  },
+  {
+    "id": "1279d277-8e3f-429f-956c-8cd4eb2a8d7f",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Onderzoek naar het "
+            },
+            {
+              "type": "text",
+              "text": "MAO-A",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "-enzym laat zien dat mishandelde kinderen met een bepaalde genvariant een verhoogd risico op antisociaal gedrag hebben, terwijl mishandelde kinderen met de andere variant dat risico niet vertonen. Wat illustreert dit het beste?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "205d7260-0ffb-4d8e-afaa-c6e53c0d9a95",
+        "text": "Gen–omgevingsinteractie (gene–environment interaction): genen coderen geen stoornis maar een kwetsbaarheid, die pas onder bepaalde omgevingscondities tot uiting komt."
+      },
+      {
+        "id": "79dfdbfc-d3e6-45d4-acdb-3539c6ca5f3f",
+        "text": "Genetisch determinisme: het genotype legt de uitkomst vast, ongeacht wat er in de omgeving gebeurt."
+      },
+      {
+        "id": "4ba85f16-4d15-4993-b63b-c4f58272f2c4",
+        "text": "Polygenie: één enkel gen kan meerdere stoornissen tegelijk veroorzaken."
+      },
+      {
+        "id": "d2da5859-6bae-494b-aa88-fac8027dd6ab",
+        "text": "Stressimmunisatie: milde vroege stress maakt het organisme juist weerbaarder."
+      }
+    ],
+    "correctAnswerId": "205d7260-0ffb-4d8e-afaa-c6e53c0d9a95",
+    "relatedConcept": "Gen-omgevingsinteractie (MAO-A)",
+    "explanation": "Juist is “Gen–omgevingsinteractie (gene–environment interaction): genen coderen geen stoornis maar een…”. Dit past bij de opvatting dat psychopathologie multifactorieel is: een samenspel van genen, hersenstructuren, neurotransmitters, hormonen en omgeving.\n\nWaarom de andere opties niet kloppen:\n• “Genetisch determinisme: het genotype legt de uitkomst…” — Het gevonden patroon weerlegt determinisme juist — zonder mishandeling ontstaat het verhoogde risico niet.\n• “Polygenie: één enkel gen kan meerdere stoornissen…” — Polygenie betekent dat meerdere genen samen de kwetsbaarheid verhogen. Dat is iets anders dan de hier getoonde interactie met de omgeving.\n• “Stressimmunisatie: milde vroege stress maakt het organisme…” — Stressimmunisatie is een reëel fenomeen in het materiaal, maar verklaart niet waarom het effect van mishandeling verschilt per genvariant.",
+    "reference": "H2 – Thema 3.1 neurobiologische benadering, leerdoel 5 (samenvatting p. 72–84; beknopt p. 191–194)",
+    "source": "exam_questions_h2.json"
+  },
+  {
+    "id": "e63e1cd6-a508-49d1-983f-468ad0b91106",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over hormonen en psychopathologie. Stelling I: Chronisch verhoogde cortisolspiegels kunnen schade toebrengen aan de hippocampus. Stelling II: Testosteron leidt op zichzelf tot agressie, onafhankelijk van andere neurobiologische factoren."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "661b2655-e21d-4096-9658-01af4078b6a4",
+        "text": "Alleen stelling I is juist."
+      },
+      {
+        "id": "fa9411fa-4d4f-4c28-acc1-fccd1301ab6d",
+        "text": "Stelling I en II zijn beide juist."
+      },
+      {
+        "id": "e6eae8a0-f060-4508-b2b3-5a51eab00e35",
+        "text": "Alleen stelling II is juist."
+      },
+      {
+        "id": "23e8faf9-9749-4cd8-935a-50be886516ee",
+        "text": "Stelling I en II zijn beide onjuist."
+      }
+    ],
+    "correctAnswerId": "661b2655-e21d-4096-9658-01af4078b6a4",
+    "relatedConcept": "Hormonen en psychopathologie",
+    "explanation": "Juist is “Alleen stelling I is juist”. Stelling II is te absoluut: testosteron kan agressie versterken, maar vooral in combinatie met andere factoren zoals een lage serotonine-activiteit.\n\nWaarom de andere opties niet kloppen:\n• “Stelling I en II zijn beide juist” — Stelling II is te absoluut. Het cursusmateriaal spreekt van een versterkend effect in interactie met neurotransmitters, niet van een zelfstandige oorzaak.\n• “Alleen stelling II is juist” — Stelling I is wél juist — chronische cortisolverhoging wordt expliciet in verband gebracht met hippocampusschade. Zie leerdoel 4.\n• “Stelling I en II zijn beide onjuist” — Stelling I is correct. De hippocampus is bijzonder gevoelig voor langdurige blootstelling aan cortisol.",
+    "reference": "H2 – Thema 3.1 neurobiologische benadering, leerdoel 4 (samenvatting p. 72–84; beknopt p. 191–194)",
+    "source": "exam_questions_h2.json"
+  },
+  {
+    "id": "a8da014f-3f9a-4b98-8b05-b972dd41841e",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wat is het belangrijkste verschil tussen het "
+            },
+            {
+              "type": "text",
+              "text": "RDoC",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "-kader (Research Domain Criteria) en de DSM-benadering, en waarom wordt dit als een veelbelovende ontwikkeling gezien?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "e3a98ca9-cb74-4170-a2b7-bd52b49bf091",
+        "text": "RDoC vertrekt van dimensies van functioneren zoals emotie en cognitie in plaats van van categorieën, wat beter aansluit bij de bevinding dat netwerkverstoringen belangrijker zijn dan enkelvoudige hersenschade."
+      },
+      {
+        "id": "9f51c713-428e-4e76-b38c-37cd104bdc13",
+        "text": "RDoC vervangt de neurobiologische benadering door een uitsluitend genetische classificatie van stoornissen."
+      },
+      {
+        "id": "9ddc34a5-66f2-4615-802c-4ffcce6f21e9",
+        "text": "RDoC is een strengere categoriale indeling die de DSM-criteria aanscherpt met biologische afkapwaarden."
+      },
+      {
+        "id": "64dae48d-2a07-4921-a821-4df22b0d14e7",
+        "text": "RDoC richt zich uitsluitend op behandelmethoden en doet geen uitspraken over classificatie."
+      }
+    ],
+    "correctAnswerId": "e3a98ca9-cb74-4170-a2b7-bd52b49bf091",
+    "relatedConcept": "RDoC als alternatief onderzoekskader",
+    "explanation": "Juist is “RDoC vertrekt van dimensies van functioneren zoals emotie en…”. Psychopathologie is multifactorieel: er is geen één overkoepelende neurobiologische theorie, wel meerdere elkaar aanvullende verklaringswijzen.\n\nWaarom de andere opties niet kloppen:\n• “RDoC vervangt de neurobiologische benadering door een…” — RDoC is juist multilevel en integreert genetische, neurale, gedragsmatige en zelfrapportagegegevens.\n• “RDoC is een strengere categoriale indeling die…” — RDoC is dimensioneel van opzet en bedoeld als alternatief voor het categoriale denken, niet als aanscherping daarvan.\n• “RDoC richt zich uitsluitend op behandelmethoden en…” — RDoC is een onderzoekskader voor het beschrijven en onderzoeken van functioneren, met consequenties voor hoe we psychopathologie indelen.",
+    "reference": "H2 – Thema 3.1 neurobiologische benadering, leerdoel 7 (samenvatting p. 72–84; beknopt p. 191–194)",
+    "source": "exam_questions_h2.json"
+  }
+]

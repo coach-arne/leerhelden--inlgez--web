@@ -1,0 +1,361 @@
+[
+  {
+    "id": "296ea0a8-cac7-44f8-ad19-359c3863f600",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke onderzoeker wordt in het cursusmateriaal verbonden met de stelling dat verschillende stoornissen elk hun eigen specifieke cognitieve kenmerken en schema-inhouden hebben?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "58c75962-e701-4e84-876f-c910c3904a44",
+        "text": "Aaron Beck"
+      },
+      {
+        "id": "e18a1177-790e-446f-8530-9ec75008b562",
+        "text": "Albert Ellis"
+      },
+      {
+        "id": "cb1f5f36-c1c5-40a3-be1c-0c581a3885a5",
+        "text": "Donald Meichenbaum"
+      },
+      {
+        "id": "159a03dc-7d4f-485b-8acd-8a2bc57e3ca1",
+        "text": "Richard Lazarus"
+      }
+    ],
+    "correctAnswerId": "58c75962-e701-4e84-876f-c910c3904a44",
+    "relatedConcept": "Grondleggers van de cognitieve benadering",
+    "explanation": "Juist is “Aaron Beck”. Deze stoornisspecificiteit leidde tot een sterke empirische basis en tot effectieve protocollen voor onder meer depressie en angststoornissen.\n\nWaarom de andere opties niet kloppen:\n• “Albert Ellis” — Ellis benadrukte juist irrationele overtuigingen die breed en universeel zijn, niet stoornisspecifieke schema-inhouden.\n• “Donald Meichenbaum” — Meichenbaum legde de nadruk op zelfspraak — het vervangen van negatieve innerlijke dialoog door positieve zelfinstructies.\n• “Richard Lazarus” — Lazarus staat voor de stress–copingtheorie met primary en secondary appraisal, van belang voor angstmechanismen.",
+    "reference": "H4 – Thema 3.3 cognitieve benadering, leerdoel 1 (samenvatting p. 96–106; beknopt p. 199–202)",
+    "source": "exam_questions_h4.json"
+  },
+  {
+    "id": "52a358ba-8065-4885-a862-d4455c9c2e22",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een patiënte weet inmiddels heel goed uit te leggen dat zij niet waardeloos is, maar 'voelt' bij tegenslag onmiddellijk het tegendeel. Welk onderscheid verheldert dit het beste, en welke behandelimplicatie volgt eruit?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "6c6a0f0b-1789-4dec-87d7-1283ea68532e",
+        "text": "Het onderscheid tussen impliciete en expliciete kennis (implicit vs. explicit knowledge): klachten kunnen voortbestaan via moeilijk toegankelijke impliciete associaties terwijl expliciete overtuigingen al zijn bijgesteld, dus de behandeling moet ervaringen creëren die de impliciete netwerken raken."
+      },
+      {
+        "id": "3818140f-a753-4d6a-a79b-cffcdd4ddfef",
+        "text": "Het onderscheid tussen automatische en gecontroleerde verwerking: automatische verwerking is sneller en overheerst daarom de expliciete overtuiging."
+      },
+      {
+        "id": "56035ef6-d345-4c09-9a5d-94a08b3943e9",
+        "text": "Het onderscheid tussen assimilatie en accommodatie: de patiënte accommodeert onvoldoende."
+      },
+      {
+        "id": "18e3ddbf-ccb7-4ecf-bc5d-d29087007d48",
+        "text": "Het onderscheid tussen selectieve aandacht en selectieve herinnering: de patiënte heeft een aandachtsbias."
+      }
+    ],
+    "correctAnswerId": "6c6a0f0b-1789-4dec-87d7-1283ea68532e",
+    "relatedConcept": "Impliciete versus expliciete kennis",
+    "explanation": "Juist is “Het onderscheid tussen impliciete en expliciete kennis (implicit vs.…”. Belangrijk: impliciete kennis is niet hetzelfde als het psychoanalytische 'onbewuste' — zij is niet-motivationeel van aard.\n\nWaarom de andere opties niet kloppen:\n• “Het onderscheid tussen automatische en gecontroleerde verwerking:…” — Dat is een onderscheid in het próces waarmee kennis verwerkt wordt, terwijl het hier gaat om een verschil in de aard van de kennis zelf. De twee onderscheidingen worden vaak verward.\n• “Het onderscheid tussen assimilatie en accommodatie: de…” — Assimilatie en accommodatie beschrijven hoe schema's veranderen, niet waarom expliciete en ervaringsmatige kennis uiteen kunnen lopen.\n• “Het onderscheid tussen selectieve aandacht en selectieve…” — Er is hier geen sprake van een specifieke aandachtsvertekening voor bedreiging, maar van een discrepantie tussen verwoordbare en niet-verwoordbare kennis.",
+    "reference": "H4 – Thema 3.3 cognitieve benadering, leerdoel 4 (samenvatting p. 96–106; beknopt p. 199–202)",
+    "source": "exam_questions_h4.json"
+  },
+  {
+    "id": "696ceb63-aaaa-4801-9f03-5197290974ff",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke eigenschap onderscheidt "
+            },
+            {
+              "type": "text",
+              "text": "gecontroleerde informatieverwerking",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " het duidelijkst van automatische verwerking?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "278f5a05-b84e-45c9-87c4-6847ab1140a8",
+        "text": "Zij verloopt serieel en is sterk afhankelijk van het werkgeheugen, dat slechts ongeveer vijf tot zeven chunks tegelijk aankan."
+      },
+      {
+        "id": "b038ccff-9902-4ae0-bbef-94f9a7509ba6",
+        "text": "Zij verloopt parallel en heeft een grote capaciteit, waardoor veel informatie tegelijk verwerkt kan worden."
+      },
+      {
+        "id": "5f7b11d1-8859-4475-9c56-d10b61068fda",
+        "text": "Zij treedt uitsluitend op bij vertrouwde, voorspelbare input."
+      },
+      {
+        "id": "1ebfc23c-ae9e-439b-95f2-68a8e9ad59ed",
+        "text": "Zij betreft niet-verwoordbare, ervaringsgebonden kennis zoals fietsen."
+      }
+    ],
+    "correctAnswerId": "278f5a05-b84e-45c9-87c4-6847ab1140a8",
+    "relatedConcept": "Automatische versus gecontroleerde verwerking",
+    "explanation": "Juist is “Zij verloopt serieel en is sterk afhankelijk van het…”. Automatische verwerking verloopt daarentegen snel, parallel en met grote capaciteit, maar vereist voorspelbare en vertrouwde input.\n\nWaarom de andere opties niet kloppen:\n• “Zij verloopt parallel en heeft een grote…” — Dit zijn juist de kenmerken van automatische verwerking. Gecontroleerde verwerking is serieel en beperkt in capaciteit.\n• “Zij treedt uitsluitend op bij vertrouwde, voorspelbare…” — Het is juist automatische verwerking die voorspelbare en vertrouwde input vereist. Gecontroleerde verwerking is nodig bij onverwachte of complexe situaties.\n• “Zij betreft niet-verwoordbare, ervaringsgebonden kennis zoals fietsen” — Dat is impliciete kennis. Impliciet/expliciet gaat over de inhoud van kennis, automatisch/gecontroleerd over het verwerkingsproces.",
+    "reference": "H4 – Thema 3.3 cognitieve benadering, leerdoel 4 (samenvatting p. 96–106; beknopt p. 199–202)",
+    "source": "exam_questions_h4.json"
+  },
+  {
+    "id": "faff07c3-e159-470c-82da-74478b466aff",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Iemand met het schema 'niemand mag mij' gedraagt zich afstandelijk, waardoor anderen inderdaad afwijzend reageren. Welk instandhoudend mechanisme is dit, en hoe verhoudt het zich tot de andere mechanismen?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "8aa88ad9-8133-4789-b44e-1e5d79b32446",
+        "text": "Gedragsbevestiging: het eigen gedrag lokt reacties uit die het schema bevestigen — naast selectiebias, interpretatiebias en herinneringsbias een van de vier instandhoudende mechanismen."
+      },
+      {
+        "id": "4b317abd-c57d-491b-9db0-08bada31f62f",
+        "text": "Interpretatiebias: tegenbewijs wordt weggeredeneerd, waardoor het schema overeind blijft."
+      },
+      {
+        "id": "ca3d21f7-bcb0-470a-8716-3ed5441fbaf1",
+        "text": "Selectiebias: alleen bevestigende informatie wordt opgemerkt."
+      },
+      {
+        "id": "bf11c8ce-93a7-400b-b1f0-195a95e00c0b",
+        "text": "Herinneringsbias: bevestigende informatie wordt beter onthouden dan tegenbewijs."
+      }
+    ],
+    "correctAnswerId": "8aa88ad9-8133-4789-b44e-1e5d79b32446",
+    "relatedConcept": "Instandhouding van schema's",
+    "explanation": "Juist is “Gedragsbevestiging: het eigen gedrag lokt reacties uit die het…”. Schema's zijn stabiel en bevestigingsgericht; dit mechanisme is bijzonder krachtig omdat het de sociale omgeving werkelijk verandert.\n\nWaarom de andere opties niet kloppen:\n• “Interpretatiebias: tegenbewijs wordt weggeredeneerd, waardoor het schema…” — Interpretatiebias speelt zich in het hoofd af. Hier verandert de persoon door zijn gedrag daadwerkelijk de reacties van anderen.\n• “Selectiebias: alleen bevestigende informatie wordt opgemerkt” — Selectiebias betreft wat men wél of niet opmerkt. In deze casus is de afwijzing objectief aanwezig, niet selectief waargenomen.\n• “Herinneringsbias: bevestigende informatie wordt beter onthouden dan…” — Herinneringsbias werkt achteraf, op de opslag en het ophalen van informatie. Hier gaat het om een gedragsmatige lus in het heden.",
+    "reference": "H4 – Thema 3.3 cognitieve benadering, leerdoel 5 (samenvatting p. 96–106; beknopt p. 199–202)",
+    "source": "exam_questions_h4.json"
+  },
+  {
+    "id": "c956dee6-dba4-47e4-9a59-e36e788f83dd",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Piaget onderscheidde "
+            },
+            {
+              "type": "text",
+              "text": "assimilatie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " en "
+            },
+            {
+              "type": "text",
+              "text": "accommodatie",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Welke omschrijving is juist, en wat betekent dit voor schemaverandering in therapie?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "1643a615-5f72-4234-bf68-c466d276e553",
+        "text": "Assimilatie past nieuwe informatie in het bestaande schema in; accommodatie past het schema aan de nieuwe informatie aan. Duurzame verandering vereist disconfirmerende ervaringen én de beschikbaarheid van een alternatief schema."
+      },
+      {
+        "id": "d7ce6011-bdf9-4b56-8cb3-1d81d37a425d",
+        "text": "Assimilatie past het schema aan de informatie aan; accommodatie past de informatie aan het schema aan."
+      },
+      {
+        "id": "ef5fcfe4-1f17-4b71-8120-1ec203f1428f",
+        "text": "Assimilatie is een automatisch proces en accommodatie een impliciet proces."
+      },
+      {
+        "id": "f32276e5-c804-4237-9427-aedf2250402e",
+        "text": "Assimilatie treedt alleen op bij gezonde schema's, accommodatie alleen bij disfunctionele schema's."
+      }
+    ],
+    "correctAnswerId": "1643a615-5f72-4234-bf68-c466d276e553",
+    "relatedConcept": "Assimilatie en accommodatie (Piaget)",
+    "explanation": "Juist is “Assimilatie past nieuwe informatie in het bestaande schema in;…”. Persoonlijke en emotionele ervaringen hebben daarbij meer impact dan statistische informatie, en oude en nieuwe schema's kunnen naast elkaar blijven bestaan.\n\nWaarom de andere opties niet kloppen:\n• “Assimilatie past het schema aan de informatie…” — De begrippen staan hier omgekeerd. Bij assimilatie blijft het schema intact, bij accommodatie verandert het.\n• “Assimilatie is een automatisch proces en accommodatie…” — Dit vermengt twee verschillende onderscheidingen. Assimilatie en accommodatie gaan over de richting van aanpassing tussen schema en informatie.\n• “Assimilatie treedt alleen op bij gezonde schema's,…” — Beide processen treden bij alle schema's op. Juist bij disfunctionele schema's overheerst assimilatie, wat verandering bemoeilijkt.",
+    "reference": "H4 – Thema 3.3 cognitieve benadering, leerdoel 5 (samenvatting p. 96–106; beknopt p. 199–202)",
+    "source": "exam_questions_h4.json"
+  },
+  {
+    "id": "588b3588-3d1a-4f57-83eb-e596d822fd60",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Een patiënt met een paniekstoornis voelt hartkloppingen en concludeert onmiddellijk dat hij een hartaanval krijgt, omdat zijn klachten 'precies lijken op' wat hij zich bij een hartprobleem voorstelt. Welke heuristiek is hier vooral werkzaam?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "6fc10b65-7058-48bb-868b-a7c8a957fe32",
+        "text": "De representativiteitsheuristiek: de kans op een gebeurtenis wordt geschat op basis van gelijkenis met een prototype, in plaats van op basis van statistische waarschijnlijkheid."
+      },
+      {
+        "id": "f08651fe-ae7c-46a0-aa5d-a4602fcbd6fd",
+        "text": "De beschikbaarheidsheuristiek: het oordeel berust op wat het eerst en het levendigst in gedachten komt."
+      },
+      {
+        "id": "bf02adc0-6c4a-464b-b0d2-7c8eb72c6335",
+        "text": "De combined cognitive bias hypothesis: aandacht, interpretatie en geheugen versterken elkaar."
+      },
+      {
+        "id": "9581cb3a-ce58-47d0-92a5-68440daaeefc",
+        "text": "De negatieve cognitieve triade: zelf, wereld en toekomst worden negatief beoordeeld."
+      }
+    ],
+    "correctAnswerId": "6fc10b65-7058-48bb-868b-a7c8a957fe32",
+    "relatedConcept": "Heuristieken",
+    "explanation": "Juist is “De representativiteitsheuristiek: de kans op een gebeurtenis wordt geschat…”. De beschikbaarheidsheuristiek zou hier van toepassing zijn wanneer het oordeel vooral berust op hoe gemakkelijk of levendig het hartaanvalscenario in gedachten schiet.\n\nWaarom de andere opties niet kloppen:\n• “De beschikbaarheidsheuristiek: het oordeel berust op wat…” — De casus benadrukt expliciet de gelijkenis met een prototype ('lijkt precies op'), niet de gemakkelijke oproepbaarheid van het scenario.\n• “De combined cognitive bias hypothesis: aandacht, interpretatie…” — Dat is geen heuristiek maar een hypothese over de synergie tussen meerdere biases die stoornissen in stand houdt.\n• “De negatieve cognitieve triade: zelf, wereld en…” — De negatieve cognitieve triade van Beck is kenmerkend voor de depressieve stoornis, niet voor de catastrofale interpretatie van lichaamssensaties bij paniek.",
+    "reference": "H4 – Thema 3.3 cognitieve benadering, leerdoel 6 (samenvatting p. 96–106; beknopt p. 199–202)",
+    "source": "exam_questions_h4.json"
+  },
+  {
+    "id": "a4bb9537-422d-4652-a13a-fe559d31c27e",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welke uitspraak over stoornisspecifieke cognitieve vertekeningen komt overeen met het cursusmateriaal?"
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "5d4faef6-77b2-4e39-b2c5-6a15d871be63",
+        "text": "Geheugenbias in de vorm van negatieve, globale herinneringen is vooral kenmerkend voor de depressieve stoornis, terwijl bij angststoornissen eerder een neiging tot vermijden van negatieve herinneringen wordt gezien."
+      },
+      {
+        "id": "1dbb105e-334e-4dc1-b09e-2a7cca6759c0",
+        "text": "Aandachtsbias voor bedreiging is vooral kenmerkend voor de depressieve stoornis en treedt daar al subliminaal op."
+      },
+      {
+        "id": "363c9bc9-c158-45cc-a433-e8d9f6b4efb6",
+        "text": "Bij sociale angst worden álle ambigue situaties negatief geïnterpreteerd, ongeacht hun aard."
+      },
+      {
+        "id": "685e327e-8fb6-4f71-ab89-0cd8d8479134",
+        "text": "Aandachtstraining is inmiddels een bewezen effectieve standaardbehandeling voor aandachtsbias."
+      }
+    ],
+    "correctAnswerId": "5d4faef6-77b2-4e39-b2c5-6a15d871be63",
+    "relatedConcept": "Stoornisspecifieke cognitieve biases",
+    "explanation": "Juist is “Geheugenbias in de vorm van negatieve, globale herinneringen is…”. Bij angststoornissen treedt de geheugenbias vooral op tijdens een actieve angsttoestand; de aandachtsbias voor bedreiging is daar het meest prominent.\n\nWaarom de andere opties niet kloppen:\n• “Aandachtsbias voor bedreiging is vooral kenmerkend voor…” — De vroege, vaak automatische aandachtsbias voor bedreiging is juist typerend voor angststoornissen, met name paniekstoornis en sociale angst.\n• “Bij sociale angst worden álle ambigue situaties…” — Bij sociale angst is de interpretatiebias juist specifiek voor sóciale situaties, terwijl die bij depressie breder is.\n• “Aandachtstraining is inmiddels een bewezen effectieve standaardbehandeling…” — De effecten van aandachtstraining worden in het cursusmateriaal expliciet als wisselend beschreven.",
+    "reference": "H4 – Thema 3.3 cognitieve benadering, leerdoel 6 (samenvatting p. 96–106; beknopt p. 199–202)",
+    "source": "exam_questions_h4.json"
+  },
+  {
+    "id": "9989ab38-82fb-4538-80c5-468b748a5c54",
+    "question": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beoordeel de juistheid van de volgende twee stellingen over de verhouding tussen cognitieve therapie (CT) en gedragstherapie (GT). Stelling I: Effectonderzoek laat zien dat CT en GT ongeveer even effectief zijn. Stelling II: Succesvolle gedragstherapie leidt doorgaans óók tot cognitieve verandering, en omgekeerd."
+            }
+          ]
+        }
+      ]
+    },
+    "answers": [
+      {
+        "id": "3c0053cd-dd91-41c6-950d-18f1a005c00a",
+        "text": "Stelling I en II zijn beide juist."
+      },
+      {
+        "id": "8cc6e03d-b235-418c-8146-42d4aee01755",
+        "text": "Alleen stelling I is juist."
+      },
+      {
+        "id": "fae8b24f-a69a-4a9c-be27-83c401530105",
+        "text": "Alleen stelling II is juist."
+      },
+      {
+        "id": "e244a6bc-2853-4ff0-a443-c83eba1e03e7",
+        "text": "Stelling I en II zijn beide onjuist."
+      }
+    ],
+    "correctAnswerId": "3c0053cd-dd91-41c6-950d-18f1a005c00a",
+    "relatedConcept": "Integratie van cognitieve therapie en gedragstherapie",
+    "explanation": "Juist is “Stelling I en II zijn beide juist”. Deze wederzijdse beïnvloeding vormt de empirische en theoretische basis voor de integratie tot cognitieve gedragstherapie (CGT), zoals beschreven door Korrelboom en Ten Broeke.\n\nWaarom de andere opties niet kloppen:\n• “Alleen stelling I is juist” — Stelling II is eveneens juist. Effectieve CT leidt tot gedragsverandering en effectieve GT tot cognitieve verandering.\n• “Alleen stelling II is juist” — Stelling I is eveneens juist. Het effectonderzoek laat geen consistente superioriteit van de ene over de andere benadering zien.\n• “Stelling I en II zijn beide onjuist” — Beide stellingen worden expliciet door het cursusmateriaal ondersteund. Zie leerdoel 8.",
+    "reference": "H4 – Thema 3.3 cognitieve benadering, leerdoel 8 (samenvatting p. 96–106; beknopt p. 199–202)",
+    "source": "exam_questions_h4.json"
+  }
+]
